@@ -1,13 +1,13 @@
 # フランケン＆ティナ 英語大作戦 — CEFR A2 スキット対話本文（日本語対訳）
 
 > キャラクター: **Frank**（フランケン：礼儀正しく観察的・人造人間。短縮形を控えめに） / **Tina**（ティナ：好奇心旺盛で感情豊か・別の星から来た。短縮形＋間投詞） + 場面ごとの第三者
-> ※ 配置はプレイ順の通し番号 `A2-01〜A2-60`（旧 F-/U- 番号を見出し括弧に併記）。Formal/Unique 区分は廃止。
+> ※ 配置はプレイ順の通し番号 `A2-01〜A2-60`。
 > ※ 各英文の下に日本語訳。演技指示 `[tag]` と効果音 `[SFX: ...]` は英語行のみ（日本語訳には付けない）。
 > ※ 編集方針は `skits_sitcom_style_guide.md`、配置・対応表は `skits_arrangement.md`、時系列は `frank_and_tina_timeline.md`。
 
 ---
 
-### A2-01 Welcome Back (旧 F-01)
+### A2-01 Welcome Back
 
 **場面:** 数年ぶり、通りで偶然の再会。
 
@@ -35,7 +35,7 @@
 10. **Tina**: [grinning] And I'd say it again. [hooks his arm] Coffee. Now. You're buying. Black, I know.
     **ティナ**: 今でもそう言うわ。コーヒー。今すぐ。あなたのおごりよ。ブラックでしょ、知ってる。
 
-### A2-02 New Apartment (旧 F-02)
+### A2-02 New Apartment
 
 **場面:** 引越し先の内見。Tina、不動産業者、Frank。
 
@@ -63,7 +63,7 @@
 10. **Tina**: [to agent] I love it. Let me sleep on it. [beat] On the pink side of my brain.
     **ティナ**: 気に入ったわ。一晩考えさせて。…頭のピンクの側でね。
 
-### A2-03 Have You Seen It? (旧 U-01)
+### A2-03 Have You Seen It?
 
 **場面:** 二人でだらだら過ごす午後。話題のドラマ。
 
@@ -91,7 +91,7 @@
 10. **Frank**: I'll bring the drinks. You bring snacks. And tissues. [beat] For you.
     **フランク**: 僕が飲み物を持っていく。君はお菓子。それとティッシュ。…君のためにね。
 
-### A2-04 Lab Interview Practice (旧 F-03)
+### A2-04 Lab Interview Practice
 
 **場面:** 面接前夜、模擬面接。
 
@@ -119,7 +119,7 @@
 10. **Tina**: You've got this. Message me right after — I'll be waiting.
     **ティナ**: あなたなら大丈夫。終わったらすぐ連絡して——待ってるから。
 
-### A2-05 I'm Stuffed! (旧 U-05)
+### A2-05 I'm Stuffed!
 
 **場面:** 食べ放題のあと、店の外。
 
@@ -147,7 +147,7 @@
 10. **Frank**: You said that last time. [offers arm] Come on. One slow step at a time.
     **フランク**: それ、前回も言ってた。…ほら。一歩ずつ、ゆっくりね。
 
-### A2-06 Talking About Hometown (旧 F-12)
+### A2-06 Talking About Hometown
 
 **場面:** 夜、二人で空を見ながら故郷の話。
 
@@ -175,7 +175,7 @@
 10. **Frank**: [looking up] ...Then we both came from quiet skies. [beat] Mine just didn't have lanterns.
     **フランク**: …じゃあ僕たちはどっちも静かな空から来たんだ。…僕のには提灯がなかっただけで。
 
-### A2-07 Renting a Car (旧 F-06)
+### A2-07 Renting a Car
 
 **場面:** レンタカーの窓口。Tinaが手続き、Frankが同伴。
 
@@ -203,7 +203,7 @@
 10. **Frank**: [muttering, as they walk off] "Small town." We're going with "small town."
     **フランク**: 「小さな町」。「小さな町」で押し通すからね。
 
-### A2-08 I've Been There (旧 U-02)
+### A2-08 I've Been There
 
 **場面:** カフェで旅行の話。
 
@@ -231,7 +231,7 @@
 10. **Frank**: [deadpan] Then I'll book a trip. It sounds safe now.
     **フランク**: じゃあ旅行を予約するよ。もう安全そうだ。
 
-### A2-09 Booking a Restaurant (旧 F-10)
+### A2-09 Booking a Restaurant
 
 **場面:** Tinaがレストランに予約の電話。Frankが横にいる。
 
@@ -259,7 +259,7 @@
 10. **Frank**: [sighs] My appetite does not have its own card, Tina.
     **フランク**: …僕の食欲は自分のカードを持ってないよ、ティナ。
 
-### A2-10 New Hairstyle (旧 U-03)
+### A2-10 New Hairstyle
 
 **場面:** Frankの新しい髪型に気づくTina。
 
@@ -287,7 +287,7 @@
 10. **Frank**: [long pause] ...The bangs. Sit still. Do not — do not sneeze.
     **フランク**: …前髪だけ。じっとして。くしゃみは——くしゃみはするなよ。
 
-### A2-11 Showing Photos (旧 F-13)
+### A2-11 Showing Photos
 
 **場面:** 去年の春の旅行写真を見返す。
 
@@ -315,7 +315,7 @@
 10. **Frank**: [beat] Keep that photo. The boat one. [softly] I'm in it.
     **フランク**: …その写真、取っておいて。ボートの。…僕も写ってるから。
 
-### A2-12 At the Gym (旧 F-14)
+### A2-12 At the Gym
 
 **場面:** ジム初日。トレーナーが指導。
 
@@ -343,7 +343,7 @@
 10. **Tina**: Perfect. I'll do everything you said. Especially the resting.
     **ティナ**: 完璧。言われたこと全部やるわ。特に休むところ。
 
-### A2-13 No Reply (旧 U-04)
+### A2-13 No Reply
 
 **場面:** 既読スルーに悩むTina、Frankに相談。
 
@@ -371,7 +371,7 @@
 10. **Frank**: Good. Let's walk instead. [beat] Leave the phone. I mean it.
     **フランク**: いいね。代わりに散歩しよう。…携帯は置いて。本気だよ。
 
-### A2-14 Cooking Class (旧 F-16)
+### A2-14 Cooking Class
 
 **場面:** 料理教室。講師がパスタの作り方を教える。
 
@@ -399,7 +399,7 @@
 10. **Tina**: [hovering, fork ready] ...Okay. But the cheese should hurry.
     **ティナ**: …わかったわ。でもチーズは急ぐべきね。
 
-### A2-15 Concert Tickets (旧 U-06)
+### A2-15 Concert Tickets
 
 **場面:** チケットが取れた興奮をFrankに伝える。
 
@@ -427,7 +427,7 @@
 10. **Frank**: Of course you have. [beat] I'll just bring the earplugs. For me.
     **フランク**: 君ならそうだろうね。…僕は耳栓を持っていくよ。自分用に。
 
-### A2-16 Complaining About Noise (旧 F-09)
+### A2-16 Complaining About Noise
 
 **場面:** ホテルのフロント。Frankが騒音の苦情。
 
@@ -455,7 +455,7 @@
 10. **Receptionist**: [polite, confused] ...Of course, sir. Enjoy your quieter room.
     **受付係**: …さようでございますか、お客様。お静かなお部屋をお楽しみください。
 
-### A2-17 Group Chat Problem (旧 U-07)
+### A2-17 Group Chat Problem
 
 **場面:** グループチャットの揉め事をTinaがFrankに報告。
 
@@ -483,7 +483,7 @@
 10. **Frank**: Then someone should message Sarah first. Tonight. [beat] Not a joke. A real one.
     **フランク**: じゃあ誰かが先にサラに連絡すべきだ。今夜。…冗談じゃなくて。本物のメッセージを。
 
-### A2-18 Computer Trouble (旧 F-17)
+### A2-18 Computer Trouble
 
 **場面:** メールアプリが動かず、Tinaがサポートに電話。
 
@@ -511,7 +511,7 @@
 10. **Support**: [kindly] The email, yes. The message — that one's up to him.
     **サポート**: メールは、はい。メッセージのほうは——それは彼次第ですね。
 
-### A2-19 Pulling an All-Nighter (旧 U-08)
+### A2-19 Pulling an All-Nighter
 
 **場面:** 徹夜続きのTinaを心配するFrank。
 
@@ -539,7 +539,7 @@
 10. **Frank**: Two hours. I'll wake you. [sits down] And I'm not leaving until you close your eyes.
     **フランク**: 2時間。起こすから。…君が目を閉じるまで、僕は帰らない。
 
-### A2-20 Book Club Meeting (旧 F-15)
+### A2-20 Book Club Meeting
 
 **場面:** 読書会。同じ小説の感想を共有。
 
@@ -567,7 +567,7 @@
 10. **Tina**: [warm] I've reserved her other two books. We're reading those next.
     **ティナ**: 彼女の他の2冊を予約したの。次はそれを読むのよ。
 
-### A2-21 Volunteer Work (旧 F-18)
+### A2-21 Volunteer Work
 
 **場面:** ボランティアの説明会。Frankが受付に立っている。
 
@@ -595,7 +595,7 @@
 10. **Frank**: [deadpan] I'll arrive ten minutes early, then.
     **フランク**: では、10分早く着くようにします。
 
-### A2-22 Fashion Disaster (旧 U-09)
+### A2-22 Fashion Disaster
 
 **場面:** Tinaの部屋。出かける前。鏡の前のTina。
 
@@ -623,7 +623,7 @@
 10. **Frank**: [deadpan] And yet I'm not the one panicking about shoes.
     **フランク**: それでも、靴で取り乱しているのは僕じゃない。
 
-### A2-23 Asking Neighbors (旧 F-19)
+### A2-23 Asking Neighbors
 
 **場面:** 引っ越したばかりの建物の廊下。Frankが隣人に会う。
 
@@ -651,7 +651,7 @@
 10. **Neighbor**: [warmly] Welcome to the building. I think you're gonna fit right in.
     **隣人**: この建物へようこそ。あなた、きっとうまくやっていけるわね。
 
-### A2-24 Crush Update (旧 U-10)
+### A2-24 Crush Update
 
 **場面:** カフェ。Tinaが興奮して駆け込んでくる。
 
@@ -679,7 +679,7 @@
 10. **Frank**: Bring snacks. I'll come — to watch you watch him.
     **フランク**: お菓子を持っておいで。行くよ——君が彼を見るのを見にね。
 
-### A2-25 Travel Insurance (旧 F-05)
+### A2-25 Travel Insurance
 
 **場面:** 保険会社のオフィス。担当者がFrankにプランを説明している。
 
@@ -707,7 +707,7 @@
 10. **Frank**: [taking the copy] I'll read it carefully tonight. All forty thousand words.
     **フランク**: 今夜じっくり読みます。4万語全部。
 
-### A2-26 Lost My Phone (旧 U-11)
+### A2-26 Lost My Phone
 
 **場面:** カフェの片隅。Tinaが青ざめている。
 
@@ -735,7 +735,7 @@
 10. **Frank**: [sighs] Sit down. We'll check it step by step.
     **フランク**: 座って。一歩ずつ確認していこう。
 
-### A2-27 Lost Luggage (旧 F-07)
+### A2-27 Lost Luggage
 
 **場面:** 空港の手荷物受取所。Tinaが係員のカウンターへ。
 
@@ -763,7 +763,7 @@
 10. **Officer**: [checking] ...Found it! It went on the wrong flight. I'll get it back to you.
     **係員**: 見つかりました！別の便に載っていました。お手元にお戻しします。
 
-### A2-28 Mom's Calling (旧 U-12)
+### A2-28 Mom's Calling
 
 **場面:** Frankの家。Tinaが課題中にスマホが鳴る。
 
@@ -793,7 +793,7 @@
 10. **Tina**: [to Frank, mouthing] She likes you. [into phone] Okay, heading home soon!
     **ティナ**: (フランクに口パクで)気に入られたわ。(電話に)わかった、もうすぐ帰る！
 
-### A2-29 Hosting a Guest (旧 F-30)
+### A2-29 Hosting a Guest
 
 **場面:** Frankの家。Tinaを温かく迎え入れる。お茶と手作りケーキ。
 
@@ -821,7 +821,7 @@
 10. **Tina**: [smiling] Deal. [beat] ...Can the next one be pink?
     **ティナ**: 決まりね。…次のはピンクにできる？
 
-### A2-30 Asking for Refund (旧 F-08)
+### A2-30 Asking for Refund
 
 **場面:** 店内。Tinaが昨日買った壊れた商品を持って店員へ。
 
@@ -849,7 +849,7 @@
 10. **Clerk**: [sighs, ringing it up] Full refund. Please... keep your friend away from the new one.
     **店員**: 全額返金です。お願いですから…新しいのにはお友達を近づけないでください。
 
-### A2-31 TikTok Famous (旧 U-13)
+### A2-31 TikTok Famous
 
 **場面:** Tinaの部屋。Frankがスマホを掲げて駆け込んでくる。
 
@@ -877,7 +877,7 @@
 10. **Tina**: [grinning] Stitches and all. Welcome to the internet, superstar.
     **ティナ**: 縫い目もろともね。インターネットへようこそ、スーパースター。
 
-### A2-32 Changing Reservation (旧 F-11)
+### A2-32 Changing Reservation
 
 **場面:** Frankが電話でレストランの予約を変更している。
 
@@ -905,7 +905,7 @@
 10. **Host**: [laughing] Far corner it is. See you Saturday at seven.
     **係**: では一番奥の席に。土曜7時にお待ちしています。
 
-### A2-33 Roommate Problems (旧 U-14)
+### A2-33 Roommate Problems
 
 **場面:** カフェ。Tinaがルームメイトの愚痴をこぼす。
 
@@ -933,7 +933,7 @@
 10. **Frank**: [pause] Then have one calm, final talk. ...Maybe hide a clean plate for yourself.
     **フランク**: それなら、冷静に最後の話し合いを。…自分用にきれいな皿を一枚隠しておくのもいいかも。
 
-### A2-34 Workplace Training (旧 F-20)
+### A2-34 Workplace Training
 
 **場面:** 新しい職場の研修。研修担当者がFrankに予定を説明している。
 
@@ -961,7 +961,7 @@
 10. **Frank**: [deadpan] I'll arrive ten minutes early. I always do.
     **フランク**: 10分早く着くようにします。いつもそうしています。
 
-### A2-35 Too Much Screen Time (旧 U-15)
+### A2-35 Too Much Screen Time
 
 **場面:** Tinaの部屋。夜。スマホに釘付けのTina。
 
@@ -989,7 +989,7 @@
 10. **Frank**: [deadpan] And that's exactly why you should put it down.
     **フランク**: だからこそ、置いたほうがいいんだよ。
 
-### A2-36 Recommending a Book (旧 F-21)
+### A2-36 Recommending a Book
 
 **場面:** カフェ。Frankが読み終えたばかりの本をTinaに勧める。
 
@@ -1017,7 +1017,7 @@
 10. **Tina**: [grinning] Put me on the list, then. With a contract. In pink ink.
     **ティナ**: じゃあ私もリストに入れて。契約書付きで。ピンクのインクでね。
 
-### A2-37 Library Late Fee (旧 F-22)
+### A2-37 Library Late Fee
 
 **場面:** 図書館のカウンター。Frankが延滞料金を払いに来ている。
 
@@ -1045,7 +1045,7 @@
 10. **Frank**: [deadpan] Two days, ideally. Have a good one.
     **フランク**: できれば2日です。良い一日を。
 
-### A2-38 Hangover (旧 U-16)
+### A2-38 Hangover
 
 **場面:** Tinaの部屋。翌朝。ソファに沈むTina。
 
@@ -1073,7 +1073,7 @@
 10. **Frank**: [setting down a tray] Soup and toast. Drink slowly. I'll sit with you.
     **フランク**: スープとトーストだ。ゆっくり飲んで。そばにいるよ。
 
-### A2-39 Fixing a Bike (旧 F-23)
+### A2-39 Fixing a Bike
 
 **場面:** 自転車修理店。整備士がFrankに修理内容を説明している。
 
@@ -1101,7 +1101,7 @@
 10. **Frank**: Thank you. Call me when it's ready. I'll be waiting by the phone.
     **フランク**: ありがとう。できたら電話を。電話のそばで待ってます。
 
-### A2-40 Awkward Moment (旧 U-17)
+### A2-40 Awkward Moment
 
 **場面:** カフェ。Frankが今日の気まずい出来事をTinaに話す。
 
@@ -1129,7 +1129,7 @@
 10. **Tina**: [grinning] So you weren't embarrassed — you were a hit! Send me the joke.
     **ティナ**: つまり恥をかいたんじゃなくて、ウケたのね！そのジョーク私にも送って。
 
-### A2-41 Pharmacy Advice (旧 F-25)
+### A2-41 Pharmacy Advice
 
 **場面:** 薬局。Frankが新しい処方箋を受け取る。Tinaが付き添い。
 
@@ -1159,7 +1159,7 @@
 11. **Frank**: [deadpan] It's an antibiotic, Tina. Not a spell.
     **フランク**: 抗生物質だよ、ティナ。呪文じゃない。
 
-### A2-42 I Need Caffeine (旧 U-18)
+### A2-42 I Need Caffeine
 
 **場面:** カフェ。Tinaは明日締め切り。すでに3杯目。
 
@@ -1191,7 +1191,7 @@
 12. **Frank**: Now you're learning.
     **フランク**: やっとわかってきたね。
 
-### A2-43 Internet Setup (旧 F-24)
+### A2-43 Internet Setup
 
 **場面:** Tinaの部屋。新しいルーターがつながらず、技術者に電話。Frankも来ている。
 
@@ -1221,7 +1221,7 @@
 11. **Frank**: [to Tina] Earth needs millions of these. Don't tell the technician. He'll feel bad.
     **フランク**: 地球はこれが何百万台もいるんだ。技術者には言うなよ。落ち込むから。
 
-### A2-44 Workout Buddy (旧 U-19)
+### A2-44 Workout Buddy
 
 **場面:** カフェ。Tinaがジム仲間との競争を報告。
 
@@ -1253,7 +1253,7 @@
 12. **Frank**: [deadpan] That's... not how consistency works.
     **フランク**: それは…継続とは言わないよ。
 
-### A2-45 Donating Clothes (旧 F-26)
+### A2-45 Donating Clothes
 
 **場面:** 寄付センター。Tinaが古着を2袋持参。Frankが付き添い。
 
@@ -1283,7 +1283,7 @@
 11. **Frank**: [deadpan] I knew the pink wouldn't make it out the door.
     **フランク**: ピンクがドアを出られないのは分かってた。
 
-### A2-46 Online Shopping Fails (旧 U-20)
+### A2-46 Online Shopping Fails
 
 **場面:** Tinaの部屋。ネット通販でまた失敗した荷物。Frankが見る。
 
@@ -1315,7 +1315,7 @@
 12. **Frank**: [deadpan] Tina. That's how they got you the first three times.
     **フランク**: ティナ。最初の3回もそれで引っかかったんだよ。
 
-### A2-47 Vet Visit (旧 F-27)
+### A2-47 Vet Visit
 
 **場面:** 動物病院。Frankの犬が食べない。Tinaが付き添い。
 
@@ -1345,7 +1345,7 @@
 11. **Frank**: [deadpan] He's a dog, Tina. He's not worried about Earth.
     **フランク**: 犬だよ、ティナ。地球の心配なんかしてない。
 
-### A2-48 Crying at Movies (旧 U-21)
+### A2-48 Crying at Movies
 
 **場面:** 映画館を出たところ。感動映画のあと。
 
@@ -1377,7 +1377,7 @@
 12. **Frank**: [quiet] Maybe a little. If I'm honest.
     **フランク**: 少しだけ。正直に言えば。
 
-### A2-49 Asking for Time Off (旧 F-28)
+### A2-49 Asking for Time Off
 
 **場面:** 職場。Frankが上司に金曜の休みを申請。
 
@@ -1407,7 +1407,7 @@
 11. **Frank**: [satisfied] Thank you. I will. [pause] We really are just friends, though.
     **フランク**: ありがとうございます。そうします。…本当にただの親友なんですけどね。
 
-### A2-50 New Tattoo (旧 U-22)
+### A2-50 New Tattoo
 
 **場面:** Tinaの部屋。昨日入れた小さな星のタトゥー。Frankに見せる。
 
@@ -1439,7 +1439,7 @@
 12. **Frank**: [softly] Your star, my drawing. Yeah. I'll start tonight.
     **フランク**: 君の星に、僕の絵。ああ。今夜から描き始めるよ。
 
-### A2-51 School Application (旧 F-31)
+### A2-51 School Application
 
 **場面:** 語学学校の受付。Tinaがタブレットで申込み。Frankが付き添い。
 
@@ -1471,7 +1471,7 @@
 12. **Tina**: [relieved] Done! I can't wait to start.
     **ティナ**: できた！始めるのが待ちきれないわ。
 
-### A2-52 Cancelled Plans (旧 U-23)
+### A2-52 Cancelled Plans
 
 **場面:** カフェ。Tinaの友達サラがまた直前にキャンセル。
 
@@ -1503,7 +1503,7 @@
 12. **Frank**: [deadpan] I read it on the side of your coffee cup.
     **フランク**: 君のコーヒーカップの横に書いてあった。
 
-### A2-53 Phone Plan Change (旧 F-32)
+### A2-53 Phone Plan Change
 
 **場面:** 携帯ショップ。Frankがプラン相談。Tinaが横で待つ。
 
@@ -1535,7 +1535,7 @@
 12. **Frank**: [deadpan] Cheaper, same number, more data. Tina, that's a good day.
     **フランク**: 安くて、番号同じで、容量増。ティナ、今日はいい日だ。
 
-### A2-54 Late to Class Again (旧 U-24)
+### A2-54 Late to Class Again
 
 **場面:** 教室。Tinaがまた遅刻して滑り込む。
 
@@ -1567,7 +1567,7 @@
 12. **Frank**: [deadpan] I am not lying to you to make you punctual.
     **フランク**: 時間を守らせるために君に嘘はつかない。
 
-### A2-55 Reporting a Theft (旧 F-33)
+### A2-55 Reporting a Theft
 
 **場面:** 警察署。Tinaがバッグをひったくられて届け出。Frankが付き添い。
 
@@ -1599,7 +1599,7 @@
 12. **Frank**: [whispering] I believe you. The officer wouldn't.
     **フランク**: 信じるよ。でも警官は信じない。
 
-### A2-56 Doctor's Visit (旧 F-04)
+### A2-56 Doctor's Visit
 
 **場面:** 診療所。Frankが腹痛で受診。Tinaが心配して付き添い。
 
@@ -1631,7 +1631,7 @@
 12. **Frank**: [deadpan] "Drink water" is approved. The rest, we keep between us.
     **フランク**: 「水を飲む」は公認だ。あとは二人だけの秘密にしておこう。
 
-### A2-57 End of Semester (旧 U-25)
+### A2-57 End of Semester
 
 **場面:** Tinaが学期最後の試験を終えた。2週間の休みが目前。
 
@@ -1663,7 +1663,7 @@
 12. **Frank**: [matter-of-fact] We're friends. Of course I did.
     **フランク**: 僕たち友達だろ。もちろん作ったよ。
 
-### A2-58 Fitness Goals (旧 F-34)
+### A2-58 Fitness Goals
 
 **場面:** ジム。Tinaがトレーナーと新しい目標を相談。
 
@@ -1693,7 +1693,7 @@
 11. **Trainer**: [laughing] Deal. Strong core first, photos later.
     **トレーナー**: 約束ね。まず体幹、写真はそのあと。
 
-### A2-59 Train Delay Announcement (旧 F-29)
+### A2-59 Train Delay Announcement
 
 **場面:** 駅。悪天候で電車が遅延。Tinaに大事な会議。
 
@@ -1723,7 +1723,7 @@
 11. **Tina**: [over her shoulder, running] That's why I keep you around!
     **ティナ**: だからあなたを手放さないのよ！
 
-### A2-60 Year-End Greeting (旧 F-35)
+### A2-60 Year-End Greeting
 
 **場面:** 年の瀬。Frankの家。ブラックコーヒーとホットチョコ。星図が壁に。
 

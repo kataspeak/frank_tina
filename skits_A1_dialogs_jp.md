@@ -1,13 +1,13 @@
 # フランケン＆ティナ 英語大作戦 — CEFR A1 スキット対話本文（日本語対訳）
 
 > キャラクター: **Frank**（フランケン：礼儀正しく観察的・人造人間。無短縮で話す） / **Tina**（ティナ：好奇心旺盛で感情豊か・別の星から来た。軽い短縮形＋間投詞） + 場面ごとの第三者
-> ※ 配置はプレイ順の通し番号 `A1-01〜A1-60`（旧 F-/U- 番号を見出し括弧に併記）。Formal/Unique 区分は廃止。
+> ※ 配置はプレイ順の通し番号 `A1-01〜A1-60`。
 > ※ 各英文の下に日本語訳。演技指示 `[tag]` と効果音 `[SFX: ...]` は英語行のみ（日本語訳には付けない）。
 > ※ 編集方針は `skits_sitcom_style_guide.md`、配置・対応表は `skits_arrangement.md`、時系列は `frank_and_tina_timeline.md`。
 
 ---
 
-### A1-01 Beyond the Stars! (旧 F-01)
+### A1-01 Beyond the Stars!
 
 **場面:** 深夜のラボ。初対面。
 
@@ -33,7 +33,7 @@
 8. **Frank**: [pause] ...A person from the stars likes my face. [deadpan] This is a strange night.
    **フランク**: …星から来た人が、僕の顔を好きだと言う。今夜は変な夜だ。
 
-### A1-02 What's That? (旧 F-02)
+### A1-02 What's That?
 
 **場面:** カフェ。メニューを見ている。
 
@@ -57,7 +57,7 @@
 8. **Frank**: [deadpan] Black coffee is not dangerous on any planet.
    **フランク**: ブラックコーヒーは、どの星でも危なくないよ。
 
-### A1-03 I'm Soooo Hungry (旧 U-02)
+### A1-03 I'm Soooo Hungry
 
 **場面:** 学食。昼の混雑。
 
@@ -83,7 +83,7 @@
 9. **Tina**: [grinning] I'm strong now. The smell fixed me!
    **ティナ**: もう元気よ。匂いで治ったの！
 
-### A1-04 The Mountain Village (旧 F-03)
+### A1-04 The Mountain Village
 
 **場面:** 学校。フランクの故郷の話。
 
@@ -107,7 +107,7 @@
 8. **Frank**: [deadpan] I would miss the snow.
    **フランク**: 僕は雪が恋しくなるよ。
 
-### A1-05 Family Photo (旧 F-04)
+### A1-05 Family Photo
 
 **場面:** 学校。ティナが家族写真を見せる。
 
@@ -131,7 +131,7 @@
 8. **Frank**: A father in a lab coat. [small pause] I like that.
    **フランク**: 白衣を着た父親か。いいね、それ。
 
-### A1-06 I Hate Mondays (旧 U-04)
+### A1-06 I Hate Mondays
 
 **場面:** 月曜の朝、駅のホーム。
 
@@ -159,7 +159,7 @@
 9. **Tina**: [pause] ...Okay, you win this one.
    **ティナ**: …わかった、今回はあなたの勝ち。
 
-### A1-07 My Room (旧 F-05)
+### A1-07 My Room
 
 **場面:** ティナの部屋。フランク初訪問。
 
@@ -183,7 +183,7 @@
 8. **Frank**: [quietly] Small but bright. [deadpan] Yes. That is you.
    **フランク**: 小さいけど明るい。うん。それは君だ。
 
-### A1-08 Going to School (旧 F-08)
+### A1-08 Going to School
 
 **場面:** 通学路。学校へ向かう途中。
 
@@ -209,7 +209,7 @@
 9. **Frank**: [pause] ...That is fair. Let's go.
    **フランク**: …それもそうだ。行こう。
 
-### A1-09 This Is So Cute! (旧 U-03)
+### A1-09 This Is So Cute!
 
 **場面:** おもちゃ屋。ティナがクマを発見。
 
@@ -235,7 +235,7 @@
 9. **Tina**: [grinning] Too late. Two cute bears, please!
    **ティナ**: 遅いわ。かわいいクマ2体、お願いします！
 
-### A1-10 Breakfast Time (旧 F-06)
+### A1-10 Breakfast Time
 
 **場面:** 朝食のテーブル。
 
@@ -259,7 +259,7 @@
 8. **Tina**: [grinning] "Acceptable" means "I love it" in Frank language!
    **ティナ**: フランク語で「許容範囲」は「大好き」って意味よ！
 
-### A1-11 In the Classroom (旧 F-09)
+### A1-11 In the Classroom
 
 **場面:** 授業前の教室。二人だけ。
 
@@ -287,7 +287,7 @@
 10. **Frank**: No, Tina. No.
     **フランク**: だめだ、ティナ。だめ。
 
-### A1-12 OMG, New Phone! (旧 U-01)
+### A1-12 OMG, New Phone!
 
 **場面:** 教室の隅。フランクの新しいスマホ。
 
@@ -313,7 +313,7 @@
 9. **Tina**: [grinning] Good start! Now delete the bad ones — all zero of them!
    **ティナ**: いいスタートね！じゃあダメなのを消して——0枚だけど！
 
-### A1-13 My Teacher (旧 F-10)
+### A1-13 My Teacher
 
 **場面:** 廊下。先生の話。
 
@@ -339,7 +339,7 @@
 9. **Frank**: [deadpan] I would scare your funny teacher.
    **フランク**: 君の面白い先生を怖がらせてしまうよ。
 
-### A1-14 After School (旧 F-11)
+### A1-14 After School
 
 **場面:** 放課後。校門の前。
 
@@ -365,7 +365,7 @@
 9. **Tina**: [laughs] Tennis has no quiet parts, Frank!
    **ティナ**: テニスに静かな時間なんてないわよ、フランク！
 
-### A1-15 Chill Day (旧 U-05)
+### A1-15 Chill Day
 
 **場面:** 休日。フランクがティナに電話。
 
@@ -393,7 +393,7 @@
 9. **Frank**: [pause] ...Okay. One. [later, quietly] ...Send me the cat with the small hat.
    **フランク**: …わかった。1本。…さっきの、小さな帽子の猫の動画、送って。
 
-### A1-16 At the Library (旧 F-12)
+### A1-16 At the Library
 
 **場面:** 図書館。本を探す。
 
@@ -419,7 +419,7 @@
 9. **Frank**: [deadpan whisper] Tina, your whisper is louder than your voice.
    **フランク**: ティナ、君のささやき声は、普段より大きいよ。
 
-### A1-17 At the Supermarket (旧 F-13)
+### A1-17 At the Supermarket
 
 **場面:** スーパー。Tinaが果物を買う。
 
@@ -447,7 +447,7 @@
 10. **Frank**: [deadpan] More Earth math.
     **フランク**: それも地球の計算か。
 
-### A1-18 Selfie Time! (旧 U-06)
+### A1-18 Selfie Time!
 
 **場面:** 晴れた日の公園。外。
 
@@ -475,7 +475,7 @@
 10. **Frank**: [deadpan] That is just my face.
     **フランク**: それはただの僕の顔だよ。
 
-### A1-19 I Want a Pencil (旧 F-14)
+### A1-19 I Want a Pencil
 
 **場面:** 文房具店。Tinaは外で待つ。
 
@@ -505,7 +505,7 @@
 10. **Tina**: [sighs] So gray. So you.
     **ティナ**: 地味ねえ。いかにもあなた。
 
-### A1-20 What Do You Like? (旧 F-15)
+### A1-20 What Do You Like?
 
 **場面:** アイスクリーム店の前。
 
@@ -533,7 +533,7 @@
 10. **Frank**: [deadpan] Tell no one.
     **フランク**: 誰にも言わないで。
 
-### A1-21 Game Night (旧 U-07)
+### A1-21 Game Night
 
 **場面:** 夜、二人でオンライン対戦ゲーム。
 
@@ -560,7 +560,7 @@
 9. **Tina**: That is NOT fair! Rematch! Right now!
    **ティナ**: それは絶対にずるいわ！再戦よ！今すぐ！
 
-### A1-22 My Hobby (旧 F-16)
+### A1-22 My Hobby
 
 **場面:** 放課後の教室。趣味の話。
 
@@ -587,7 +587,7 @@
 9. **Frank**: [deadpan] I am not sure I have the parts.
    **フランク**: その部品があるか分からないな。
 
-### A1-23 Weekend Plans (旧 F-17)
+### A1-23 Weekend Plans
 
 **場面:** 金曜日、教室で週末の予定。
 
@@ -613,7 +613,7 @@
 9. **Tina**: [delighted] I know! That's why I love it!
    **ティナ**: 知ってるわ！だから大好きなの！
 
-### A1-24 Snack Attack (旧 U-08)
+### A1-24 Snack Attack
 
 **場面:** 深夜。ティナがお菓子を食べたがる。
 
@@ -640,7 +640,7 @@
 9. **Tina**: [laughs] They're all gone now. Both of us. Sorry, Frank!
    **ティナ**: もう全部なくなったわ。二人でね。ごめん、フランク！
 
-### A1-25 Birthday Party (旧 F-18)
+### A1-25 Birthday Party
 
 **場面:** 学校。ティナが誕生日パーティーに招待する。
 
@@ -666,7 +666,7 @@
 9. **Tina**: [grinning] You're learning!
    **ティナ**: 覚えてきたじゃない！
 
-### A1-26 Today's Weather (旧 F-19)
+### A1-26 Today's Weather
 
 **場面:** 寒い日、外。フランクはコートを忘れた。
 
@@ -694,7 +694,7 @@
 10. **Tina**: [laughs] My favorite kind!
     **ティナ**: 私の大好物よ！
 
-### A1-27 I'm Bored (旧 U-09)
+### A1-27 I'm Bored
 
 **場面:** 休みの日、ティナが退屈している。
 
@@ -722,7 +722,7 @@
 10. **Frank**: [deadpan] The end.
     **フランク**: おしまい。
 
-### A1-28 I Have a Cold (旧 F-20)
+### A1-28 I Have a Cold
 
 **場面:** ティナが風邪。フランクが電話する。
 
@@ -752,7 +752,7 @@
 10. **Frank**: [deadpan] A doctor built me. He left out the cold. You are lucky.
     **フランク**: 博士が僕を作った。風邪は付け忘れた。君はラッキーだよ。
 
-### A1-29 At the Hair Salon (旧 F-21)
+### A1-29 At the Hair Salon
 
 **場面:** 美容院。ティナが新しい髪型に。
 
@@ -778,7 +778,7 @@
 9. **Tina**: [laughs] Make it extra pink, please!
    **ティナ**: うんとピンクにしてください！
 
-### A1-30 New Sneakers! (旧 U-10)
+### A1-30 New Sneakers!
 
 **場面:** ティナが新しいスニーカーを見せびらかす。
 
@@ -804,7 +804,7 @@
 9. **Tina**: [grinning] Counting is for Earthlings, Frank.
    **ティナ**: 数えるのは地球人のすることよ、フランク。
 
-### A1-31 Asking Directions (旧 F-22)
+### A1-31 Asking Directions
 
 **場面:** 知らない街。ティナが駅への道を尋ねる。
 
@@ -832,7 +832,7 @@
 10. **Frank**: [deadpan] I will lead.
     **フランク**: 僕が先に行くよ。
 
-### A1-32 At the Restaurant (旧 F-23)
+### A1-32 At the Restaurant
 
 **場面:** レストラン。二人で注文する。
 
@@ -860,7 +860,7 @@
 10. **Frank**: [deadpan] It is red, Tina.
     **フランク**: 赤だよ、ティナ。
 
-### A1-33 Cafe Time (旧 U-11)
+### A1-33 Cafe Time
 
 **場面:** お気に入りのカフェ。いつもの席。
 
@@ -888,7 +888,7 @@
 10. **Frank**: [pause] ...That is the best part.
     **フランク**: …そこがいちばんいいところだ。
 
-### A1-34 Phone Call (旧 F-24)
+### A1-34 Phone Call
 
 **場面:** フランクがティナに電話する。
 
@@ -918,7 +918,7 @@
 10. **Frank**: See you at three.
     **フランク**: 3時にね。
 
-### A1-35 Test Tomorrow (旧 U-12)
+### A1-35 Test Tomorrow
 
 **場面:** テスト前夜。ティナがパニック。
 
@@ -946,7 +946,7 @@
 10. **Frank**: [gently] We will download it the slow way. Together.
     **フランク**: ゆっくりダウンロードしよう。一緒に。
 
-### A1-36 I Failed (旧 U-13)
+### A1-36 I Failed
 
 **場面:** テストが返ってきた。ティナが落ち込む。
 
@@ -976,7 +976,7 @@
 11. **Tina**: [small laugh] You're the best, Frank.
     **ティナ**: あなたって最高ね、フランク。
 
-### A1-37 Asking for Help (旧 F-25)
+### A1-37 Asking for Help
 
 **場面:** 図書館。フランクが本を探す。
 
@@ -1004,7 +1004,7 @@
 10. **Frank**: [deadpan] It is not a game, Tina.
     **フランク**: ゲームじゃないよ、ティナ。
 
-### A1-38 Lost and Found (旧 F-26)
+### A1-38 Lost and Found
 
 **場面:** 遺失物センター。ティナが鍵をなくした。
 
@@ -1032,7 +1032,7 @@
 10. **Frank**: [pause] ...Then do not lose it again.
     **フランク**: …じゃあ、もうなくさないで。
 
-### A1-39 Gossip Time (旧 U-15)
+### A1-39 Gossip Time
 
 **場面:** 教室。ティナが噂話をしたがる。
 
@@ -1060,7 +1060,7 @@
 10. **Frank**: [deadpan] ...That one is true.
     **フランク**: …それは本当だ。
 
-### A1-40 Shopping for Clothes (旧 F-27)
+### A1-40 Shopping for Clothes
 
 **場面:** 服屋。ティナが試着する。
 
@@ -1088,7 +1088,7 @@
 10. **Frank**: [deadpan] That is not how sets work.
     **フランク**: セットってそういうものじゃないよ。
 
-### A1-41 Crush Talk (旧 U-16)
+### A1-41 Crush Talk
 
 **場面:** カフェ。ティナが好きな人の話を打ち明ける。
 
@@ -1116,7 +1116,7 @@
 10. **Frank**: [deadpan] A doctor built me. Logic was free.
     **フランク**: 博士が僕を作った。論理はおまけで付いてきたんだ。
 
-### A1-42 Asking About a Job (旧 F-32)
+### A1-42 Asking About a Job
 
 **場面:** 店先。ティナがアルバイトの求人に応募する。
 
@@ -1146,7 +1146,7 @@
 10. **Frank**: [deadpan] It was not a joke.
     **フランク**: 冗談ではなかった。
 
-### A1-43 A New Neighbor (旧 F-33)
+### A1-43 A New Neighbor
 
 **場面:** アパートの廊下。引っ越してきた隣人に会う。
 
@@ -1176,7 +1176,7 @@
 10. **Tina**: [grinning] We live here. You're the new one!
     **ティナ**: 私たちが住んでるのよ。新入りはあなた！
 
-### A1-44 School Trip Plans (旧 U-14)
+### A1-44 School Trip Plans
 
 **場面:** 教室。3日後の修学旅行の相談。
 
@@ -1204,7 +1204,7 @@
 10. **Frank**: [deadpan] I will charge the camera. Twice.
     **フランク**: カメラを充電しておくよ。二回。
 
-### A1-45 School Festival (旧 F-39)
+### A1-45 School Festival
 
 **場面:** 学校の文化祭。出店がたくさん並んでいる。
 
@@ -1234,7 +1234,7 @@
 10. **Tina**: [grinning] Food first. Apologies later!
     **ティナ**: まず食べ物。謝るのは後！
 
-### A1-46 Movie Night (旧 U-17)
+### A1-46 Movie Night
 
 **場面:** 家のソファ。怖い映画を見る夜。
 
@@ -1263,7 +1263,7 @@
 10. **Frank**: [deadpan] I am keeping you brave.
     **フランク**: 君を勇敢にしているんだ。
 
-### A1-47 Ordering Coffee (旧 F-36)
+### A1-47 Ordering Coffee
 
 **場面:** カフェのカウンター。ティナがコーヒーを注文する。
 
@@ -1291,7 +1291,7 @@
 10. **Frank**: [deadpan] Write "Frank." Please.
     **フランク**: 「フランク」と書いてください。お願いします。
 
-### A1-48 At the Post Office (旧 F-28)
+### A1-48 At the Post Office
 
 **場面:** 郵便局。フランクが日本へ箱を送る。
 
@@ -1319,7 +1319,7 @@
 10. **Tina**: [sighs] Earth is so slow. But cute.
     **ティナ**: 地球って遅いわね。でもかわいい。
 
-### A1-49 Karaoke! (旧 U-18)
+### A1-49 Karaoke!
 
 **場面:** カラオケルーム。フランクは歌わないと言い張る。
 
@@ -1348,7 +1348,7 @@
 10. **Tina**: [gently] No. That one is mine. I'm keeping it.
     **ティナ**: ううん。今のは私のもの。もらっておくわ。
 
-### A1-50 Hotel Check-in (旧 F-31)
+### A1-50 Hotel Check-in
 
 **場面:** 夜のホテルのフロント。フランクがチェックインする。
 
@@ -1378,7 +1378,7 @@
 10. **Receptionist**: [pause] ...Good night, sir. Sleep — or not.
     **受付係**: …おやすみなさい。お眠りになるか、ならないか。
 
-### A1-51 Buying Souvenirs (旧 F-37)
+### A1-51 Buying Souvenirs
 
 **場面:** お土産屋。ティナが故郷の友達へのお土産を選ぶ。
 
@@ -1406,7 +1406,7 @@
 10. **Frank**: [deadpan] Someone has to guard it.
     **フランク**: 誰かが見張る必要があるからね。
 
-### A1-52 Calling a Doctor (旧 F-38)
+### A1-52 Calling a Doctor
 
 **場面:** フランクの部屋。医院に予約の電話をかける。
 
@@ -1436,7 +1436,7 @@
 10. **Tina**: [calling from across the room] Tell them to bring pink thread!
     **ティナ**: ピンクの糸持ってきてって言いなよ！
 
-### A1-53 Late Night Talk (旧 U-19)
+### A1-53 Late Night Talk
 
 **場面:** 修学旅行の夜。ホテルのラウンジで長話。
 
@@ -1464,7 +1464,7 @@
 10. **Frank**: [pause, softer] ...Three. Then I dream of quiet.
     **フランク**: …3分だ。そのあとは、静けさの夢を見る。
 
-### A1-54 What Time Is It? (旧 F-07)
+### A1-54 What Time Is It?
 
 **場面:** 駅。次の電車に間に合わせたい。
 
@@ -1494,7 +1494,7 @@
 10. **Frank**: [deadpan, jogging] ...Noted.
     **フランク**: …了解した。
 
-### A1-55 Buying a Train Ticket (旧 F-29)
+### A1-55 Buying a Train Ticket
 
 **場面:** 駅の切符売り場。フランクが京都行きの切符を買う。
 
@@ -1522,7 +1522,7 @@
 10. **Tina**: [quietly] Good. Stay that way.
     **ティナ**: よかった。ずっとそうでいてね。
 
-### A1-56 At the Bank (旧 F-30)
+### A1-56 At the Bank
 
 **場面:** 銀行の窓口。ティナが円をドルに両替する。
 
@@ -1550,7 +1550,7 @@
 10. **Frank**: [quietly] Travelers leave. [beat] Save one dollar for the cafe.
     **フランク**: 旅行者は旅立つものだ。1ドルはカフェに取っておいて。
 
-### A1-57 See You Tomorrow (旧 U-20)
+### A1-57 See You Tomorrow
 
 **場面:** いつもの帰り道。明日もまた会う、その別れ際。
 
@@ -1578,7 +1578,7 @@
 10. **Frank**: [softly] Good night, Tina. Same time, same place.
     **フランク**: おやすみ、ティナ。同じ時間、同じ場所で。
 
-### A1-58 Taking a Taxi (旧 F-35)
+### A1-58 Taking a Taxi
 
 **場面:** 見知らぬ街のタクシー。フランクがホテルへ向かう。
 
@@ -1608,7 +1608,7 @@
 10. **Driver**: [chuckles] Then you will feel at home soon.
     **運転手**: それなら、すぐに故郷みたいに感じますよ。
 
-### A1-59 At the Airport (旧 F-34)
+### A1-59 At the Airport
 
 **場面:** 空港。ティナが旅立つ。出国手続きとゲート探し。
 
@@ -1638,7 +1638,7 @@
 10. **Tina**: [voice small] You kept it. [beat] Walk me to gate four. Not five.
     **ティナ**: 取っておいてくれたのね。4番ゲートまで送って。5番じゃなく。
 
-### A1-60 Saying Goodbye (旧 F-40)
+### A1-60 Saying Goodbye
 
 **場面:** 搭乗ゲートの前。A1 のフィナーレ、別れ。
 

@@ -2,13 +2,13 @@
 
 > キャラクター: **Frank**（フランケン：礼儀正しく観察的・人造人間。縮約形は稀＝親密さの合図） / **Tina**（ティナ：感情豊か・別の星から来た。縮約形を自在に） + 場面ごとの第三者
 > B2 の核: 一つの問題に複数の見方を認め、感情を出しつつ相手の立場を整理し、直接言いにくいことを曖昧にしすぎず伝える（文法・談話機能は感情・交渉の必然から自然に出す）。
-> ※ 配置はプレイ順の通し番号 `B2-01〜B2-60`（旧 F-/U- 番号を見出し括弧に併記）。Formal/Unique 区分は廃止。
+> ※ 配置はプレイ順の通し番号 `B2-01〜B2-60`。
 > ※ 各英文の下に日本語訳。演技指示 `[tag]` と効果音 `[SFX: ...]` は英語行のみ（日本語訳には付けない）。
 > ※ 編集方針は `skits_sitcom_style_guide.md`、配置・対応表は `skits_arrangement.md`、時系列は `frank_and_tina_timeline.md`。
 
 ---
 
-### B2-01 Post-Fight Check-in (旧 U-24)
+### B2-01 Post-Fight Check-in
 
 **場面:** 最初の本物の喧嘩から3か月後、二人で夕食。
 
@@ -42,7 +42,7 @@
 13. **Tina**: [smiling] Three months and you're still early. I'll take it.
     **ティナ**: 3か月経っても気が早いのね。それでいいわ。
 
-### B2-02 Lab Ethics Review (旧 F-01)
+### B2-02 Lab Ethics Review
 
 **場面:** 大学の研究倫理委員会での質疑。
 
@@ -76,7 +76,7 @@
 13. **Chair**: That's a reasonable path forward. We'll put it to a vote.
     **委員長**: 妥当な進め方ですね。採決にかけましょう。
 
-### B2-03 Sarcasm Fail (旧 U-01)
+### B2-03 Sarcasm Fail
 
 **場面:** 皮肉のつもりが6分間通じなかった話。
 
@@ -110,7 +110,7 @@
 13. **Tina**: [sighs] Filing this under "Earth customs I have almost learned."
     **ティナ**: これは「もう少しで身につく地球の習慣」に分類しておくわ。
 
-### B2-04 Visa Renewal (旧 F-03)
+### B2-04 Visa Renewal
 
 **場面:** 入国管理局の更新窓口。
 
@@ -144,7 +144,7 @@
 13. **Officer**: Perfect. Come back tomorrow with the HR countersignature and we'll finalize everything.
     **職員**: 完璧です。明日、人事部の連署を持ってきていただければ、すべて完了です。
 
-### B2-05 New Outfit Out (旧 U-02)
+### B2-05 New Outfit Out
 
 **場面:** ティナがくれたジャケットを、フランクが初めて外で着る。
 
@@ -178,7 +178,7 @@
 13. **Tina**: [warmly] That's growth, Frank. Wear it tomorrow too.
     **ティナ**: それが成長よ、フランク。明日もまた着なさい。
 
-### B2-06 Workplace Mediation (旧 F-04)
+### B2-06 Workplace Mediation
 
 **場面:** 職場の調停。フランクが両者の言い分を知っている。
 
@@ -212,7 +212,7 @@
 13. **HR**: Thank you, Frank. That's helpful context.
     **人事**: ありがとう、フランク。助けになる背景情報です。
 
-### B2-07 Shared Calendar (旧 U-03)
+### B2-07 Shared Calendar
 
 **場面:** 予定共有アプリが少し気まずくなったカフェ。
 
@@ -246,7 +246,7 @@
 13. **Tina**: [tapping phone] Agreed. Turning it on now — there. Your Wednesdays are officially a mystery.
     **ティナ**: 同感よ。今オンにする——はい。あなたの水曜は、正式に謎になりました。
 
-### B2-08 Grant Interview (旧 F-02)
+### B2-08 Grant Interview
 
 **場面:** 助成金委員会の面接。
 
@@ -280,7 +280,7 @@
 13. **Chair**: We appreciate the transparency. We'll have a decision within two weeks.
     **委員長**: その率直さに感謝します。2週間以内に決定をお出しします。
 
-### B2-09 Regrettable Post (旧 U-07)
+### B2-09 Regrettable Post
 
 **場面:** 問題になった投稿を消すか直すか、フランクに相談。
 
@@ -314,7 +314,7 @@
 13. **Tina**: And I'll message both of them directly. They took the time to say something — least I can do is the same.
     **ティナ**: それと、二人にも直接メッセージするわ。わざわざ言ってくれたんだもの。同じくらいはしなきゃ。
 
-### B2-10 Apartment Dispute (旧 F-06)
+### B2-10 Apartment Dispute
 
 **場面:** 騒音をめぐる近隣トラブルの調停。建物管理人と面談。
 
@@ -348,7 +348,7 @@
 13. **Manager**: Exactly. We'll take it from here. Thank you for coming in.
     **管理人**: その通りです。ここから先は私たちが引き受けます。来てくださってありがとう。
 
-### B2-11 Travel Values (旧 U-09)
+### B2-11 Travel Values
 
 **場面:** 初めての二人旅。旅行アプリの絞り込みで価値観の差が露呈。
 
@@ -382,7 +382,7 @@
 13. **Tina**: [grinning] Coastal town. Busy center, quiet beach. You get mornings, I get nights. Done?
     **ティナ**: 海辺の町。賑やかな中心地、静かなビーチ。朝はあなた、夜は私。決まり？
 
-### B2-12 Cultural Orientation (旧 F-12)
+### B2-12 Cultural Orientation
 
 **場面:** ティナが留学生に「暗黙のルール」を伝えるオリエンテーション。
 
@@ -416,7 +416,7 @@
 13. **Tina**: One person willing to tell you when you've misread something. [warmly] Find that person early. I did.
     **ティナ**: 何かを読み違えたとき、教えてくれる一人の人。その人を早く見つけて。私は見つけたわ。
 
-### B2-13 Homesick Playlist (旧 U-04)
+### B2-13 Homesick Playlist
 
 **場面:** ティナが「故郷のように感じる」プレイリストを作っている。フランクがコーヒーを持って来る。
 
@@ -451,7 +451,7 @@
     **フランク**: それ、以前よりよく分かる気がする。
     `[SFX: mug set down]`
 
-### B2-14 Contract Revision (旧 F-09)
+### B2-14 Contract Revision
 
 **場面:** サービス契約の変更交渉。
 
@@ -485,7 +485,7 @@
 13. **Partner**: Let me make some calls and get back to you tomorrow.
     **取引先**: いくつか電話をかけて、明日お返事します。
 
-### B2-15 Viral Video Again (旧 U-11)
+### B2-15 Viral Video Again
 
 **場面:** フランクの科学動画が再びバズって居心地が悪い。
 
@@ -519,7 +519,7 @@
 13. **Tina**: [smiling] Fine. Bookmarked. Tomorrow, then.
     **ティナ**: 分かったわ。保存しとく。じゃあ、明日ね。
 
-### B2-16 Late Night Recall (旧 U-12)
+### B2-16 Late Night Recall
 
 **場面:** 二人が初めて会った同じ建物のラボ、夜遅く。
 
@@ -553,7 +553,7 @@
 13. **Tina**: [softly] Especially because of that.
     **ティナ**: まさに、そのおかげよ。
 
-### B2-17 Research Presentation (旧 F-13)
+### B2-17 Research Presentation
 
 **場面:** 学科会議での予備研究発表。先輩研究者が手法に異議。
 
@@ -587,7 +587,7 @@
 13. **Professor**: Good. Submit it when you're satisfied.
     **教授**: よろしい。納得できたら投稿しなさい。
 
-### B2-18 Medical Second Opinion (旧 F-05)
+### B2-18 Medical Second Opinion
 
 **場面:** 介護施設で専門家と面談。年老いていく博士への支援を、そっと調べている。
 
@@ -621,7 +621,7 @@
 13. **Specialist**: That's wise. When he's ready, bring him along — and we'll look at the options together.
     **専門家**: それは賢明です。彼の準備ができたら、一緒に連れてきてください。選択肢を、共に見ていきましょう。
 
-### B2-19 Mutual Misreading (旧 U-13)
+### B2-19 Mutual Misreading
 
 **場面:** 昨日の少しぎこちないやり取りを、電話で修復する。
 
@@ -655,7 +655,7 @@
 13. **Frank**: [a small breath] Yeah. I'll text you more clearly next time.
     **フランク**: ああ。次は、もっと明確にメッセージするよ。
 
-### B2-20 Crisis Communication (旧 F-10)
+### B2-20 Crisis Communication
 
 **場面:** 大学の研究室でデータ漏洩。広報チームの対応会議。
 
@@ -689,7 +689,7 @@
 13. **Head**: All right. I'll draft a more transparent response — and send it to you before it goes out.
     **責任者**: 分かりました。より透明性のある対応を起草して、公開前にあなたに送ります。
 
-### B2-21 Alone Day (旧 U-08)
+### B2-21 Alone Day
 
 **場面:** 週末の朝、電話越し。
 
@@ -725,7 +725,7 @@
 13. **Tina**: [warmly] I noticed. Text me when you want company back.
     **ティナ**: 気づいてたわ。また誰かといたくなったらメッセージして。
 
-### B2-22 Committee Vote (旧 F-14)
+### B2-22 Committee Vote
 
 **場面:** 研究室方針の採決前。各委員が発言を求められる。
 
@@ -759,7 +759,7 @@
 13. **Chair**: [dryly] Noted — at length. We'll record the request before the vote.
     **委員長**: 承知しました——長々と。投票の前にその要請を記録します。
 
-### B2-23 Mom Video Call (旧 U-10)
+### B2-23 Mom Video Call
 
 **場面:** ティナの部屋、母とのビデオ通話中。
 
@@ -795,7 +795,7 @@
 13. **Mom**: [softly] Then tell the tall boy I said thank you. For showing up, and for sticking around.
     **母**: なら、あの背の高い子に伝えて、ありがとうって。現れてくれて、ずっといてくれて。
 
-### B2-24 Scholarship Interview (旧 F-15)
+### B2-24 Scholarship Interview
 
 **場面:** 大学院奨学金の面接。
 
@@ -829,7 +829,7 @@
 13. **Panel A**: Thank you. We'll be in touch.
     **審査員A**: ありがとうございます。追ってご連絡します。
 
-### B2-25 New Community (旧 U-14)
+### B2-25 New Community
 
 **場面:** フランクの部屋、ランニングクラブの晩の翌日。
 
@@ -863,7 +863,7 @@
 13. **Frank**: [pause, deadpan] That's exactly the right question. And I don't have a fast answer. ...Which is probably the answer.
     **フランク**: それがまさに正しい問いだ。そしてすぐには答えが出ない。…それがたぶん答えなんだろうな。
 
-### B2-26 Volunteer Coordination (旧 F-17)
+### B2-26 Volunteer Coordination
 
 **場面:** 地域センター、週末イベントの打ち合わせ。
 
@@ -897,7 +897,7 @@
 13. **Frank**: I want to help. I'd just rather stay useful than end up useless and exhausted.
     **フランク**: 手伝いたいんです。ただ、疲れ果てて役立たずになるより、役に立てる状態でいたいだけで。
 
-### B2-27 Boundary Talk (旧 U-15)
+### B2-27 Boundary Talk
 
 **場面:** カフェ、共有していい情報を決める。
 
@@ -931,7 +931,7 @@
 13. **Tina**: Still. I'd rather know than guess. Guessing is how the trouble starts.
     **ティナ**: それでもよ。推測するより知っておきたいの。推測こそ、もめごとの始まりだもの。
 
-### B2-28 Performance Review (旧 F-18)
+### B2-28 Performance Review
 
 **場面:** 中間業績評価の面談。
 
@@ -965,7 +965,7 @@
 13. **Manager**: [smiling] That's exactly what I was hoping to hear.
     **上司**: それこそまさに、聞きたかったことだ。
 
-### B2-29 SNS Identity (旧 U-17)
+### B2-29 SNS Identity
 
 **場面:** ティナの部屋、フランクに相談。
 
@@ -999,7 +999,7 @@
 13. **Tina**: I know. I just want the answer to be mine — not something a stranger pulled out of me.
     **ティナ**: 分かってる。ただ、その答えが私自身のものであってほしいの。見知らぬ人に引き出されたものじゃなく。
 
-### B2-30 Public Apology Draft (旧 F-07)
+### B2-30 Public Apology Draft
 
 **場面:** 広報アドバイザーとの打ち合わせ。
 
@@ -1033,7 +1033,7 @@
 13. **Advisor**: Let it stand. Overexplaining almost always makes it worse.
     **アドバイザー**: そのままに。説明しすぎると、ほぼ必ず悪化します。
 
-### B2-31 The Sketch (旧 U-18)
+### B2-31 The Sketch
 
 **場面:** フランクの部屋、置き忘れたスケッチ。
 
@@ -1067,7 +1067,7 @@
 13. **Tina**: [warmly] That's something. If you ever want to walk me through it properly — I'd like that.
     **ティナ**: それは大きいわ。もしいつか、ちゃんと説明してくれる気になったら、嬉しい。
 
-### B2-32 Community Event (旧 F-19)
+### B2-32 Community Event
 
 **場面:** 近隣イベントの設営中。
 
@@ -1101,7 +1101,7 @@
 13. **Tina**: Please do. If they make it before we wrap up, we'll fold them right in.
     **ティナ**: ぜひ。終わる前に来られたら、すぐに加わってもらいますから。
 
-### B2-33 Two Homes (旧 U-16)
+### B2-33 Two Homes
 
 **場面:** ティナの部屋、母からの知らせの後。
 
@@ -1135,7 +1135,7 @@
 13. **Frank**: I know. So — forget the routes for a second. What do you actually need tonight?
     **フランク**: 分かってる。だから——経路は少し忘れて。今夜、君が本当に必要なのは何？
 
-### B2-34 Housing Contract (旧 F-20)
+### B2-34 Housing Contract
 
 **場面:** 物件管理者との契約変更の話し合い。
 
@@ -1169,7 +1169,7 @@
 13. **Property Manager**: That's a reasonable request. I'll take it to legal.
     **物件管理者**: それは妥当なご要望です。法務に伝えます。
 
-### B2-35 Explaining Without Apologizing (旧 U-19)
+### B2-35 Explaining Without Apologizing
 
 **場面:** 夕方、ランニングクラブの帰り。
 
@@ -1203,7 +1203,7 @@
 13. **Tina**: [quietly] I think it is. The story didn't get pulled out of me. I offered it.
     **ティナ**: そうだと思う。物語を引き出されたんじゃない。私から差し出したのよ。
 
-### B2-36 University Panel (旧 F-08)
+### B2-36 University Panel
 
 **場面:** 「帰属」についての大学パネル。
 
@@ -1237,7 +1237,7 @@
 13. **Moderator**: Thank you both. Those are thoughtful, honest answers.
     **司会**: お二人ともありがとう。思慮深く、正直な答えです。
 
-### B2-37 Professionally Misread (旧 U-20)
+### B2-37 Professionally Misread
 
 **場面:** 学会の帰り道。
 
@@ -1271,7 +1271,7 @@
 13. **Tina**: [lightly] Accurate and simple. That's usually plenty.
     **ティナ**: 正確で単純。たいてい、それで十分よ。
 
-### B2-38 Medical Consent (旧 F-21)
+### B2-38 Medical Consent
 
 **場面:** 病院、年配の研究者の付き添い。
 
@@ -1305,7 +1305,7 @@
 13. **Doctor**: Of course. I'll have one ready at reception.
     **医者**: もちろんです。受付に用意しておきます。
 
-### B2-39 Mountain Village (旧 U-22)
+### B2-39 Mountain Village
 
 **場面:** 夜、フランクが過去を語る。
 
@@ -1339,7 +1339,7 @@
 13. **Tina**: [gently] Maybe that's not such a bad thing.
     **ティナ**: それは、そんなに悪いことじゃないかもしれないわ。
 
-### B2-40 Podcast Guest (旧 F-16)
+### B2-40 Podcast Guest
 
 **場面:** 科学コミュニケーションのポッドキャスト収録。
 
@@ -1375,7 +1375,7 @@
 13. **Host**: That's worth saying out loud. Thank you for being so honest.
     **司会**: それは声に出して言う価値がありますね。とても正直に話してくれてありがとう。
 
-### B2-41 Playlist Detour (旧 U-21)
+### B2-41 Playlist Detour
 
 **場面:** Tinaの部屋。彼女がキッチンにいる間に。
 
@@ -1409,7 +1409,7 @@
 13. **Frank**: [quiet] I wouldn't have known I needed one. Until tonight.
     **フランク**: 自分にそれが必要だなんて、知らなかっただろうな。今夜まではね。
 
-### B2-42 Research Ethics Hearing (旧 F-22)
+### B2-42 Research Ethics Hearing
 
 **場面:** 倫理委員会のヒアリング室。Tinaが質疑に答える。
 
@@ -1443,7 +1443,7 @@
 13. **Panel**: [dryly] We'll hold you to that. Thank you for the candor.
     **委員**: そこは守っていただきますよ。率直さに感謝します。
 
-### B2-43 Family Pressure (旧 U-23)
+### B2-43 Family Pressure
 
 **場面:** ティナの部屋。母からの長文メッセージを読んだ後。
 
@@ -1477,7 +1477,7 @@
 13. **Tina**: [exhales] I know. I just needed to say it out loud first.
     **ティナ**: 分かってる。ただ、まず声に出して言う必要があったの。
 
-### B2-44 Immigration Office (旧 F-23)
+### B2-44 Immigration Office
 
 **場面:** 入国管理局の窓口。フォローアップの予約で。
 
@@ -1511,7 +1511,7 @@
 13. **Officer**: [almost a smile] Understood. Have a good day.
     **職員**: 承知しました。よい一日を。
 
-### B2-45 Star Map Reading (旧 U-25)
+### B2-45 Star Map Reading
 
 **場面:** Tinaの部屋。夜遅く。壁の星図の前。
 
@@ -1545,7 +1545,7 @@
 13. **Frank**: I'm not going to start now.
     **フランク**: 今さら笑い始めたりしないよ。
 
-### B2-46 Reference Letter (旧 F-11)
+### B2-46 Reference Letter
 
 **場面:** Frankの研究室。先輩の同僚と。
 
@@ -1579,7 +1579,7 @@
 13. **Colleague**: Then say it plainly. They'll respect the honesty.
     **同僚**: なら率直に言いなさい。彼らはその正直さを尊重するよ。
 
-### B2-47 Tina Explains (旧 U-27)
+### B2-47 Tina Explains
 
 **場面:** いつものカフェ。ランニングクラブの帰りに。
 
@@ -1613,7 +1613,7 @@
 13. **Tina**: [soft] She said, "Thank you for trusting me with that." And I think she meant it.
     **ティナ**: 「それを私に託してくれてありがとう」って言ったの。本心だったと思うわ。
 
-### B2-48 Complaint Resolution (旧 F-25)
+### B2-48 Complaint Resolution
 
 **場面:** Frankの研究室。学生が苦情を持って訪ねてくる。
 
@@ -1647,7 +1647,7 @@
 13. **Student**: I appreciate you saying that plainly. Most people wouldn't.
     **学生**: 率直にそう言ってくださって感謝します。たいていの人は言いませんから。
 
-### B2-49 Frank's Choice (旧 U-26)
+### B2-49 Frank's Choice
 
 **場面:** いつものカフェのテーブル。静かな午後。
 
@@ -1681,7 +1681,7 @@
 13. **Frank**: [steady] He doesn't. I've stopped waiting for him to hand it over.
     **フランク**: でも彼は持っていない。彼がそれを渡してくれるのを待つのは、もうやめたんだ。
 
-### B2-50 Panel Discussion (旧 F-24)
+### B2-50 Panel Discussion
 
 **場面:** 公開パネル。Frankと、彼が尊敬する研究者が登壇している。
 
@@ -1715,7 +1715,7 @@
 13. **Moderator**: That's the most honest answer we've had all evening.
     **司会**: それは今夜で最も正直な答えです。
 
-### B2-51 Annual Report (旧 F-27)
+### B2-51 Annual Report
 
 **場面:** 学部委員会。Frankが年次報告を提示している。
 
@@ -1749,7 +1749,7 @@
 13. **Dean**: That's all we need. Good work, overall.
     **学部長**: それで十分だ。全体としてよくやった。
 
-### B2-52 Old Fight Revisited (旧 U-28)
+### B2-52 Old Fight Revisited
 
 **場面:** Tinaの部屋。二人で何か普通の作業をしている。
 
@@ -1783,7 +1783,7 @@
 13. **Tina**: [easy] And I'd still be cancelling, never noticing what it did to you.
     **ティナ**: そして私は、それがあなたに何をしているか気づかずに、今でもキャンセルしてるわ。
 
-### B2-53 Award Ceremony (旧 F-26)
+### B2-53 Award Ceremony
 
 **場面:** 受賞式の壇上。Frankが同僚に賞を授与する。Tinaが客席にいる。
 
@@ -1816,7 +1816,7 @@
 12. **Frank**: [stepping back from the podium, to her] I hope it outlasts all of us.
     **フランク**: （演台から下がり、彼女に向かって）僕たちの誰よりも長く続くことを願っています。
 
-### B2-54 Doctor's Letter Response (旧 F-29)
+### B2-54 Doctor's Letter Response
 
 **場面:** Frankの机。博士からまた手紙が届いた週。Tinaがそばに座っている。
 
@@ -1850,7 +1850,7 @@
 13. **Tina**: Exactly. You don't need a perfect letter. You need an honest one. [quiet] Then you send it.
     **ティナ**: その通り。完璧な手紙は要らないの。正直な手紙が要るのよ。そして、送るの。
 
-### B2-55 Interview Prep (旧 F-28)
+### B2-55 Interview Prep
 
 **場面:** Frankの家。Tinaが面接の準備を手伝っている。
 
@@ -1886,7 +1886,7 @@
 14. **Frank**: I understand. I'll slow down, and let the answers land.
     **フランク**: 分かった。ペースを落として、答えがちゃんと届くようにするよ。
 
-### B2-56 Reply to the Doctor (旧 U-05)
+### B2-56 Reply to the Doctor
 
 **場面:** いつものカフェのテーブル。いつもと同じ。
 
@@ -1920,7 +1920,7 @@
 13. **Frank**: [quiet] Yeah. That's probably the right way to look at it.
     **フランク**: ああ。たぶん、それが正しい見方だね。
 
-### B2-57 Wedding Question (旧 U-06)
+### B2-57 Wedding Question
 
 **場面:** 友人の結婚式。デザートのテーブルのそば。
 
@@ -1954,7 +1954,7 @@
 13. **Tina**: Then: "We're good friends." Full stop. That's the answer.
     **ティナ**: なら、「私たちはいい友達よ」。以上。それが答えね。
 
-### B2-58 Belonging Panel — Coda (旧 F-30)
+### B2-58 Belonging Panel — Coda
 
 **場面:** パネル後のキャンパス。一人の学生が追いついてくる。
 
@@ -1988,7 +1988,7 @@
 13. **Student**: Thank you. That actually helps.
     **学生**: ありがとうございます。本当に、助かります。
 
-### B2-59 Future Plans (旧 U-29)
+### B2-59 Future Plans
 
 **場面:** Tinaの部屋。同じ星図の下で。
 
@@ -2022,7 +2022,7 @@
 13. **Tina**: [soft] I want it to hold, too.
     **ティナ**: 私も、続いてほしいわ。
 
-### B2-60 Stitched Together (旧 U-30)
+### B2-60 Stitched Together
 
 **場面:** 静かな晩。Tinaの部屋。星図が壁にかかっている。
 

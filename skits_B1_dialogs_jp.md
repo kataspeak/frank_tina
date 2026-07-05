@@ -1,13 +1,13 @@
 # フランケン＆ティナ 英語大作戦 — CEFR B1 スキット対話本文（日本語対訳）
 
 > キャラクター: **Frank**（フランケン：礼儀正しく観察的・人造人間。短縮形を控えめに） / **Tina**（ティナ：好奇心旺盛で感情豊か・別の星から来た。短縮形＋間投詞、カジュアル回は縮約形も控えめに） + 場面ごとの第三者
-> ※ 配置はプレイ順の通し番号 `B1-01〜B1-60`（旧 F-/U- 番号を見出し括弧に併記）。Formal/Unique 区分は廃止。
+> ※ 配置はプレイ順の通し番号 `B1-01〜B1-60`。
 > ※ 各英文の下に日本語訳。演技指示 `[tag]` と効果音 `[SFX: ...]` は英語行のみ（日本語訳には付けない）。
 > ※ 編集方針は `skits_sitcom_style_guide.md`、配置・対応表は `skits_arrangement.md`、時系列は `frank_and_tina_timeline.md`。
 
 ---
 
-### B1-01 Job Promotion Talk (旧 F-01)
+### B1-01 Job Promotion Talk
 
 **場面:** 上司との昇進面談。会議室。
 
@@ -41,7 +41,7 @@
 13. **Boss**: [chuckles] Then she's the one to ask. Numbers I can give you. The rest, not so much.
     **上司**: なら、その人に聞くべきだな。数字なら僕が出せる。でも、それ以外はね。
 
-### B1-02 Quarter-Life Crisis (旧 U-04)
+### B1-02 Quarter-Life Crisis
 
 **場面:** 夜のカフェ。Tina が将来への不安を吐き出している。
 
@@ -75,7 +75,7 @@
 13. **Tina**: Deal. I'll figure out my life. You figure out being a person.
     **ティナ**: 決まりね。私は人生を見つける。あなたは人間になることを見つけて。
 
-### B1-03 After the Lecture (旧 F-06)
+### B1-03 After the Lecture
 
 **場面:** 哲学講義の後、夕方のカフェ。Frank が Tina に打ち明ける。
 
@@ -109,7 +109,7 @@
 13. **Frank**: [pause] I'm not sure yet. But saying it out loud, here, with you — that helps.
     **フランク**: まだ確信は持てない。でも、ここで、君に、こうして口に出してみると……少し楽になる。
 
-### B1-04 I Wish I Had Studied (旧 U-01)
+### B1-04 I Wish I Had Studied
 
 **場面:** 試験の前夜。Tina の部屋。ノートが散らばっている。
 
@@ -143,7 +143,7 @@
 13. **Tina**: [softens] ...Chapter one. And don't let me reach for my phone.
     **ティナ**: ……第一章から。あと、私がスマホに手を伸ばしたら止めて。
 
-### B1-05 Real Estate Tour (旧 F-04)
+### B1-05 Real Estate Tour
 
 **場面:** 改装された建物の内見。不動産業者の案内。
 
@@ -177,7 +177,7 @@
 13. **Doyle**: If it feels right when you see it, we'll talk numbers after.
     **ドイル**: 見てしっくりきたら、その後で価格の話をしましょう。
 
-### B1-06 Failing Adulting (旧 U-03)
+### B1-06 Failing Adulting
 
 **場面:** Tina のキッチン。焦げた鍋が証拠物件のように置いてある。
 
@@ -213,7 +213,7 @@
 14. **Frank**: [deadpan] Then we order pizza and never speak of the rice again.
     **フランク**: そのときはピザを頼んで、ご飯の話は二度としない。
 
-### B1-07 Visa Application (旧 F-02)
+### B1-07 Visa Application
 
 **場面:** ビザ申請の窓口。役所。
 
@@ -247,7 +247,7 @@
 13. **Tina**: Complete. [softly] First time anyone's said that about me and a form.
     **ティナ**: そろってる。書類のことで、誰かにそう言われたのは初めてだわ。
 
-### B1-08 Stuck in Traffic (旧 U-19)
+### B1-08 Stuck in Traffic
 
 **場面:** 動かない渋滞の車内。夕食の予約に遅れている。
 
@@ -281,7 +281,7 @@
 13. **Tina**: [grins] Dinner for two. Candlelight not included.
     **ティナ**: 二人分のディナーね。キャンドルは別料金で。
 
-### B1-09 Crisis at Work (旧 F-09)
+### B1-09 Crisis at Work
 
 **場面:** 深夜のオフィス。締め切りに追われる Frank と同僚。
 
@@ -315,7 +315,7 @@
 13. **Priya**: [tired smile] Honestly, Frank — not many teams could pull this off under this much pressure.
     **プリヤ**: 正直、フランク、これだけのプレッシャーでこれをやり遂げられるチームはそう多くないわ。
 
-### B1-10 The Ex Saga (旧 U-05)
+### B1-10 The Ex Saga
 
 **場面:** Tina の部屋。終わった恋愛の話を Frank にしている。
 
@@ -349,7 +349,7 @@
 13. **Tina**: [quietly] Yeah. Sometimes the people closest to us see us clearest.
     **ティナ**: そうね。一番近くにいる人が、一番はっきり見えてることもあるのよね。
 
-### B1-11 Tina's Mother Calls (旧 F-13)
+### B1-11 Tina's Mother Calls
 
 **場面:** 昼食中、Tina の母から突然電話。Frank への母の印象。
 
@@ -383,7 +383,7 @@
 13. **Tina**: [smiling] I could say it better if you helped me organize my thoughts first — tall boy.
     **ティナ**: 先に考えを整理するのを手伝ってくれたら、もっとうまく言えると思う。背の高い男の子さん。
 
-### B1-12 Lost in Translation (旧 U-07)
+### B1-12 Lost in Translation
 
 **場面:** カフェ。Tina が、英語の通じない国での旅行を語る。
 
@@ -417,7 +417,7 @@
 13. **Tina**: [grins] Best mistake I ever made. Next time, though, I'm learning a few phrases first.
     **ティナ**: 人生最高の失敗だったわ。でも次は、行く前にいくつか覚えるわよ。
 
-### B1-13 Investment Consultation (旧 F-05)
+### B1-13 Investment Consultation
 
 **場面:** 初めての金融相談。Frank がアドバイザーと面談している。
 
@@ -451,7 +451,7 @@
 13. **Advisor**: Smart. Patient investors usually go further than the ones who panic.
     **アドバイザー**: 賢明です。忍耐強い投資家は、パニックになる人より遠くまで行けるものです。
 
-### B1-14 Roommate Problems Pt.2 (旧 U-13)
+### B1-14 Roommate Problems Pt.2
 
 **場面:** Tina の部屋。ルームメイトとの再びの衝突を Frank に愚痴る。
 
@@ -485,7 +485,7 @@
 13. **Tina**: Tonight, then. Before the silence does any more damage.
     **ティナ**: なら今夜ね。沈黙がこれ以上ダメージを与える前に。
 
-### B1-15 Travel Itinerary Planning (旧 F-14)
+### B1-15 Travel Itinerary Planning
 
 **場面:** 旅行代理店。Tina が次の旅の計画を相談している。
 
@@ -519,7 +519,7 @@
 13. **Agent**: Perfect. I'll have your confirmation ready by tomorrow.
     **係員**: 承知しました。明日までに確認書をご用意します。
 
-### B1-16 Sibling Rivalry (旧 U-10)
+### B1-16 Sibling Rivalry
 
 **場面:** カフェ。Tina が優秀な姉の影で育った話を打ち明ける。
 
@@ -553,7 +553,7 @@
 13. **Tina**: You have it, Frank. If we'd both talked sooner — her and me — we'd have understood a lot earlier.
     **ティナ**: あなたにはあるわ、フランク。姉と私も、もっと早く話していたら、ずっと早く分かり合えてたのにね。
 
-### B1-17 Doctor's Diagnosis (旧 F-03)
+### B1-17 Doctor's Diagnosis
 
 **場面:** 診察室。検査結果の説明。
 
@@ -587,7 +587,7 @@
 13. **Dr. Okafor**: Good. And Frank — wanting the truth isn't a flaw. Keep it.
     **オカフォー医師**: いいですね。それと、フランク、真実を求めるのは欠点じゃありません。大事にしてください。
 
-### B1-18 If I Won the Lottery (旧 U-02)
+### B1-18 If I Won the Lottery
 
 **場面:** Tina の部屋。宝くじの「もしも」話で盛り上がる。
 
@@ -621,7 +621,7 @@
 13. **Tina**: [grinning] Win or not, you're already on the travel list. Free of charge.
     **ティナ**: 当たっても当たらなくても、あなたはもう旅行リスト入りよ。無料でね。
 
-### B1-19 Negotiating a Contract (旧 F-11)
+### B1-19 Negotiating a Contract
 
 **場面:** 商談。Frank が新しい契約を交渉している。
 
@@ -655,7 +655,7 @@
 13. **Frank**: [steady] I'll work the weekend, however tough it gets.
     **フランク**: どんなに大変でも、週末を返上して取り組みます。
 
-### B1-20 Apartment Hunt (旧 U-14)
+### B1-20 Apartment Hunt
 
 **場面:** カフェ。Tina が部屋探しの苦戦を Frank に話している。
 
@@ -689,7 +689,7 @@
 13. **Tina**: Thanks. The day I find the one with the right light, I'm moving in by sundown.
     **ティナ**: ありがとう。ぴったりの光の部屋を見つけた日には、日が沈む前に引っ越すわ。
 
-### B1-21 Interview With a Writer (旧 F-08)
+### B1-21 Interview With a Writer
 
 **場面:** 出版社の小さな会議室。Frank が長年敬愛する小説家にインタビューしている。
 
@@ -723,7 +723,7 @@
 13. **Frank**: [pause] ...Then I suppose I'm being interviewed now.
     **フランク**: …では、今度は僕が取材される側ということですね。
 
-### B1-22 First Salary (旧 U-15)
+### B1-22 First Salary
 
 **場面:** Tina のアパート。初めての給料が振り込まれた日の夜。
 
@@ -757,7 +757,7 @@
 13. **Tina**: [sheepishly] ...A bigger suitcase. For Italy.
     **ティナ**: …もっと大きいスーツケース。イタリア用にね。
 
-### B1-23 Tech Support Call (旧 F-16)
+### B1-23 Tech Support Call
 
 **場面:** Frank の部屋。深夜。重要なファイルが壊れ、サポートに電話している。
 
@@ -793,7 +793,7 @@
 13. **Support**: [kindly] Get some tonight. The file's not going anywhere now.
     **サポート**: 今夜は眠ってください。ファイルはもうどこにも行きませんから。
 
-### B1-24 First Date Rewind (旧 U-09)
+### B1-24 First Date Rewind
 
 **場面:** いつものカフェ。Tina が散々だった初デートの反省会をしている。
 
@@ -827,7 +827,7 @@
 13. **Tina**: [brightening] He texted "Italian next time?" So apparently the rice survived.
     **ティナ**: 彼が「次はイタリアン？」って。どうやらご飯は乗り切ったみたい。
 
-### B1-25 Booking a Cruise (旧 F-18)
+### B1-25 Booking a Cruise
 
 **場面:** 旅行代理店。Tina がクルーズのキャビンを予約しようとしている。
 
@@ -861,7 +861,7 @@
 13. **Tina**: [to herself, delighted] A whole week of someone else's cooking. Frank will never believe it.
     **ティナ**: [独り言で、嬉しそうに] まるまる一週間、人の料理。フランクは絶対信じないわ。
 
-### B1-26 Financial Planning (旧 U-16)
+### B1-26 Financial Planning
 
 **場面:** ファイナンシャルプランナーの事務所。Tina が将来の貯蓄について相談している。
 
@@ -895,7 +895,7 @@
 13. **Planner**: [laughs] Fair enough. The choices you make now shape your whole future.
     **プランナー**: いいでしょう。今のあなたの選択が、これからすべてを形作りますよ。
 
-### B1-27 Couples Counselling (旧 F-07)
+### B1-27 Couples Counselling
 
 **場面:** カウンセリングルーム。Tina が元恋人マークとの別れを整理しようとしている。
 
@@ -929,7 +929,7 @@
 13. **Counsellor**: [gently] That honesty, starting now — that's what you build on.
     **カウンセラー**: その正直さこそ、これから積み上げていく土台です。
 
-### B1-28 Friend Drama (旧 U-18)
+### B1-28 Friend Drama
 
 **場面:** Tina のアパート。親友に秘密を漏らされ、動揺している。
 
@@ -963,7 +963,7 @@
 13. **Tina**: [softening] Small. You're already in it, if that's what you're asking.
     **ティナ**: 小さく。あなたはもう入ってるわよ、それが聞きたいなら。
 
-### B1-29 Insurance Claim (旧 F-19)
+### B1-29 Insurance Claim
 
 **場面:** 保険会社の窓口。Tina がアパートの損害について請求手続きをしている。
 
@@ -997,7 +997,7 @@
 13. **Agent**: Good. Bring whatever you can find — the more, the better.
     **担当者**: いいですね。見つかるものは何でも。多いほど助かります。
 
-### B1-30 Awkward Family Dinner (旧 U-06)
+### B1-30 Awkward Family Dinner
 
 **場面:** Frank の部屋。Tina が親戚の夕食会から帰ってきたばかり。
 
@@ -1031,7 +1031,7 @@
 13. **Tina**: [laughing] Which is exactly what makes her suspicious. Perfect.
     **ティナ**: それがまさに、彼女を怪しませるのよ。完璧ね。
 
-### B1-31 Apartment Renovation (旧 F-22)
+### B1-31 Apartment Renovation
 
 **場面:** Frank のアパート。インテリアデザイナーと改装の打ち合わせ。
 
@@ -1065,7 +1065,7 @@
 13. **Designer**: [smiling] Good instinct. Trust me — you'll love how it turns out.
     **デザイナー**: いい勘です。きっと仕上がりを気に入りますよ。
 
-### B1-32 Office Crush (旧 U-11)
+### B1-32 Office Crush
 
 **場面:** いつものカフェ。Tina が職場の片思いについて打ち明けている。
 
@@ -1099,7 +1099,7 @@
 13. **Tina**: [wry] Tell my heart that. It didn't get the memo yet.
     **ティナ**: それを私の心に言ってよ。まだ連絡が届いてないみたい。
 
-### B1-33 Wine Tasting (旧 F-20)
+### B1-33 Wine Tasting
 
 **場面:** ワインの試飲会。ソムリエが進行している。
 
@@ -1133,7 +1133,7 @@
 13. **Sommelier**: [pleased] Excellent. Tell your refined friend the mountain says thank you.
     **ソムリエ**: 素晴らしい。味覚の鋭いご友人に、山がお礼を言っていたとお伝えください。
 
-### B1-34 Job Interview Disaster (旧 U-08)
+### B1-34 Job Interview Disaster
 
 **場面:** Frank の部屋。Tina が散々だった面接から戻ってきた。
 
@@ -1167,7 +1167,7 @@
 13. **Tina**: [sighing] Next time I'll just listen first. Revolutionary, I know.
     **ティナ**: 次は、まず聞くことにする。画期的でしょ、分かってる。
 
-### B1-35 Job Reference Call (旧 F-24)
+### B1-35 Job Reference Call
 
 **場面:** Frank のオフィス。採用担当者から、元部下についての照会電話。
 
@@ -1203,7 +1203,7 @@
 13. **Hiring**: Thank you — that was genuinely helpful.
     **採用担当**: ありがとうございます。本当に助かりました。
 
-### B1-36 Group Project Hell (旧 U-12)
+### B1-36 Group Project Hell
 
 **場面:** いつものカフェ。Frank がグループ課題の惨事を語っている。
 
@@ -1237,7 +1237,7 @@
 13. **Frank**: [flatly] No more trusting the "most reliable" guy. Lesson learned.
     **フランク**: もう「一番頼れる」やつは信じない。いい勉強になったよ。
 
-### B1-37 Court Witness (旧 F-10)
+### B1-37 Court Witness
 
 **場面:** 法廷。Tina が証人として尋問を受けている。
 
@@ -1271,7 +1271,7 @@
 13. **Lawyer**: Thank you. That's all for now.
     **弁護士**: ありがとうございます。今のところ以上です。
 
-### B1-38 Hangover Regrets (旧 U-22)
+### B1-38 Hangover Regrets
 
 **場面:** Tina のアパート。パーティーの翌朝、ひどい二日酔い。
 
@@ -1305,7 +1305,7 @@
 13. **Tina**: [weakly] Tell past me I said thanks. She won't listen, but try.
     **ティナ**: 昨日の私に、ありがとうって伝えて。聞かないだろうけど、一応ね。
 
-### B1-39 Public Transport Complaint (旧 F-21)
+### B1-39 Public Transport Complaint
 
 **場面:** 交通当局の窓口。Tina が電車の遅延に苦情を言っている。
 
@@ -1339,7 +1339,7 @@
 13. **Tina**: [decisive] Sign me up. Turns out I have a lot to say.
     **ティナ**: 申し込みます。私、言いたいことが山ほどあるみたい。
 
-### B1-40 Career Change Talk (旧 U-17)
+### B1-40 Career Change Talk
 
 **場面:** いつものカフェ。Tina が転職のオファーをめぐって Frank に相談している。
 
@@ -1373,7 +1373,7 @@
 13. **Tina**: [softly] Then sleep on yours. I'll go for mine. Deal?
     **ティナ**: なら、あなたのは一晩考えて。私は私のに挑む。それでいい？
 
-### B1-41 Resigning from a Job (旧 F-17)
+### B1-41 Resigning from a Job
 
 **場面:** 上司のオフィス。Frank が退職を切り出す。
 
@@ -1407,7 +1407,7 @@
 13. **Frank**: [quietly] It's hard to leave. But I know it's right.
     **フランク**: 去るのは寂しいです。でも、正しいとわかっているので。
 
-### B1-42 Diet Failures (旧 U-20)
+### B1-42 Diet Failures
 
 **場面:** Frank の部屋。Tina がダイエットの言い訳を並べる。
 
@@ -1441,7 +1441,7 @@
 13. **Tina**: See? If pizza fed the soul, doctors would prescribe it.
     **ティナ**: でしょ？ピザが魂を満たすなら、医者が処方するはずよ。
 
-### B1-43 Hospital Discharge (旧 F-12)
+### B1-43 Hospital Discharge
 
 **場面:** 病室。Frank が退院する。
 
@@ -1475,7 +1475,7 @@
 13. **Doctor**: Take care. And let her bring the soup.
     **医者**: お大事に。スープは持ってきてもらいなさい。
 
-### B1-44 Quitting Social Media (旧 U-21)
+### B1-44 Quitting Social Media
 
 **場面:** Tina の部屋。机の上に星図。Tina がインスタを消すか迷う。
 
@@ -1509,7 +1509,7 @@
 13. **Tina**: [softly] Maybe then I'll hear home a little more clearly.
     **ティナ**: そうしたら、故郷の声がもう少しはっきり聞こえるかもね。
 
-### B1-45 Restaurant Review (旧 F-23)
+### B1-45 Restaurant Review
 
 **場面:** レストランを出た直後。二人でレビューを相談。
 
@@ -1543,7 +1543,7 @@
 13. **Frank**: Five. They earned every one.
     **フランク**: 5つ。一つ残らず、文句なしだ。
 
-### B1-46 Reunion After Years (旧 U-24)
+### B1-46 Reunion After Years
 
 **場面:** カフェ。Tina が5年ぶりに会った親友の話をする。
 
@@ -1577,7 +1577,7 @@
 13. **Tina**: [quietly] Maybe if I'd reached out sooner, it wouldn't still ache like this.
     **ティナ**: もっと早く連絡していたら、今もこんなに胸が痛まなかったのかもね。
 
-### B1-47 Counselling Session (旧 F-25)
+### B1-47 Counselling Session
 
 **場面:** カウンセリングルーム。Tina が初めて訪れる。
 
@@ -1611,7 +1611,7 @@
 13. **Counsellor**: We'll go at your pace. I'll be right here.
     **カウンセラー**: あなたのペースで進めましょう。私はここにいますから。
 
-### B1-48 Friend's Bad Decision (旧 U-23)
+### B1-48 Friend's Bad Decision
 
 **場面:** Frank の部屋。Tina が心配している友達の話をする。
 
@@ -1645,7 +1645,7 @@
 13. **Tina**: [quietly] So I'll wait. And I'll keep the door open.
     **ティナ**: だから待つわ。そして、ドアは開けておく。
 
-### B1-49 Press Conference (旧 F-26)
+### B1-49 Press Conference
 
 **場面:** 記者会見場。Frank が実験室安全方針を発表。Tina は後列。
 
@@ -1679,7 +1679,7 @@
 13. **Frank**: [glancing toward the back] A few small details. But the foundation is solid — and I had good people behind me.
     **フランク**: 細かな点がいくつか。でも土台は固いです。それに、いい仲間が後ろにいてくれましたから。
 
-### B1-50 Late Night Existential Crisis (旧 U-25)
+### B1-50 Late Night Existential Crisis
 
 **場面:** 真夜中。Tina が眠れず哲学を始める。
 
@@ -1713,7 +1713,7 @@
 13. **Tina**: [yawning] Fine. If sleep solves everything, tomorrow's problem is tomorrow.
     **ティナ**: わかったわ。睡眠が全部解決するなら、明日のことは明日ね。
 
-### B1-51 Stars and Stitches (旧 U-26)
+### B1-51 Stars and Stitches
 
 **場面:** 夜更け。外の階段。二人で空を見上げる。
 
@@ -1747,7 +1747,7 @@
 13. **Tina**: If we were ordinary, we wouldn't be out here asking any of this.
     **ティナ**: もし私たちが普通だったら、外に出てこんなこと聞いたりしないわよね。
 
-### B1-52 Tax Advice (旧 F-27)
+### B1-52 Tax Advice
 
 **場面:** 会計士のオフィス。Frank が確定申告の相談。
 
@@ -1781,7 +1781,7 @@
 13. **Accountant**: Good. We'll get this into proper shape.
     **会計士**: いいですね。きちんと整えましょう。
 
-### B1-53 Frank Actually Cries (旧 U-27)
+### B1-53 Frank Actually Cries
 
 **場面:** 映画を見終えた直後の部屋。
 
@@ -1815,7 +1815,7 @@
 13. **Tina**: [gently] I think you should. And you don't have to go alone.
     **ティナ**: 行ったほうがいいと思う。それに、一人で行かなくていいのよ。
 
-### B1-54 Charity Event Speech (旧 F-15)
+### B1-54 Charity Event Speech
 
 **場面:** チャリティーイベント。大勢の前で二人が交代でスピーチ。
 
@@ -1849,7 +1849,7 @@
 13. **Frank**: And what we build, starting tonight, people will remember for years.
     **フランク**: そして今夜から私たちが築くものは、これから先もずっと、人々の心に残ります。
 
-### B1-55 The Outfit Intervention (旧 U-28)
+### B1-55 The Outfit Intervention
 
 **場面:** Frank の部屋。Tina が新しいジャケットを持って現れる。
 
@@ -1883,7 +1883,7 @@
 13. **Tina**: If I'd known one jacket could do this, I'd have bought you one years ago.
     **ティナ**: ジャケット一着でこうなるって知ってたら、何年も前に買ってあげてたわ。
 
-### B1-56 Speech at a Wedding (旧 F-28)
+### B1-56 Speech at a Wedding
 
 **場面:** 結婚式。Frank と Tina が交代でスピーチ。
 
@@ -1917,7 +1917,7 @@
 13. **Frank and Tina**: [together] Cheers!
     **フランクとティナ**: 乾杯！
 
-### B1-57 A Letter from the Doctor (旧 F-30)
+### B1-57 A Letter from the Doctor
 
 **場面:** Frank の部屋。手紙を前に1時間考え込んだ後、Tina に切り出す。
 
@@ -1951,7 +1951,7 @@
 13. **Frank**: [quietly] I know. That part, at least, has always been clear.
     **フランク**: わかってる。少なくともその部分だけは、ずっと確かだった。
 
-### B1-58 Year-End Review Meeting (旧 F-29)
+### B1-58 Year-End Review Meeting
 
 **場面:** 上司のオフィス。Frank の年度末レビュー。
 
@@ -1985,7 +1985,7 @@
 13. **Boss**: You always do. It was a good year, Frank.
     **上司**: 君はいつもそうだ。いい一年だったよ、フランク。
 
-### B1-59 Tina's Homesick Morning (旧 F-31)
+### B1-59 Tina's Homesick Morning
 
 **場面:** Tina の部屋の朝。壁に星図。Frank がコーヒーを持って立ち寄る。
 
@@ -2019,7 +2019,7 @@
 13. **Frank**: [gently] I'll always come. And I'll always bring coffee.
     **フランク**: いつでも来るよ。コーヒーも、いつでも持ってくる。
 
-### B1-60 The First Real Fight (旧 U-29)
+### B1-60 The First Real Fight
 
 **場面:** Tina が土曜の予定をまた土壇場でキャンセルした後。Frank は2日黙っていた。
 
