@@ -162,7 +162,7 @@
 
 ### A1-07 My Room
 
-**場面:** ティナの部屋。同じアパートの別部屋に住むフランクが、初めて中を訪れる。
+**場面:** ティナの部屋。
 
 **Narrator**: Frank and Tina live in the same building, in different rooms. Today Frank visits Tina's room for the first time.
 **ナレーター**: フランクとティナは同じ建物の別々の部屋に住んでいる。今日、フランクは初めてティナの部屋を訪れる。
@@ -264,7 +264,7 @@
 
 ### A1-11 In the Classroom
 
-**場面:** 授業前の教室。二人だけ。
+**場面:** 授業前の教室。
 
 **Narrator**: Frank and Tina are in the classroom. Class has not started.
 **ナレーター**: フランクとティナは教室にいる。授業はまだ始まっていない。
@@ -292,7 +292,7 @@
 
 ### A1-12 OMG, New Phone!
 
-**場面:** 教室の隅。フランクの新しいスマホ。
+**場面:** 教室の隅。
 
 **Narrator**: Frank has a new phone. Tina sees it.
 **ナレーター**: フランクは新しいスマホを持っている。ティナがそれを見つける。
@@ -370,7 +370,7 @@
 
 ### A1-15 Chill Day
 
-**場面:** 休日。フランクがティナに電話。
+**場面:** 休日。
 
 **Narrator**: It is a day off. Frank calls Tina. She is at home.
 **ナレーター**: 休日だ。フランクはティナに電話をかける。彼女は家にいる。
@@ -398,7 +398,7 @@
 
 ### A1-16 At the Library
 
-**場面:** 図書館。本を探す。
+**場面:** 図書館。
 
 **Narrator**: Frank and Tina are at the library. Frank needs a book for class.
 **ナレーター**: フランクとティナは図書館にいる。フランクは授業のために本が必要だ。
@@ -424,7 +424,7 @@
 
 ### A1-17 At the Supermarket
 
-**場面:** スーパー。ティナが果物を買う。
+**場面:** スーパー。
 
 **Narrator**: Tina is buying fruit. Frank is with her.
 **ナレーター**: ティナは果物を買っている。フランクも一緒だ。
@@ -452,7 +452,7 @@
 
 ### A1-18 This Is So Cute!
 
-**場面:** おもちゃ屋。ティナがクマを発見。
+**場面:** おもちゃ屋。
 
 **Narrator**: Frank and Tina are in a toy shop. Tina finds a small bear.
 **ナレーター**: フランクとティナはおもちゃ屋にいる。ティナは小さなクマを見つける。
@@ -478,7 +478,7 @@
 
 ### A1-19 I Want a Pencil
 
-**場面:** 文房具店。ティナは外で待つ。
+**場面:** 文房具店。
 
 **Narrator**: Frank is buying school supplies. Tina waits outside.
 **ナレーター**: フランクは学用品を買っている。ティナは外で待っている。
@@ -495,7 +495,7 @@
    **店員**: 2ドルになります。
 5. **Frank**: Here you are. Thank you.
    **フランク**: はい、どうぞ。ありがとう。
-6. **Tina**: [bursting in] Frank! You're back! What did you get?
+6. **Tina**:  Frank! You're back! What did you get?
    **ティナ**: フランク！戻ってきたのね！何を買ったの？
 7. **Frank**: A pencil. And a small notebook.
    **フランク**: 鉛筆。それと小さなノート。
@@ -563,7 +563,7 @@
 
 ### A1-22 My Hobby
 
-**場面:** 放課後の教室。趣味の話。
+**場面:** 放課後の教室。
 
 **Narrator**: Frank and Tina are talking about hobbies after class.
 **ナレーター**: フランクとティナは放課後、趣味について話している。
@@ -590,7 +590,7 @@
 
 ### A1-23 Weekend Plans
 
-**場面:** 金曜日、教室で週末の予定。
+**場面:** 教室で週末の予定。
 
 **Narrator**: It is Friday. Frank and Tina talk about the weekend.
 **ナレーター**: 金曜日だ。フランクとティナは週末について話している。
@@ -616,7 +616,7 @@
 
 ### A1-24 Snack Attack
 
-**場面:** 深夜。フランクが自室に帰る前、ティナがお菓子を食べたがる。
+**場面:** 深夜。
 
 **Narrator**: It is midnight. Frank is visiting, but it is late. He wants Tina to sleep before he goes back to his room.
 **ナレーター**: 真夜中だ。フランクは遊びに来ているが、もう遅い。彼は自分の部屋に帰る前に、ティナに寝てほしい。
@@ -643,7 +643,7 @@
 
 ### A1-25 Birthday Party
 
-**場面:** 学校。ティナが誕生日パーティーに招待する。
+**場面:** ティナが誕生日パーティーに招待する。
 
 **Narrator**: Tina is planning her birthday party. She invites Frank.
 **ナレーター**: ティナは誕生日パーティーを計画している。彼女はフランクを招待する。
@@ -669,7 +669,7 @@
 
 ### A1-26 Today's Weather
 
-**場面:** 寒い日、外。フランクはコートを忘れた。
+**場面:** 寒い日。
 
 **Narrator**: It is a cold day. Frank and Tina are outside. Frank forgot his coat.
 **ナレーター**: 寒い日だ。フランクとティナは外にいる。フランクはコートを忘れてきた。
@@ -697,7 +697,7 @@
 
 ### A1-27 I'm Bored
 
-**場面:** 休みの日、ティナが退屈している。
+**場面:** 休みの日。
 
 **Narrator**: Tina has nothing to do today. Frank tries to help.
 **ナレーター**: ティナは今日何もすることがない。フランクは手助けしようとする。
@@ -725,7 +725,7 @@
 
 ### A1-28 I Have a Cold
 
-**場面:** ティナが風邪。フランクが電話する。
+**場面:** ティナが風邪。
 
 **Narrator**: Tina is sick today. Frank calls to check on her.
 **ナレーター**: ティナは今日具合が悪い。フランクは様子を確認するために電話する。
@@ -755,7 +755,7 @@
 
 ### A1-29 At the Hair Salon
 
-**場面:** 美容院。ティナが新しい髪型に。
+**場面:** ティナが新しい髪型に。
 
 **Narrator**: Tina is at a hair salon. Frank is waiting nearby.
 **ナレーター**: ティナは美容院にいる。フランクは近くで待っている。
@@ -781,7 +781,7 @@
 
 ### A1-30 New Sneakers!
 
-**場面:** ティナが新しいスニーカーを見せびらかす。
+**場面:** 新しいスニーカーを見せびらかす。
 
 **Narrator**: Tina bought new sneakers. She shows Frank.
 **ナレーター**: ティナは新しいスニーカーを買った。フランクに見せる。
@@ -807,7 +807,7 @@
 
 ### A1-31 Asking Directions
 
-**場面:** 知らない街。ティナが駅への道を尋ねる。
+**場面:** 知らない街。
 
 **Narrator**: Tina and Frank are in a new place. Tina asks a stranger for directions.
 **ナレーター**: ティナとフランクは初めての場所にいる。ティナは見知らぬ人に道を尋ねる。
@@ -835,7 +835,7 @@
 
 ### A1-32 At the Restaurant
 
-**場面:** レストラン。二人で注文する。
+**場面:** レストラン。
 
 **Narrator**: Frank and Tina are at a restaurant. A waiter comes to their table.
 **ナレーター**: フランクとティナはレストランにいる。ウェイターがテーブルに来る。
@@ -863,7 +863,7 @@
 
 ### A1-33 Cafe Time
 
-**場面:** お気に入りのカフェ。いつもの席。
+**場面:** お気に入りのカフェ。
 
 **Narrator**: Frank and Tina are at their favorite cafe. They always sit at the same table.
 **ナレーター**: フランクとティナはお気に入りのカフェにいる。二人はいつも同じテーブルに座る。
@@ -921,7 +921,7 @@
 
 ### A1-35 Test Tomorrow
 
-**場面:** テスト前夜。ティナがパニック。
+**場面:** テスト前夜。
 
 **Narrator**: There is a big test tomorrow. Tina is not ready. Frank wants to help.
 **ナレーター**: 明日大きなテストがある。ティナは準備ができていない。フランクは手伝いたい。
@@ -949,7 +949,7 @@
 
 ### A1-36 I Failed
 
-**場面:** テストが返ってきた。ティナが落ち込む。
+**場面:** テストが返ってきた。
 
 **Narrator**: Tina got her test back. She did not pass. She is worried about telling her mom.
 **ナレーター**: ティナはテストが返ってきた。合格しなかった。お母さんに伝えることを心配している。
@@ -979,7 +979,7 @@
 
 ### A1-37 Asking for Help
 
-**場面:** 図書館。フランクが本を探す。
+**場面:** 図書館。
 
 **Narrator**: Frank is at the library. He cannot find a book. He asks a staff member.
 **ナレーター**: フランクは図書館にいる。本が見つからない。彼は職員に尋ねる。
@@ -1007,7 +1007,7 @@
 
 ### A1-38 Lost and Found
 
-**場面:** 遺失物センター。ティナが鍵をなくした。
+**場面:** 遺失物センター。
 
 **Narrator**: Tina lost her key this morning. She goes to the lost and found.
 **ナレーター**: ティナは今朝、鍵をなくした。彼女は遺失物センターへ行く。
@@ -1035,7 +1035,7 @@
 
 ### A1-39 Gossip Time
 
-**場面:** 教室。ティナが噂話をしたがる。
+**場面:** ティナが噂話をしたがる。
 
 **Narrator**: Tina has fresh news. Frank is not interested in gossip.
 **ナレーター**: ティナには新しいニュースがある。フランクは噂話に興味がない。
@@ -1063,7 +1063,7 @@
 
 ### A1-40 Shopping for Clothes
 
-**場面:** 服屋。ティナが試着する。
+**場面:** 服屋。
 
 **Narrator**: Tina is shopping for clothes. She finds a dress she likes.
 **ナレーター**: ティナは服を買いに来ている。気に入ったワンピースを見つける。
@@ -1091,7 +1091,7 @@
 
 ### A1-41 Crush Talk
 
-**場面:** カフェ。ティナが好きな人の話を打ち明ける。
+**場面:** カフェ。
 
 **Narrator**: Frank and Tina are at the cafe. Tina has something to tell him.
 **ナレーター**: フランクとティナはカフェにいる。ティナは彼に話したいことがある。
@@ -1119,7 +1119,7 @@
 
 ### A1-42 Asking About a Job
 
-**場面:** 店先。ティナがアルバイトの求人に応募する。
+**場面:** 店先。
 
 **Narrator**: Tina sees a "Help Wanted" sign. She talks to the manager.
 **ナレーター**: ティナは「アルバイト募集」の貼り紙を見つける。彼女は店長と話す。
@@ -1149,7 +1149,7 @@
 
 ### A1-43 A New Neighbor
 
-**場面:** アパートの廊下。引っ越してきた隣人に会う。
+**場面:** アパートの廊下。
 
 **Narrator**: Frank and Tina meet their new neighbor. She moved in today.
 **ナレーター**: フランクとティナは新しい隣人に会う。彼女は今日引っ越してきた。
@@ -1179,7 +1179,7 @@
 
 ### A1-44 School Trip Plans
 
-**場面:** 教室。3日後の修学旅行の相談。
+**場面:** 教室。
 
 **Narrator**: The school trip to New York is in three days. Frank and Tina are planning.
 **ナレーター**: ニューヨークへの修学旅行は3日後だ。フランクとティナは計画を立てている。
@@ -1207,7 +1207,7 @@
 
 ### A1-45 School Festival
 
-**場面:** 学校の文化祭。出店がたくさん並んでいる。
+**場面:** 学校の文化祭。
 
 **Narrator**: Frank and Tina are at the school festival. There are many booths.
 **ナレーター**: フランクとティナは学校の文化祭にいる。たくさんの出店がある。
@@ -1237,7 +1237,7 @@
 
 ### A1-46 Movie Night
 
-**場面:** ティナの部屋のソファ。怖い映画を見る夜。
+**場面:** ティナの部屋のソファ。
 
 **Narrator**: It is movie night at Tina's place. Tina picked a scary movie. Both say they are brave.
 **ナレーター**: ティナの部屋で映画の夜。ティナは怖い映画を選んだ。二人とも勇敢だと言っている。
@@ -1266,7 +1266,7 @@
 
 ### A1-47 Ordering Coffee
 
-**場面:** カフェのカウンター。ティナがコーヒーを注文する。
+**場面:** カフェのカウンター。
 
 **Narrator**: Tina is at the cafe counter. A barista takes her order.
 **ナレーター**: ティナはカフェのカウンターにいる。バリスタが注文を取る。
@@ -1296,7 +1296,7 @@
 
 ### A1-48 At the Post Office
 
-**場面:** 日本旅行前。自宅近くの郵便局で、フランクが日本へ箱を送る。
+**場面:** 自宅近くの郵便局。
 
 **Narrator**: Before his trip to Japan, Frank is at a post office near home. He has a box to send to Japan.
 **ナレーター**: 日本旅行の前、フランクは自宅近くの郵便局にいる。日本へ送る箱を持っている。
@@ -1324,7 +1324,7 @@
 
 ### A1-49 Karaoke!
 
-**場面:** いつもの町のカラオケルームで、フランクは歌わないと言い張る。
+**場面:** いつもの町のカラオケルーム。
 
 **Narrator**: Tina and Frank are in a karaoke room near home. Tina loves to sing. Frank does not.
 **ナレーター**: ティナとフランクは自宅近くのカラオケルームにいる。ティナは歌うのが大好き。フランクは違う。
@@ -1353,7 +1353,7 @@
 
 ### A1-50 Hotel Check-in
 
-**場面:** 夜のホテルのフロント。フランクがチェックインする。
+**場面:** 夜のホテルのフロント。
 
 **Narrator**: Frank arrives at a hotel at night. He has a reservation for one night.
 **ナレーター**: フランクは夜にホテルに着く。1泊の予約をしている。
@@ -1383,7 +1383,7 @@
 
 ### A1-51 Buying Souvenirs
 
-**場面:** 東京のお土産屋で、ティナがフランクへの小さなお土産を選ぶ。
+**場面:** お土産屋。
 
 **Narrator**: Tina is at a souvenir shop in Tokyo. She wants a gift for a friend.
 **ナレーター**: ティナは東京のお土産屋にいる。友達へのお土産を買いたい。
@@ -1403,7 +1403,7 @@
 7. **Tina**: [holding it out to him] For you. I want one part of our trip to stay here.
    **ティナ**: あなたに。二人の旅の一部を、ここに残したいの。
 8. **Frank**: [quietly] With me?
-   **フランク**: 僕のところに？
+   **フランク**: 僕に？
 9. **Tina**: If you want it.
    **ティナ**: もらってくれるなら。
 10. **Frank**: [taking it carefully, deadpan] Someone has to guard it.
@@ -1411,7 +1411,7 @@
 
 ### A1-52 Calling a Doctor
 
-**場面:** 東京のホテルの部屋から、医院に予約の電話をかける。
+**場面:** ホテルの部屋。
 
 **Narrator**: Frank has a small problem during the trip. He calls a doctor's office in Tokyo.
 **ナレーター**: 旅行中、フランクはちょっとした問題がある。東京の医院に電話する。
@@ -1499,7 +1499,7 @@
 
 ### A1-55 Buying a Train Ticket
 
-**場面:** フランクが京都への日帰り旅行の切符を買う。
+**場面:** 旅行の切符を買う。
 
 **Narrator**: Frank is at the ticket counter in Tokyo. He wants two round-trip tickets to Kyoto for a day trip with Tina.
 **ナレーター**: フランクは東京駅の切符売り場にいる。ティナと京都へ日帰りで行くため、二人分の往復切符を買いたい。
@@ -1527,7 +1527,7 @@
 
 ### A1-56 At the Bank
 
-**場面:** ティナが余った円をドルに両替する。
+**場面:** 両替する。
 
 **Narrator**: On the last day of the trip, Tina is at a bank counter in a Tokyo airport. She wants to exchange her remaining yen for dollars before going home.
 **ナレーター**: 旅行最終日、ティナは東京の空港内にある銀行窓口にいる。帰国前に、余った円をドルに両替したい。
@@ -1555,7 +1555,7 @@
 
 ### A1-57 See You Tomorrow
 
-**場面:** いつもの帰り道で、明日の約束をする。
+**場面:** 明日の約束をする。
 
 **Narrator**: Frank and Tina say goodbye. They will meet again tomorrow.
 **ナレーター**: フランクとティナは別れの挨拶をする。明日また会う予定だ。
@@ -1583,7 +1583,7 @@
 
 ### A1-58 Taking a Taxi
 
-**場面:** 見知らぬ街のタクシー。フランクがホテルへ向かう。
+**場面:** 見知らぬ街のタクシー。
 
 **Narrator**: Frank is in a new city. He gets into a taxi.
 **ナレーター**: フランクは見知らぬ街にいる。彼はタクシーに乗り込む。
@@ -1638,12 +1638,12 @@
    **ティナ**: 10分したら、お別れね。
 9. **Frank**: [touching the small souvenir hanging from his bag] Then walk slowly. See? I keep your gift with me.
    **フランク**: それなら、ゆっくり歩こう。ほら、君にもらったお土産は、いつも僕と一緒だ。
-10. **Tina**: [voice small] You kept it. [beat] Walk me to gate four. Not five.
+10. **Tina**: [voice small] You kept it. [wanting more time with him] Walk me to gate four. Not five.
     **ティナ**: 取っておいてくれたのね。4番ゲートまで送って。5番じゃなく。
 
 ### A1-60 Saying Goodbye
 
-**場面:** 搭乗ゲートの前。A1 のフィナーレ、別れ。
+**場面:** 搭乗ゲートの前。
 
 **Narrator**: It is time for Tina to leave. This is the gate. Frank came to say goodbye.
 **ナレーター**: ティナが旅立つ時が来た。ここが搭乗ゲートだ。フランクは別れを告げに来た。
