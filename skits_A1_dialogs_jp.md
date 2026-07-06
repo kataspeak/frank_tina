@@ -134,12 +134,10 @@
 
 ### A1-06 I Hate Mondays
 
-**場面:** 月曜の朝、駅のホーム。
+**場面:** 月曜の朝、学校へ向かう道。
 
-**Narrator**: It is Monday morning. Frank and Tina are at the station.
-**ナレーター**: 月曜の朝。フランクとティナは駅にいる。
-
-`[SFX: train announcement]`
+**Narrator**: It is Monday morning. Frank and Tina are heading to school.
+**ナレーター**: 月曜の朝。フランクとティナは学校へ向かっている。
 
 1. **Tina**: [groans] Ugh, I hate Mondays!
    **ティナ**: うう、月曜日って大嫌い！
@@ -155,7 +153,7 @@
    **フランク**: 僕は早起きが大好きだよ。静かだからね。
 7. **Tina**: [exasperated] Quiet?! Frank, I love sleep!
    **ティナ**: 静か？！フランク、私は寝るのが大好きなの！
-8. **Frank**: [deadpan] My first Monday, I was switched on. I do not complain.
+8. **Frank**: [deadpan] Monday is the day I was switched on. I do not complain.
    **フランク**: 僕は月曜に、スイッチを入れられたんだ。文句は言わないよ。
 9. **Tina**: [pause] ...Okay, you win this one.
    **ティナ**: …わかった、今回はあなたの勝ち。
@@ -1044,8 +1042,8 @@
    **ティナ**: 聞いた？マイクがアナのことを好きなんですって！
 2. **Frank**: I do not know them well.
    **フランク**: 僕はあの二人をよく知らない。
-3. **Tina**: How? They're our classmates!
-   **ティナ**: どうして？クラスメートよ！
+3. **Tina**: How? They're our schoolmates!
+   **ティナ**: どうして？同じ学校の子たちよ！
 4. **Frank**: I do not follow gossip.
    **フランク**: 僕は噂話を追いかけない。
 5. **Tina**: But it's so interesting!
