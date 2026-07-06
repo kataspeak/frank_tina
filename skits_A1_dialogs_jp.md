@@ -4,6 +4,7 @@
 > ※ 配置はプレイ順の通し番号 `A1-01〜A1-60`。
 > ※ 各英文の下に日本語訳。演技指示 `[tag]` と効果音 `[SFX: ...]` は英語行のみ（日本語訳には付けない）。
 > ※ 編集方針は `skits_sitcom_style_guide.md`、配置・対応表は `skits_arrangement.md`、時系列は `frank_and_tina_timeline.md`。
+> ※ 生活設定: Frank と Tina は同じアパートの別々の部屋に住む隣人（同居ではない）。この設定は A1-07 で作中確立。
 
 ---
 
@@ -161,15 +162,15 @@
 
 ### A1-07 My Room
 
-**場面:** ティナの部屋。フランク初訪問。
+**場面:** ティナの部屋。同じアパートの別部屋に住むフランクが、初めて中を訪れる。
 
-**Narrator**: Frank visits Tina's room for the first time.
-**ナレーター**: フランクは初めてティナの部屋を訪れる。
+**Narrator**: Frank and Tina live in the same building, in different rooms. Today Frank visits Tina's room for the first time.
+**ナレーター**: フランクとティナは同じ建物の別々の部屋に住んでいる。今日、フランクは初めてティナの部屋を訪れる。
 
-1. **Tina**: Welcome to my room, Frank!
-   **ティナ**: 私の部屋へようこそ、フランク！
-2. **Frank**: Wow. It is very... pink.
-   **フランク**: わあ。とても…ピンクだね。
+1. **Tina**: Welcome to my room, Frank! We live in the same building, but you never visit!
+   **ティナ**: 私の部屋へようこそ、フランク！同じ建物に住んでるのに、全然来ないんだから！
+2. **Frank**: My room is just down the hall. This is my first time inside. Wow. It is very... pink.
+   **フランク**: 僕の部屋は廊下のすぐ先だよ。中に入るのは初めてだ。わあ。とても…ピンクだね。
 3. **Tina**: [proud] Pink everywhere! Bed, books, lamp, wall!
    **ティナ**: どこもかしこもピンク！ベッド、本、ランプ、壁！
 4. **Frank**: [points] Oh. A star map. That is not pink.
@@ -239,10 +240,10 @@
 
 ### A1-10 Breakfast Time
 
-**場面:** 朝食のテーブル。
+**場面:** カフェの朝食。
 
-**Narrator**: Frank and Tina are having breakfast.
-**ナレーター**: フランクとティナは朝食をとっている。
+**Narrator**: Frank and Tina are having breakfast together at a cafe.
+**ナレーター**: フランクとティナはカフェで一緒に朝食をとっている。
 
 1. **Frank**: I usually eat bread and eggs.
    **フランク**: 僕はたいていパンと卵を食べるんだ。
@@ -615,10 +616,10 @@
 
 ### A1-24 Snack Attack
 
-**場面:** 深夜。ティナがお菓子を食べたがる。
+**場面:** 深夜。フランクが自室に帰る前、ティナがお菓子を食べたがる。
 
-**Narrator**: It is midnight. Tina is still awake. Frank wants her to sleep.
-**ナレーター**: 真夜中だ。ティナはまだ起きている。フランクは彼女に寝てほしい。
+**Narrator**: It is midnight. Frank is visiting, but it is late. He wants Tina to sleep before he goes back to his room.
+**ナレーター**: 真夜中だ。フランクは遊びに来ているが、もう遅い。彼は自分の部屋に帰る前に、ティナに寝てほしい。
 
 1. **Tina**: [whispers] Frank. Frank. I want chips.
    **ティナ**: フランク。フランク。ポテトチップスが食べたいの。
@@ -1236,10 +1237,10 @@
 
 ### A1-46 Movie Night
 
-**場面:** 家のソファ。怖い映画を見る夜。
+**場面:** ティナの部屋のソファ。怖い映画を見る夜。
 
-**Narrator**: It is movie night at home. Tina picked a scary movie. Both say they are brave.
-**ナレーター**: 家で映画の夜。ティナは怖い映画を選んだ。二人とも勇敢だと言っている。
+**Narrator**: It is movie night at Tina's place. Tina picked a scary movie. Both say they are brave.
+**ナレーター**: ティナの部屋で映画の夜。ティナは怖い映画を選んだ。二人とも勇敢だと言っている。
 
 1. **Tina**: Let's watch a scary movie!
    **ティナ**: 怖い映画を見ましょう！
