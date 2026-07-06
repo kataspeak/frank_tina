@@ -962,12 +962,12 @@
    **フランク**: テスト1つで終わりじゃない。
 5. **Tina**: [worried] But my mom will be angry.
    **ティナ**: でもお母さんが怒るわ。
-6. **Frank**: Tell her the truth.
-   **フランク**: 本当のことを話しなよ。
+6. **Frank**: Call her. Tell her the truth.
+   **フランク**: 電話して。本当のことを話しなよ。
 7. **Tina**: It's so hard to say.
    **ティナ**: 言うのがすごく難しいの。
-8. **Frank**: Then I will go with you.
-   **フランク**: それなら僕が一緒に行くよ。
+8. **Frank**: Then I will sit next to you.
+   **フランク**: それなら僕が隣に座っているよ。
 9. **Tina**: [surprised] Really? You'd do that?
    **ティナ**: 本当？そうしてくれるの？
 10. **Frank**: [deadpan] I have no mother to be angry at me. I can borrow yours.
@@ -1630,8 +1630,8 @@
    **係官**: 手続き完了です。5番ゲート、通路の先です。
 6. **Tina**: How long to walk there?
    **ティナ**: そこまで歩いてどれくらい？
-7. **Staff**: About ten minutes.
-   **係員**: 10分ほどです。
+7. **Officer**: About ten minutes.
+   **係官**: 10分ほどです。
 8. **Tina**: [turning to Frank] Ten minutes. Then I go.
    **ティナ**: 10分したら、お別れね。
 9. **Frank**: [touching the small souvenir hanging from his bag] Then walk slowly. See? I keep your gift with me.
