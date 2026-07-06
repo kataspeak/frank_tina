@@ -601,8 +601,8 @@
    **ティナ**: 読書？また？あなたはいつも読書ね！
 4. **Frank**: Books make me happy.
    **フランク**: 本は僕を幸せにしてくれるんだ。
-5. **Tina**: What movie will you see? Mine is a space movie!
-   **ティナ**: あなたは何の映画を見るの？私のは宇宙の映画よ！
+5. **Tina**: Movies are way more fun than books! I'm watching a space movie.
+   **ティナ**: 本なんかより、映画のほうがずっと楽しいわよ。宇宙の映画をみるつもり。
 6. **Frank**: Space. So it reminds you of home.
    **フランク**: 宇宙。じゃあ故郷を思い出すんだね。
 7. **Tina**: [warmly] Yeah! The aliens look just like my family.
