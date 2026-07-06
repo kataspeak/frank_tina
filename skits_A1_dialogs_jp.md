@@ -67,7 +67,7 @@
 
 1. **Tina**: [dramatic] I'm soooo hungry! I need food now!
    **ティナ**: お腹ぺこぺこ〜！今すぐ食べなきゃ！
-2. **Frank**: Calm down. Let's get in line.
+2. **Frank**: Calm down. We should get in line.
    **フランク**: 落ち着いて。列に並ぼう。
 3. **Tina**: [weak] I'm so weak... so tired... so hungry.
    **ティナ**: 力が出ない…すごく疲れた…お腹空いた。
@@ -121,9 +121,9 @@
    **フランク**: 君にはお母さんがいるんだね。僕には両親がいない。
 3. **Tina**: [softly] Oh. I'm sorry.
    **ティナ**: あら。ごめんなさい。
-4. **Frank**: It is okay. A doctor made me.
+4. **Frank**: It is okay. A doctor built me.
    **フランク**: いいんだ。博士が僕を作ったんだよ。
-5. **Tina**: [gasps] A doctor made you? So... he is your dad?
+5. **Tina**: [gasps] A doctor built you? So... he is your dad?
    **ティナ**: 博士があなたを作ったの？じゃあ…彼があなたのお父さん？
 6. **Frank**: [pause] ...I never thought of that. He is kind. Like a father.
    **フランク**: …そんなふうに考えたことはなかった。彼は優しい。父親みたいだ。
@@ -493,7 +493,7 @@
    **店員**: 2ドルになります。
 5. **Frank**: Here you are. Thank you.
    **フランク**: はい、どうぞ。ありがとう。
-6. **Tina**:  Frank! You're back! What did you get?
+6. **Tina**: Frank! You're back! What did you get?
    **ティナ**: フランク！戻ってきたのね！何を買ったの？
 7. **Frank**: A pencil. And a small notebook.
    **フランク**: 鉛筆。それと小さなノート。
@@ -636,7 +636,7 @@
    **ティナ**: 一個だけ？
 8. **Frank**: [chewing] ...Mmm. Maybe two.
    **フランク**: …うまい。二個かな。
-9. **Tina**: [laughs] They're all gone now.  Sorry, Frank!
+9. **Tina**: [laughs] They're all gone now. Sorry, Frank!
    **ティナ**: もう全部なくなったわ。ごめん、フランク！
 
 ### A1-25 Birthday Party
@@ -990,8 +990,8 @@
    **フランク**: この本が見つからないんです。
 4. **Staff**: Let me check. ...It is on shelf five.
    **職員**: 確認しますね。…5番の棚にありますよ。
-5. **Frank**: Thank you. How do I borrow it?
-   **フランク**: ありがとうございます。どうやって借りれば？
+5. **Frank**: Thank you. I only read here. How do I borrow it?
+   **フランク**: ありがとうございます。いつもは読むだけなので。どうやって借りれば？
 6. **Staff**: At the front desk, over there.
    **職員**: あちらの受付カウンターです。
 7. **Tina**: [appearing, excited] Frank! I found the manga! Twelve books!
@@ -1299,8 +1299,8 @@
 **Narrator**: Before his trip to Japan, Frank is at a post office near home. He has a box to send to Japan.
 **ナレーター**: 日本旅行の前、フランクは自宅近くの郵便局にいる。日本へ送る箱を持っている。
 
-1. **Frank**: I want to send this box to Japan. It is a gift.
-   **フランク**: この箱を日本へ送りたいんです。贈り物です。
+1. **Frank**: I want to send this box to Japan. It is a gift — too big to carry on the plane.
+   **フランク**: この箱を日本へ送りたいんです。贈り物で、飛行機で持っていくには大きすぎるので。
 2. **Clerk**: Air mail or surface mail?
    **局員**: 航空便ですか、船便ですか？
 3. **Frank**: Air mail, please. How long does it take?
@@ -1435,7 +1435,7 @@
 9. **Frank**: It is an old one. A doctor will understand.
    **フランク**: 古いものです。お医者さんならわかります。
 10. **Tina**: [calling from across the room] Tell them to bring pink thread!
-    **ティナ**: ピンクの糸持ってきてって言いなよ！
+    **ティナ**: ピンクの糸持ってきてって言ってよ！
 
 ### A1-53 Late Night Talk
 
