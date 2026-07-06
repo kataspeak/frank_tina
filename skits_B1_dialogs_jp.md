@@ -788,10 +788,10 @@
     **フランク**: では、お勧めのものを今すぐ入れます。
 11. **Support**: Send me your error logs and I'll take it from here.
     **サポート**: エラーログを送ってください。あとはこちらで引き取ります。
-12. **Frank**: Thank you. I've been losing sleep over this for days.
-    **フランク**: ありがとう。何日もこれで眠れなかったんです。
-13. **Support**: [kindly] Get some tonight. The file's not going anywhere now.
-    **サポート**: 今夜は眠ってください。ファイルはもうどこにも行きませんから。
+12. **Frank**: Thank you. I've been thinking about this for days.
+    **フランク**: ありがとう。何日もこればかり考えていたんです。
+13. **Support**: [kindly] You can stop now. The file's not going anywhere.
+    **サポート**: もう考えなくて大丈夫です。ファイルはどこにも行きませんから。
 
 ### B1-24 First Date Rewind
 
@@ -1370,8 +1370,8 @@
     **ティナ**: あなたが？ 何について？
 12. **Frank**: Nothing settled yet. But ask me again soon.
     **フランク**: まだ何も決まってない。でも、近いうちにまた聞いてよ。
-13. **Tina**: [softly] Then sleep on yours. I'll go for mine. Deal?
-    **ティナ**: なら、あなたのは一晩考えて。私は私のに挑む。それでいい？
+13. **Tina**: [softly] I'll sleep on it. You... well, do whatever you do overnight. Deal?
+    **ティナ**: 私は一晩寝て考える。あなたは…まあ、夜の間いつもしてるように考えて。どう？
 
 ### B1-41 Resigning from a Job
 

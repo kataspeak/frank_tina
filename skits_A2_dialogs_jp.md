@@ -431,8 +431,8 @@
 
 **場面:** ホテルのフロント。Frankが騒音の苦情。
 
-**Narrator**: Frank is at a hotel reception desk. He couldn't sleep because of noisy neighbors.
-**ナレーター**: フランクはホテルのフロントにいる。隣室の騒音で眠れなかった。
+**Narrator**: Frank is at a hotel reception desk. His noisy neighbors bothered him all night.
+**ナレーター**: フランクはホテルのフロントにいる。隣室がうるさくて、一晩中落ち着けなかった。
 
 1. **Frank**: Excuse me. The people next door were singing all night.
    **フランク**: すみません。隣の人たちが一晩中歌っていたんです。
@@ -1184,8 +1184,8 @@
    **フランク**: ——短い散歩のほうが目が覚めるよ。
 9. **Tina**: Walking won't give me the boost I need. [points at his cup] You drink coffee all day!
    **ティナ**: 散歩じゃ必要な元気は出ないわ。あなただって一日中コーヒー飲んでるじゃない！
-10. **Frank**: [deadpan] Yes. And I sleep about four hours. Don't be me.
-    **フランク**: そうだね。そして睡眠は4時間ほどだ。僕みたいになるなよ。
+10. **Frank**: [deadpan] Yes. And it does nothing for me. Don't be me.
+    **フランク**: そうだね。でも僕には何の効果もない。僕をまねしないで。
 11. **Tina**: [grinning] So... decaf?
     **ティナ**: じゃあ…デカフェ？
 12. **Frank**: Now you're learning.

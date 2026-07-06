@@ -154,8 +154,8 @@
    **フランク**: 僕は早起きが大好きだよ。静かだからね。
 7. **Tina**: [exasperated] Quiet?! Frank, I love sleep!
    **ティナ**: 静か？！フランク、私は寝るのが大好きなの！
-8. **Frank**: [deadpan] On my Monday, I was switched on. I do not complain.
-   **フランク**: 僕の月曜には、スイッチを入れられたんだ。文句は言わないよ。
+8. **Frank**: [deadpan] My first Monday, I was switched on. I do not complain.
+   **フランク**: 僕は月曜に、スイッチを入れられたんだ。文句は言わないよ。
 9. **Tina**: [pause] ...Okay, you win this one.
    **ティナ**: …わかった、今回はあなたの勝ち。
 
@@ -209,31 +209,33 @@
 9. **Frank**: [pause] ...That is fair. Let's go.
    **フランク**: …それもそうだ。行こう。
 
-### A1-09 This Is So Cute!
+### A1-09 Selfie Time!
 
-**場面:** おもちゃ屋。ティナがクマを発見。
+**場面:** 晴れた日の公園。外。
 
-**Narrator**: Frank and Tina are in a toy shop. Tina finds a small bear.
-**ナレーター**: フランクとティナはおもちゃ屋にいる。ティナは小さなクマを見つける。
+**Narrator**: It is a nice day. Tina wants a selfie with Frank.
+**ナレーター**: いい天気の日。ティナはフランクと自撮りをしたい。
 
-1. **Tina**: [gasps] Look! This bear is so cute!
-   **ティナ**: 見て！このクマ、すごくかわいい！
-2. **Frank**: Cute? It is just a toy.
-   **フランク**: かわいい？ただのおもちゃだよ。
-3. **Tina**: Just a toy?! Look at its face!
-   **ティナ**: ただのおもちゃですって？！この顔を見てよ！
-4. **Frank**: It has a printed smile.
-   **フランク**: プリントされた笑顔だよ。
-5. **Tina**: But it smiles all the time! It is so happy!
-   **ティナ**: でもずっと笑ってるのよ！とっても幸せそう！
-6. **Frank**: [deadpan] I also smile all the time. I cannot move my face.
-   **フランク**: 僕もずっと笑ってるよ。顔が動かせないんだ。
-7. **Tina**: [gasps] Then you and the bear are the same!
-   **ティナ**: じゃあ、あなたとこのクマは同じね！
-8. **Frank**: [pause] ...I am not buying the bear, Tina.
-   **フランク**: …クマは買わないよ、ティナ。
-9. **Tina**: [grinning] Too late. Two cute bears, please!
-   **ティナ**: 遅いわ。かわいいクマ2体、お願いします！
+1. **Tina**: Let's take a selfie! Smile!
+   **ティナ**: 自撮りしましょう！笑って！
+2. **Frank**: I do not smile. Sorry.
+   **フランク**: 僕は笑わないんだ。ごめん。
+3. **Tina**: Just a little smile? Please?
+   **ティナ**: ちょっとだけ笑って？お願い？
+4. **Frank**: [flat] This is my smile.
+   **フランク**: これが僕の笑顔だよ。
+5. **Tina**: [gasps] Frank, that is the same face!
+   **ティナ**: フランク、それいつもと同じ顔よ！
+6. **Frank**: It is my best face.
+   **フランク**: これが僕の一番いい顔なんだ。
+7. **Tina**: Okay, no smile. Just look here!
+   **ティナ**: わかった、笑わなくていいわ。とにかくここを見て！
+8. **Frank**: Okay. Take it.
+   **フランク**: わかった。撮って。
+9. **Tina**: [snaps photo, delighted] Perfect! You look mysterious!
+   **ティナ**: 完璧！ミステリアスに見えるわ！
+10. **Frank**: [deadpan] That is just my face.
+    **フランク**: それはただの僕の顔だよ。
 
 ### A1-10 Breakfast Time
 
@@ -417,11 +419,11 @@
 8. **Librarian**: [whispers] Second floor.
    **司書**: 2階です。
 9. **Frank**: [deadpan whisper] Tina, your whisper is louder than your voice.
-   **フランク**: ティナ、君のささやき声は、普段より大きいよ。
+   **フランク**: ティナ、君のささやき声は、普段の声より大きいよ。
 
 ### A1-17 At the Supermarket
 
-**場面:** スーパー。Tinaが果物を買う。
+**場面:** スーパー。ティナが果物を買う。
 
 **Narrator**: Tina is buying fruit. Frank is with her.
 **ナレーター**: ティナは果物を買っている。フランクも一緒だ。
@@ -447,37 +449,35 @@
 10. **Frank**: [deadpan] More Earth math.
     **フランク**: それも地球の計算か。
 
-### A1-18 Selfie Time!
+### A1-18 This Is So Cute!
 
-**場面:** 晴れた日の公園。外。
+**場面:** おもちゃ屋。ティナがクマを発見。
 
-**Narrator**: It is a nice day. Tina wants a selfie with Frank.
-**ナレーター**: いい天気の日。ティナはフランクと自撮りをしたい。
+**Narrator**: Frank and Tina are in a toy shop. Tina finds a small bear.
+**ナレーター**: フランクとティナはおもちゃ屋にいる。ティナは小さなクマを見つける。
 
-1. **Tina**: Let's take a selfie! Smile!
-   **ティナ**: 自撮りしましょう！笑って！
-2. **Frank**: I do not smile. Sorry.
-   **フランク**: 僕は笑わないんだ。ごめん。
-3. **Tina**: Just a little smile? Please?
-   **ティナ**: ちょっとだけ笑って？お願い？
-4. **Frank**: [flat] This is my smile.
-   **フランク**: これが僕の笑顔だよ。
-5. **Tina**: [gasps] Frank, that is the same face!
-   **ティナ**: フランク、それいつもと同じ顔よ！
-6. **Frank**: It is my best face.
-   **フランク**: これが僕の一番いい顔なんだ。
-7. **Tina**: Okay, no smile. Just look here!
-   **ティナ**: わかった、笑わなくていいわ。とにかくここを見て！
-8. **Frank**: Okay. Take it.
-   **フランク**: わかった。撮って。
-9. **Tina**: [snaps photo, delighted] Perfect! You look mysterious!
-   **ティナ**: 完璧！ミステリアスに見えるわ！
-10. **Frank**: [deadpan] That is just my face.
-    **フランク**: それはただの僕の顔だよ。
+1. **Tina**: [gasps] Look! This bear is so cute!
+   **ティナ**: 見て！このクマ、すごくかわいい！
+2. **Frank**: Cute? It is just a toy.
+   **フランク**: かわいい？ただのおもちゃだよ。
+3. **Tina**: Just a toy?! Look at its face!
+   **ティナ**: ただのおもちゃですって？！この顔を見てよ！
+4. **Frank**: It has a printed smile.
+   **フランク**: プリントされた笑顔だよ。
+5. **Tina**: But it smiles all the time! Frank, can you smile like this?
+   **ティナ**: でもずっと笑ってるのよ！フランクも、こんなふうに笑える？
+6. **Frank**: [deadpan] I try to smile, but it is hard to move my face.
+   **フランク**: 笑おうとはするよ。でも、顔がうまく動かないんだ。
+7. **Tina**: [gasps] Then this bear can teach you! Look — big smile!
+   **ティナ**: じゃあ、このクマが教えてくれるわ！見て——大きな笑顔！
+8. **Frank**: [pause] ...I am not taking smile lessons from a bear, Tina.
+   **フランク**: …クマに笑顔を教わるつもりはないよ、ティナ。
+9. **Tina**: [grinning] Too late. One cute smile teacher, please!
+   **ティナ**: 遅いわ。かわいい笑顔の先生を1体、お願いします！
 
 ### A1-19 I Want a Pencil
 
-**場面:** 文房具店。Tinaは外で待つ。
+**場面:** 文房具店。ティナは外で待つ。
 
 **Narrator**: Frank is buying school supplies. Tina waits outside.
 **ナレーター**: フランクは学用品を買っている。ティナは外で待っている。
@@ -555,8 +555,8 @@
    `[SFX: game over jingle]`
 7. **Tina**: [stunned] No. No way! How?!
    **ティナ**: うそ。うそでしょ！どうして？！
-8. **Frank**: [deadpan] On my planet, I do not exist. I have nothing else to do.
-   **フランク**: 僕の星では、僕は存在しない。他にやることがないんだ。
+8. **Frank**: [deadpan] I do not sleep. I have nothing else to do at night.
+   **フランク**: 僕は眠らない。夜は他にやることがないんだ。
 9. **Tina**: That is NOT fair! Rematch! Right now!
    **ティナ**: それは絶対にずるいわ！再戦よ！今すぐ！
 
@@ -617,8 +617,8 @@
 
 **場面:** 深夜。ティナがお菓子を食べたがる。
 
-**Narrator**: It is midnight. Tina is still awake. Frank wants to sleep.
-**ナレーター**: 真夜中だ。ティナはまだ起きている。フランクは眠りたい。
+**Narrator**: It is midnight. Tina is still awake. Frank wants her to sleep.
+**ナレーター**: 真夜中だ。ティナはまだ起きている。フランクは彼女に寝てほしい。
 
 1. **Tina**: [whispers] Frank. Frank. I want chips.
    **ティナ**: フランク。フランク。ポテトチップスが食べたいの。
@@ -637,8 +637,8 @@
    **ティナ**: 一個だけ？
 8. **Frank**: [chewing] ...Mmm. Maybe two.
    **フランク**: …うまい。二個かな。
-9. **Tina**: [laughs] They're all gone now. Both of us. Sorry, Frank!
-   **ティナ**: もう全部なくなったわ。二人でね。ごめん、フランク！
+9. **Tina**: [laughs] They're all gone now.  Sorry, Frank!
+   **ティナ**: もう全部なくなったわ。ごめん、フランク！
 
 ### A1-25 Birthday Party
 
@@ -688,7 +688,7 @@
 7. **Frank**: [pause] ...Thank you, Tina.
    **フランク**: …ありがとう、ティナ。
 8. **Tina**: [warmly] Aww. Now you're warm.
-   **ティナ**: もう。これで暖かいわね。
+   **ティナ**: ふふ。これで暖かいわね。
 9. **Frank**: [deadpan] I am warm. And I look like a strawberry.
    **フランク**: 暖かい。そしてイチゴみたいだ。
 10. **Tina**: [laughs] My favorite kind!
@@ -1025,7 +1025,7 @@
    **職員**: 今朝届きましたよ。はい、どうぞ。
 7. **Tina**: [relieved] That's mine! Thank you so much!
    **ティナ**: それ私のです！本当にありがとうございます！
-8. **Frank**: A star on your key. A star on your room. A star on you.
+8. **Frank**: A star on your key. A star in your room. A star on you.
    **フランク**: 鍵に星。部屋に星。君に星。
 9. **Tina**: [warmly] It's how I find my way home.
    **ティナ**: 故郷への帰り道の目印なの。
@@ -1103,7 +1103,7 @@
    **ティナ**: サム。クラスの。
 4. **Frank**: Then tell Sam.
    **フランク**: それならサムに言えばいい。
-5. **Tina**: [panicked] I cannot! It is scary!
+5. **Tina**: [panicked] I can't! It's scary!
    **ティナ**: 無理よ！怖いもの！
 6. **Frank**: A crush is just a feeling. Feelings are data.
    **フランク**: 好きという気持ちはただの感情だ。感情はデータだよ。
@@ -1111,7 +1111,7 @@
    **ティナ**: もう。「データ」だなんて。
 8. **Frank**: If Sam says no, you know. Then you move on.
    **フランク**: サムが断れば、答えがわかる。そうしたら前に進める。
-9. **Tina**: You are too logical.
+9. **Tina**: You're too logical.
    **ティナ**: あなたって理屈っぽすぎるわ。
 10. **Frank**: [deadpan] A doctor built me. Logic was free.
     **フランク**: 博士が僕を作った。論理はおまけで付いてきたんだ。
@@ -1141,7 +1141,7 @@
    **フランク**: 僕はとても頼りになります。眠りませんから。
 8. **Manager**: [nervous laugh] ...A joke. Right?
    **店長**: …冗談、ですよね？
-9. **Tina**: [quickly] A joke! Big joke! Come for the interview tomorrow?
+9. **Tina**: [quickly] A joke! Big joke! Can I come for the interview tomorrow?
    **ティナ**: 冗談です！大きな冗談！明日、面接に伺っていいですか？
 10. **Frank**: [deadpan] It was not a joke.
     **フランク**: 冗談ではなかった。
@@ -1291,12 +1291,14 @@
 10. **Frank**: [deadpan] Write "Frank." Please.
     **フランク**: 「フランク」と書いてください。お願いします。
 
+> **設定（A1-48〜58）:** 二人の生活拠点はドル経済圏。A1-48〜49は日本旅行前、A1-50〜56は日本旅行中、A1-57〜58は帰国後。
+
 ### A1-48 At the Post Office
 
-**場面:** 郵便局。フランクが日本へ箱を送る。
+**場面:** 日本旅行前。自宅近くの郵便局で、フランクが日本へ箱を送る。
 
-**Narrator**: Frank is at the post office. He has a box to send to Japan.
-**ナレーター**: フランクは郵便局にいる。日本へ送る箱を持っている。
+**Narrator**: Before his trip to Japan, Frank is at a post office near home. He has a box to send to Japan.
+**ナレーター**: 日本旅行の前、フランクは自宅近くの郵便局にいる。日本へ送る箱を持っている。
 
 1. **Frank**: I want to send this box to Japan. It is a gift.
    **フランク**: この箱を日本へ送りたいんです。贈り物です。
@@ -1321,10 +1323,10 @@
 
 ### A1-49 Karaoke!
 
-**場面:** カラオケルーム。フランクは歌わないと言い張る。
+**場面:** いつもの町のカラオケルームで、フランクは歌わないと言い張る。
 
-**Narrator**: Tina and Frank are in a karaoke room. Tina loves to sing. Frank does not.
-**ナレーター**: ティナとフランクはカラオケルームにいる。ティナは歌うのが大好き。フランクは違う。
+**Narrator**: Tina and Frank are in a karaoke room near home. Tina loves to sing. Frank does not.
+**ナレーター**: ティナとフランクは自宅近くのカラオケルームにいる。ティナは歌うのが大好き。フランクは違う。
 
 1. **Tina**: Sing this song with me!
    **ティナ**: この歌を一緒に歌って！
@@ -1375,47 +1377,47 @@
    **受付係**: たいていのお客様は、いい眺めをご希望ですが。
 9. **Frank**: I do not sleep much. I prefer quiet to view.
    **フランク**: あまり眠らないので。眺めより静けさがいいんです。
-10. **Receptionist**: [pause] ...Good night, sir. Sleep — or not.
-    **受付係**: …おやすみなさい。お眠りになるか、ならないか。
+10. **Receptionist**: [pause] ...Good night, sir. Enjoy the quiet.
+    **受付係**: …おやすみなさい。静かな夜をお過ごしください。
 
 ### A1-51 Buying Souvenirs
 
-**場面:** お土産屋。ティナが故郷の友達へのお土産を選ぶ。
+**場面:** 東京のお土産屋で、ティナがフランクへの小さなお土産を選ぶ。
 
-**Narrator**: Tina is at a souvenir shop. She wants a gift for her friends back home.
-**ナレーター**: ティナはお土産屋にいる。故郷の友達へのお土産を買いたい。
+**Narrator**: Tina is at a souvenir shop in Tokyo. She wants a gift for a friend.
+**ナレーター**: ティナは東京のお土産屋にいる。友達へのお土産を買いたい。
 
 1. **Tina**: I'll take this one. How much is it?
    **ティナ**: これをいただきます。いくらですか？
-2. **Clerk**: That is twenty dollars. It is handmade here.
-   **店員**: 20ドルです。ここで手作りされたものですよ。
+2. **Clerk**: That is three thousand yen. It is handmade here.
+   **店員**: 3,000円です。ここで手作りされたものですよ。
 3. **Tina**: [delighted] Handmade? It's beautiful.
    **ティナ**: 手作り？きれいね。
-4. **Frank**: Who are the gifts for?
+4. **Frank**: Who is the gift for?
    **フランク**: お土産は誰に？
-5. **Tina**: My friends. Back home. On my star.
-   **ティナ**: 友達。故郷の。私の星の。
-6. **Frank**: [quietly] How will you send them so far?
-   **フランク**: そんなに遠くへ、どうやって送るの？
-7. **Tina**: [beat, smaller] ...I carry them. When I go.
-   **ティナ**: …持っていくの。帰るときに。
-8. **Frank**: [pause] Then take two. One stays here.
-   **フランク**: それなら2つ買って。1つはここに残して。
-9. **Tina**: [softly] With you?
-   **ティナ**: （残す1つは）あなたに預けていくの？
-10. **Frank**: [deadpan] Someone has to guard it.
+5. **Tina**: A friend. Here on Earth.
+   **ティナ**: 友達。ここ、地球にいる。
+6. **Frank**: [surprised] Here?
+   **フランク**: ここにいる友達？
+7. **Tina**: [holding it out to him] For you. I want one part of our trip to stay here.
+   **ティナ**: あなたに。二人の旅の一部を、ここに残したいの。
+8. **Frank**: [quietly] With me?
+   **フランク**: 僕のところに？
+9. **Tina**: If you want it.
+   **ティナ**: もらってくれるなら。
+10. **Frank**: [taking it carefully, deadpan] Someone has to guard it.
     **フランク**: 誰かが見張る必要があるからね。
 
 ### A1-52 Calling a Doctor
 
-**場面:** フランクの部屋。医院に予約の電話をかける。
+**場面:** 東京のホテルの部屋から、医院に予約の電話をかける。
 
-**Narrator**: Frank does not feel well. He calls the doctor's office.
-**ナレーター**: フランクは体調が良くない。彼は医院に電話する。
+**Narrator**: Frank has a small problem during the trip. He calls a doctor's office in Tokyo.
+**ナレーター**: 旅行中、フランクはちょっとした問題がある。東京の医院に電話する。
 
 `[SFX: phone ringing]`
 
-1. **Frank**: Hello. I'd like to make an appointment, please.
+1. **Frank**: Hello. I would like to make an appointment, please.
    **フランク**: もしもし。予約を取りたいのですが。
 2. **Receptionist**: When would you like to come in?
    **受付係**: いつお越しになりますか？
@@ -1438,15 +1440,15 @@
 
 ### A1-53 Late Night Talk
 
-**場面:** 修学旅行の夜。ホテルのラウンジで長話。
+**場面:** 東京のホテルのラウンジで長話。
 
-**Narrator**: It is two in the morning on the school trip. Frank wants to sleep. Tina wants to talk.
-**ナレーター**: 修学旅行の夜、朝の2時。フランクは眠りたい。ティナは話したい。
+**Narrator**: It is two in the morning during their trip to Japan. Frank wants to go to his room. Tina wants to talk.
+**ナレーター**: 日本旅行中の朝2時。フランクは自分の部屋に戻りたい。ティナは話したい。
 
-1. **Tina**: Frank, don't sleep yet! Let's talk more!
-   **ティナ**: フランク、まだ寝ないで！もっと話しましょう！
-2. **Frank**: It is two in the morning. I am tired.
-   **フランク**: 朝の2時だよ。疲れた。
+1. **Tina**: Frank, don't go yet! Let's talk more!
+   **ティナ**: フランク、まだ行かないで！もっと話しましょう！
+2. **Frank**: It is two in the morning. You need to rest.
+   **フランク**: 朝の2時だよ。君は休まないと。
 3. **Tina**: But this trip is so fun!
    **ティナ**: でもこの旅行、すごく楽しいの！
 4. **Frank**: I know. But go to bed now.
@@ -1457,19 +1459,19 @@
    **フランク**: それなら書き留めて。
 7. **Tina**: That's boring! Talking is fun!
    **ティナ**: つまらないわ！話すほうが楽しいの！
-8. **Frank**: [yawning] Tina. I am very sleepy now.
-   **フランク**: ティナ。もうすごく眠いんだ。
+8. **Frank**: Tina. You need to sleep now.
+   **フランク**: ティナ。もう寝ないと。
 9. **Tina**: Five more minutes? Please?
    **ティナ**: あと5分だけ？お願い？
-10. **Frank**: [pause, softer] ...Three. Then I dream of quiet.
-    **フランク**: …3分だ。そのあとは、静けさの夢を見る。
+10. **Frank**: [pause, softer] ...Three. Then I want some quiet.
+    **フランク**: …3分だ。そのあとは、静かに過ごしたい。
 
 ### A1-54 What Time Is It?
 
-**場面:** 駅。次の電車に間に合わせたい。
+**場面:** 次の電車に間に合わせたい。
 
-**Narrator**: Tina and Frank are at the train station. They want the next train.
-**ナレーター**: ティナとフランクは駅にいる。二人は次の電車に乗りたい。
+**Narrator**: Tina and Frank are at Tokyo Station during their trip to Japan. They want the next train.
+**ナレーター**: 日本旅行中、ティナとフランクは東京駅にいる。二人は次の電車に乗りたい。
 
 `[SFX: station announcement chime]`
 
@@ -1496,38 +1498,38 @@
 
 ### A1-55 Buying a Train Ticket
 
-**場面:** 駅の切符売り場。フランクが京都行きの切符を買う。
+**場面:** フランクが京都への日帰り旅行の切符を買う。
 
-**Narrator**: Frank is at the ticket counter. He wants to travel to Kyoto.
-**ナレーター**: フランクは切符売り場にいる。彼は京都へ行きたい。
+**Narrator**: Frank is at the ticket counter in Tokyo. He wants two round-trip tickets to Kyoto for a day trip with Tina.
+**ナレーター**: フランクは東京駅の切符売り場にいる。ティナと京都へ日帰りで行くため、二人分の往復切符を買いたい。
 
-1. **Frank**: One ticket to Kyoto, please.
-   **フランク**: 京都までの切符を1枚ください。
+1. **Frank**: Two tickets to Kyoto, please.
+   **フランク**: 京都までの切符を2枚ください。
 2. **Agent**: One way or round trip?
    **係員**: 片道ですか、往復ですか？
-3. **Frank**: [pause] ...One way.
-   **フランク**: …片道で。
-4. **Agent**: That is fifteen thousand yen.
-   **係員**: 15,000円になります。
-5. **Tina**: One way? Frank — you're not coming back?
-   **ティナ**: 片道？フランク——戻ってこないの？
-6. **Frank**: It is a day trip. I buy the second ticket there.
-   **フランク**: 日帰りだよ。帰りの切符は向こうで買う。
-7. **Tina**: [relieved] Oh. Good. [beat] Buy it now. I worry.
-   **ティナ**: ああ。よかった。今買って。心配だから。
+3. **Frank**: Round trip, please.
+   **フランク**: 往復でお願いします。
+4. **Agent**: That is sixty thousand yen.
+   **係員**: 60,000円になります。
+5. **Tina**: Two round-trip tickets. So we are going together?
+   **ティナ**: 往復切符が2枚。じゃあ、一緒に行くのね？
+6. **Frank**: Of course. It is our day trip.
+   **フランク**: もちろん。二人の日帰り旅行だからね。
+7. **Tina**: [smiling] Good. I want to see Kyoto with you.
+   **ティナ**: よかった。あなたと一緒に京都を見たいわ。
 8. **Agent**: [smiling] Your train leaves at six. Platform three.
    **係員**: ご乗車は6時。3番ホームです。
-9. **Frank**: Thank you. [to Tina] I always come back.
-   **フランク**: ありがとう。僕はいつも帰ってくるよ。
-10. **Tina**: [quietly] Good. Stay that way.
-    **ティナ**: よかった。ずっとそうでいてね。
+9. **Frank**: Thank you. [to Tina] Ready for Kyoto?
+   **フランク**: ありがとう。京都へ行く準備はいい？
+10. **Tina**: Ready! Let's go together.
+    **ティナ**: できてるわ！一緒に行きましょう。
 
 ### A1-56 At the Bank
 
-**場面:** 銀行の窓口。ティナが円をドルに両替する。
+**場面:** ティナが余った円をドルに両替する。
 
-**Narrator**: Tina is at the bank. She has Japanese yen to exchange for dollars.
-**ナレーター**: ティナは銀行にいる。日本円をドルに両替したい。
+**Narrator**: On the last day of the trip, Tina is at a bank counter in a Tokyo airport. She wants to exchange her remaining yen for dollars before going home.
+**ナレーター**: 旅行最終日、ティナは東京の空港内にある銀行窓口にいる。帰国前に、余った円をドルに両替したい。
 
 1. **Tina**: I'd like to exchange yen for dollars.
    **ティナ**: 円をドルに両替したいのですが。
@@ -1545,17 +1547,17 @@
    **ティナ**: できました。はい、どうぞ。
 8. **Teller**: Thank you. Here are your dollars.
    **窓口係**: ありがとうございます。こちらがドルです。
-9. **Tina**: [excited] Now I feel like a real traveler!
-   **ティナ**: これで本物の旅行者みたいな気分！
-10. **Frank**: [quietly] Travelers leave. [beat] Save one dollar for the cafe.
-    **フランク**: 旅行者は旅立つものだ。1ドルはカフェに取っておいて。
+9. **Tina**: [putting away the dollars] That's done. I only kept five hundred yen.
+   **ティナ**: これで終わりね。500円だけ残しておいたわ。
+10. **Frank**: [quietly] Good. A small memory of Japan.
+    **フランク**: うん。日本の小さな思い出だね。
 
 ### A1-57 See You Tomorrow
 
-**場面:** いつもの帰り道。明日もまた会う、その別れ際。
+**場面:** いつもの帰り道で、明日の約束をする。
 
-**Narrator**: The day is over. Frank and Tina say goodbye. They will meet again tomorrow.
-**ナレーター**: 一日が終わった。フランクとティナは別れの挨拶をする。二人は明日また会う。
+**Narrator**: Frank and Tina say goodbye. They will meet again tomorrow.
+**ナレーター**: フランクとティナは別れの挨拶をする。明日また会う予定だ。
 
 1. **Tina**: See you tomorrow morning, Frank!
    **ティナ**: また明日の朝ね、フランク！
@@ -1633,8 +1635,8 @@
    **係員**: 10分ほどです。
 8. **Tina**: [turning to Frank] Ten minutes. Then I go.
    **ティナ**: 10分したら、お別れね。
-9. **Frank**: [holding a small box] Then walk slowly. Here — your souvenir. The one that stayed with me.
-   **フランク**: それなら、ゆっくり歩こう。これを——君のお土産。僕のところに残ったやつ。
+9. **Frank**: [touching the small souvenir hanging from his bag] Then walk slowly. See? I keep your gift with me.
+   **フランク**: それなら、ゆっくり歩こう。ほら、君にもらったお土産は、いつも僕と一緒だ。
 10. **Tina**: [voice small] You kept it. [beat] Walk me to gate four. Not five.
     **ティナ**: 取っておいてくれたのね。4番ゲートまで送って。5番じゃなく。
 
