@@ -1351,17 +1351,17 @@
 
 ### A1-50 Hotel Check-in
 
-**場面:** 夜のホテルのフロント。
+**場面:** 東京のホテル。夜のフロント。
 
-**Narrator**: Frank arrives at a hotel at night. He has a reservation for one night.
-**ナレーター**: フランクは夜にホテルに着く。1泊の予約をしている。
+**Narrator**: It is night in Tokyo. Frank and Tina are on their trip, staying four nights — each in their own room. Frank is checking in.
+**ナレーター**: 東京の夜。旅行中のフランクとティナは4泊する。部屋はそれぞれ別だ。フランクがチェックインしている。
 
 `[SFX: front desk bell]`
 
 1. **Frank**: I have a reservation. My name is Frank Stein.
    **フランク**: 予約をしています。フランク・スタインです。
-2. **Receptionist**: Welcome. A single room, one night. Yes?
-   **受付係**: ようこそ。シングルルーム、1泊ですね。
+2. **Receptionist**: Welcome. A single room, four nights. Yes?
+   **受付係**: ようこそ。シングルルーム、4泊ですね。
 3. **Frank**: That is right. Could I have a quiet room?
    **フランク**: その通りです。静かな部屋にできますか？
 4. **Receptionist**: Of course. Room 305 is very quiet.
@@ -1636,8 +1636,8 @@
    **ティナ**: 10分したら、お別れね。
 9. **Frank**: [touching the small souvenir hanging from his bag] Then walk slowly. See? I keep your gift with me.
    **フランク**: それなら、ゆっくり歩こう。ほら、君にもらったお土産は、いつも僕と一緒だ。
-10. **Tina**: [voice small] You kept it. [wanting more time with him] Walk me to gate four. Not five.
-    **ティナ**: 取っておいてくれたのね。4番ゲートまで送って。5番じゃなく。
+10. **Tina**: [voice small] You kept it. [not ready to say goodbye] Walk me to gate four. Not five. Five is the goodbye gate, isn't it?
+    **ティナ**: 取っておいてくれたのね。4番ゲートまで送って。5番じゃなく。5番って、お別れのゲートでしょう？
 
 ### A1-60 Saying Goodbye
 
