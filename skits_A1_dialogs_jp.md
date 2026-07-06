@@ -1269,8 +1269,8 @@
 **Narrator**: Tina is at the cafe counter. A barista takes her order.
 **ナレーター**: ティナはカフェのカウンターにいる。バリスタが注文を取る。
 
-1. **Tina**: I'd like a small coffee, please.
-   **ティナ**: スモールサイズのコーヒーをお願いします。
+1. **Tina**: Today I feel grown-up! So... a small coffee, please.
+   **ティナ**: 今日は大人の気分！なので…スモールサイズのコーヒーをお願いします。
 2. **Barista**: Hot or iced?
    **バリスタ**: ホットですか、アイスですか？
 3. **Tina**: Iced, please. And one chocolate cookie.
