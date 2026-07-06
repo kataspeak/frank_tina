@@ -173,8 +173,8 @@
    **ティナ**: どこもかしこもピンク！ベッド、本、ランプ、壁！
 4. **Frank**: [points] Oh. A star map. That is not pink.
    **フランク**: おや。星図だ。これはピンクじゃないね。
-5. **Tina**: [softly] That's from my home star. I never paint that one.
-   **ティナ**: それは私の故郷の星のものなの。それだけは塗らないわ。
+5. **Tina**: [softly] That's from my home star. I would never paint over that one.
+   **ティナ**: それは私の故郷の星のものなの。それだけは絶対に塗りつぶさないわ。
 6. **Frank**: It is beautiful. Which star is your home?
    **フランク**: きれいだね。どれが君の故郷の星？
 7. **Tina**: [points] That tiny one. Small, but bright.
@@ -195,7 +195,7 @@
    **ティナ**: 毎日？きっと疲れるでしょう！
 3. **Frank**: It is good for my health.
    **フランク**: 健康にいいんだよ。
-4. **Tina**: I go by bike. It's fast! And it's pink!
+4. **Tina**: I ride my bike. It's fast! And it's pink!
    **ティナ**: 私は自転車で行くの。速いのよ！それにピンク！
 5. **Frank**: Of course it is pink.
    **フランク**: もちろんピンクだよね。
@@ -417,7 +417,7 @@
    **ティナ**: ごめんなさい！漫画はどこ？
 8. **Librarian**: [whispers] Second floor.
    **司書**: 2階です。
-9. **Frank**: [deadpan whisper] Tina, your whisper is louder than your voice.
+9. **Frank**: [deadpan whisper] Tina, your whisper is louder than your normal voice.
    **フランク**: ティナ、君のささやき声は、普段の声より大きいよ。
 
 ### A1-17 At the Supermarket
@@ -748,8 +748,8 @@
    **フランク**: うん。お茶を持っていくよ。
 9. **Tina**: [sniffles] Thank you, Frank. You're kind.
    **ティナ**: ありがとう、フランク。優しいのね。
-10. **Frank**: [deadpan] A doctor built me. He left out the cold. You are lucky.
-    **フランク**: 博士が僕を作った。風邪は付け忘れた。君はラッキーだよ。
+10. **Frank**: [deadpan] A doctor built me. He forgot to add colds. So I can visit.
+    **フランク**: 博士が僕を作った。風邪は付け忘れたんだ。だから見舞いに行ける。
 
 ### A1-29 At the Hair Salon
 
@@ -1035,8 +1035,8 @@
 
 **場面:** ティナが噂話をしたがる。
 
-**Narrator**: Tina has fresh news. Frank is not interested in gossip.
-**ナレーター**: ティナには新しいニュースがある。フランクは噂話に興味がない。
+**Narrator**: Tina has some juicy news. Frank is not interested in gossip.
+**ナレーター**: ティナはとっておきのネタを仕入れている。フランクは噂話に興味がない。
 
 1. **Tina**: [excited] Did you hear? Mike likes Anna!
    **ティナ**: 聞いた？マイクがアナのことを好きなんですって！
@@ -1222,7 +1222,7 @@
    **ティナ**: 待って——中身は何？
 5. **Frank**: Octopus.
    **フランク**: タコだよ。
-6. **Tina**: [delighted] Octopus?! On my star, octopus is the doctor!
+6. **Tina**: [delighted] Octopus?! On my star, octopuses are doctors!
    **ティナ**: タコ？！私の星では、タコはお医者さんなのよ！
 7. **Frank**: [pause] ...Please do not say that to the cook.
    **フランク**: …どうかそれを、作っている人に言わないで。
@@ -1374,7 +1374,7 @@
    **フランク**: 完璧だ。
 8. **Receptionist**: [curious] Most guests want a nice view.
    **受付係**: たいていのお客様は、いい眺めをご希望ですが。
-9. **Frank**: I do not sleep much. I prefer quiet to view.
+9. **Frank**: I do not sleep much. I prefer quiet to a view.
    **フランク**: あまり眠らないので。眺めより静けさがいいんです。
 10. **Receptionist**: [pause] ...Good night, sir. Enjoy the quiet.
     **受付係**: …おやすみなさい。静かな夜をお過ごしください。
