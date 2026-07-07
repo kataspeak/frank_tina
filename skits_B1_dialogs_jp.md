@@ -18,8 +18,8 @@
    **プリヤ**: 締め切りは過酷だけど、今夜中にギリギリ間に合うかも。
 2. **Frank**: Only if everyone pitches in. I'm not sure everyone's still standing.
    **フランク**: 全員が力を合わせればね。もう全員が持ちこたえてるか、わからないけど。
-3. **Priya**: Mark left early, but he'd already finished his part.
-   **プリヤ**: マークは早く帰ったけど、自分の担当はもう終わらせてた。
+3. **Priya**: Ben left early, but he'd already finished his part.
+   **プリヤ**: ベンは早く帰ったけど、自分の担当はもう終わらせてた。
 4. **Frank**: Sarah can wrap her section by midnight if she stays focused.
    **フランク**: サラは集中力が続けば、夜中までに自分のセクションを仕上げられる。
 5. **Priya**: The team's wiped out, but they've given it everything.
@@ -241,7 +241,7 @@
 9. **Tina**: The lawyer I hired told me it'd be much quicker. "Faster than light," he said.
    **ティナ**: 雇った弁護士は、もっと早いと言ってたんです。「光より速い」って。
 10. **Officer**: [dryly] He may have meant priority cases only. Lawyers always promise the stars.
-    **職員**: それは優先案件だけのことでしょう。弁護士ってのは、不可能なことでも平気で約束しますからね。
+    **職員**: それは優先案件だけのことでしょう。弁護士ってのは、星だって約束してみせますからね。
 11. **Tina**: [smiles] Trust me, the stars aren't that far. And if a document's missing?
     **ティナ**: ふふ、星ってそんなに遠くないんですよ。それで、もし書類が一つ足りなかったら？
 12. **Officer**: [checking] Nothing's missing. Your file is complete.
@@ -311,7 +311,7 @@
 10. **Officer**: [carefully] If you joined our customer panel, your voice would carry more weight.
     **職員**: 意見交換会に入られれば、あなたの声はもっと重みを持ちますよ。
 11. **Tina**: [pausing] ...A panel. Where they'd actually have to listen to me.
-    **ティナ**: …会。私の話を、ちゃんと聞かなきゃいけないところ。
+    **ティナ**: …意見交換会、ね。私の話を、ちゃんと聞かなきゃいけないところ。
 12. **Officer**: Every meeting, if you wanted.
     **職員**: ご希望なら、毎回でも。
 13. **Tina**: [decisive] Sign me up. Turns out I have a lot to say.
@@ -1371,7 +1371,7 @@
 12. **Frank**: Nothing settled yet. But ask me again soon.
     **フランク**: まだ何も決まってない。でも、近いうちにまた聞いてよ。
 13. **Tina**: [softly] I'll sleep on it. You... well, do whatever you do overnight. Deal?
-    **ティナ**: 私は一晩寝て考える。あなたは…まあ、夜の間いつもしてるように考えて。どう？
+    **ティナ**: 私は一晩寝て考える。あなたは……夜にいつも何してるのか知らないけど、それをしながら考えて。どう？
 
 ### B1-41 Resigning from a Job
 
@@ -1927,7 +1927,7 @@
 1. **Frank**: The doctor who made me sent a letter today.
    **フランク**: 僕を作った博士から、今日手紙が届いたんだ。
 2. **Tina**: Wait — you never told me he still writes to you.
-   **ティナ**: 待って。今もやり取りがあるなんて、聞いてなかったわ。
+   **ティナ**: 待って。今も手紙をくれてるなんて、聞いてなかったわ。
 3. **Frank**: He always has. I just hadn't mentioned it.
    **フランク**: ずっとそうなんだ。ただ話してなかっただけで。
 4. **Tina**: What does he say?
