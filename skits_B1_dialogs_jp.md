@@ -305,7 +305,7 @@
 8. **Frank**: [glancing at phone] Let me text Tina I'll be late. She worries.
    **フランク**: ちょっとティナに、遅くなるって送っておく。心配するんだ。
 9. **Priya**: Go ahead. Then we send it — it's getting too late.
-   **プリヤ**: どうぞ。それから送ろう。もう遅すぎる。
+   **プリヤ**: どうぞ。それから送ろう。もう、こんな時間だし。
 10. **Frank**: The boss might not love rushed work tomorrow.
     **フランク**: 上司は明日、急ぎの仕事を気に入らないかも。
 11. **Priya**: Imperfect and done beats perfect and late.
@@ -859,7 +859,7 @@
 12. **Tina**: Thank you for finding such a perfect match.
     **ティナ**: こんなにぴったりのものを見つけてくれてありがとう。
 13. **Tina**: [to herself, delighted] A whole week of someone else's cooking. Frank will never believe it.
-    **ティナ**: [独り言で、嬉しそうに] まるまる一週間、人の料理。フランクは絶対信じないわ。
+    **ティナ**: まるまる一週間、人の料理。フランクは絶対信じないわ。
 
 ### B1-26 Financial Planning
 
@@ -946,7 +946,7 @@
    **フランク**: なぜ話したか、説明した？
 5. **Tina**: She blamed the wine. I can't accept that.
    **ティナ**: ワインのせいにしたわ。受け入れられない。
-6. **Frank**: And the guy she told — how did he react?
+6. **Frank**: And the person she told — how did they react?
    **フランク**: 聞かされた相手は、どんな反応だった？
 7. **Tina**: Laughed it off. Then pretended he never heard.
    **ティナ**: 笑い飛ばして、それから聞かなかったふり。
@@ -1154,7 +1154,7 @@
    **フランク**: 答えてる途中で気づいた？
 7. **Tina**: Not until it was too late. By then it all felt off.
    **ティナ**: 手遅れになるまで。その頃には全部ずれてた。
-8. **Frank**: Did you notice her face?
+8. **Frank**: Did you notice their face?
    **フランク**: 面接官の顔には気づいた？
 9. **Tina**: A bit confused, but she smiled politely the whole time.
    **ティナ**: 少し戸惑ってた。でもずっと礼儀正しく笑ってた。
@@ -1386,8 +1386,8 @@
    **上司**: 突然だな。どうすれば残ってもらえる？
 3. **Frank**: Nothing, honestly. The role's been good. I just need a new challenge.
    **フランク**: 正直、何も。いい仕事でした。ただ、新しい挑戦が必要なんです。
-4. **Boss**: What if I offered you a promotion? A real one.
-   **上司**: 昇進を出すと言ったら？本物のやつだ。
+4. **Boss**: What if I handed you that project you always wanted to run?
+   **上司**: 君が前からやりたがっていた、あのプロジェクトを任せると言ったら？
 5. **Frank**: I'd still say no. Kindly.
    **フランク**: それでもお断りします。失礼のないように。
 6. **Boss**: A raise, then. A big one.
@@ -1545,13 +1545,13 @@
 
 ### B1-46 Reunion After Years
 
-**場面:** カフェ。Tina が5年ぶりに会った親友の話をする。
+**場面:** カフェ。Tina が2年ぶりに会った親友の話をする。
 
-**Narrator**: Tina recently saw a close friend she hadn't seen in five years. She's telling Frank how it went.
-**ナレーター**: ティナは最近、5年ぶりに親友に会った。それがどうだったかをフランクに話している。
+**Narrator**: Tina recently saw a close friend she hadn't seen in two years. She's telling Frank how it went.
+**ナレーター**: ティナは最近、2年ぶりに親友に会った。それがどうだったかをフランクに話している。
 
-1. **Tina**: I finally saw her. The friend whose wedding I missed five years ago.
-   **ティナ**: やっと会えたの。5年前、結婚式に行けなかったあの親友に。
+1. **Tina**: I finally saw her. The friend whose wedding I missed two years ago.
+   **ティナ**: やっと会えたの。2年前、結婚式に行けなかったあの親友に。
 2. **Frank**: Who cried first?
    **フランク**: どっちが先に泣いた？
 3. **Tina**: Me. I'd carried that guilt for so long.
@@ -1566,8 +1566,8 @@
    **ティナ**: 責めてる。彼女より仕事を優先したから。
 8. **Frank**: Do you think the time apart helped at all?
    **フランク**: 離れてた時間が、少しは助けになったと思う？
-9. **Tina**: I think so. Her kids won me over right away — I'd only known them from photos.
-   **ティナ**: 思う。子供たちにすぐ心をつかまれたわ。写真でしか知らなかったのに。
+9. **Tina**: I think so. Her baby won me over right away — I'd only seen her in photos.
+   **ティナ**: 思う。赤ちゃんにすぐ心をつかまれたわ。写真でしか見たことなかったのに。
 10. **Frank**: Did you bring her something?
     **フランク**: 何か持っていった？
 11. **Tina**: A photo album. Pages and pages of when we were young.
@@ -1579,10 +1579,10 @@
 
 ### B1-47 Counselling Session
 
-**場面:** カウンセリングルーム。Tina が初めて訪れる。
+**場面:** カウンセリングルーム。Tina が別の相談で再び訪れる。
 
-**Narrator**: Tina is seeing a counsellor for the first time. She's talking about what she's carried alone.
-**ナレーター**: ティナは初めてカウンセラーを訪れている。一人で抱えてきたことについて話している。
+**Narrator**: Tina is back at the counsellor's office. This time it isn't about a breakup — she's talking about something she has carried alone for years.
+**ナレーター**: ティナは再びカウンセラーを訪れている。今回は別れの話ではない。何年も一人で抱えてきたことについてだ。
 
 1. **Counsellor**: It sounds like you've carried this on your own for a long time.
    **カウンセラー**: 長い間、これを一人で抱えてこられたようですね。
@@ -1599,7 +1599,7 @@
 7. **Counsellor**: That makes sense, given how you were raised.
    **カウンセラー**: 育ち方を思えば、それも無理はありません。
 8. **Tina**: My family always taught us to stay quiet about our problems.
-   **ティナ**: うちはいつも、悩みは黙っているものだと教えていました。
+   **ティナ**: うちでは、悩みは黙っているものだと教えられて育ちました。
 9. **Counsellor**: If we work on this together, you can rewrite that rule.
    **カウンセラー**: 一緒に取り組めば、そのルールを書き換えていけますよ。
 10. **Tina**: That's honestly what I was hoping for.
@@ -1773,7 +1773,7 @@
 9. **Accountant**: Proper software would handle most of it for you.
    **会計士**: ちゃんとしたソフトなら、大半を処理してくれますよ。
 10. **Frank**: Haven't tried any. I'll give it a go.
-    **フランク**: まだ試したことが。やってみます。
+    **フランク**: まだ試したことがなくて。やってみます。
 11. **Accountant**: Walk through it with me once and you'll pick it up fast.
     **会計士**: 一度一緒にやれば、すぐに要領をつかめますよ。
 12. **Frank**: Could we book next week? I'm busy, but I'll make the time.
@@ -1953,13 +1953,13 @@
 
 ### B1-58 Year-End Review Meeting
 
-**場面:** 上司のオフィス。Frank の年度末レビュー。
+**場面:** 新しい職場の上司のオフィス。Frank の年度末レビュー。
 
-**Narrator**: Frank is having his year-end review. They're going over the year and what's next.
-**ナレーター**: フランクは年度末レビューを受けている。今年を振り返り、次を話している。
+**Narrator**: Frank is having his year-end review — his first at the new company. They're going over the year and what's next.
+**ナレーター**: フランクは年度末レビューを受けている。新しい会社では初めてのレビューだ。今年を振り返り、次を話している。
 
-1. **Boss**: What you pulled off this year shows the goals were realistic.
-   **上司**: 今年やり遂げたことは、目標が現実的だった証拠だ。
+1. **Boss**: Your first year with us, and you delivered. The goals were clearly realistic.
+   **上司**: うちに来て最初の一年で、これだけやり遂げた。目標が現実的だった証拠だ。
 2. **Frank**: I'd hoped to do more. We had to shift focus a few times.
    **フランク**: もっとできればと。何度か重点を切り替える必要がありました。
 3. **Boss**: What blocked you in Q2?
@@ -1982,8 +1982,8 @@
     **上司**: 来年は、もっと大きな影響を見たい。
 12. **Frank**: I'll deliver on that.
     **フランク**: 必ず応えます。
-13. **Boss**: You always do. It was a good year, Frank.
-    **上司**: 君はいつもそうだ。いい一年だったよ、フランク。
+13. **Boss**: Something tells me you will. A fine first year, Frank.
+    **上司**: 君ならやるだろう。いい一年目だったよ、フランク。
 
 ### B1-59 Tina's Homesick Morning
 
