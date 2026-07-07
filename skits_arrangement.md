@@ -137,7 +137,7 @@ A1と同じインターリーブ・ルール（§2）で確定。実用3連な�
 | B1-02 | U-04 | Quarter-Life Crisis | | B1-32 | U-11 | Office Crush |
 | B1-03 | F-06 | After the Lecture | | B1-33 | F-20 | Wine Tasting |
 | B1-04 | U-01 | I Wish I Had Studied | | B1-34 | U-08 | Job Interview Disaster |
-| B1-05 | F-04 | Real Estate Tour | | B1-35 | F-24 | Job Reference Call |
+| B1-05 | F-16 | Tech Support Call | | B1-35 | F-24 | Job Reference Call |
 | B1-06 | U-03 | Failing Adulting | | B1-36 | U-12 | Group Project Hell |
 | B1-07 | F-02 | Visa Application | | B1-37 | F-10 | Court Witness |
 | B1-08 | U-19 | Stuck in Traffic | | B1-38 | U-22 | Hangover Regrets |
@@ -155,7 +155,7 @@ A1と同じインターリーブ・ルール（§2）で確定。実用3連な�
 | B1-20 | U-14 | Apartment Hunt | | B1-50 | U-25 | Late Night Existential Crisis |
 | B1-21 | F-08 | Interview With a Writer | | B1-51 | U-26 | Stars and Stitches |
 | B1-22 | U-15 | First Salary | | B1-52 | F-27 | Tax Advice |
-| B1-23 | F-16 | Tech Support Call | | B1-53 | U-27 | Frank Actually Cries |
+| B1-23 | F-04 | Real Estate Tour | | B1-53 | U-27 | Frank Actually Cries |
 | B1-24 | U-09 | First Date Rewind | | B1-54 | F-15 | Charity Event Speech |
 | B1-25 | F-18 | Booking a Cruise | | B1-55 | U-28 | The Outfit Intervention |
 | B1-26 | U-16 | Financial Planning | | B1-56 | F-28 | Speech at a Wedding |

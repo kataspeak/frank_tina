@@ -143,39 +143,41 @@
 13. **Tina**: [softens] ...Chapter one. And don't let me reach for my phone.
     **ティナ**: ……第一章から。あと、私がスマホに手を伸ばしたら止めて。
 
-### B1-05 Real Estate Tour
+### B1-05 Tech Support Call
 
-**場面:** 改装された建物の内見。不動産業者の案内。
+**場面:** Frank の部屋。深夜。重要なファイルが壊れ、サポートに電話している。
 
-**Narrator**: Tina is apartment hunting. The agent, Mr. Doyle, is showing her a recently renovated building. She's told him she loves warm, light-filled spaces.
-**ナレーター**: ティナはアパートを探している。業者のドイルさんが、最近改装された建物を案内している。彼女は、温かく光に満ちた空間が好きだと伝えてある。
+**Narrator**: A file Frank worked on for weeks is corrupted. He has called tech support.
+**ナレーター**: フランクが何週間もかけたファイルが壊れた。彼は技術サポートに電話している。
 
-1. **Doyle**: We had the whole roof redone last year.
-   **ドイル**: 去年、屋根をまるごと葺き替えました。
-2. **Tina**: Which keeps it warmer in winter, right?
-   **ティナ**: それで冬は暖かくなるんですよね？
-3. **Doyle**: Exactly. The insulation's brand new — saves a fortune on heating.
-   **ドイル**: その通りです。断熱材も新品で、暖房費がぐっと抑えられますよ。
-4. **Tina**: And who designed it? It's gorgeous.
-   **ティナ**: 誰が設計したんですか？すごく素敵。
-5. **Doyle**: A local architect. Her work's well known around the city.
-   **ドイル**: 地元の建築家です。彼女の作品は街でよく知られています。
-6. **Tina**: [delighted] I love this entrance. It feels like it wants you to come in.
-   **ティナ**: この玄関、大好き。「入ってきて」って言ってるみたい。
-7. **Doyle**: The original details were carefully restored. It's one of the building's best features.
-   **ドイル**: 元の細部が丁寧に復元されています。この建物の自慢の一つですね。
-8. **Tina**: Which unit was renovated most recently?
-   **ティナ**: 一番最近改装されたのはどの部屋ですか？
-9. **Doyle**: 5B. The last tenant redid the whole kitchen — and painted it pink, actually.
-   **ドイル**: 5Bです。前の入居者がキッチンをまるごと改装して、実はピンクに塗ったんですよ。
-10. **Tina**: [gasps] A pink kitchen? Mr. Doyle, you should have led with that.
-    **ティナ**: ピンクのキッチン？ドイルさん、それを最初に言うべきだったわ。
-11. **Doyle**: [laughs] They just moved out, so it's empty. Shall we go up?
-    **ドイル**: ちょうど出たばかりで、空いています。上に行きますか？
-12. **Tina**: Right now. I think I already know.
-    **ティナ**: 今すぐ。もう決まりかも。
-13. **Doyle**: If it feels right when you see it, we'll talk numbers after.
-    **ドイル**: 見てしっくりきたら、その後で価格の話をしましょう。
+`[SFX: hold music]`
+
+1. **Support**: Okay — when did you first notice the file was corrupted?
+   **サポート**: では、ファイルが壊れていると最初に気づいたのはいつですか？
+2. **Frank**: After last week's system update. Not before.
+   **フランク**: 先週のシステム更新の後です。前ではありません。
+3. **Support**: And what were you doing right before that?
+   **サポート**: その直前は、何をしていましたか？
+4. **Frank**: I'd been editing a large spreadsheet for hours.
+   **フランク**: 何時間も大きな表計算ファイルを編集していました。
+5. **Support**: Was auto-save on?
+   **サポート**: 自動保存はオンでしたか？
+6. **Frank**: I assumed so. What if it failed silently?
+   **フランク**: そのはずです。もし何の警告もなく失敗していたら？
+7. **Support**: [sighs] That's exactly what we see with the older version.
+   **サポート**: まさにそれが、古いバージョンで起きるんです。
+8. **Frank**: Did the company release a fix before this happened?
+   **フランク**: これが起きる前に、会社は修正版を出していたんですか？
+9. **Support**: We did. People who skipped it hit this same wall.
+   **サポート**: 出しました。入れなかった人が、みんな同じ壁にぶつかったんです。
+10. **Frank**: Then I'll install whatever you recommend, right now.
+    **フランク**: では、お勧めのものを今すぐ入れます。
+11. **Support**: Send me your error logs and I'll take it from here.
+    **サポート**: エラーログを送ってください。あとはこちらで引き取ります。
+12. **Frank**: Thank you. I've been thinking about this for days.
+    **フランク**: ありがとう。何日もこればかり考えていたんです。
+13. **Support**: [kindly] You can stop now. The file's not going anywhere.
+    **サポート**: もう考えなくて大丈夫です。ファイルはどこにも行きませんから。
 
 ### B1-06 Failing Adulting
 
@@ -757,41 +759,39 @@
 13. **Tina**: [sheepishly] ...A bigger suitcase. For Italy.
     **ティナ**: …もっと大きいスーツケース。イタリア用にね。
 
-### B1-23 Tech Support Call
+### B1-23 Real Estate Tour
 
-**場面:** Frank の部屋。深夜。重要なファイルが壊れ、サポートに電話している。
+**場面:** 改装された建物の内見。不動産業者の案内。
 
-**Narrator**: A file Frank worked on for weeks is corrupted. He has called tech support.
-**ナレーター**: フランクが何週間もかけたファイルが壊れた。彼は技術サポートに電話している。
+**Narrator**: Tina is apartment hunting. The agent, Mr. Doyle, is showing her a recently renovated building. She's told him she loves warm, light-filled spaces.
+**ナレーター**: ティナはアパートを探している。業者のドイルさんが、最近改装された建物を案内している。彼女は、温かく光に満ちた空間が好きだと伝えてある。
 
-`[SFX: hold music]`
-
-1. **Support**: Okay — when did you first notice the file was corrupted?
-   **サポート**: では、ファイルが壊れていると最初に気づいたのはいつですか？
-2. **Frank**: After last week's system update. Not before.
-   **フランク**: 先週のシステム更新の後です。前ではありません。
-3. **Support**: And what were you doing right before that?
-   **サポート**: その直前は、何をしていましたか？
-4. **Frank**: I'd been editing a large spreadsheet for hours.
-   **フランク**: 何時間も大きな表計算ファイルを編集していました。
-5. **Support**: Was auto-save on?
-   **サポート**: 自動保存はオンでしたか？
-6. **Frank**: I assumed so. What if it failed silently?
-   **フランク**: そのはずです。もし何の警告もなく失敗していたら？
-7. **Support**: [sighs] That's exactly what we see with the older version.
-   **サポート**: まさにそれが、古いバージョンで起きるんです。
-8. **Frank**: Did the company release a fix before this happened?
-   **フランク**: これが起きる前に、会社は修正版を出していたんですか？
-9. **Support**: We did. People who skipped it hit this same wall.
-   **サポート**: 出しました。入れなかった人が、みんな同じ壁にぶつかったんです。
-10. **Frank**: Then I'll install whatever you recommend, right now.
-    **フランク**: では、お勧めのものを今すぐ入れます。
-11. **Support**: Send me your error logs and I'll take it from here.
-    **サポート**: エラーログを送ってください。あとはこちらで引き取ります。
-12. **Frank**: Thank you. I've been thinking about this for days.
-    **フランク**: ありがとう。何日もこればかり考えていたんです。
-13. **Support**: [kindly] You can stop now. The file's not going anywhere.
-    **サポート**: もう考えなくて大丈夫です。ファイルはどこにも行きませんから。
+1. **Doyle**: We had the whole roof redone last year.
+   **ドイル**: 去年、屋根をまるごと葺き替えました。
+2. **Tina**: Which keeps it warmer in winter, right?
+   **ティナ**: それで冬は暖かくなるんですよね？
+3. **Doyle**: Exactly. The insulation's brand new — saves a fortune on heating.
+   **ドイル**: その通りです。断熱材も新品で、暖房費がぐっと抑えられますよ。
+4. **Tina**: And who designed it? It's gorgeous.
+   **ティナ**: 誰が設計したんですか？すごく素敵。
+5. **Doyle**: A local architect. Her work's well known around the city.
+   **ドイル**: 地元の建築家です。彼女の作品は街でよく知られています。
+6. **Tina**: [delighted] I love this entrance. It feels like it wants you to come in.
+   **ティナ**: この玄関、大好き。「入ってきて」って言ってるみたい。
+7. **Doyle**: The original details were carefully restored. It's one of the building's best features.
+   **ドイル**: 元の細部が丁寧に復元されています。この建物の自慢の一つですね。
+8. **Tina**: Which unit was renovated most recently?
+   **ティナ**: 一番最近改装されたのはどの部屋ですか？
+9. **Doyle**: 5B. The last tenant redid the whole kitchen — and painted it pink, actually.
+   **ドイル**: 5Bです。前の入居者がキッチンをまるごと改装して、実はピンクに塗ったんですよ。
+10. **Tina**: [gasps] A pink kitchen? Mr. Doyle, you should have led with that.
+    **ティナ**: ピンクのキッチン？ドイルさん、それを最初に言うべきだったわ。
+11. **Doyle**: [laughs] They just moved out, so it's empty. Shall we go up?
+    **ドイル**: ちょうど出たばかりで、空いています。上に行きますか？
+12. **Tina**: Right now. I think I already know.
+    **ティナ**: 今すぐ。もう決まりかも。
+13. **Doyle**: If it feels right when you see it, we'll talk numbers after.
+    **ドイル**: 見てしっくりきたら、その後で価格の話をしましょう。
 
 ### B1-24 First Date Rewind
 
