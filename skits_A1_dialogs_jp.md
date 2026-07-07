@@ -998,7 +998,7 @@
    **ティナ**: フランク！漫画見つけた！12冊！
 8. **Frank**: I found one book. About rocks.
    **フランク**: 僕は1冊見つけた。岩の本だ。
-9. **Tina**: [playful] Twelve to one. I win the library, too.
+9. **Tina**: [playful] Twelve to one. I win at the library, too.
    **ティナ**: 12対1。図書館でも私の勝ちね。
 10. **Frank**: [deadpan] It is not a game, Tina.
     **フランク**: ゲームじゃないよ、ティナ。
@@ -1140,7 +1140,7 @@
    **フランク**: 僕はとても頼りになります。眠りませんから。
 8. **Manager**: [nervous laugh] ...A joke. Right?
    **店長**: …冗談、ですよね？
-9. **Tina**: [quickly] A joke! Big joke! Can I come in for an interview tomorrow?
+9. **Tina**: [quickly] A joke! A big joke! Can I come in for an interview tomorrow?
    **ティナ**: 冗談です！大きな冗談！明日、面接に伺っていいですか？
 10. **Frank**: [deadpan] It was not a joke.
     **フランク**: 冗談ではなかった。
@@ -1434,7 +1434,7 @@
    **受付係**: …縫い目、ですか。
 9. **Frank**: It is an old one. A doctor will understand.
    **フランク**: 古いものです。お医者さんならわかります。
-10. **Tina**: [calling from across the room] Tell them to bring pink thread!
+10. **Tina**: [calling from across the room] Tell them to use pink thread!
     **ティナ**: ピンクの糸持ってきてって言ってよ！
 
 ### A1-53 Late Night Talk
