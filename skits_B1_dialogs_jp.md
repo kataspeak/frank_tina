@@ -7,39 +7,39 @@
 
 ---
 
-### B1-01 Job Promotion Talk
+### B1-01 Crisis at Work
 
-**場面:** 上司との昇進面談。会議室。
+**場面:** 深夜のオフィス。締め切りに追われる Frank と同僚。
 
-**Narrator**: Frank is meeting his boss about a promotion. The senior role would mean a new team to lead — and leaving the people he works with now.
-**ナレーター**: フランクは昇進について上司と面談している。上級職は新しいチームを率いることを意味する。そして、今の仲間から離れることも。
+**Narrator**: It's late at night in the office. Frank and his coworker, Priya, are racing a tight deadline for an important client. They're exhausted.
+**ナレーター**: 深夜のオフィス。フランクと同僚のプリヤは、重要な顧客のため厳しい締め切りに追われている。二人とも疲れ果てている。
 
-1. **Boss**: Take the senior role and you'd lead a whole different team.
-   **上司**: 上級職を引き受ければ、まったく別のチームを率いることになる。
-2. **Frank**: The team I'm with now means a great deal to me.
-   **フランク**: 今のチームは、僕にとって本当に大切なんです。
-3. **Boss**: I know. And they value you — honestly, more than you realize.
-   **上司**: わかってる。みんな君を評価してるよ。正直、君が思う以上にね。
-4. **Frank**: If I moved up, who would take my place?
-   **フランク**: 僕が昇進したら、誰が後任になるんですか？
-5. **Boss**: Your assistant. Her work's impressed everyone upstairs.
-   **上司**: 君のアシスタントだ。彼女の仕事ぶりは上層部みんなを感心させてる。
-6. **Frank**: She's capable. But she's not ready for a real crisis yet.
-   **フランク**: 彼女は有能です。でも、本当の危機にはまだ対応できません。
-7. **Boss**: [reassuring] Train her properly and she'd grow into it fast.
-   **上司**: きちんと育てれば、すぐにその役割に成長するさ。
-8. **Frank**: Who has the final say here — me, or the board?
-   **フランク**: 最終決定権は誰にあるんですか、僕ですか、それとも役員会ですか？
-9. **Boss**: You do. Though they'd love a quick answer.
-   **上司**: 君だ。もっとも、彼らは早い返事を望むだろうがね。
-10. **Frank**: I'd like a week. I want to think it through.
-    **フランク**: 1週間ください。じっくり考えたいんです。
-11. **Boss**: Fair enough. Who'll you talk to first?
-    **上司**: いいだろう。最初に誰に相談するんだい？
-12. **Frank**: [quietly] A friend. She's not in the business, but she always cuts straight to what matters.
-    **フランク**: 友人です。この業界の人間じゃないんですが、いつも一番大事なところを突いてくるんです。
-13. **Boss**: [chuckles] Then she's the one to ask. Numbers I can give you. The rest, not so much.
-    **上司**: なら、その人に聞くべきだな。数字なら僕が出せる。でも、それ以外はね。
+1. **Priya**: The deadline's brutal, but we might just make it tonight.
+   **プリヤ**: 締め切りは過酷だけど、今夜中にギリギリ間に合うかも。
+2. **Frank**: Only if everyone pitches in. I'm not sure everyone's still standing.
+   **フランク**: 全員が力を合わせればね。もう全員が持ちこたえてるか、わからないけど。
+3. **Priya**: Mark left early, but he'd already finished his part.
+   **プリヤ**: マークは早く帰ったけど、自分の担当はもう終わらせてた。
+4. **Frank**: Sarah can wrap her section by midnight if she stays focused.
+   **フランク**: サラは集中力が続けば、夜中までに自分のセクションを仕上げられる。
+5. **Priya**: The team's wiped out, but they've given it everything.
+   **プリヤ**: チームはへとへとだけど、全力を出し切ってくれた。
+6. **Frank**: Coffee and pizza might keep us going till morning.
+   **フランク**: コーヒーとピザがあれば、朝まで持つかもしれない。
+7. **Priya**: We owe the client a solid draft either way.
+   **プリヤ**: どっちにしろ、クライアントにはちゃんとした原稿を出さなきゃ。
+8. **Frank**: [glancing at phone] Let me text Tina I'll be late. She worries.
+   **フランク**: ちょっとティナに、遅くなるって送っておく。心配するんだ。
+9. **Priya**: Go ahead. Then we send it — it's getting too late.
+   **プリヤ**: どうぞ。それから送ろう。もう、こんな時間だし。
+10. **Frank**: The boss might not love rushed work tomorrow.
+    **フランク**: 上司は明日、急ぎの仕事を気に入らないかも。
+11. **Priya**: Imperfect and done beats perfect and late.
+    **プリヤ**: 不完全でも完成のほうが、完璧でも遅れるよりましよ。
+12. **Frank**: [hits send, exhales] Then let's push through and get it out.
+    **フランク**: なら、やり抜いて、出してしまおう。
+13. **Priya**: [tired smile] Honestly, Frank — not many teams could pull this off under this much pressure.
+    **プリヤ**: 正直、フランク、これだけのプレッシャーでこれをやり遂げられるチームはそう多くないわ。
 
 ### B1-02 Quarter-Life Crisis
 
@@ -249,73 +249,73 @@
 13. **Tina**: Complete. [softly] First time anyone's said that about me and a form.
     **ティナ**: そろってる。書類のことで、誰かにそう言われたのは初めてだわ。
 
-### B1-08 Stuck in Traffic
+### B1-08 Group Project Hell
 
-**場面:** 動かない渋滞の車内。夕食の予約に遅れている。
+**場面:** いつものカフェ。Frank がグループ課題の惨事を語っている。
 
-**Narrator**: Tina and Frank are in a car that hasn't moved in ages. Tina chose to drive instead of taking the train. Their dinner reservation is slipping away.
-**ナレーター**: ティナとフランクは、もう長いこと動かない車の中にいる。ティナは電車ではなく車を選んだ。夕食の予約が、刻々と遠のいていく。
+**Narrator**: Frank's group project nearly collapsed. The teammate everyone trusted vanished on the day it was due.
+**ナレーター**: フランクのグループ課題は崩壊寸前だった。全員が頼りにしていたメンバーが、提出日に消えたのだ。
 
-1. **Tina**: [groans] If I'd just taken the train, we'd be at the restaurant by now.
-   **ティナ**: 素直に電車に乗っていたら、今ごろレストランに着いてたわ。
-2. **Frank**: Driving at this hour, though? What were you thinking?
-   **フランク**: でも、この時間に運転？何を考えてたの？
-3. **Tina**: I thought the roads would've cleared. Clearly I was wrong.
-   **ティナ**: 道が空いてると思ったの。明らかに間違ってたわね。
-4. **Frank**: You didn't check the traffic app?
-   **フランク**: 交通アプリ、見なかったの？
-5. **Tina**: I forgot rush hour was even a thing.
-   **ティナ**: ラッシュアワーの存在を完全に忘れてたの。
-6. **Frank**: At this rate, what time are we even looking at?
-   **フランク**: このペースだと、何時くらいになりそう？
-7. **Tina**: Midnight. Total fail on my part.
-   **ティナ**: 真夜中ね。完全に私の失敗だわ。
-8. **Frank**: [sighs] If only we'd left before it hit.
-   **フランク**: ラッシュが始まる前に出ていればなあ。
-9. **Tina**: [wistful] You know, back home we'd just fold space. None of this.
-   **ティナ**: ねえ、故郷だったら空間をたたむだけなのに。こんなこと一切なし。
-10. **Frank**: [deadpan] On Earth we call that "the train." Which you skipped.
-    **フランク**: 地球ではそれを「電車」と呼ぶんだ。君が乗らなかったやつだよ。
-11. **Tina**: [laughs] Okay, ouch. The worst part is losing the reservation.
-    **ティナ**: ふふ、痛いとこ突くわね。一番最悪なのは、予約を失うことよ。
-12. **Frank**: [opening the glovebox] We have... half a granola bar and a very old mint.
-    **フランク**: グローブボックスにあるのは……グラノーラバー半分と、すごく古いミントだ。
-13. **Tina**: [grins] Dinner for two. Candlelight not included.
-    **ティナ**: 二人分のディナーね。キャンドルは別料金で。
+1. **Frank**: I still can't believe he ghosted us on the day of the deadline.
+   **フランク**: 締め切り当日に音信不通になるなんて、今でも信じられないよ。
+2. **Tina**: Did he warn anyone?
+   **ティナ**: 誰かに知らせた？
+3. **Frank**: Nobody. And he was the one we thought was most reliable.
+   **フランク**: 誰にも。しかも一番頼れると思ってた人だったんだ。
+4. **Tina**: What was he in charge of?
+   **ティナ**: 何の担当だったの？
+5. **Frank**: The slides. The most visible part of the whole thing.
+   **フランク**: スライドさ。全体で一番目立つ部分。
+6. **Tina**: Did you try calling him?
+   **ティナ**: 電話してみた？
+7. **Frank**: Five times. Nothing.
+   **フランク**: 5回。何も。
+8. **Tina**: But you finished it somehow.
+   **ティナ**: でも、なんとか仕上げたんだよね。
+9. **Frank**: We pulled it off. Honestly, I've never been that stressed.
+   **フランク**: やり遂げたよ。正直、あんなにストレスを感じたことはない。
+10. **Tina**: Were there warning signs you missed?
+    **ティナ**: 見逃したサインはあった？
+11. **Frank**: Plenty. He'd done smaller versions of this before.
+    **フランク**: たくさん。前にも小さく同じことをしてた。
+12. **Tina**: So next time?
+    **ティナ**: じゃあ次は？
+13. **Frank**: [flatly] No more trusting the "most reliable" guy. Lesson learned.
+    **フランク**: もう「一番頼れる」やつは信じない。いい勉強になったよ。
 
-### B1-09 Crisis at Work
+### B1-09 Public Transport Complaint
 
-**場面:** 深夜のオフィス。締め切りに追われる Frank と同僚。
+**場面:** 交通当局の窓口。Tina が電車の遅延に苦情を言っている。
 
-**Narrator**: It's late at night in the office. Frank and his coworker, Priya, are racing a tight deadline for an important client. They're exhausted.
-**ナレーター**: 深夜のオフィス。フランクと同僚のプリヤは、重要な顧客のため厳しい締め切りに追われている。二人とも疲れ果てている。
+**Narrator**: Tina has come to complain about constant train delays. She's been dealing with them for months and wants real action.
+**ナレーター**: ティナは絶え間ない電車の遅延に苦情を言いに来た。何か月も耐えてきて、今度こそ本当の対応を求めている。
 
-1. **Priya**: The deadline's brutal, but we might just make it tonight.
-   **プリヤ**: 締め切りは過酷だけど、今夜中にギリギリ間に合うかも。
-2. **Frank**: Only if everyone pitches in. I'm not sure everyone's still standing.
-   **フランク**: 全員が力を合わせればね。もう全員が持ちこたえてるか、わからないけど。
-3. **Priya**: Mark left early, but he'd already finished his part.
-   **プリヤ**: マークは早く帰ったけど、自分の担当はもう終わらせてた。
-4. **Frank**: Sarah can wrap her section by midnight if she stays focused.
-   **フランク**: サラは集中力が続けば、夜中までに自分のセクションを仕上げられる。
-5. **Priya**: The team's wiped out, but they've given it everything.
-   **プリヤ**: チームはへとへとだけど、全力を出し切ってくれた。
-6. **Frank**: Coffee and pizza might keep us going till morning.
-   **フランク**: コーヒーとピザがあれば、朝まで持つかもしれない。
-7. **Priya**: We owe the client a solid draft either way.
-   **プリヤ**: どっちにしろ、クライアントにはちゃんとした原稿を出さなきゃ。
-8. **Frank**: [glancing at phone] Let me text Tina I'll be late. She worries.
-   **フランク**: ちょっとティナに、遅くなるって送っておく。心配するんだ。
-9. **Priya**: Go ahead. Then we send it — it's getting too late.
-   **プリヤ**: どうぞ。それから送ろう。もう、こんな時間だし。
-10. **Frank**: The boss might not love rushed work tomorrow.
-    **フランク**: 上司は明日、急ぎの仕事を気に入らないかも。
-11. **Priya**: Imperfect and done beats perfect and late.
-    **プリヤ**: 不完全でも完成のほうが、完璧でも遅れるよりましよ。
-12. **Frank**: [hits send, exhales] Then let's push through and get it out.
-    **フランク**: なら、やり抜いて、出してしまおう。
-13. **Priya**: [tired smile] Honestly, Frank — not many teams could pull this off under this much pressure.
-    **プリヤ**: 正直、フランク、これだけのプレッシャーでこれをやり遂げられるチームはそう多くないわ。
+1. **Tina**: If the trains arrived on time, my life would be so much easier.
+   **ティナ**: 電車が時間通りなら、生活がずっと楽になるんです。
+2. **Officer**: I understand. But weather delays are beyond our control.
+   **職員**: お気持ちは分かります。ですが天候の遅延は、私どもの及ぶところでして。
+3. **Tina**: Sure. But constant delays in clear weather? That's not acceptable.
+   **ティナ**: それは分かります。でも晴れの日にしょっちゅう遅れるのは、受け入れられません。
+4. **Officer**: If we hired more staff, would that solve it?
+   **職員**: 職員を増やせば、解決すると？
+5. **Tina**: Maybe a little. But the trains themselves are the real problem.
+   **ティナ**: 多少は。でも本当の問題は、電車そのものです。
+6. **Officer**: We're upgrading the equipment. It takes time, though.
+   **職員**: 設備を更新中です。ただ、時間がかかりまして。
+7. **Tina**: If passengers complained more, would things move faster?
+   **ティナ**: 乗客がもっと苦情を言えば、早くなりますか？
+8. **Officer**: Possibly. Written complaints work best, honestly.
+   **職員**: おそらく。正直、書面の苦情が一番効きます。
+9. **Tina**: Then I'll file one every day. However long it takes.
+   **ティナ**: では毎日提出します。どれだけかかっても。
+10. **Officer**: [carefully] If you joined our customer panel, your voice would carry more weight.
+    **職員**: 意見交換会に入られれば、あなたの声はもっと重みを持ちますよ。
+11. **Tina**: [pausing] ...A panel. Where they'd actually have to listen to me.
+    **ティナ**: …会。私の話を、ちゃんと聞かなきゃいけないところ。
+12. **Officer**: Every meeting, if you wanted.
+    **職員**: ご希望なら、毎回でも。
+13. **Tina**: [decisive] Sign me up. Turns out I have a lot to say.
+    **ティナ**: 申し込みます。私、言いたいことが山ほどあるみたい。
 
 ### B1-10 The Ex Saga
 
@@ -623,39 +623,39 @@
 13. **Tina**: [grinning] Win or not, you're already on the travel list. Free of charge.
     **ティナ**: 当たっても当たらなくても、あなたはもう旅行リスト入りよ。無料でね。
 
-### B1-19 Negotiating a Contract
+### B1-19 Court Witness
 
-**場面:** 商談。Frank が新しい契約を交渉している。
+**場面:** 法廷。Tina が証人として尋問を受けている。
 
-**Narrator**: Frank is in a business meeting to negotiate a new contract. The other side, represented by Ms. Vance, offers a bigger market — but the terms would cut into Frank's margins.
-**ナレーター**: フランクは新しい契約を交渉する商談に臨んでいる。相手側のヴァンスさんは、より大きな市場を提示しているが、その条件はフランクの利益率を圧迫する。
+**Narrator**: Tina is being questioned as a witness. The case involves a man seen leaving an apartment building. She has written the timeline down carefully.
+**ナレーター**: ティナは証人として尋問されている。事件は、アパートを出るところを目撃された男に関わる。彼女は時系列を慎重に書き留めてある。
 
-1. **Frank**: If we agreed to those terms, our margins would shrink significantly.
-   **フランク**: その条件に同意すれば、私たちの利益率は大きく下がります。
-2. **Vance**: That said, you'd gain access to a far larger market.
-   **ヴァンス**: とはいえ、はるかに大きな市場へのアクセスが得られますよ。
-3. **Frank**: Volume matters. But our margins matter more.
-   **フランク**: 数量は重要です。ただ、利益率はそれ以上に重要です。
-4. **Vance**: If we adjusted the percentage, would you reconsider?
-   **ヴァンス**: 割合を調整したら、再考していただけますか？
-5. **Frank**: I would — but only with much stronger guarantees.
-   **フランク**: 検討します。ただし、もっと確実な保証があればです。
-6. **Vance**: We have some flexibility. The basic structure has to stay, though.
-   **ヴァンス**: ある程度の融通は利きます。ただ、基本構造は維持しなければなりません。
-7. **Frank**: If you added marketing support, that would genuinely help.
-   **フランク**: マーケティング支援を加えていただければ、本当に助かります。
-8. **Vance**: We can discuss it. It costs us extra, mind you.
-   **ヴァンス**: 検討できます。もっとも、こちらに追加費用がかかりますが。
-9. **Frank**: I appreciate the openness. But I need solid numbers.
-   **フランク**: オープンに話していただき感謝します。ただ、具体的な数字が必要です。
-10. **Vance**: If our analysts sign off, we'll send them over.
-    **ヴァンス**: うちのアナリストの承認が取れれば、お送りします。
-11. **Frank**: Please put them in the proposal. We'll have more questions.
-    **フランク**: では、提案書に入れてください。さらに質問させていただきます。
-12. **Vance**: Will do. The deadline's tight, though — very tight.
-    **ヴァンス**: そうします。もっとも締め切りは厳しい。かなり厳しいですよ。
-13. **Frank**: [steady] I'll work the weekend, however tough it gets.
-    **フランク**: どんなに大変でも、週末を返上して取り組みます。
+1. **Lawyer**: The man you reported had already left the building, correct?
+   **弁護士**: あなたが報告した男は、すでに建物を出ていた。そうですね？
+2. **Tina**: Yes. I saw him hurry out just as I arrived.
+   **ティナ**: はい。私が着いたちょうどそのとき、急いで出て行きました。
+3. **Lawyer**: Who did you speak to before you entered the lobby?
+   **弁護士**: ロビーに入る前、誰と話しましたか？
+4. **Tina**: The guard I greeted that morning at six.
+   **ティナ**: その朝6時に挨拶した警備員です。
+5. **Lawyer**: Did he mention the man we discussed earlier?
+   **弁護士**: 彼は、先ほどの男に触れましたか？
+6. **Tina**: He said someone had left in a great hurry.
+   **ティナ**: 誰かが大急ぎで出て行った、と言っていました。
+7. **Lawyer**: Who else did you notice in the lobby?
+   **弁護士**: ロビーで他に誰に気づきましたか？
+8. **Tina**: A woman I'd seen there the week before.
+   **ティナ**: その前の週に見かけた女性です。
+9. **Lawyer**: Was she waiting for the same man?
+   **弁護士**: 彼女は同じ男を待っていたのですか？
+10. **Tina**: I don't think so. She was just reading — then she suddenly walked out.
+    **ティナ**: 違うと思います。ただ本を読んでいて、突然出て行きました。
+11. **Lawyer**: Did she contact anyone first?
+    **弁護士**: その前に、誰かに連絡を？
+12. **Tina**: She called someone, but I couldn't tell who.
+    **ティナ**: 誰かに電話していましたが、相手は分かりませんでした。
+13. **Lawyer**: Thank you. That's all for now.
+    **弁護士**: ありがとうございます。今のところ以上です。
 
 ### B1-20 Apartment Hunt
 
@@ -1203,73 +1203,73 @@
 13. **Hiring**: Thank you — that was genuinely helpful.
     **採用担当**: ありがとうございます。本当に助かりました。
 
-### B1-36 Group Project Hell
+### B1-36 Stuck in Traffic
 
-**場面:** いつものカフェ。Frank がグループ課題の惨事を語っている。
+**場面:** 動かない渋滞の車内。夕食の予約に遅れている。
 
-**Narrator**: Frank's group project nearly collapsed. The teammate everyone trusted vanished on the day it was due.
-**ナレーター**: フランクのグループ課題は崩壊寸前だった。全員が頼りにしていたメンバーが、提出日に消えたのだ。
+**Narrator**: Tina and Frank are in a car that hasn't moved in ages. Tina chose to drive instead of taking the train. Their dinner reservation is slipping away.
+**ナレーター**: ティナとフランクは、もう長いこと動かない車の中にいる。ティナは電車ではなく車を選んだ。夕食の予約が、刻々と遠のいていく。
 
-1. **Frank**: I still can't believe he ghosted us on the day of the deadline.
-   **フランク**: 締め切り当日に音信不通になるなんて、今でも信じられないよ。
-2. **Tina**: Did he warn anyone?
-   **ティナ**: 誰かに知らせた？
-3. **Frank**: Nobody. And he was the one we thought was most reliable.
-   **フランク**: 誰にも。しかも一番頼れると思ってた人だったんだ。
-4. **Tina**: What was he in charge of?
-   **ティナ**: 何の担当だったの？
-5. **Frank**: The slides. The most visible part of the whole thing.
-   **フランク**: スライドさ。全体で一番目立つ部分。
-6. **Tina**: Did you try calling him?
-   **ティナ**: 電話してみた？
-7. **Frank**: Five times. Nothing.
-   **フランク**: 5回。何も。
-8. **Tina**: But you finished it somehow.
-   **ティナ**: でも、なんとか仕上げたんだよね。
-9. **Frank**: We pulled it off. Honestly, I've never been that stressed.
-   **フランク**: やり遂げたよ。正直、あんなにストレスを感じたことはない。
-10. **Tina**: Were there warning signs you missed?
-    **ティナ**: 見逃したサインはあった？
-11. **Frank**: Plenty. He'd done smaller versions of this before.
-    **フランク**: たくさん。前にも小さく同じことをしてた。
-12. **Tina**: So next time?
-    **ティナ**: じゃあ次は？
-13. **Frank**: [flatly] No more trusting the "most reliable" guy. Lesson learned.
-    **フランク**: もう「一番頼れる」やつは信じない。いい勉強になったよ。
+1. **Tina**: [groans] If I'd just taken the train, we'd be at the restaurant by now.
+   **ティナ**: 素直に電車に乗っていたら、今ごろレストランに着いてたわ。
+2. **Frank**: Driving at this hour, though? What were you thinking?
+   **フランク**: でも、この時間に運転？何を考えてたの？
+3. **Tina**: I thought the roads would've cleared. Clearly I was wrong.
+   **ティナ**: 道が空いてると思ったの。明らかに間違ってたわね。
+4. **Frank**: You didn't check the traffic app?
+   **フランク**: 交通アプリ、見なかったの？
+5. **Tina**: I forgot rush hour was even a thing.
+   **ティナ**: ラッシュアワーの存在を完全に忘れてたの。
+6. **Frank**: At this rate, what time are we even looking at?
+   **フランク**: このペースだと、何時くらいになりそう？
+7. **Tina**: Midnight. Total fail on my part.
+   **ティナ**: 真夜中ね。完全に私の失敗だわ。
+8. **Frank**: [sighs] If only we'd left before it hit.
+   **フランク**: ラッシュが始まる前に出ていればなあ。
+9. **Tina**: [wistful] You know, back home we'd just fold space. None of this.
+   **ティナ**: ねえ、故郷だったら空間をたたむだけなのに。こんなこと一切なし。
+10. **Frank**: [deadpan] On Earth we call that "the train." Which you skipped.
+    **フランク**: 地球ではそれを「電車」と呼ぶんだ。君が乗らなかったやつだよ。
+11. **Tina**: [laughs] Okay, ouch. The worst part is losing the reservation.
+    **ティナ**: ふふ、痛いとこ突くわね。一番最悪なのは、予約を失うことよ。
+12. **Frank**: [opening the glovebox] We have... half a granola bar and a very old mint.
+    **フランク**: グローブボックスにあるのは……グラノーラバー半分と、すごく古いミントだ。
+13. **Tina**: [grins] Dinner for two. Candlelight not included.
+    **ティナ**: 二人分のディナーね。キャンドルは別料金で。
 
-### B1-37 Court Witness
+### B1-37 Negotiating a Contract
 
-**場面:** 法廷。Tina が証人として尋問を受けている。
+**場面:** 商談。Frank が新しい契約を交渉している。
 
-**Narrator**: Tina is being questioned as a witness. The case involves a man seen leaving an apartment building. She has written the timeline down carefully.
-**ナレーター**: ティナは証人として尋問されている。事件は、アパートを出るところを目撃された男に関わる。彼女は時系列を慎重に書き留めてある。
+**Narrator**: Frank is in a business meeting to negotiate a new contract. The other side, represented by Ms. Vance, offers a bigger market — but the terms would cut into Frank's margins.
+**ナレーター**: フランクは新しい契約を交渉する商談に臨んでいる。相手側のヴァンスさんは、より大きな市場を提示しているが、その条件はフランクの利益率を圧迫する。
 
-1. **Lawyer**: The man you reported had already left the building, correct?
-   **弁護士**: あなたが報告した男は、すでに建物を出ていた。そうですね？
-2. **Tina**: Yes. I saw him hurry out just as I arrived.
-   **ティナ**: はい。私が着いたちょうどそのとき、急いで出て行きました。
-3. **Lawyer**: Who did you speak to before you entered the lobby?
-   **弁護士**: ロビーに入る前、誰と話しましたか？
-4. **Tina**: The guard I greeted that morning at six.
-   **ティナ**: その朝6時に挨拶した警備員です。
-5. **Lawyer**: Did he mention the man we discussed earlier?
-   **弁護士**: 彼は、先ほどの男に触れましたか？
-6. **Tina**: He said someone had left in a great hurry.
-   **ティナ**: 誰かが大急ぎで出て行った、と言っていました。
-7. **Lawyer**: Who else did you notice in the lobby?
-   **弁護士**: ロビーで他に誰に気づきましたか？
-8. **Tina**: A woman I'd seen there the week before.
-   **ティナ**: その前の週に見かけた女性です。
-9. **Lawyer**: Was she waiting for the same man?
-   **弁護士**: 彼女は同じ男を待っていたのですか？
-10. **Tina**: I don't think so. She was just reading — then she suddenly walked out.
-    **ティナ**: 違うと思います。ただ本を読んでいて、突然出て行きました。
-11. **Lawyer**: Did she contact anyone first?
-    **弁護士**: その前に、誰かに連絡を？
-12. **Tina**: She called someone, but I couldn't tell who.
-    **ティナ**: 誰かに電話していましたが、相手は分かりませんでした。
-13. **Lawyer**: Thank you. That's all for now.
-    **弁護士**: ありがとうございます。今のところ以上です。
+1. **Frank**: If we agreed to those terms, our margins would shrink significantly.
+   **フランク**: その条件に同意すれば、私たちの利益率は大きく下がります。
+2. **Vance**: That said, you'd gain access to a far larger market.
+   **ヴァンス**: とはいえ、はるかに大きな市場へのアクセスが得られますよ。
+3. **Frank**: Volume matters. But our margins matter more.
+   **フランク**: 数量は重要です。ただ、利益率はそれ以上に重要です。
+4. **Vance**: If we adjusted the percentage, would you reconsider?
+   **ヴァンス**: 割合を調整したら、再考していただけますか？
+5. **Frank**: I would — but only with much stronger guarantees.
+   **フランク**: 検討します。ただし、もっと確実な保証があればです。
+6. **Vance**: We have some flexibility. The basic structure has to stay, though.
+   **ヴァンス**: ある程度の融通は利きます。ただ、基本構造は維持しなければなりません。
+7. **Frank**: If you added marketing support, that would genuinely help.
+   **フランク**: マーケティング支援を加えていただければ、本当に助かります。
+8. **Vance**: We can discuss it. It costs us extra, mind you.
+   **ヴァンス**: 検討できます。もっとも、こちらに追加費用がかかりますが。
+9. **Frank**: I appreciate the openness. But I need solid numbers.
+   **フランク**: オープンに話していただき感謝します。ただ、具体的な数字が必要です。
+10. **Vance**: If our analysts sign off, we'll send them over.
+    **ヴァンス**: うちのアナリストの承認が取れれば、お送りします。
+11. **Frank**: Please put them in the proposal. We'll have more questions.
+    **フランク**: では、提案書に入れてください。さらに質問させていただきます。
+12. **Vance**: Will do. The deadline's tight, though — very tight.
+    **ヴァンス**: そうします。もっとも締め切りは厳しい。かなり厳しいですよ。
+13. **Frank**: [steady] I'll work the weekend, however tough it gets.
+    **フランク**: どんなに大変でも、週末を返上して取り組みます。
 
 ### B1-38 Hangover Regrets
 
@@ -1305,39 +1305,39 @@
 13. **Tina**: [weakly] Tell past me I said thanks. She won't listen, but try.
     **ティナ**: 昨日の私に、ありがとうって伝えて。聞かないだろうけど、一応ね。
 
-### B1-39 Public Transport Complaint
+### B1-39 Job Promotion Talk
 
-**場面:** 交通当局の窓口。Tina が電車の遅延に苦情を言っている。
+**場面:** 上司との昇進面談。会議室。
 
-**Narrator**: Tina has come to complain about constant train delays. She's been dealing with them for months and wants real action.
-**ナレーター**: ティナは絶え間ない電車の遅延に苦情を言いに来た。何か月も耐えてきて、今度こそ本当の対応を求めている。
+**Narrator**: Frank is meeting his boss about a promotion. The senior role would mean a new team to lead — and leaving the people he works with now.
+**ナレーター**: フランクは昇進について上司と面談している。上級職は新しいチームを率いることを意味する。そして、今の仲間から離れることも。
 
-1. **Tina**: If the trains arrived on time, my life would be so much easier.
-   **ティナ**: 電車が時間通りなら、生活がずっと楽になるんです。
-2. **Officer**: I understand. But weather delays are beyond our control.
-   **職員**: お気持ちは分かります。ですが天候の遅延は、私どもの及ぶところでして。
-3. **Tina**: Sure. But constant delays in clear weather? That's not acceptable.
-   **ティナ**: それは分かります。でも晴れの日にしょっちゅう遅れるのは、受け入れられません。
-4. **Officer**: If we hired more staff, would that solve it?
-   **職員**: 職員を増やせば、解決すると？
-5. **Tina**: Maybe a little. But the trains themselves are the real problem.
-   **ティナ**: 多少は。でも本当の問題は、電車そのものです。
-6. **Officer**: We're upgrading the equipment. It takes time, though.
-   **職員**: 設備を更新中です。ただ、時間がかかりまして。
-7. **Tina**: If passengers complained more, would things move faster?
-   **ティナ**: 乗客がもっと苦情を言えば、早くなりますか？
-8. **Officer**: Possibly. Written complaints work best, honestly.
-   **職員**: おそらく。正直、書面の苦情が一番効きます。
-9. **Tina**: Then I'll file one every day. However long it takes.
-   **ティナ**: では毎日提出します。どれだけかかっても。
-10. **Officer**: [carefully] If you joined our customer panel, your voice would carry more weight.
-    **職員**: 意見交換会に入られれば、あなたの声はもっと重みを持ちますよ。
-11. **Tina**: [pausing] ...A panel. Where they'd actually have to listen to me.
-    **ティナ**: …会。私の話を、ちゃんと聞かなきゃいけないところ。
-12. **Officer**: Every meeting, if you wanted.
-    **職員**: ご希望なら、毎回でも。
-13. **Tina**: [decisive] Sign me up. Turns out I have a lot to say.
-    **ティナ**: 申し込みます。私、言いたいことが山ほどあるみたい。
+1. **Boss**: Take the senior role and you'd lead a whole different team.
+   **上司**: 上級職を引き受ければ、まったく別のチームを率いることになる。
+2. **Frank**: The team I'm with now means a great deal to me.
+   **フランク**: 今のチームは、僕にとって本当に大切なんです。
+3. **Boss**: I know. And they value you — honestly, more than you realize.
+   **上司**: わかってる。みんな君を評価してるよ。正直、君が思う以上にね。
+4. **Frank**: If I moved up, who would take my place?
+   **フランク**: 僕が昇進したら、誰が後任になるんですか？
+5. **Boss**: Your assistant. Her work's impressed everyone upstairs.
+   **上司**: 君のアシスタントだ。彼女の仕事ぶりは上層部みんなを感心させてる。
+6. **Frank**: She's capable. But she's not ready for a real crisis yet.
+   **フランク**: 彼女は有能です。でも、本当の危機にはまだ対応できません。
+7. **Boss**: [reassuring] Train her properly and she'd grow into it fast.
+   **上司**: きちんと育てれば、すぐにその役割に成長するさ。
+8. **Frank**: Who has the final say here — me, or the board?
+   **フランク**: 最終決定権は誰にあるんですか、僕ですか、それとも役員会ですか？
+9. **Boss**: You do. Though they'd love a quick answer.
+   **上司**: 君だ。もっとも、彼らは早い返事を望むだろうがね。
+10. **Frank**: I'd like a week. I want to think it through.
+    **フランク**: 1週間ください。じっくり考えたいんです。
+11. **Boss**: Fair enough. Who'll you talk to first?
+    **上司**: いいだろう。最初に誰に相談するんだい？
+12. **Frank**: [quietly] A friend. She's not in the business, but she always cuts straight to what matters.
+    **フランク**: 友人です。この業界の人間じゃないんですが、いつも一番大事なところを突いてくるんです。
+13. **Boss**: [chuckles] Then she's the one to ask. Numbers I can give you. The rest, not so much.
+    **上司**: なら、その人に聞くべきだな。数字なら僕が出せる。でも、それ以外はね。
 
 ### B1-40 Career Change Talk
 
