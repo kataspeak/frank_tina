@@ -250,8 +250,8 @@
    **ティナ**: 夕日？…フランク！夕日の見える席だって！
 6. **Frank**: [low] You're booking for four. Who are the other two?
    **フランク**: 4人で予約してるよね。あとの2人は誰？
-7. **Tina**: [covers phone] You. And your appetite. [back to phone] We'll take it!
-   **ティナ**: あなた。それとあなたの食欲。…その席でお願いします！
+7. **Tina**: [covers phone] Me. And your appetite. [back to phone] We'll take it!
+   **ティナ**: 私。それとあなたの食欲。…その席でお願いします！
 8. **Host**: Wonderful. May I have your name?
    **係**: 承知しました。お名前をいただけますか？
 9. **Tina**: Tina. And — do you take credit cards?
@@ -311,7 +311,7 @@
 8. **Frank**: He talked for an hour. From very, very far away.
    **フランク**: 1時間も喋ってた。すごく、すごく遠くからね。
 9. **Tina**: [quietly] Distance doesn't matter to him. He always calls.
-   **ティナ**: …距離なんて彼には関係ないの。いつも電話してくれる。
+   **ティナ**: …距離なんてお父さんには関係ないの。いつも電話してくれる。
 10. **Frank**: [beat] Keep that photo. The boat one. [softly] I'm in it.
     **フランク**: …その写真、取っておいて。ボートの。…僕も写ってるから。
 
@@ -324,7 +324,7 @@
 
 1. **Trainer**: For your first day, start really light. How about three kilos?
    **トレーナー**: 初日は本当に軽くから。3キロでどうですか？
-2. **Tina**: Three? [picks it up] I lift my hot chocolate mug heavier than this.
+2. **Tina**: Three? [picks it up] My hot chocolate mug is heavier than this.
    **ティナ**: 3キロ？…私のホットチョコのマグカップのほうが重いわよ。
 3. **Trainer**: [smiling] It's about the form, not the weight. Three sets.
    **トレーナー**: 重さじゃなくてフォームですよ。3セット。
@@ -590,7 +590,7 @@
    **コーディネーター**: 見分ける…って、全部をですか？
 8. **Frank**: A weed is just a plant in the wrong place. I like to be sure.
    **フランク**: 雑草とは、ただ間違った場所にある植物です。確実にしたいんです。
-9. **Coordinator**: [laughs] Sunday at nine. We're gonna need the whole three hours with you.
+9. **Coordinator**: [laughs] Sunday at nine. We're going to need the whole three hours with you.
    **コーディネーター**: 日曜の9時です。あなたとなら3時間まるまる必要になりそうだ。
 10. **Frank**: [deadpan] I'll arrive ten minutes early, then.
     **フランク**: では、10分早く着くようにします。
@@ -608,7 +608,7 @@
    **フランク**: サイズは少し合ってないね。でも色は合ってるよ。
 3. **Tina**: And my shoes don't match at all! Everything's a disaster.
    **ティナ**: 靴は全然合ってないし！もう全部、大失敗よ。
-4. **Frank**: Honestly? Nobody but you is gonna notice.
+4. **Frank**: Honestly? Nobody but you is going to notice.
    **フランク**: 正直に言う？君以外、誰も気づかないよ。
 5. **Tina**: Easy for you to say! You always look perfect.
    **ティナ**: 言うのは簡単よ！あなたはいつも完璧なんだから。
@@ -648,7 +648,7 @@
    **隣人**: 40ページ？私は6年住んでて、一度も開いたことないわ。
 9. **Frank**: Then perhaps I can help you. Page nine is about the heating.
    **フランク**: では、お役に立てるかもしれません。9ページは暖房の話です。
-10. **Neighbor**: [warmly] Welcome to the building. I think you're gonna fit right in.
+10. **Neighbor**: [warmly] Welcome to the building. I think you're going to fit right in.
     **隣人**: この建物へようこそ。あなた、きっとうまくやっていけるわね。
 
 ### A2-24 Crush Update
@@ -668,10 +668,10 @@
    **フランク**: 日程を全部。暗記で。
 5. **Tina**: And his jersey number, his height, and his favorite smoothie!
    **ティナ**: それに背番号と身長と、好きなスムージーもよ！
-6. **Frank**: [pause] You learned his smoothie order but not my coffee order.
-   **フランク**: 彼のスムージーは覚えて、僕のコーヒーの注文は覚えてないんだね。
-7. **Tina**: [dismissively] You always get the same boring black coffee.
-   **ティナ**: あなたはいつも同じ退屈なブラックコーヒーじゃない。
+6. **Frank**: [teasingly] You've memorized his smoothie order, but I'm betting you have no clue how I take my coffee.
+   **フランク**: 彼のスムージーの好みは丸暗記してるのに、僕がどんなコーヒーを頼むかは、どうせ分かってないんだろうね。
+7. **Tina**: [scoffs] Please! I know it by heart. You always get the same boring black coffee.
+   **ティナ**: はっ！バッチリ覚えてるわよ。あなたはいつも同じ、退屈なブラックコーヒーじゃない。
 8. **Frank**: It is consistent. Like your crushes, every few months.
    **フランク**: 一貫してるんだ。君の片思いみたいに、数か月ごとにね。
 9. **Tina**: [gasps] Rude! ...Okay, a little true. So you'll come Saturday?
@@ -845,7 +845,7 @@
 8. **Clerk**: Three screws left over. So it was broken... and then opened.
    **店員**: ネジが三本余り。つまり、壊れて…それから開けられたと。
 9. **Tina**: He said that's normal. Do you have the receipt help-y thing?
-   **ティナ**: それが普通だって言ってました。レシートの手続きってできます？
+   **ティナ**: それが普通だって言ってました。レシートの……あれ、やるやつってあります？
 10. **Clerk**: [sighs, ringing it up] Full refund. Please... keep your friend away from the new one.
     **店員**: 全額返金です。お願いですから…新しいのにはお友達を近づけないでください。
 
@@ -900,8 +900,8 @@
    **フランク**: 一人はティナです。デザートコーナーの近くには座らせないでください。
 8. **Host**: [amused] ...May I ask why?
    **係**: …理由を伺っても？
-9. **Frank**: Last time she went back six times. I'd like the other guests to eat.
-   **フランク**: 前回6回も取りに行ったんです。他の客にも食べさせたくて。
+9. **Frank**: Last time she went back four times. I'd like the other guests to eat.
+   **フランク**: 前回4回も取りに行ったんです。他の客にも食べさせたくて。
 10. **Host**: [laughing] Far corner it is. See you Saturday at seven.
     **係**: では一番奥の席に。土曜7時にお待ちしています。
 
@@ -922,12 +922,12 @@
    **フランク**: 共有の家事当番表は役に立たなかったの？
 5. **Tina**: She agreed to it, then ignored it completely.
    **ティナ**: 同意したのに、完全に無視したわ。
-6. **Frank**: Hmm. When I lived alone, I labeled everything. Each plate had a number.
-   **フランク**: うーん。僕が一人暮らしだったとき、全部にラベルを貼ったよ。皿一枚ずつに番号を。
-7. **Tina**: [staring] You numbered your plates? You live alone!
-   **ティナ**: 皿に番号を振ったの？一人暮らしなのに！
-8. **Frank**: Exactly. So they were always clean. No conflict.
-   **フランク**: そう。だから常にきれいだった。摩擦なしだ。
+6. **Frank**: Hmm. I label everything. Each plate has a number.
+   **フランク**: うーん。僕は全部にラベルを貼ってるよ。皿一枚ずつに番号を。
+7. **Tina**: [staring] You number your plates? You live alone!
+   **ティナ**: 皿に番号を振ってるの？一人暮らしなのに！
+8. **Frank**: Exactly. So they're always clean. No conflict.
+   **フランク**: そう。だから常にきれいなんだ。摩擦なしだ。
 9. **Tina**: [laughing] Frank, the problem is a person, not a system!
    **ティナ**: フランク、問題はシステムじゃなくて人なのよ！
 10. **Frank**: [pause] Then have one calm, final talk. ...Maybe hide a clean plate for yourself.
@@ -982,7 +982,7 @@
    **フランク**: 例えば？この3時間で見た大事なものを一つ見せて。
 7. **Tina**: [scrolling back] Um... a cat who plays piano. A guy frying an egg on a—
    **ティナ**: ええと…ピアノを弾く猫。卵をなんとかの上で焼く男の——
-8. **Frank**: —on a hot rock. I saw that. It was your video that went viral, by the way.
+8. **Frank**: —on a hot rock. I saw that. It was my video that went viral, by the way.
    **フランク**: ——熱い石の上で。それ見たよ。ちなみに、あれは僕のバズった動画だ。
 9. **Tina**: [gasps] Wait, I've been watching YOU for an hour without noticing?!
    **ティナ**: 待って、気づかずに1時間あなたを見てたの？！
@@ -1464,8 +1464,8 @@
    **ティナ**: 書類もアップロードする必要がありますか？
 9. **Receptionist**: Yes, a copy of your passport.
    **受付係**: はい、パスポートのコピーを。
-10. **Tina**: [whispering to Frank] Mine says "place of birth: unknown."
-    **ティナ**: 私のは「出生地：不明」って書いてあるの。
+10. **Tina**: [whispering to Frank] Mine says "place of birth: beyond the stars."
+    **ティナ**: 私のは「出生地：星のかなた」って書いてあるの。
 11. **Frank**: [calm] Just upload it. They process hundreds of these.
     **フランク**: そのまま出せばいい。何百件も処理してるんだから。
 12. **Tina**: [relieved] Done! I can't wait to start.
@@ -1592,11 +1592,13 @@
    **ティナ**: 財布、携帯、それと小さなカメラです。
 9. **Officer**: Were you walking alone?
    **警官**: 一人で歩いていましたか？
-10. **Officer**: Okay. We'll check the cameras around there right away.
+10. **Tina**: No, my friend Frank was right beside me the whole time.
+    **ティナ**: いいえ、友達のフランクがずっとすぐそばにいました。
+11. **Officer**: Okay. We'll check the cameras around there right away.
     **警官**: わかりました。すぐにその周辺のカメラを確認します。
-11. **Tina**: [to Frank, quietly] His eyes really were that color.
+12. **Tina**: [to Frank, quietly] His eyes really were that color.
     **ティナ**: 本当にあんな目の色だったのよ。
-12. **Frank**: [whispering] I believe you. The officer wouldn't.
+13. **Frank**: [whispering] I believe you. The officer wouldn't.
     **フランク**: 信じるよ。でも警官は信じない。
 
 ### A2-56 Doctor's Visit
@@ -1746,12 +1748,12 @@
    **フランク**: 友達には感謝のカードを送った。医者にも。研究所にも。
 8. **Tina**: [laughing] Of course you made a list.
    **ティナ**: もちろんリストを作ったのね。
-9. **Frank**: I almost didn't put you on it.
-   **フランク**: 君は、危うく入れ忘れるところだった。
+9. **Frank**: I almost kept you off the list.
+   **フランク**: 君は、危うくリストから外しておくところだった。
 10. **Tina**: [mock-offended] What?!
     **ティナ**: 何ですって？！
-11. **Frank**: [quietly] You're not on the thank-you list, Tina. You're the reason there is one.
-    **フランク**: 君は感謝リストには載ってない、ティナ。リストがある理由が君なんだ。
+11. **Frank**: [quietly] But you're not "on" the list, Tina. You're the reason it exists.
+    **フランク**: でも君はリストに「載って」るんじゃない、ティナ。リストがある理由そのものなんだ。
 12. **Tina**: [warmly, raising her mug] ...To next year. Same two friends, a little braver.
     **ティナ**: …来年に。同じ二人で、少しだけ勇敢に。
 13. **Frank**: [clinking his cup to hers] To next year.
