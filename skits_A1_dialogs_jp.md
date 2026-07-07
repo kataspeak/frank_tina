@@ -273,7 +273,7 @@
    **フランク**: どこに？
 3. **Tina**: [pointing] On the desk! Right there!
    **ティナ**: 机の上！あそこよ！
-4. **Frank**: Those are not food. Those are flowers.
+4. **Frank**: That is not food. Those are flowers.
    **フランク**: あれは食べ物じゃない。花だよ。
 5. **Tina**: Flowers? On a desk? Why?
    **ティナ**: 花？机の上に？どうして？
@@ -593,7 +593,7 @@
 **Narrator**: It is Friday. Frank and Tina talk about the weekend.
 **ナレーター**: 金曜日だ。フランクとティナは週末について話している。
 
-1. **Tina**: I'll see a movie on Saturday.
+1. **Tina**: I'm seeing a movie on Saturday.
    **ティナ**: 私は土曜日に映画を見るの。
 2. **Frank**: I will stay home and read.
    **フランク**: 僕は家にいて読書するよ。
@@ -601,7 +601,7 @@
    **ティナ**: 読書？また？あなたはいつも読書ね！
 4. **Frank**: Books make me happy.
    **フランク**: 本は僕を幸せにしてくれるんだ。
-5. **Tina**: Movies are way more fun than books! I'm watching a space movie.
+5. **Tina**: Movies are way more fun than books! I'm seeing a space movie.
    **ティナ**: 本なんかより、映画のほうがずっと楽しいわよ。宇宙の映画をみるつもり。
 6. **Frank**: Space. So it reminds you of home.
    **フランク**: 宇宙。じゃあ故郷を思い出すんだね。
@@ -896,8 +896,8 @@
 
 `[SFX: phone buzzes]`
 
-1. **Tina**: Hello? This is Tina speaking.
-   **ティナ**: もしもし？ティナです。
+1. **Tina**: Hey, Frank!
+   **ティナ**: やあ、フランク！
 2. **Frank**: Hi Tina. How are you?
    **フランク**: やあティナ。元気？
 3. **Tina**: I'm good. You?
@@ -970,7 +970,7 @@
    **フランク**: それなら僕が隣に座っているよ。
 9. **Tina**: [surprised] Really? You'd do that?
    **ティナ**: 本当？そうしてくれるの？
-10. **Frank**: [deadpan] I have no mother to be angry at me. I can borrow yours.
+10. **Frank**: [deadpan] I have no mother to get angry at me. I can borrow yours.
     **フランク**: 僕には怒る母親がいない。君のを借りるよ。
 11. **Tina**: [small laugh] You're the best, Frank.
     **ティナ**: あなたって最高ね、フランク。
@@ -1042,8 +1042,8 @@
    **ティナ**: 聞いた？マイクがアナのことを好きなんですって！
 2. **Frank**: I do not know them well.
    **フランク**: 僕はあの二人をよく知らない。
-3. **Tina**: How? They're our schoolmates!
-   **ティナ**: どうして？同じ学校の子たちよ！
+3. **Tina**: What?! They go to our school!
+   **ティナ**: ええっ？！同じ学校の子たちよ！
 4. **Frank**: I do not follow gossip.
    **フランク**: 僕は噂話を追いかけない。
 5. **Tina**: But it's so interesting!
@@ -1072,7 +1072,7 @@
    **店員**: はい。試着室はあちらです。
 3. **Tina**: What size is this dress?
    **ティナ**: このワンピースのサイズは何ですか？
-4. **Clerk**: It is medium.
+4. **Clerk**: It's a medium.
    **店員**: Mサイズです。
 5. **Tina**: Do you have a small? And... in pink?
    **ティナ**: Sサイズはありますか？それと…ピンクで？
@@ -1140,7 +1140,7 @@
    **フランク**: 僕はとても頼りになります。眠りませんから。
 8. **Manager**: [nervous laugh] ...A joke. Right?
    **店長**: …冗談、ですよね？
-9. **Tina**: [quickly] A joke! Big joke! Can I come for the interview tomorrow?
+9. **Tina**: [quickly] A joke! Big joke! Can I come in for an interview tomorrow?
    **ティナ**: 冗談です！大きな冗談！明日、面接に伺っていいですか？
 10. **Frank**: [deadpan] It was not a joke.
     **フランク**: 冗談ではなかった。
@@ -1186,9 +1186,9 @@
    **ティナ**: 自由の女神が見たいわ！
 2. **Frank**: Me too. I will bring my camera.
    **フランク**: 僕も。カメラを持っていくよ。
-3. **Tina**: Take many photos of me!
+3. **Tina**: Take lots of photos of me!
    **ティナ**: 私の写真をたくさん撮ってね！
-4. **Frank**: How many is "many"?
+4. **Frank**: How many is "lots"?
    **フランク**: 「たくさん」は何枚？
 5. **Tina**: [matter-of-fact] One hundred. To start.
    **ティナ**: 100枚。まずはね。
