@@ -86,7 +86,7 @@
    **ティナ**: あれ、実は泣いちゃったの。
 8. **Frank**: [quietly] ...Me too. I didn't say that.
    **フランク**: …僕も。今のは言ってない。
-9. **Tina**: [grinning] Too late! I heard it. Okay — this weekend, both episodes, my place.
+9. **Tina**: [grinning] Too late! I heard it. Okay — this weekend, the next two episodes, my place.
    **ティナ**: 遅いわ！聞いちゃった。決まり——今週末、続きの2話、私の家で。
 10. **Frank**: I'll bring the drinks. You bring snacks. And tissues. [beat] For you.
     **フランク**: 僕が飲み物を持っていく。君はお菓子。それとティッシュ。…君のためにね。
@@ -218,7 +218,7 @@
    **ティナ**: 本当？訪ねたことある？
 4. **Frank**: No. We just talk online. [beat] I don't travel much.
    **フランク**: いや。オンラインで話すだけ。…僕、あまり旅行しないから。
-5. **Tina**: What? You have to go! What did I love most? The people. So warm.
+5. **Tina**: What? You have to go! You know what I loved most? The people. So warm.
    **ティナ**: え？行かなきゃ！私が何が一番好きだったか？人よ。すごく温かいの。
 6. **Frank**: Warmer than your home planet?
    **フランク**: 君の故郷の星より温かい？
@@ -854,7 +854,7 @@
 **場面:** Tinaの部屋。Frankがスマホを掲げて駆け込んでくる。
 
 **Narrator**: Frank posted a science video online, and overnight it went viral. He's telling Tina, who has never seen him excited.
-**ナレーター**: フランクが科学の動画をネットに投稿し、一晩でバズった。彼が、興奮した姿を見たことのないティナに伝えている。
+**ナレーター**: フランクが科学の動画をネットに投稿し、一晩でバズった。彼の興奮した姿を見たことのないティナに、彼が伝えている。
 
 1. **Frank**: [unusually animated] Tina, look! My video went viral overnight!
    **フランク**: ティナ、見て！僕の動画が一晩でバズったんだ！
@@ -982,8 +982,8 @@
    **フランク**: 例えば？この3時間で見た大事なものを一つ見せて。
 7. **Tina**: [scrolling back] Um... a cat who plays piano. A guy frying an egg on a—
    **ティナ**: ええと…ピアノを弾く猫。卵をなんとかの上で焼く男の——
-8. **Frank**: —on a hot rock. I saw that. It was my video that went viral, by the way.
-   **フランク**: ——熱い石の上で。それ見たよ。ちなみに、あれは僕のバズった動画だ。
+8. **Frank**: —on a hot rock. I saw that. That was one of mine, by the way.
+   **フランク**: ——熱い石の上で。それ見たよ。ちなみに、あれも僕のやつだ。
 9. **Tina**: [gasps] Wait, I've been watching YOU for an hour without noticing?!
    **ティナ**: 待って、気づかずに1時間あなたを見てたの？！
 10. **Frank**: [deadpan] And that's exactly why you should put it down.
@@ -1096,7 +1096,7 @@
    **整備士**: へえ。たいていの人はそこにあることすら知らない。
 8. **Frank**: I ride this bike every day. I'd rather not fall on the hill again.
    **フランク**: 毎日乗ってます。あの坂でまた転びたくないんです。
-9. **Mechanic**: [laughing] Fair. I'll tighten it and note your log.
+9. **Mechanic**: [laughing] Fair. I'll tighten it and add it to your log.
    **整備士**: もっともだ。締めて、あなたの記録に書いておきますよ。
 10. **Frank**: Thank you. Call me when it's ready. I'll be waiting by the phone.
     **フランク**: ありがとう。できたら電話を。電話のそばで待ってます。
@@ -1514,25 +1514,23 @@
    **店員**: いい知らせです。お使いのプランが今、安くなりました。
 2. **Frank**: Oh really? How much will I save every month?
    **フランク**: え、本当ですか？毎月いくら節約できますか？
-3. **Staff**: About fifteen dollars off the old price.
-   **店員**: 以前の料金から約15ドル安くなります。
-4. **Staff**: And we've increased the data limit this year, too.
-   **店員**: それに、今年はデータ容量も増やしました。
-5. **Frank**: Even better. Will my phone number stay the same?
+3. **Staff**: About fifteen dollars off the old price. And we've increased the data limit this year, too.
+   **店員**: 以前の料金から約15ドル安くなります。それに、今年はデータ容量も増やしました。
+4. **Frank**: Even better. Will my phone number stay the same?
    **フランク**: さらにいいですね。電話番号はそのままですか？
-6. **Tina**: [alarmed] Wait, your number's changing?! I'll lose you!
+5. **Tina**: [alarmed] Wait, your number's changing?! I'll lose you!
    **ティナ**: 待って、番号が変わるの？！あなたと連絡取れなくなる！
-7. **Staff**: [smiling] No, ma'am. Everything stays the same.
+6. **Staff**: [smiling] No, ma'am. Everything stays the same.
    **店員**: いいえ、お客様。すべてそのままです。
-8. **Frank**: [to Tina, flat] Nothing changes. Sit down.
+7. **Frank**: [to Tina, flat] Nothing changes. Sit down.
    **フランク**: 何も変わらない。座ってて。
-9. **Tina**: [sitting] ...Good. I have your number memorized. Don't make me learn a new one.
+8. **Tina**: [sitting] ...Good. I have your number memorized. Don't make me learn a new one.
    **ティナ**: …よかった。あなたの番号、暗記してるんだから。新しいの覚えさせないでよ。
-10. **Frank**: [to staff] So when does the new plan start?
-    **フランク**: それで、新しいプランはいつ始まりますか？
-11. **Staff**: Automatically next Monday morning.
+9. **Frank**: [to staff] So when does the new plan start?
+   **フランク**: それで、新しいプランはいつ始まりますか？
+10. **Staff**: Automatically next Monday morning.
     **店員**: 来週月曜の朝、自動的に始まります。
-12. **Frank**: [deadpan] Cheaper, same number, more data. Tina, that's a good day.
+11. **Frank**: [deadpan] Cheaper, same number, more data. Tina, that's a good day.
     **フランク**: 安くて、番号同じで、容量増。ティナ、今日はいい日だ。
 
 ### A2-54 Late to Class Again
@@ -1571,7 +1569,7 @@
 
 **場面:** 警察署。Tinaがバッグをひったくられて届け出。Frankが付き添い。
 
-**Narrator**: Tina's bag was just snatched on her way home. She's at the police station to report it. Frank came with her. An officer takes the details.
+**Narrator**: Tina's bag was just snatched on her way home. She's at the police station to report it. Frank was walking with her and came along to report it. An officer takes the details.
 **ナレーター**: ティナは帰宅途中にバッグをひったくられた。彼女は届け出のため警察署にいる。フランクが付き添った。警官が詳細を記録する。
 
 1. **Tina**: Officer, a man just grabbed my bag and ran off!
@@ -1622,15 +1620,17 @@
    **フランク**: ——ティナ。やめて。
 7. **Doctor**: [smiling] Let me examine you. Please breathe slowly.
    **医者**: 診察しますね。ゆっくり呼吸してください。
-8. **Doctor**: It doesn't seem serious. It looks like a common stomach bug.
+8. **Tina**: [whispering, anxious] Is he going to be okay, Doctor?
+   **ティナ**: 先生、彼、大丈夫でしょうか？
+9. **Doctor**: It doesn't seem serious. It looks like a common stomach bug.
    **医者**: 深刻ではなさそうです。よくある胃腸炎のようですね。
-9. **Frank**: What a relief. My friend told me to drink plenty of water. Is that good?
-   **フランク**: 安心しました。友達から水分を多く摂るよう言われました。それでいいですか？
-10. **Doctor**: Excellent advice. Keep drinking water and get some rest.
+10. **Frank**: What a relief. My friend told me to drink plenty of water. Is that good?
+    **フランク**: 安心しました。友達から水分を多く摂るよう言われました。それでいいですか？
+11. **Doctor**: Excellent advice. Keep drinking water and get some rest.
     **医者**: とても良い助言です。水分をしっかり摂って、休んでください。
-11. **Tina**: [proud] See? My advice is doctor-approved.
+12. **Tina**: [proud] See? My advice is doctor-approved.
     **ティナ**: ほらね？私のアドバイス、医者公認よ。
-12. **Frank**: [deadpan] "Drink water" is approved. The rest, we keep between us.
+13. **Frank**: [deadpan] "Drink water" is approved. The rest, we keep between us.
     **フランク**: 「水を飲む」は公認だ。あとは二人だけの秘密にしておこう。
 
 ### A2-57 End of Semester
