@@ -38,8 +38,8 @@
     **プリヤ**: 不完全でも完成のほうが、完璧でも遅れるよりましよ。
 12. **Frank**: [hits send, exhales] Then let's push through and get it out.
     **フランク**: なら、やり抜いて、出してしまおう。
-13. **Priya**: [tired smile] Honestly, Frank — not many teams could pull this off under this much pressure.
-    **プリヤ**: 正直、フランク、これだけのプレッシャーでこれをやり遂げられるチームはそう多くないわ。
+13. **Priya**: [tired smile] Truth is, Frank — not many teams could pull this off under this much pressure.
+    **プリヤ**: 本当のところ、フランク、これだけのプレッシャーでこれをやり遂げられるチームはそう多くないわ。
 
 ### B1-02 Quarter-Life Crisis
 
@@ -86,7 +86,7 @@
    **フランク**: 今日の講義は主体性についてだったんだ。ずっと頭から離れなくて。
 2. **Tina**: That's why you vanished? I waited outside for ten minutes.
    **ティナ**: それで消えてたの？外で10分待ったのよ。
-3. **Frank**: [quietly] Sorry. I needed to work out what was bothering me.
+3. **Frank**: [quietly] Sorry. I needed to figure out what was bothering me.
    **フランク**: ごめん。何が引っかかってるのか、自分の中で整理したかったんだ。
 4. **Tina**: And? What was it?
    **ティナ**: それで？何だったの？
@@ -128,7 +128,7 @@
    **ティナ**: パーティーよ。当時はすごく大事に思えたの。
 6. **Frank**: I wish we'd made a plan earlier. Together.
    **フランク**: もっと早く一緒に計画を立てればよかったね。
-7. **Tina**: I kept trying to handle it all alone. Pretty foolish, huh.
+7. **Tina**: I kept trying to handle it all alone. Pretty dumb, huh.
    **ティナ**: 全部一人で何とかしようとしてたの。バカだったよね。
 8. **Frank**: If you'd asked, I would have helped. You know that.
    **フランク**: 頼んでくれたら、手伝ったよ。わかってるだろ。
@@ -272,8 +272,8 @@
    **フランク**: 5回。何も。
 8. **Tina**: But you finished it somehow.
    **ティナ**: でも、なんとか仕上げたんだよね。
-9. **Frank**: We pulled it off. Honestly, I've never been that stressed.
-   **フランク**: やり遂げたよ。正直、あんなにストレスを感じたことはない。
+9. **Frank**: We pulled it off. Truth be told, I've never been that stressed.
+   **フランク**: やり遂げたよ。正直なところ、あんなにストレスを感じたことはない。
 10. **Tina**: Were there warning signs you missed?
     **ティナ**: 見逃したサインはあった？
 11. **Frank**: Plenty. He'd done smaller versions of this before.
@@ -304,7 +304,7 @@
    **職員**: 設備を更新中です。ただ、時間がかかりまして。
 7. **Tina**: If passengers complained more, would things move faster?
    **ティナ**: 乗客がもっと苦情を言えば、早くなりますか？
-8. **Officer**: Possibly. Written complaints work best, honestly.
+8. **Officer**: Possibly. Written complaints work best, to be honest.
    **職員**: おそらく。正直、書面の苦情が一番効きます。
 9. **Tina**: Then I'll file one every day. However long it takes.
    **ティナ**: では毎日提出します。どれだけかかっても。
@@ -344,7 +344,7 @@
    **ティナ**: 姉よ。何か月も電話してなかったのに。
 10. **Frank**: Funny — the family we take for granted is often exactly who we need.
     **フランク**: 不思議だね。当たり前だと思ってる家族こそ、まさに必要な相手だったりする。
-11. **Tina**: She'd told me he was wrong from the very start.
+11. **Tina**: She'd told me he was wrong for me from the very start.
     **ティナ**: 姉は最初から、彼はやめたほうがいいって言ってたの。
 12. **Frank**: Then she's the one to listen to next time.
     **フランク**: なら、次は彼女の言うことを聞くべきだね。
@@ -376,8 +376,8 @@
    **フランク**: 他にはどんなことを聞かれたの？
 9. **Tina**: My career. She handed me a whole list of people I "should" contact.
    **ティナ**: 私の進路。連絡すべき人のリストをまるごと渡されたの。
-10. **Frank**: If you followed every name on it, would it make her happy?
-    **フランク**: 全部に従ったら、お母さんは喜ぶのかな？
+10. **Frank**: If you contacted every name on it, would that make her happy?
+    **フランク**: 全部に連絡したら、お母さんは喜ぶのかな？
 11. **Tina**: Maybe. But I'd lose my own direction along the way.
     **ティナ**: たぶんね。でもそのうちに、自分の進みたい方向を見失っちゃう。
 12. **Frank**: Then tell her that. Kindly, but clearly.
@@ -500,8 +500,8 @@
    **ティナ**: 本当の冒険がしたいなら、別のものを勧めてくれますか？
 3. **Agent**: The southern path crosses the mountains. Much more exciting.
    **係員**: 南の道は山を越えます。ずっとわくわくしますよ。
-4. **Tina**: How long would that longer route take?
-   **ティナ**: その長いルートはどれくらいかかりますか？
+4. **Tina**: How much longer would that route take?
+   **ティナ**: そのルートは、どれくらい余計にかかりますか？
 5. **Agent**: Two extra days. Still well within your ten.
    **係員**: 追加で2日です。それでも10日には十分収まります。
 6. **Tina**: If I had more time, I'd happily do both.
@@ -510,8 +510,8 @@
    **係員**: 両方だと費用は上がります。もっとも、ホテルは込みですが。
 8. **Tina**: If I skipped the cities, would I save much?
    **ティナ**: 都市を省いたら、だいぶ節約できますか？
-9. **Agent**: Yes. But honestly, the cities are the heart of the trip.
-   **係員**: ええ。でも正直、都市こそこの旅の心臓部です。
+9. **Agent**: Yes. But really, the cities are the heart of the trip.
+   **係員**: ええ。でも実のところ、都市こそこの旅の心臓部です。
 10. **Tina**: [quietly] There's a quiet mountain village on the southern path, isn't there? A friend told me about one once.
     **ティナ**: 南の道に、静かな山あいの村があるでしょう？前に友達が、そういう村のことを話してくれたの。
 11. **Agent**: There is. Tiny place. Most people pass right through it.
@@ -574,7 +574,7 @@
    **オカフォー医師**: 今は調子がいい。ただ、先手を打っておくに越したことはないんです。
 6. **Frank**: I'd rather hear the worst case, if there is one.
    **フランク**: もし最悪のケースがあるなら、それを聞きたいです。
-7. **Dr. Okafor**: Honestly, there isn't one here.
+7. **Dr. Okafor**: Frankly, there isn't one here.
    **オカフォー医師**: 正直に言って、ここには最悪のケースはありません。
 8. **Frank**: [pressing] You'd tell me, though. Even if it were complicated.
    **フランク**: でも、教えてくれますよね。たとえ込み入った話でも。
@@ -716,8 +716,8 @@
    **作家**: 毎日ね。作家が疑いをやめることなんてないの。
 9. **Frank**: [quietly] That's oddly reassuring.
    **フランク**: それを聞くと、なぜか安心します。
-10. **Writer**: So — what do you read? I always ask the interviewer back.
-    **作家**: それであなたは何を読むの？ いつも記者に聞き返すのよ。
+10. **Writer**: So — what do you read? I always turn the question around.
+    **作家**: それであなたは何を読むの？ いつも質問を返すのよ。
 11. **Frank**: That's not on my list of questions.
     **フランク**: それは僕の質問リストにありませんが。
 12. **Writer**: [warmly] No. It's on mine.
@@ -838,8 +838,8 @@
    **係員**: あいにく、ご希望の眺めのキャビンは埋まってしまいました。
 2. **Tina**: Oh, that's a shame. Anything else?
    **ティナ**: あら、残念。他には？
-3. **Agent**: This suite just opened up. Same direction, better view.
-   **係員**: こちらのスイートが今空きました。同じ方角で、眺めはもっといいですよ。
+3. **Agent**: This suite just opened up. Same side of the ship, better view.
+   **係員**: こちらのスイートが今空きました。船の同じ側で、眺めはもっといいですよ。
 4. **Tina**: Did someone cancel?
    **ティナ**: 誰かキャンセルを？
 5. **Agent**: A guest changed their plans last week.
@@ -886,7 +886,7 @@
    **ティナ**: うーん。週に一杯だけ減らすくらいかな。
 9. **Planner**: Small habits add up faster than people expect.
    **プランナー**: 小さな習慣は、思うより早く積み上がります。
-10. **Tina**: If I began today, when could I retire comfortably?
+10. **Tina**: If I started today, when could I retire comfortably?
     **ティナ**: 今日始めたら、いつ頃ゆとりを持って退職できますか？
 11. **Planner**: Around sixty, depending on your choices.
     **プランナー**: 選び方次第ですが、60歳くらいです。
@@ -895,38 +895,38 @@
 13. **Planner**: [laughs] Fair enough. The choices you make now shape your whole future.
     **プランナー**: いいでしょう。今のあなたの選択が、これからすべてを形作りますよ。
 
-### B1-27 Couples Counselling
+### B1-27 Breakup Counseling
 
 **場面:** カウンセリングルーム。Tina が元恋人マークとの別れを整理しようとしている。
 
-**Narrator**: Tina is seeing a counsellor about a recent breakup with Mark. Today she's trying to be honest about her own silence.
+**Narrator**: Tina is seeing a counselor about a recent breakup with Mark. Today she's trying to be honest about her own silence.
 **ナレーター**: ティナは最近のマークとの別れについて、カウンセラーに会っている。今日は、自分が黙っていたことに正直に向き合おうとしている。
 
-1. **Counsellor**: You said Mark hadn't been listening to you.
+1. **Counselor**: You said Mark hadn't been listening to you.
    **カウンセラー**: マークがあなたの話を聞いていなかった、とおっしゃっていましたね。
 2. **Tina**: For weeks it felt like he hadn't heard a single word.
    **ティナ**: 何週間も、一言も届いていない気がしました。
-3. **Counsellor**: What do you wish you'd said, that last Friday?
+3. **Counselor**: What do you wish you'd said, that last Friday?
    **カウンセラー**: あの最後の金曜日、本当は何と言いたかったですか？
 4. **Tina**: If I'd just asked about his day, he'd have felt like he mattered.
    **ティナ**: あの日、彼の一日を尋ねていたら、彼は大切にされていると感じたはず。
-5. **Counsellor**: And what had he told you before the argument?
+5. **Counselor**: And what had he told you before the argument?
    **カウンセラー**: 口論の前に、彼は何と言っていましたか？
 6. **Tina**: That he was tired. Really quietly. I let it pass.
    **ティナ**: 疲れてる、って。とても小さな声で。私は聞き流しました。
-7. **Counsellor**: Did you tell him what you needed?
+7. **Counselor**: Did you tell him what you needed?
    **カウンセラー**: 自分が何を必要としているか、彼に伝えましたか？
 8. **Tina**: No. I hinted. I never said it out loud.
    **ティナ**: いいえ。ほのめかしただけ。声に出して言わなかった。
-9. **Counsellor**: What stopped you?
+9. **Counselor**: What stopped you?
    **カウンセラー**: 何が、あなたを止めたのでしょう？
 10. **Tina**: [quietly] Fear. We both kept saying we were fine when we weren't.
     **ティナ**: 怖さです。二人とも、大丈夫じゃないのに大丈夫って言い続けてた。
-11. **Counsellor**: And the silence grew louder than the words.
+11. **Counselor**: And the silence grew louder than the words.
     **カウンセラー**: そして沈黙が、言葉より大きくなっていった。
 12. **Tina**: It does that. I won't let it happen again — not with anyone who matters.
     **ティナ**: そうなるんです。もう二度とさせない。大切な相手とは、特に。
-13. **Counsellor**: [gently] That honesty, starting now — that's what you build on.
+13. **Counselor**: [gently] That honesty, starting now — that's what you build on.
     **カウンセラー**: その正直さこそ、これから積み上げていく土台です。
 
 ### B1-28 Friend Drama
@@ -984,7 +984,7 @@
    **ティナ**: 他に何が必要ですか？
 7. **Agent**: Photos, a written report, witness statements.
    **担当者**: 写真、書面の報告書、目撃者の証言です。
-8. **Tina**: My upstairs neighbour saw the water in the hallway.
+8. **Tina**: My upstairs neighbor saw the water in the hallway.
    **ティナ**: 上の階の人が、廊下の水を見ています。
 9. **Agent**: What exactly did she see?
    **担当者**: 具体的に何を見たんですか？
@@ -1082,8 +1082,8 @@
    **フランク**: ——でも今は、関わる全員を考えないと。彼、君、彼の恋人。
 5. **Tina**: I know. All three of us. I can't turn it into a whole drama.
    **ティナ**: 分かってる。三人ともね。大ごとにはできない。
-6. **Frank**: Good call. If you confessed today, what would actually happen?
-   **フランク**: 賢明だね。今日告白したら、実際どうなる？
+6. **Frank**: Good call. If you told him how you feel today, what would actually happen?
+   **フランク**: 賢明だね。今日気持ちを伝えたら、実際どうなる？
 7. **Tina**: A mess. Definitely not something I can carry into work.
    **ティナ**: ぐちゃぐちゃよ。職場に持ち込めるものじゃない。
 8. **Frank**: I just wish you'd said something sooner.
@@ -1154,9 +1154,9 @@
    **フランク**: 答えてる途中で気づいた？
 7. **Tina**: Not until it was too late. By then it all felt off.
    **ティナ**: 手遅れになるまで。その頃には全部ずれてた。
-8. **Frank**: Did you notice their face?
-   **フランク**: 面接官の顔には気づいた？
-9. **Tina**: A bit confused, but she smiled politely the whole time.
+8. **Frank**: Did you see their reaction?
+   **フランク**: 面接官の反応には気づいた？
+9. **Tina**: A bit confused, but they smiled politely the whole time.
    **ティナ**: 少し戸惑ってた。でもずっと礼儀正しく笑ってた。
 10. **Frank**: So what did you learn?
     **フランク**: それで、何を学んだ？
@@ -1190,7 +1190,7 @@
    **フランク**: 一年間支えていたシニアアーキテクトです。いいコンビでした。
 7. **Hiring**: If she joined us, what should we expect?
    **採用担当**: 入社したら、何を期待できますか？
-8. **Frank**: She's calm, capable — the kind people naturally follow.
+8. **Frank**: She's calm, capable — the kind of person people naturally follow.
    **フランク**: 冷静で有能。周りが自然とついていくタイプです。
 9. **Hiring**: Anyone else I could contact?
    **採用担当**: 他に連絡できる方は？
@@ -1262,8 +1262,8 @@
    **ヴァンス**: 検討できます。もっとも、こちらに追加費用がかかりますが。
 9. **Frank**: I appreciate the openness. But I need solid numbers.
    **フランク**: オープンに話していただき感謝します。ただ、具体的な数字が必要です。
-10. **Vance**: If our analysts sign off, we'll send them over.
-    **ヴァンス**: うちのアナリストの承認が取れれば、お送りします。
+10. **Vance**: If our analysts sign off, we'll send the numbers over.
+    **ヴァンス**: うちのアナリストの承認が取れれば、その数字をお送りします。
 11. **Frank**: Please put them in the proposal. We'll have more questions.
     **フランク**: では、提案書に入れてください。さらに質問させていただきます。
 12. **Vance**: Will do. The deadline's tight, though — very tight.
@@ -1316,8 +1316,8 @@
    **上司**: 上級職を引き受ければ、まったく別のチームを率いることになる。
 2. **Frank**: The team I'm with now means a great deal to me.
    **フランク**: 今のチームは、僕にとって本当に大切なんです。
-3. **Boss**: I know. And they value you — honestly, more than you realize.
-   **上司**: わかってる。みんな君を評価してるよ。正直、君が思う以上にね。
+3. **Boss**: I know. And they value you — really, more than you realize.
+   **上司**: わかってる。みんな君を評価してるよ。本当に、君が思う以上にね。
 4. **Frank**: If I moved up, who would take my place?
    **フランク**: 僕が昇進したら、誰が後任になるんですか？
 5. **Boss**: Your assistant. Her work's impressed everyone upstairs.
@@ -1356,7 +1356,7 @@
    **フランク**: 2か月待ってもらえないか聞いたら、残してくれるかな？
 5. **Tina**: Maybe. But they want me to start right away.
    **ティナ**: たぶん。でも、すぐ始めてほしがってるの。
-6. **Frank**: That's tough. Great chance — but a lot of money to walk from.
+6. **Frank**: That's tough. Great chance — but a lot of money to walk away from.
    **フランク**: 悩むね。いいチャンスだ。でも手放すには大きい額だ。
 7. **Tina**: If I had the guts, I'd just take the plunge.
    **ティナ**: 度胸があれば、思い切って飛び込むんだけど。
@@ -1384,8 +1384,8 @@
    **フランク**: ここで働くのは楽しかったのですが、来月付で退職させていただきたいんです。
 2. **Boss**: [surprised] That's sudden. What would it take to keep you?
    **上司**: 突然だな。どうすれば残ってもらえる？
-3. **Frank**: Nothing, honestly. The role's been good. I just need a new challenge.
-   **フランク**: 正直、何も。いい仕事でした。ただ、新しい挑戦が必要なんです。
+3. **Frank**: Nothing, really. The role's been good. I just need a new challenge.
+   **フランク**: 本当に、何も。いい仕事でした。ただ、新しい挑戦が必要なんです。
 4. **Boss**: What if I handed you that project you always wanted to run?
    **上司**: 君が前からやりたがっていた、あのプロジェクトを任せると言ったら？
 5. **Frank**: I'd still say no. Kindly.
@@ -1577,38 +1577,38 @@
 13. **Tina**: [quietly] Maybe if I'd reached out sooner, it wouldn't still ache like this.
     **ティナ**: もっと早く連絡していたら、今もこんなに胸が痛まなかったのかもね。
 
-### B1-47 Counselling Session
+### B1-47 Counseling Session
 
 **場面:** カウンセリングルーム。Tina が別の相談で再び訪れる。
 
-**Narrator**: Tina is back at the counsellor's office. This time it isn't about a breakup — she's talking about something she has carried alone for years.
+**Narrator**: Tina is back at the counselor's office. This time it isn't about a breakup — she's talking about something she has carried alone for years.
 **ナレーター**: ティナは再びカウンセラーを訪れている。今回は別れの話ではない。何年も一人で抱えてきたことについてだ。
 
-1. **Counsellor**: It sounds like you've carried this on your own for a long time.
+1. **Counselor**: It sounds like you've carried this on your own for a long time.
    **カウンセラー**: 長い間、これを一人で抱えてこられたようですね。
 2. **Tina**: I was always afraid no one would understand.
    **ティナ**: 誰も理解してくれない気がして、ずっと怖かったんです。
-3. **Counsellor**: What kept you from reaching out before now?
+3. **Counselor**: What kept you from reaching out before now?
    **カウンセラー**: これまで、何が助けを求めることを止めていたのでしょう？
 4. **Tina**: Pride, I think. Asking for help felt like weakness.
    **ティナ**: プライドだと思います。助けを求めるのは弱さみたいで。
-5. **Counsellor**: Actually, asking takes strength. Not the other way around.
+5. **Counselor**: Actually, asking takes strength. Not the other way around.
    **カウンセラー**: 実は、求めるには強さがいるんです。その逆ではなく。
 6. **Tina**: I've believed the opposite for years.
    **ティナ**: 何年も、その真逆を信じてきました。
-7. **Counsellor**: That makes sense, given how you were raised.
+7. **Counselor**: That makes sense, given how you were raised.
    **カウンセラー**: 育ち方を思えば、それも無理はありません。
 8. **Tina**: My family always taught us to stay quiet about our problems.
    **ティナ**: うちでは、悩みは黙っているものだと教えられて育ちました。
-9. **Counsellor**: If we work on this together, you can rewrite that rule.
+9. **Counselor**: If we work on this together, you can rewrite that rule.
    **カウンセラー**: 一緒に取り組めば、そのルールを書き換えていけますよ。
 10. **Tina**: That's honestly what I was hoping for.
     **ティナ**: 正直、それを望んでいたんです。
-11. **Counsellor**: I'm glad you came. You don't have to hold all of it by yourself anymore.
+11. **Counselor**: I'm glad you came. You don't have to hold all of it by yourself anymore.
     **カウンセラー**: 来てくださってよかった。もう全部を一人で抱える必要はありません。
 12. **Tina**: [exhales] Thank you. Just being here feels like a relief.
     **ティナ**: ありがとうございます。ここにいるだけで、少しほっとします。
-13. **Counsellor**: We'll go at your pace. I'll be right here.
+13. **Counselor**: We'll go at your pace. I'll be right here.
     **カウンセラー**: あなたのペースで進めましょう。私はここにいますから。
 
 ### B1-48 Friend's Bad Decision
@@ -1660,8 +1660,8 @@
    **フランク**: より厳格な規則、より明確な手順、そして実験前の必須研修です。
 4. **Reporter**: And what evidence backs this up?
    **記者**: その根拠は何ですか？
-5. **Frank**: Our researchers reviewed several lab reports. They pointed clearly to the need.
-   **フランク**: 研究者が実験室報告書を検討しました。必要性は明確でした。
+5. **Frank**: Our researchers reviewed several lab reports. They pointed clearly to the need for these changes.
+   **フランク**: 研究者が実験室報告書を検討しました。こうした変更の必要性は明確でした。
 6. **Reporter**: Critics say you ignored their concerns.
    **記者**: 批判者は、懸念を無視したと言っていますが。
 7. **Frank**: We listened. Many of those concerns are in the final draft.
@@ -1710,7 +1710,7 @@
     **ティナ**: 目を閉じたら、宇宙は終わる？
 12. **Frank**: No. Just this incredibly long night. Finally.
     **フランク**: いや。この信じられないほど長い夜が、やっと終わるだけさ。
-13. **Tina**: [yawning] Fine. If sleep solves everything, tomorrow's problem is tomorrow.
+13. **Tina**: [yawning] Fine. If sleep solves everything, tomorrow's problems can wait until tomorrow.
     **ティナ**: わかったわ。睡眠が全部解決するなら、明日のことは明日ね。
 
 ### B1-51 Stars and Stitches
@@ -1728,7 +1728,7 @@
    **ティナ**: 自分について、ずっと同じことを考えていたの。
 4. **Frank**: Being made by someone — it's strange. But it's all I've ever known.
    **フランク**: 誰かに作られるのは、奇妙だよ。でも、それが僕の知ってるすべてなんだ。
-5. **Tina**: Being from somewhere that far — that's all I've ever known too.
+5. **Tina**: Being from somewhere that far away — that's all I've ever known too.
    **ティナ**: あんなに遠い場所の出身なこと。それも、私の知ってるすべて。
 6. **Frank**: If I hadn't been put together the way I was, I wouldn't be here.
    **フランク**: 今の僕みたいに組み立てられていなかったら、ここにはいない。
@@ -1758,7 +1758,7 @@
    **会計士**: 申告書は簡単そうに見えますが、専門家に見せるメリットは大きいですよ。
 2. **Frank**: True. If my income were simple, I wouldn't be sitting here.
    **フランク**: たしかに。収入が単純なら、ここに座っていません。
-3. **Accountant**: Right. Mixed income is what complicates everything.
+3. **Accountant**: Right. Income from more than one source is what complicates everything.
    **会計士**: ええ。複数の収入があると、すべてがややこしくなります。
 4. **Frank**: I have a salary, plus some freelance work. The freelance part is small, though.
    **フランク**: 給与に加えて、少しフリーランスを。フリーランスは少額ですが。
@@ -1770,9 +1770,9 @@
    **会計士**: 整理すれば、控除がもっと見つかるはずです。
 8. **Frank**: Sorting receipts is tedious. But yeah, it pays off.
    **フランク**: 領収書の整理は面倒です。でも、後で効きますね。
-9. **Accountant**: Proper software would handle most of it for you.
-   **会計士**: ちゃんとしたソフトなら、大半を処理してくれますよ。
-10. **Frank**: Haven't tried any. I'll give it a go.
+9. **Accountant**: The right software would handle most of it for you.
+   **会計士**: 適切なソフトなら、大半を処理してくれますよ。
+10. **Frank**: Haven't tried any. I'll give it a try.
     **フランク**: まだ試したことがなくて。やってみます。
 11. **Accountant**: Walk through it with me once and you'll pick it up fast.
     **会計士**: 一度一緒にやれば、すぐに要領をつかめますよ。
@@ -1904,7 +1904,7 @@
    **ティナ**: 花婿も、忍耐強く、誠実で、優しい人。今夜は同じくらい輝いています。
 7. **Frank**: What's held them together is how deeply they listen to each other.
    **フランク**: 二人を支えてきたのは、互いに深く耳を傾けてきたことです。
-8. **Tina**: When life got hard, they handed each other patience.
+8. **Tina**: When life got hard, they gave each other patience.
    **ティナ**: 人生が苦しいときも、二人は互いに忍耐を差し出してきました。
 9. **Frank**: Hold onto what you feel today, and you'll weather any storm.
    **フランク**: 今日の気持ちを忘れなければ、どんな嵐も越えられます。
@@ -1958,8 +1958,8 @@
 **Narrator**: Frank is having his year-end review — his first at the new company. They're going over the year and what's next.
 **ナレーター**: フランクは年度末レビューを受けている。新しい会社では初めてのレビューだ。今年を振り返り、次を話している。
 
-1. **Boss**: Your first year with us, and you delivered. The goals were clearly realistic.
-   **上司**: うちに来て最初の一年で、これだけやり遂げた。目標が現実的だった証拠だ。
+1. **Boss**: Your first year with us, and you delivered. You hit every goal we set.
+   **上司**: うちに来て最初の一年で、これだけやり遂げた。設定した目標を、すべて達成したね。
 2. **Frank**: I'd hoped to do more. We had to shift focus a few times.
    **フランク**: もっとできればと。何度か重点を切り替える必要がありました。
 3. **Boss**: What blocked you in Q2?
@@ -2023,7 +2023,7 @@
 
 **場面:** Tina が土曜の予定をまた土壇場でキャンセルした後。Frank は2日黙っていた。
 
-**Narrator**: Tina cancelled their Saturday plans at the last minute — again. Frank had already turned down another invitation to keep the time free. He said nothing for two days. When they finally talk, it doesn't start smoothly.
+**Narrator**: Tina canceled their Saturday plans at the last minute — again. Frank had already turned down another invitation to keep the time free. He said nothing for two days. When they finally talk, it doesn't start smoothly.
 **ナレーター**: ティナは土曜の予定を土壇場でキャンセルした、またしても。フランクはその時間を空けるため、別の誘いをすでに断っていた。彼は2日間、何も言わなかった。二人がやっと話したとき、滑り出しは決してスムーズではなかった。
 
 1. **Frank**: If you'd told me earlier, I wouldn't have turned everyone else down.

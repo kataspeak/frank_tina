@@ -149,7 +149,7 @@ A1と同じインターリーブ・ルール（§2）で確定。実用3連な�
 | B1-14 | U-13 | Roommate Problems Pt.2 | | B1-44 | U-21 | Quitting Social Media |
 | B1-15 | F-14 | Travel Itinerary Planning | | B1-45 | F-23 | Restaurant Review |
 | B1-16 | U-10 | Sibling Rivalry | | B1-46 | U-24 | Reunion After Years |
-| B1-17 | F-03 | Doctor's Diagnosis | | B1-47 | F-25 | Counselling Session |
+| B1-17 | F-03 | Doctor's Diagnosis | | B1-47 | F-25 | Counseling Session |
 | B1-18 | U-02 | If I Won the Lottery | | B1-48 | U-23 | Friend's Bad Decision |
 | B1-19 | F-10 | Court Witness | | B1-49 | F-26 | Press Conference |
 | B1-20 | U-14 | Apartment Hunt | | B1-50 | U-25 | Late Night Existential Crisis |
@@ -159,7 +159,7 @@ A1と同じインターリーブ・ルール（§2）で確定。実用3連な�
 | B1-24 | U-09 | First Date Rewind | | B1-54 | F-15 | Charity Event Speech |
 | B1-25 | F-18 | Booking a Cruise | | B1-55 | U-28 | The Outfit Intervention |
 | B1-26 | U-16 | Financial Planning | | B1-56 | F-28 | Speech at a Wedding |
-| B1-27 | F-07 | Couples Counselling | | B1-57 | F-30 | A Letter from the Doctor |
+| B1-27 | F-07 | Breakup Counseling | | B1-57 | F-30 | A Letter from the Doctor |
 | B1-28 | U-18 | Friend Drama | | B1-58 | F-29 | Year-End Review Meeting |
 | B1-29 | F-19 | Insurance Claim | | B1-59 | F-31 | Tina's Homesick Morning |
 | B1-30 | U-06 | Awkward Family Dinner | | B1-60 | U-29 | The First Real Fight |
