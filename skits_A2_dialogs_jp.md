@@ -289,13 +289,13 @@
 
 ### A2-11 Showing Photos
 
-**場面:** 去年の春の旅行写真を見返す。
+**場面:** 先月の旅行写真を見返す。
 
-**Narrator**: Frank and Tina are looking at photos from a trip last spring. They visited a temple and a lake.
-**ナレーター**: フランクとティナは去年の春の旅行写真を見ている。二人はお寺と湖を訪れた。
+**Narrator**: Frank and Tina are looking at photos from a trip last month. They visited a temple and a lake.
+**ナレーター**: フランクとティナは先月の旅行写真を見ている。二人はお寺と湖を訪れた。
 
-1. **Tina**: Look — this is the temple. Last spring.
-   **ティナ**: 見て——これがお寺。去年の春。
+1. **Tina**: Look — this is the temple. Last month.
+   **ティナ**: 見て——これがお寺。先月ね。
 2. **Frank**: The monks were chanting that morning. I remember the bell.
    **フランク**: あの朝、お坊さんたちがお経を唱えてた。鐘の音を覚えてる。
 3. **Tina**: We gave a small donation, and the monk gave us a good-luck card.
@@ -776,8 +776,8 @@
    **ティナ**: もしもしお母さん！ちょうど勉強してたの、本当よ！
 2. **Mom**: Studying at this hour? Where are you?
    **母**: こんな時間に勉強？どこにいるの？
-3. **Tina**: At Frank's place — you know, my Earth friend from campus.
-   **ティナ**: フランクの家よ。ほら、キャンパスの私の地球人の友達。
+3. **Tina**: At Frank's place — you know, my Earth friend. You remember him from campus.
+   **ティナ**: フランクの家よ。ほら、私の地球人の友達。キャンパスで会ったの、覚えてるでしょ。
 4. **Mom**: Oh, the tall boy who showed us around campus?
    **母**: ああ、キャンパスを案内してくれた背の高い男の子？
 5. **Tina**: Yes, that's him! We were finishing the science project.
@@ -912,8 +912,8 @@
 **Narrator**: Tina is frustrated with her messy roommate. She's tried talking, with no result, and asks Frank for advice.
 **ナレーター**: ティナはだらしないルームメイトにいらいらしている。話してみたが効果なし。フランクに助言を求める。
 
-1. **Tina**: My roommate's nice, but she never washes her dishes!
-   **ティナ**: ルームメイトはいい子なんだけど、絶対に皿を洗わないの！
+1. **Tina**: My roommate's nice, but she never washes her dishes! That's why I was apartment hunting, remember?
+   **ティナ**: ルームメイトはいい子なんだけど、絶対に皿を洗わないの！だから部屋を探してたのよ、覚えてる？
 2. **Frank**: Have you talked to her about it directly?
    **フランク**: 直接話してみた？
 3. **Tina**: Three times! Nothing changed. The kitchen's full of crusty pans.
@@ -1105,8 +1105,8 @@
 
 **場面:** カフェ。Frankが今日の気まずい出来事をTinaに話す。
 
-**Narrator**: Frank had an awkward moment in class. His professor caught him passing a note. He's telling Tina.
-**ナレーター**: フランクは授業で気まずいことがあった。教授にメモを回しているのを見つかった。ティナに話している。
+**Narrator**: Frank had an awkward moment in the evening class he audits after work. His professor caught him passing a note. He's telling Tina.
+**ナレーター**: フランクは仕事帰りに聴講している夜の授業で気まずいことがあった。教授にメモを回しているのを見つかった。ティナに話している。
 
 1. **Frank**: Tina, I had such an awkward moment in class today.
    **フランク**: ティナ、今日授業ですごく気まずいことがあったんだ。
@@ -1381,15 +1381,15 @@
 
 **場面:** 職場。Frankが上司に金曜の休みを申請。
 
-**Narrator**: Frank wants Friday off to see a visiting friend. He's asking his boss. He plans to finish his work first.
-**ナレーター**: フランクは訪ねてくる友人と過ごすため金曜に休みたい。彼は上司に申請している。先に仕事を終わらせるつもりだ。
+**Narrator**: Frank wants Friday off to spend the day with a close friend. He's asking his boss. He plans to finish his work first.
+**ナレーター**: フランクは親しい友人と一日過ごすため金曜に休みたい。彼は上司に申請している。先に仕事を終わらせるつもりだ。
 
 1. **Frank**: Could I take Friday off next week, please?
    **フランク**: 来週の金曜日に休みを取ってもいいですか？
 2. **Boss**: Sure, but is there a special reason?
    **上司**: いいよ、でも何か特別な理由は？
-3. **Frank**: Yes, a close friend is visiting me.
-   **フランク**: はい、親しい友人が訪ねてくるんです。
+3. **Frank**: Yes, I'm spending the day with a close friend.
+   **フランク**: はい、親しい友人と一日過ごすんです。
 4. **Boss**: [warmly] Ah. Anyone special?
    **上司**: ほう。誰か特別な人かい？
 5. **Frank**: Very special. Her name is Tina.

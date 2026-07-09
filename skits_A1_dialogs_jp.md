@@ -1212,8 +1212,8 @@
 
 `[SFX: festival crowd, drums]`
 
-1. **Tina**: [excited] So many people! This is fun!
-   **ティナ**: すごい人！楽しいわね！
+1. **Tina**: [excited] So many people! Almost as busy as New York last week!
+   **ティナ**: すごい人！先週のニューヨークに負けないくらい賑やか！
 2. **Frank**: I see a food booth. I am hungry.
    **フランク**: 食べ物の出店が見える。お腹が空いたな。
 3. **Tina**: Takoyaki! Let's try it!
@@ -1566,8 +1566,8 @@
    **ティナ**: 同じ時間、同じ場所？
 4. **Frank**: Same time, same place. As always.
    **フランク**: 同じ時間、同じ場所。いつも通りに。
-5. **Tina**: I love that we always say that.
-   **ティナ**: いつもそれを言うのが好き。
+5. **Tina**: I love that we always say that. Soon I'll be far away, back home.
+   **ティナ**: いつもそれを言うのが好き。もうすぐ、遠い故郷に帰るのにね。
 6. **Frank**: It is a small promise. I like small promises.
    **フランク**: 小さな約束だ。僕は小さな約束が好きだよ。
 7. **Tina**: Why?
