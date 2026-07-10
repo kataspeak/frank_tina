@@ -45,8 +45,8 @@
    **ティナ**: フランク、あの緑色の飲み物は何？
 2. **Frank**: That is a matcha latte. It is green.
    **フランク**: あれは抹茶ラテだよ。緑色なんだ。
-3. **Tina**: [gasps] Green! On my star, green means "do not drink."
-   **ティナ**: 緑！私の星では、緑は「飲むな」って意味なの。
+3. **Tina**: [gasps] Green! On my planet, green means "do not drink."
+   **ティナ**: 緑！私の惑星では、緑は「飲むな」って意味なの。
 4. **Frank**: [deadpan] Here it means tea.
    **フランク**: ここでは、お茶という意味だよ。
 5. **Tina**: [relieved] Oh. Okay. Then... hot chocolate, please!
@@ -103,8 +103,8 @@
    **ティナ**: じゃあ…雪の音が聞こえるくらい静かなの？
 6. **Frank**: Yes. That is the best part.
    **フランク**: そうだよ。そこが一番いいところなんだ。
-7. **Tina**: [shudders] My star is bright and loud. I would miss the noise.
-   **ティナ**: 私の星は明るくてうるさいの。きっと音が恋しくなるわ。
+7. **Tina**: [shudders] My planet is bright and loud. I would miss the noise.
+   **ティナ**: 私の惑星は明るくてうるさいの。きっと音が恋しくなるわ。
 8. **Frank**: [deadpan] I would miss the snow.
    **フランク**: 僕は雪が恋しくなるよ。
 
@@ -173,10 +173,10 @@
    **ティナ**: どこもかしこもピンク！ベッド、本、ランプ、壁！
 4. **Frank**: [points] Oh. A star map. That is not pink.
    **フランク**: おや。星図だ。これはピンクじゃないね。
-5. **Tina**: [softly] That's from my home star. I would never paint over that one.
-   **ティナ**: それは私の故郷の星のものなの。それだけは絶対に塗りつぶさないわ。
-6. **Frank**: It is beautiful. Which star is your home?
-   **フランク**: きれいだね。どれが君の故郷の星？
+5. **Tina**: [softly] That's a map of my home planet. I would never paint over that one.
+   **ティナ**: それは私の故郷の惑星の地図なの。それだけは絶対に塗りつぶさないわ。
+6. **Frank**: It is beautiful. Which star is your home planet near?
+   **フランク**: きれいだね。どの星の近くに、君の故郷の惑星はあるの？
 7. **Tina**: [points] That tiny one. Small, but bright.
    **ティナ**: あの小さいの。小さいけど、明るいの。
 8. **Frank**: [quietly] Small but bright. [deadpan] Yes. That is you.
@@ -279,8 +279,8 @@
    **ティナ**: 花？机の上に？どうして？
 6. **Frank**: A present. For the teacher.
    **フランク**: プレゼントだよ。先生への。
-7. **Tina**: [matter-of-fact] Oh. On my star, we eat flowers.
-   **ティナ**: あら。私の星では、花を食べるの。
+7. **Tina**: [matter-of-fact] Oh. On my planet, we eat flowers.
+   **ティナ**: あら。私の惑星では、花を食べるの。
 8. **Frank**: [alarmed] Please do not eat the teacher's flowers.
    **フランク**: お願いだから、先生の花を食べないで。
 9. **Tina**: [playful] Okay, okay! ...Just one?
@@ -710,8 +710,8 @@
    **フランク**: それなら僕が物語を話してあげる。
 5. **Tina**: [perks up] Really? Yes, please!
    **ティナ**: 本当？ぜひお願い！
-6. **Frank**: Long ago, there was a girl. She came from a star.
-   **フランク**: 昔々、ある女の子がいた。彼女は星から来たんだ。
+6. **Frank**: Long ago, there was a girl. She came from another planet.
+   **フランク**: 昔々、ある女の子がいた。彼女は別の惑星から来たんだ。
 7. **Tina**: [gasps] That's me! Keep going!
    **ティナ**: それ私のことよ！続けて！
 8. **Frank**: She talked a lot. And she was never, ever bored.
@@ -912,8 +912,8 @@
    **ティナ**: いつものテーブル。ブラックコーヒーとホットチョコ。
 8. **Frank**: [small pause] ...You already knew I would call.
    **フランク**: …僕が電話するって、もう分かってたんだね。
-9. **Tina**: [playful] I'm from a star, Frank. We know things.
-   **ティナ**: 私は星から来たのよ、フランク。いろいろ分かるの。
+9. **Tina**: [playful] I'm from another planet, Frank. We know things.
+   **ティナ**: 私は別の惑星から来たのよ、フランク。いろいろ分かるの。
 10. **Frank**: See you at three.
     **フランク**: 3時にね。
 
@@ -932,10 +932,10 @@
    **ティナ**: すごく怖いわ！頭が真っ白なの！
 4. **Frank**: Open your book. One page at a time.
    **フランク**: 本を開いて。一度に1ページずつ。
-5. **Tina**: On my star, we just download facts. Pop! Into your head!
-   **ティナ**: 私の星では、知識をダウンロードするだけなの。ポン！って頭に！
-6. **Frank**: [deadpan] We are not on your star.
-   **フランク**: ここは君の星じゃない。
+5. **Tina**: On my planet, we just download facts. Pop! Into your head!
+   **ティナ**: 私の惑星では、知識をダウンロードするだけなの。ポン！って頭に！
+6. **Frank**: [deadpan] We are not on your planet.
+   **フランク**: ここは君の惑星じゃない。
 7. **Tina**: [sighs] I know. Earth is so slow.
    **ティナ**: わかってる。地球って遅いわね。
 8. **Frank**: Will you let me help?
@@ -1222,8 +1222,8 @@
    **ティナ**: 待って——中身は何？
 5. **Frank**: Octopus.
    **フランク**: タコだよ。
-6. **Tina**: [delighted] Octopus?! On my star, octopuses are doctors!
-   **ティナ**: タコ？！私の星では、タコはお医者さんなのよ！
+6. **Tina**: [delighted] Octopus?! On my planet, octopuses are doctors!
+   **ティナ**: タコ？！私の惑星では、タコはお医者さんなのよ！
 7. **Frank**: [pause] ...Please do not say that to the cook.
    **フランク**: …どうかそれを、作っている人に言わないで。
 8. **Tina**: [whispers] Too late. I waved at it.
@@ -1307,8 +1307,8 @@
    **フランク**: 航空便で。どれくらいかかりますか？
 4. **Clerk**: About one week.
    **局員**: 1週間ほどです。
-5. **Tina**: [peering] One week? On my star, we send things by light!
-   **ティナ**: 1週間？私の星では、光で送るのよ！
+5. **Tina**: [peering] One week? On my planet, we send things by light!
+   **ティナ**: 1週間？私の惑星では、光で送るのよ！
 6. **Clerk**: [polite] We... do not have that option.
    **局員**: その…そのサービスはございません。
 7. **Frank**: How much will it be?
