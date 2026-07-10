@@ -199,7 +199,7 @@
    **ティナ**: 私は自転車で行くの。速いのよ！それにピンク！
 5. **Frank**: Of course it is pink.
    **フランク**: もちろんピンクだよね。
-6. **Tina**: [excited] Hop on the back! I'll take you!
+6. **Tina**: [excited] Hop on the back! I'll give you a ride!
    **ティナ**: 後ろに乗って！乗せてあげる！
 7. **Frank**: [nervous] On a pink bike? People will look.
    **フランク**: ピンクの自転車に？みんなが見るよ。
@@ -303,8 +303,8 @@
    **ティナ**: 私の写真を撮って！早く！
 4. **Frank**: Okay. Smile.
    **フランク**: わかった。笑って。
-5. **Tina**: [panicked] Wait— my hair! Take it again!
-   **ティナ**: 待って——髪が！もう一回撮って！
+5. **Tina**: [panicked] Wait— my hair! Give me a second!
+   **ティナ**: 待って——髪が！ちょっと待って！
 6. **Frank**: [takes photo] Done.
    **フランク**: 撮ったよ。
 7. **Tina**: Again! Better light!
@@ -335,7 +335,7 @@
    **ティナ**: 真面目な顔が2つ、一日中にらめっこね！
 7. **Frank**: It is a very calm classroom.
    **フランク**: とても穏やかな教室だよ。
-8. **Tina**: [playful] Boring! Come to my class. We laugh!
+8. **Tina**: [playful] Boring! Come to my class. We laugh a lot!
    **ティナ**: 退屈そう！私のクラスに来て。みんな笑うわよ！
 9. **Frank**: [deadpan] I would scare your funny teacher.
    **フランク**: 君の面白い先生を怖がらせてしまうよ。
@@ -347,8 +347,8 @@
 **Narrator**: School is over. Frank and Tina talk about the afternoon.
 **ナレーター**: 学校が終わった。フランクとティナは午後の予定を話している。
 
-1. **Tina**: I play tennis after school.
-   **ティナ**: 私は放課後にテニスをするの。
+1. **Tina**: I'm playing tennis after school.
+   **ティナ**: 今日は放課後にテニスをする予定なの。
 2. **Frank**: I read books at the library.
    **フランク**: 僕は図書館で本を読むよ。
 3. **Tina**: Books? Every day? Same chair?
@@ -359,7 +359,7 @@
    **ティナ**: 私がテニスするの見に来て！わくわくするわよ！
 6. **Frank**: Okay. I will come watch you.
    **フランク**: わかった。見に行くよ。
-7. **Tina**: [delighted] Yes! Cheer loud!
+7. **Tina**: [delighted] Yes! Cheer for me! Be loud!
    **ティナ**: やった！大きな声で応援して！
 8. **Frank**: I will bring my book. For the quiet parts.
    **フランク**: 本を持っていくよ。静かな時間のために。
@@ -391,8 +391,8 @@
    **フランク**: 宿題があるんだ。
 8. **Tina**: One video, then homework. Just one!
    **ティナ**: 動画を1本見てから宿題。1本だけ！
-9. **Frank**: [pause] ...Okay. One. [later, quietly] ...Send me the cat with the tiny hat.
-   **フランク**: …わかった。1本。…さっきの、小さな帽子の猫の動画、送って。
+9. **Frank**: [pause] ...Okay. One. [later, quietly] ...Send me the video with the cat in the tiny hat.
+   **フランク**: …わかった。1本。…小さな帽子をかぶった猫の動画、送って。
 
 ### A1-16 At the Library
 
@@ -758,9 +758,9 @@
 **Narrator**: Tina is at a hair salon. Frank is waiting nearby.
 **ナレーター**: ティナは美容院にいる。フランクは近くで待っている。
 
-1. **Stylist**: Hello! How would you like your hair today?
+1. **Stylist**: Hello! How would you like it cut today?
    **美容師**: こんにちは！今日はどんな髪型に？
-2. **Tina**: Shorter, please. To my shoulders.
+2. **Tina**: I'd like it shorter, please. About shoulder length.
    **ティナ**: 短くしてください。肩のあたりまで。
 3. **Stylist**: Of course. A new color, too?
    **美容師**: もちろん。髪色も新しく？
@@ -828,7 +828,7 @@
    **フランク**: 右だよ。
 9. **Tina**: Yes, you're right, it's right.
    **ティナ**: そう、あなたが正しい、右ね。
-10. **Frank**: [deadpan] I will lead.
+10. **Frank**: [deadpan] I will lead the way.
     **フランク**: 僕が先に行くよ。
 
 ### A1-32 At the Restaurant
@@ -990,7 +990,7 @@
    **フランク**: この本が見つからないんです。
 4. **Staff**: Let me check. ...It is on shelf five.
    **職員**: 確認しますね。…5番の棚にありますよ。
-5. **Frank**: Thank you. I only read here. How do I borrow it?
+5. **Frank**: Thank you. I usually just read here. How do I borrow it?
    **フランク**: ありがとうございます。いつもは読むだけなので。どうやって借りれば？
 6. **Staff**: At the front desk, over there.
    **職員**: あちらの受付カウンターです。
@@ -1024,12 +1024,12 @@
    **職員**: 今朝届きましたよ。はい、どうぞ。
 7. **Tina**: [relieved] That's mine! Thank you so much!
    **ティナ**: それ私のです！本当にありがとうございます！
-8. **Frank**: A star on your key. A star in your room. A star on you.
-   **フランク**: 鍵に星。部屋に星。君に星。
-9. **Tina**: [warmly] It's how I find my way home.
-   **ティナ**: 故郷への帰り道の目印なの。
-10. **Frank**: [pause] ...Then do not lose it again.
-    **フランク**: …じゃあ、もうなくさないで。
+8. **Frank**: You have stars on your key, in your room, and on your clothes.
+   **フランク**: 鍵にも、部屋にも、服にも星があるんだね。
+9. **Tina**: [warmly] They help me find my way home.
+   **ティナ**: それが、故郷への帰り道を見つける助けになるの。
+10. **Frank**: [pause] ...Then do not lose your key again.
+    **フランク**: …じゃあ、もう鍵をなくさないで。
 
 ### A1-39 Gossip Time
 
@@ -1108,7 +1108,7 @@
    **フランク**: 好きという気持ちはただの感情だ。感情はデータだよ。
 7. **Tina**: [groans] Ugh. "Data."
    **ティナ**: もう。「データ」だなんて。
-8. **Frank**: If Sam says no, then you know. Then you move on.
+8. **Frank**: If Sam says no, then you have your answer. You can move on.
    **フランク**: サムが断れば、答えがわかる。そうしたら前に進める。
 9. **Tina**: You're too logical.
    **ティナ**: あなたって理屈っぽすぎるわ。
@@ -1140,8 +1140,8 @@
    **フランク**: 僕はとても頼りになります。眠りませんから。
 8. **Manager**: [nervous laugh] ...A joke. Right?
    **店長**: …冗談、ですよね？
-9. **Tina**: [quickly] A joke! A big joke! Can I come in for an interview tomorrow?
-   **ティナ**: 冗談です！大きな冗談！明日、面接に伺っていいですか？
+9. **Tina**: [quickly] Just a joke! Can I come in for an interview tomorrow?
+   **ティナ**: ただの冗談です！明日、面接に伺っていいですか？
 10. **Frank**: [deadpan] It was not a joke.
     **フランク**: 冗談ではなかった。
 
@@ -1259,8 +1259,8 @@
    **フランク**: ふむ。
 9. **Tina**: [suspicious] Frank. You are squeezing my hand.
    **ティナ**: フランク。あなた、私の手を握ってるわ。
-10. **Frank**: [deadpan] I am keeping you brave.
-    **フランク**: 君を勇敢にしているんだ。
+10. **Frank**: [deadpan] I am helping you be brave.
+    **フランク**: 君が勇敢でいられるようにしているんだ。
 
 ### A1-47 Ordering Coffee
 
@@ -1275,8 +1275,8 @@
    **バリスタ**: ホットですか、アイスですか？
 3. **Tina**: Iced, please. And one chocolate cookie.
    **ティナ**: アイスで。それとチョコレートクッキーを1つ。
-4. **Barista**: Your name for the order?
-   **バリスタ**: ご注文のお名前は？
+4. **Barista**: Can I get a name for the order?
+   **バリスタ**: ご注文のお名前を伺えますか？
 5. **Tina**: Tina.
    **ティナ**: ティナです。
 6. **Barista**: [to Frank] And for you?
@@ -1362,8 +1362,8 @@
 
 1. **Frank**: I have a reservation. My name is Frank Stein.
    **フランク**: 予約をしています。フランク・スタインです。
-2. **Receptionist**: Welcome. A single room, four nights. Is that right?
-   **受付係**: ようこそ。シングルルーム、4泊ですね。
+2. **Receptionist**: Welcome. You have a single room for four nights, correct?
+   **受付係**: ようこそ。シングルルームを4泊でご予約ですね。
 3. **Frank**: That is right. Could I have a quiet room?
    **フランク**: その通りです。静かな部屋にできますか？
 4. **Receptionist**: Of course. Room 305 is very quiet.
@@ -1430,12 +1430,12 @@
    **フランク**: 明日の3時で大丈夫です。
 6. **Receptionist**: And what seems to be the problem?
    **受付係**: どうされましたか？
-7. **Frank**: [matter-of-fact] One stitch on my arm is loose.
-   **フランク**: 腕の縫い目が一つ、ゆるんでいまして。
+7. **Frank**: [matter-of-fact] One of the stitches on my arm came loose.
+   **フランク**: 腕の縫い目の一つが、ほつれてしまって。
 8. **Receptionist**: [long pause] ...A stitch.
    **受付係**: …縫い目、ですか。
-9. **Frank**: It is an old one. A doctor will understand.
-   **フランク**: 古いものです。お医者さんならわかります。
+9. **Frank**: It is an old one. The doctor will understand.
+   **フランク**: 古い縫い目ですが、先生ならわかります。
 10. **Tina**: [calling from across the room] Tell them to use pink thread!
     **ティナ**: ピンクの糸持ってきてって言ってよ！
 
@@ -1471,8 +1471,8 @@
 
 **場面:** 次の電車に間に合わせたい。
 
-**Narrator**: Tina and Frank are at Tokyo Station during their trip to Japan. They want the next train.
-**ナレーター**: 日本旅行中、ティナとフランクは東京駅にいる。二人は次の電車に乗りたい。
+**Narrator**: Tina and Frank are at Tokyo Station during their trip to Japan. They want to catch the next train.
+**ナレーター**: 日本旅行中、ティナとフランクは東京駅にいる。二人は次の電車に間に合わせたい。
 
 `[SFX: station announcement chime]`
 
@@ -1630,7 +1630,7 @@
    **ティナ**: 故郷へ。とても遠いの。
 5. **Officer**: You're all set. Gate 5, down the hall.
    **係官**: 手続き完了です。5番ゲート、通路の先です。
-6. **Tina**: How long to walk there?
+6. **Tina**: How long does it take to walk there?
    **ティナ**: そこまで歩いてどれくらい？
 7. **Officer**: About ten minutes.
    **係官**: 10分ほどです。
@@ -1658,8 +1658,8 @@
    **ティナ**: メッセージをくれる？遠く離れていても？
 4. **Frank**: Of course. As often as I can.
    **フランク**: もちろん。できる限り。
-5. **Tina**: Same time, same place — but on a star?
-   **ティナ**: 同じ時間、同じ場所——でも星の上で？
+5. **Tina**: Same time, same place — even across the stars?
+   **ティナ**: 同じ時間、同じ場所——星を隔てていても？
 6. **Frank**: [small smile in voice] I will look up. You will be there.
    **フランク**: 空を見上げるよ。君がそこにいる。
 7. **Tina**: [tearful] I'll come back someday.
