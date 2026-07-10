@@ -484,8 +484,8 @@
     **ティナ**: 最低限の常識があれば、公平に保てると思ってたの。
 12. **Frank**: Common sense isn't shared. Rules are. Set them — out loud.
     **フランク**: 常識は共有されない。ルールは共有される。決めるんだ、声に出して。
-13. **Tina**: Tonight, then. Before the silence does any more damage.
-    **ティナ**: なら今夜ね。沈黙がこれ以上ダメージを与える前に。
+13. **Tina**: Tonight, then. Before the silence does any more damage. See ya!
+    **ティナ**: なら今夜ね。沈黙がこれ以上ダメージを与える前に。じゃあね！
 
 ### B1-15 Travel Itinerary Planning
 
@@ -1370,8 +1370,8 @@
     **ティナ**: あなたが？ 何について？
 12. **Frank**: Nothing settled yet. But ask me again soon.
     **フランク**: まだ何も決まってない。でも、近いうちにまた聞いてよ。
-13. **Tina**: [softly] I'll sleep on it. You... well, do whatever you do overnight. Deal?
-    **ティナ**: 私は一晩寝て考える。あなたは……夜にいつも何してるのか知らないけど、それをしながら考えて。どう？
+13. **Tina**: [softly] I'll sleep on it. You... well, do whatever you do overnight. Deal? See ya.
+    **ティナ**: 私は一晩寝て考える。あなたは……夜にいつも何してるのか知らないけど、それをしながら考えて。いい？じゃあね。
 
 ### B1-41 Resigning from a Job
 

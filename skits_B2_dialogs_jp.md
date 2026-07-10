@@ -516,8 +516,8 @@
     **ティナ**: 明らかにできてる。コメントが——
 12. **Frank**: —don't read me the comments yet.
     **フランク**: ——まだコメントは読まないでくれ。
-13. **Tina**: [smiling] Fine. Bookmarked. Tomorrow, then.
-    **ティナ**: 分かったわ。保存しとく。じゃあ、明日ね。
+13. **Tina**: [smiling] Fine. Bookmarked. Tomorrow, then. See ya.
+    **ティナ**: 分かったわ。保存しとく。じゃあ、また明日ね。ばいばい！
 
 ### B2-16 Late Night Recall
 
@@ -722,8 +722,8 @@
     **ティナ**: じゃあ明日はただの普通の日？
 12. **Frank**: Normal. I'll bring the coffee. [pause] And, Tina — it took me years to be able to just say this part out loud.
     **フランク**: 普通だよ。コーヒーは僕が持っていく。それと、ティナ——これをただ口に出して言えるようになるのに、何年もかかったんだ。
-13. **Tina**: [warmly] I noticed. Text me when you want company again.
-    **ティナ**: 気づいてたわ。また誰かといたくなったらメッセージして。
+13. **Tina**: [warmly] I noticed. Text me when you want company again. See ya.
+    **ティナ**: 気づいてたわ。また誰かといたくなったらメッセージしてね。じゃあね。
 
 ### B2-22 Committee Vote
 

@@ -90,6 +90,8 @@
    **ティナ**: 遅いわ！聞いちゃった。決まり——今週末、続きの2話、私の家で。
 10. **Frank**: I'm gonna bring the drinks. You bring snacks. And tissues. [beat] For you.
     **フランク**: 僕が飲み物を持っていく。君はお菓子。それとティッシュ。…君のためにね。
+11. **Tina**: [grinning] See ya.
+    **ティナ**: じゃあね。
 
 ### A2-04 Lab Interview Practice
 
@@ -370,6 +372,8 @@
    **ティナ**: わかった。今夜は携帯を別の部屋に置くわ。
 10. **Frank**: Good. Let's walk instead. [beat] Leave the phone. I mean it.
     **フランク**: いいね。代わりに散歩しよう。…携帯は置いて。本気だよ。
+11. **Tina**: Okay, okay. See ya outside!
+    **ティナ**: はいはい。外で待ってるわ！
 
 ### A2-14 Cooking Class
 
@@ -678,6 +682,8 @@
    **ティナ**: 失礼ね！…まあ、ちょっとは本当ね。じゃあ土曜来てくれる？
 10. **Frank**: Bring snacks. I'm gonna come — to watch you watch him.
     **フランク**: お菓子を持っておいで。行くよ——君が彼を見るのを見にね。
+11. **Tina**: See ya Saturday!
+    **ティナ**: 土曜にね！
 
 ### A2-25 Travel Insurance
 
