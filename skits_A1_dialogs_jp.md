@@ -243,8 +243,8 @@
 **Narrator**: Frank and Tina are having breakfast together at a cafe.
 **ナレーター**: フランクとティナはカフェで一緒に朝食をとっている。
 
-1. **Frank**: I usually eat bread and eggs.
-   **フランク**: 僕はたいていパンと卵を食べるんだ。
+1. **Frank**: I usually eat toast and eggs.
+   **フランク**: 僕はたいていトーストと卵を食べるんだ。
 2. **Tina**: [excited] I like pancakes! With syrup! And more syrup!
    **ティナ**: 私はパンケーキが好き！シロップをかけて！もっとシロップ！
 3. **Frank**: Pancakes are too sweet. I prefer toast.
@@ -355,8 +355,8 @@
    **ティナ**: 本？毎日？同じ椅子で？
 4. **Frank**: Same chair. By the window. It is perfect.
    **フランク**: 同じ椅子だよ。窓のそば。完璧なんだ。
-5. **Tina**: Come watch my tennis! It's exciting!
-   **ティナ**: 私のテニスを見に来て！わくわくするわよ！
+5. **Tina**: Come watch me play tennis! It's exciting!
+   **ティナ**: 私がテニスするの見に来て！わくわくするわよ！
 6. **Frank**: Okay. I will come watch you.
    **フランク**: わかった。見に行くよ。
 7. **Tina**: [delighted] Yes! Cheer loud!
@@ -391,7 +391,7 @@
    **フランク**: 宿題があるんだ。
 8. **Tina**: One video, then homework. Just one!
    **ティナ**: 動画を1本見てから宿題。1本だけ！
-9. **Frank**: [pause] ...Okay. One. [later, quietly] ...Send me the cat with the small hat.
+9. **Frank**: [pause] ...Okay. One. [later, quietly] ...Send me the cat with the tiny hat.
    **フランク**: …わかった。1本。…さっきの、小さな帽子の猫の動画、送って。
 
 ### A1-16 At the Library
@@ -483,7 +483,7 @@
 
 `[SFX: shop door bell]`
 
-1. **Frank**: I want a pencil, please.
+1. **Frank**: I would like a pencil, please.
    **フランク**: 鉛筆を1本ください。
 2. **Clerk**: Here you are. Anything else?
    **店員**: はい、どうぞ。他には？
@@ -566,10 +566,10 @@
 **Narrator**: Frank and Tina are talking about hobbies after class.
 **ナレーター**: フランクとティナは放課後、趣味について話している。
 
-1. **Frank**: My hobby is reading. It is quiet.
-   **フランク**: 僕の趣味は読書だ。静かだからね。
-2. **Tina**: [excited] Mine is dancing! Every day!
-   **ティナ**: 私はダンス！毎日踊るのよ！
+1. **Frank**: I like to read. It is quiet.
+   **フランク**: 僕は本を読むのが好きだ。静かだからね。
+2. **Tina**: [excited] I like to dance! Every day!
+   **ティナ**: 私は踊るのが好き！毎日踊るのよ！
 3. **Frank**: I cannot dance. I move too slowly.
    **フランク**: 僕は踊れない。動きが遅すぎるんだ。
 4. **Tina**: [playful] Slow is fine! Just move. Like this!
@@ -928,7 +928,7 @@
    **ティナ**: 明日テストよ！準備できてないわ！
 2. **Frank**: Study now. It is not too late.
    **フランク**: 今勉強しよう。まだ遅くない。
-3. **Tina**: I'm so scared! My brain is empty!
+3. **Tina**: I'm so scared! My mind is blank!
    **ティナ**: すごく怖いわ！頭が真っ白なの！
 4. **Frank**: Open your book. One page at a time.
    **フランク**: 本を開いて。一度に1ページずつ。
@@ -1108,7 +1108,7 @@
    **フランク**: 好きという気持ちはただの感情だ。感情はデータだよ。
 7. **Tina**: [groans] Ugh. "Data."
    **ティナ**: もう。「データ」だなんて。
-8. **Frank**: If Sam says no, you know. Then you move on.
+8. **Frank**: If Sam says no, then you know. Then you move on.
    **フランク**: サムが断れば、答えがわかる。そうしたら前に進める。
 9. **Tina**: You're too logical.
    **ティナ**: あなたって理屈っぽすぎるわ。
@@ -1349,6 +1349,8 @@
 10. **Tina**: [gently] No. That one is mine. I'm keeping it.
     **ティナ**: ううん。今のは私のもの。もらっておくわ。
 
+> **注釈 — “That one is mine. I’m keeping it.”**: 物を「もらう」という意味ではありません。`That one` は、フランクが今歌った不器用で特別な歌（声・瞬間）を指し、`I’m keeping it` は「大切な思い出として心にしまっておく」というニュアンスです。自分の声を「ひどい」と言うフランクに対し、ティナが「私には宝物」と伝える、やさしく少しロマンチックな表現です。自然な意訳は「今の歌は私へのプレゼントね。ずっと大事にするわ」です。
+
 ### A1-50 Hotel Check-in
 
 **場面:** 東京のホテル。夜のフロント。
@@ -1360,7 +1362,7 @@
 
 1. **Frank**: I have a reservation. My name is Frank Stein.
    **フランク**: 予約をしています。フランク・スタインです。
-2. **Receptionist**: Welcome. A single room, four nights. Yes?
+2. **Receptionist**: Welcome. A single room, four nights. Is that right?
    **受付係**: ようこそ。シングルルーム、4泊ですね。
 3. **Frank**: That is right. Could I have a quiet room?
    **フランク**: その通りです。静かな部屋にできますか？
@@ -1426,7 +1428,7 @@
    **受付係**: 明日の3時はいかがですか？
 5. **Frank**: Tomorrow at three is fine.
    **フランク**: 明日の3時で大丈夫です。
-6. **Receptionist**: And what is the problem?
+6. **Receptionist**: And what seems to be the problem?
    **受付係**: どうされましたか？
 7. **Frank**: [matter-of-fact] One stitch on my arm is loose.
    **フランク**: 腕の縫い目が一つ、ゆるんでいまして。
@@ -1632,7 +1634,7 @@
    **ティナ**: そこまで歩いてどれくらい？
 7. **Officer**: About ten minutes.
    **係官**: 10分ほどです。
-8. **Tina**: [turning to Frank] Ten minutes. Then I go.
+8. **Tina**: [turning to Frank] Ten minutes. Then I'll go.
    **ティナ**: 10分したら、お別れね。
 9. **Frank**: [touching the small souvenir hanging from his bag] Then walk slowly. See? I keep your gift with me.
    **フランク**: それなら、ゆっくり歩こう。ほら、君にもらったお土産は、いつも僕と一緒だ。
