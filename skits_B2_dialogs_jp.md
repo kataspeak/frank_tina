@@ -1,6 +1,6 @@
 # フランケン＆ティナ 英語大作戦 — CEFR B2 スキット対話本文（日本語対訳）
 
-> キャラクター: **Frank**（フランケン：礼儀正しく観察的・人造人間。縮約形は稀＝親密さの合図） / **Tina**（ティナ：感情豊か・別の星から来た。縮約形を自在に） + 場面ごとの第三者
+> キャラクター: **Frank**（フランケン：礼儀正しく観察的・人造人間。レジスター切替＝公的・業務場面は縮約形を避ける、Tinaと二人きりの私的場面はgonna/wanna等のネイティブ口語を遠慮なく） / **Tina**（ティナ：感情豊か・別の星から来た。縮約形を自在に） + 場面ごとの第三者
 > B2 の核: 一つの問題に複数の見方を認め、感情を出しつつ相手の立場を整理し、直接言いにくいことを曖昧にしすぎず伝える（文法・談話機能は感情・交渉の必然から自然に出す）。
 > ※ 配置はプレイ順の通し番号 `B2-01〜B2-60`。
 > ※ 各英文の下に日本語訳。演技指示 `[tag]` と効果音 `[SFX: ...]` は英語行のみ（日本語訳には付けない）。
@@ -17,7 +17,7 @@
 
 1. **Tina**: You texted the second you had to cancel last week. Right away.
    **ティナ**: 先週キャンセルしなきゃいけなくなった瞬間、メッセージくれたわね。すぐに。
-2. **Frank**: I didn't want to leave any room for guessing.
+2. **Frank**: I didn't wanna leave any room for guessing.
    **フランク**: 推測の余地を、少しも残したくなかったんだ。
 3. **Tina**: [softly] I noticed. Didn't say anything then — didn't want to make it weird.
    **ティナ**: 気づいたわ。あのときは何も言わなかったの。変な感じにしたくなくて。
@@ -101,7 +101,7 @@
    **フランク**: 6——彼女、結局気づいたの？
 9. **Tina**: She did! And when I said I was joking, she looked at me like — how do I put this — like I'd been genuinely rude.
    **ティナ**: 気づいたわ！冗談だって言ったら、こう見られたの。何て言えばいいか——本気で失礼なことを言ったみたいな目で。
-10. **Frank**: Sarcasm might've landed if you'd known her longer.
+10. **Frank**: Yeah, sarcasm might've landed if you'd known her longer.
     **フランク**: もっと長く知ってる相手なら、皮肉も通じたかもしれないね。
 11. **Tina**: Right. Though that's not quite the lesson I expected Earth to hand me today.
     **ティナ**: そうね。もっとも、今日地球が私にくれる教訓としては、ちょっと予想と違ったけど。
@@ -157,11 +157,11 @@
    **フランク**: 室内で試すって約束だったけど——外で着るのは自分で決めたんだ。こんなに…目立つように感じるとは思わなかった。
 3. **Tina**: Outside. That's different. How does it feel?
    **ティナ**: 外でね。それは違うわよね。どんな感じ？
-4. **Frank**: Different. Part of me expected to want to go home and change.
+4. **Frank**: Different. Part of me expected to wanna go home and change.
    **フランク**: 違うね。心のどこかで、家に帰って着替えたくなるだろうと思ってた。
 5. **Tina**: And?
    **ティナ**: それで？
-6. **Frank**: I think I'd been avoiding it because I wasn't sure who'd notice.
+6. **Frank**: I think I'd been avoiding it 'cause I wasn't sure who'd notice.
    **フランク**: 誰が気づくか分からなかったから、避けていたんだと思う。
 7. **Tina**: What do you mean?
    **ティナ**: どういう意味？
@@ -221,7 +221,7 @@
 
 1. **Tina**: I can see you've blocked off Wednesday evenings. What's that?
    **ティナ**: 水曜の夜、毎週枠を押さえてるのが見えるんだけど。それ、何？
-2. **Frank**: Just time I keep for myself. It's not a plan — I didn't even label it.
+2. **Frank**: Just time I keep for myself, kinda. Not a plan — I didn't even label it.
    **フランク**: ただ自分のために取ってある時間だよ。予定じゃない、ラベルも付けてない。
 3. **Tina**: What I see is a regular slot with nothing in it.
    **ティナ**: 私に見えるのは、何も入ってない定期的な枠よ。
@@ -293,7 +293,7 @@
    **フランク**: その二人は、実際なんて言ってたの？
 3. **Tina**: One said it seemed dismissive. Another said she thought it was fine herself — but she'd heard complaints.
    **ティナ**: 一人は、見下してるように見えたって。もう一人は、自分は問題ないと思ったけど苦情を聞いた、って。
-4. **Frank**: That's indirect. What do you think it reads like?
+4. **Frank**: That's kinda indirect. What do you think it reads like?
    **フランク**: それは間接的だね。君自身は、どう読めると思う？
 5. **Tina**: I thought it was funny. Now? I'm not sure.
    **ティナ**: 面白いと思ってたの。今は？分からない。
@@ -365,7 +365,7 @@
    **フランク**: 一方で、少なくとも今はお互いが何を望んでるか正確に分かった。
 5. **Tina**: You want silence, while I want to be somewhere alive.
    **ティナ**: あなたは静寂が欲しくて、私は活気のある場所にいたいの。
-6. **Frank**: Those aren't incompatible. If we hadn't both started from the extremes, we'd see the overlap.
+6. **Frank**: Those aren't incompatible. If we hadn't both started from the extremes, we'd kinda see the overlap.
    **フランク**: それは両立しないわけじゃない。二人とも極端から始めてなければ、重なる部分が見えるはずなんだ。
 7. **Tina**: What's in the middle?
    **ティナ**: 真ん中には何があるの？
@@ -427,7 +427,7 @@
    **フランク**: 今日は静かだね。コーヒーを持ってきたよ。
 2. **Tina**: Thanks. I've been building a playlist. Music chosen for a very specific purpose.
    **ティナ**: ありがとう。プレイリストを作ってたの。ある特定の目的のために選んだ音楽よ。
-3. **Frank**: What kind?
+3. **Frank**: What kinda?
    **フランク**: どんな目的？
 4. **Tina**: Songs that take me back. Without me actually going anywhere.
    **ティナ**: 私を連れ戻してくれる曲。実際にはどこへも行かずに。
@@ -506,8 +506,8 @@
    **フランク**: いいことかもしれない。ただ、こんなに速く起きたことに、気持ちが落ち着かない。
 7. **Tina**: You had this exact reaction last time. It turned out fine.
    **ティナ**: 前回も、まったく同じ反応だったわ。結局うまくいったでしょ。
-8. **Frank**: I know. I may be underestimating how much of this feeling is just habit.
-   **フランク**: 分かってる。この感情のどれだけが、ただの習慣なのか。僕は過小評価してるのかもしれない。
+8. **Frank**: I know. I may be kinda underestimating how much of this feeling is just habit.
+   **フランク**: 分かってる。この感情のどれだけが、ただの習慣なのか。僕はちょっと過小評価してるのかもしれない。
 9. **Tina**: I think you're getting better at sitting with it — instead of retreating.
    **ティナ**: 引っ込む代わりに、それと向き合うのが、上手くなってきてると思う。
 10. **Frank**: I'm trying. The video was meant to explain the point clearly. If it did that, that's enough.
@@ -852,7 +852,7 @@
    **フランク**: いや。僕が言いたいのは、たぶん、こんなに気づくとは思っていなかったってことだ。
 8. **Tina**: [softening] So... you missed me?
    **ティナ**: つまり…私がいなくて寂しかったの？
-9. **Frank**: A little. But what surprised me more was realizing I don't have anything like that for myself — the videos are still work, really.
+9. **Frank**: A little. But what surprised me more was realizing I kinda don't have anything like that for myself — the videos are still work, really.
    **フランク**: 少しね。でももっと驚いたのは、自分にはそういうものが何もないって気づいたことだ——動画も、結局は仕事だからね。
 10. **Tina**: Oh. So it's less about me, and more about you not having your own thing.
     **ティナ**: あら。じゃあ私のことというより、あなたに「自分だけのもの」がないことなのね。
@@ -914,7 +914,7 @@
    **フランク**: 正しいことをしたよ。聞いてくれるほうがいい。
 5. **Tina**: Good. And — I want to check what you're okay with me passing on about you, generally.
    **ティナ**: よかった。それと、普段から、あなたのことをどこまで人に伝えていいか確認したいの。
-6. **Frank**: What kind of thing?
+6. **Frank**: What kinda thing?
    **フランク**: どんなことを？
 7. **Tina**: Contact details. Your schedule. Work. Personal things I only know because we're close.
    **ティナ**: 連絡先。あなたの予定。仕事。親しいから知ってる個人的なこと。
@@ -1046,7 +1046,7 @@
    **フランク**: ああ。数週間前にね。誰にも見せるつもりはなかったんだ。
 3. **Tina**: It's really good. What is it?
    **ティナ**: すごくいいわ。これ何？
-4. **Frank**: The lab. A floor plan, sort of — but with no one in it.
+4. **Frank**: The lab. A floor plan, sorta — but with no one in it.
    **フランク**: 研究室だよ。間取り図みたいなもの。でも、誰もいないんだ。
 5. **Tina**: That is — very you.
    **ティナ**: それって、すごくあなたらしいわ。
@@ -1132,7 +1132,7 @@
     **フランク**: なら、君はどちらかを選んでるんじゃない。両方を一度に抱えてるんだ。
 12. **Tina**: That's exactly what it feels like. It doesn't hurt any less, though.
     **ティナ**: まさにそんな感じよ。でも、痛みが少しも減るわけじゃないわ。
-13. **Frank**: I know. So — forget the routes for a second. What do you actually need tonight?
+13. **Frank**: I know. So — forget the routes for a sec. What do you actually need tonight?
     **フランク**: 分かってる。だから——経路は少し忘れて。今夜、君が本当に必要なのは何？
 
 ### B2-34 Housing Contract
@@ -1266,7 +1266,7 @@
     **フランク**: 次はもっと明確に言うよ。
 11. **Tina**: There's no need to make a whole statement. Just "we're friends."
     **ティナ**: 大層な声明を出す必要はないわ。ただ「私たちは友達です」でいいの。
-12. **Frank**: Right. That's all it has to be.
+12. **Frank**: Right. That's all it's gotta be.
     **フランク**: そうだね。それだけでいいんだ。
 13. **Tina**: [lightly] Accurate and simple. That's usually plenty.
     **ティナ**: 正確で単純。たいてい、それで十分よ。
@@ -1394,7 +1394,7 @@
    **フランク**: 一曲、心に残ったんだ。終わりのほうの、ゆっくりした曲。名前が知りたい。
 6. **Tina**: The strings? That's the composer who only writes about distance.
    **ティナ**: 弦楽の曲？距離のことだけを書く作曲家のよ。
-7. **Frank**: I didn't know that about him. But yes — that one.
+7. **Frank**: Didn't know that about him. But yeah — that one.
    **フランク**: その人のことは知らなかった。でも、そう、それだ。
 8. **Tina**: Why that one?
    **ティナ**: どうしてその曲なの？
@@ -1452,7 +1452,7 @@
 
 1. **Tina**: My mother sent me a job opening. She said it wasn't pressure. [flat] It was pressure.
    **ティナ**: 母が求人を送ってきたの。圧力じゃないって言ってたわ。圧力だったけど。
-2. **Frank**: What kind of position?
+2. **Frank**: What kinda position?
    **フランク**: どんな職なの？
 3. **Tina**: Research outreach. Back home. She said she thought of me first.
    **ティナ**: 研究アウトリーチ。故郷のよ。真っ先に私を思い浮かべたんですって。
@@ -1468,7 +1468,7 @@
    **フランク**: それが君に本当に合うかもしれない、という点で、お母さんは間違ってる？
 9. **Tina**: That's what makes it hard. If I hadn't built so much here, I'd be more certain — either way.
    **ティナ**: それが難しいところなの。ここでこんなに築いていなかったら、どちらにせよもっと確信が持てるのに。
-10. **Frank**: You'd still be uncertain. Just from the other direction.
+10. **Frank**: You'd still be kinda uncertain. Just from the other direction.
     **フランク**: それでも不確かなままだよ。ただ、反対の方向からね。
 11. **Tina**: That said — I don't want to dismiss it just because it came from her.
     **ティナ**: とはいえ、母から来たというだけで退けたくはないの。
@@ -1534,7 +1534,7 @@
    **フランク**: そして、君は僕に見せてくれている。
 8. **Tina**: You're the only one I've shown. The hard part is — it's very far, and not very far. Both.
    **ティナ**: 見せたのはあなただけよ。難しいのは、それがとても遠くて、かつそれほど遠くない、ってこと。両方なの。
-9. **Frank**: Because you carry it with you.
+9. **Frank**: 'Cause you carry it with you.
    **フランク**: 君がそれを、いつも持ち歩いているからだね。
 10. **Tina**: Yes. It feels near when I can say it to someone who doesn't laugh.
     **ティナ**: そう。笑わない誰かにそれを言えるとき、近くに感じるの。
@@ -1542,7 +1542,7 @@
     **フランク**: それほど本物のものを、僕は笑ったりしない。
 12. **Tina**: I know that now. That's why it's you I trust with it.
     **ティナ**: 今はそれが分かってる。だからこそ、それを託すのはあなたなの。
-13. **Frank**: I'm not going to start now.
+13. **Frank**: I'm not gonna start now.
     **フランク**: 今さら笑い始めたりしないよ。
 
 ### B2-46 Reference Letter
@@ -1861,7 +1861,7 @@
    **フランク**: 僕は研究者です。今の研究室には——
 3. **Tina**: Stop. That's the answer of someone who doesn't know why they're interesting.
    **ティナ**: ストップ。それは、自分のどこが面白いか分かっていない人の答えよ。
-4. **Frank**: Fair. Let me try again. [beat] I came to this field through a question I couldn't stop asking. That's still what drives me.
+4. **Frank**: Fair. Lemme try again. [beat] I came to this field through a question I couldn't stop asking. That's still what drives me.
    **フランク**: もっともだ。もう一度やらせて。……僕は、問わずにいられなかった一つの問いを通じてこの分野に来ました。それが今も僕を突き動かしています。
 5. **Tina**: Better. Now — the failure question. What do you say?
    **ティナ**: ずっといいわ。さあ、失敗の質問よ。何て言う？
@@ -1877,7 +1877,7 @@
     **フランク**: 緊張すると、物事を縮めてしまうんだ。
 11. **Tina**: That said — they need to see confidence, not just accuracy.
     **ティナ**: とはいえ、向こうは正確さだけじゃなく、自信を見たいの。
-12. **Frank**: I understand. I'll slow down, and let the answers land.
+12. **Frank**: Got it. I'll slow down, and let the answers land.
     **フランク**: 分かった。ペースを落として、答えがちゃんと届くようにするよ。
 
 ### B2-56 Reply to the Doctor
@@ -1999,11 +1999,11 @@
    **フランク**: 非現実的じゃない。同時に進む、二つの別々のプロジェクトってだけだ。
 5. **Tina**: What about you?
    **ティナ**: あなたは？
-6. **Frank**: Having spent the last few years mostly focused inward, I think I want to be more visible.
+6. **Frank**: Having spent the last few years mostly focused inward, I think I wanna be more visible.
    **フランク**: ここ数年、ほとんど内向きに過ごしてきたから、もっと表に出たいんだと思う。
 7. **Tina**: More videos?
    **ティナ**: もっと動画を？
-8. **Frank**: On one hand, yes. On the other — I want to be in places that challenge me more than the lab does.
+8. **Frank**: On one hand, yes. On the other — I wanna be in places that challenge me more than the lab does.
    **フランク**: 一方では、そうだね。他方で、研究室以上に僕を試す場所にいたいんだ。
 9. **Tina**: That's different from what you'd have said a year ago.
    **ティナ**: それ、1年前のあなたなら言わなかったでしょうね。

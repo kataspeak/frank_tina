@@ -74,11 +74,11 @@ B2では「単文の正しさ」よりも、発話のつなぎ方を重視する
 
 ### 短縮・砕けた表現
 
-- B2 Formal: 標準 contractions は使う。婉曲・公的発話では uncontracted が残っても自然
-- B2 Formal: `gonna`, `wanna`, `kinda`, `sorta`, `'cause`, `lemme`, `gimme` は避ける
-- B2 Unique: reduced forms を積極的に使ってよい。ただし全員が常に砕けすぎないようにする
+- B2 Formal（公的・業務レジスター）: 標準 contractions は使う。婉曲・公的発話では uncontracted が残っても自然
+- B2 Formal（公的・業務レジスター）: `gonna`, `wanna`, `kinda`, `sorta`, `'cause`, `lemme`, `gimme` は避ける（Frank・Tinaとも）
+- B2 Unique（私的レジスター）: reduced forms を積極的に使ってよい。ただし全員が常に砕けすぎないようにする
 - Tinaは reduced forms と勢いのある言い直しが似合う
-- Frankは reduced forms を使っても少なめ。親しい場面でたまに出ると距離の近さが出る
+- **Frank（2026-07-10改定）**: Tina と二人きりの私的レジスターでは reduced forms を遠慮なく使う。これが Frank の「素の顔」であり、距離の近さそのものを表す新しい署名（旧「控えめ」ルールは撤廃）。公的レジスター・第三者が同席する場面では引き続き避ける
 
 ---
 
@@ -283,10 +283,10 @@ B2 Uniqueは、20代前半の友人同士の会話として自然なスピード
 
 ### Uniqueの発話レジスター
 
-- `gonna`, `wanna`, `kinda`, `sorta`, `'cause`, `lemme`, `gimme` を使ってよい
+- `gonna`, `wanna`, `kinda`, `sorta`, `'cause`, `lemme`, `gimme` を使ってよい（Frank・Tinaとも）
 - ただし、1スキットに詰め込みすぎない
 - Tinaは勢い、言い直し、自己ツッコミを使う
-- Frankは短いツッコミ、静かな本音、たまに砕けた表現を使う
+- **Frank（2026-07-10改定）**: Tinaとの私的な場面では率直に砕けた表現・reduced formsを使う。第三者が同席する／公的な話題に戻る瞬間は自然に整った言い方へ戻す（レジスター切替そのものがFrankらしさ）
 - slangは意味推測できる範囲にする。流行語に依存しすぎない
 
 ---

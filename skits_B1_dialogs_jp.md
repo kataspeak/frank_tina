@@ -1,6 +1,6 @@
 # フランケン＆ティナ 英語大作戦 — CEFR B1 スキット対話本文（日本語対訳）
 
-> キャラクター: **Frank**（フランケン：礼儀正しく観察的・人造人間。短縮形を控えめに） / **Tina**（ティナ：好奇心旺盛で感情豊か・別の星から来た。短縮形＋間投詞、カジュアル回は縮約形も控えめに） + 場面ごとの第三者
+> キャラクター: **Frank**（フランケン：礼儀正しく観察的・人造人間。レジスター切替＝公的・業務場面は短縮形控えめ、Tinaと二人きりの私的場面はgonna/wanna等のネイティブ口語も） / **Tina**（ティナ：好奇心旺盛で感情豊か・別の星から来た。短縮形＋間投詞、カジュアル回は縮約形も） + 場面ごとの第三者
 > ※ 配置はプレイ順の通し番号 `B1-01〜B1-60`。
 > ※ 各英文の下に日本語訳。演技指示 `[tag]` と効果音 `[SFX: ...]` は英語行のみ（日本語訳には付けない）。
 > ※ 編集方針は `skits_sitcom_style_guide.md`、配置・対応表は `skits_arrangement.md`、時系列は `frank_and_tina_timeline.md`。
@@ -54,7 +54,7 @@
    **フランク**: 僕たちの年で全部わかってる人なんていないよ。迷ってもいいんだ。
 3. **Tina**: What I want changes every single week. Sometimes every day.
    **ティナ**: やりたいことが毎週変わるの。ときには毎日よ。
-4. **Frank**: Then try a few things. That's how you find what fits.
+4. **Frank**: Then try a few things. That's kinda how you find what fits.
    **フランク**: なら、いくつか試してみなよ。そうやって自分に合うものが見つかる。
 5. **Tina**: But what if I pick the totally wrong one?
    **ティナ**: でも、完全に間違ったのを選んじゃったら？
@@ -62,7 +62,7 @@
    **フランク**: 今選ぶことが一生固定されるわけじゃない。いつでも考え直せる。
 7. **Tina**: My friends all seem to know exactly where they're headed.
    **ティナ**: 友達はみんな、自分の行き先がはっきりわかってるみたい。
-8. **Frank**: They're faking it. You're only seeing the highlight reel.
+8. **Frank**: Nah, they're faking it. You're only seeing the highlight reel.
    **フランク**: そう見せてるだけだよ。いいところだけを見てるんだ。
 9. **Tina**: You really think so?
    **ティナ**: 本当にそう思う？
@@ -118,7 +118,7 @@
 
 1. **Tina**: [groans] I wish I'd started studying back in September!
    **ティナ**: 9月から勉強を始めていればよかった！
-2. **Frank**: I know the feeling. But beating yourself up tonight won't help.
+2. **Frank**: Yeah, I know the feeling. But beating yourself up tonight won't help.
    **フランク**: その気持ちはわかる。でも今夜、自分を責めても助けにはならないよ。
 3. **Tina**: If I'd started then, I'd actually be ready now.
    **ティナ**: あのとき始めていたら、今ごろちゃんと準備できてたのに。
@@ -134,11 +134,11 @@
    **フランク**: 頼んでくれたら、手伝ったよ。わかってるだろ。
 9. **Tina**: I wish I had your discipline.
    **ティナ**: あなたみたいな自制心があればなあ。
-10. **Frank**: Discipline takes years to build. Nobody's born with it.
+10. **Frank**: Discipline takes years. Nobody's born with it.
     **フランク**: 自制心は何年もかけて身につくものさ。生まれつき持ってる人なんていない。
 11. **Tina**: [half-joking] If only the test were next month instead.
     **ティナ**: 試験が来月だったらよかったのに。
-12. **Frank**: It's not. But it's tonight, and I'm here. Where do we start?
+12. **Frank**: It's not. But it's tonight, and I'm here. So — where do we start?
     **フランク**: 来月じゃない。でも試験は今夜で、僕はここにいる。どこから始める？
 13. **Tina**: [softens] ...Chapter one. And don't let me reach for my phone.
     **ティナ**: ……第一章から。あと、私がスマホに手を伸ばしたら止めて。
@@ -200,7 +200,7 @@
    **フランク**: 説明は読んだ？
 7. **Tina**: Following recipes is boring. I prefer to improvise.
    **ティナ**: レシピに従うのって退屈なの。私はアドリブ派よ。
-8. **Frank**: Boring or not, that's how beginners survive. The recipe is the rules.
+8. **Frank**: Boring or not, that's how beginners survive — 'cause the recipe is the rules.
    **フランク**: 退屈でも何でも、初心者はそうやって生き延びるんだ。レシピがルールなんだよ。
 9. **Tina**: [sighs] I just wish adulting came with a manual.
    **ティナ**: 大人になることに説明書がついていればなあ。
@@ -208,11 +208,11 @@
     **フランク**: あるよ。米袋の裏に書いてある。
 11. **Tina**: [laughs] Okay, fair.
     **ティナ**: ふふ、たしかに。
-12. **Frank**: Tonight we make one thing. Start to finish. You read, I supervise.
+12. **Frank**: Tonight we're gonna make one thing. Start to finish. You read, I supervise.
     **フランク**: 今夜は一品だけ作る。最初から最後まで。君が読んで、僕が見ている。
 13. **Tina**: [grinning] And if I burn it?
     **ティナ**: で、焦がしたら？
-14. **Frank**: [deadpan] Then we order pizza and never speak of the rice again.
+14. **Frank**: [deadpan] Then we order pizza. And never speak of the rice again.
     **フランク**: そのときはピザを頼んで、ご飯の話は二度としない。
 
 ### B1-07 Visa Application
@@ -280,8 +280,8 @@
     **フランク**: たくさん。前にも小さく同じことをしてた。
 12. **Tina**: So next time?
     **ティナ**: じゃあ次は？
-13. **Frank**: [flatly] No more trusting the "most reliable" guy. Lesson learned.
-    **フランク**: もう「一番頼れる」やつは信じない。いい勉強になったよ。
+13. **Frank**: [flatly] No more trusting the "most reliable" guy. Lesson learned. For real.
+    **フランク**: もう「一番頼れる」やつは信じない。いい勉強になったよ、マジで。
 
 ### B1-09 Public Transport Complaint
 
@@ -334,7 +334,7 @@
    **フランク**: 待って。その友達は嘘のことを知ってたの？
 5. **Tina**: For months. He's a coward, and I'm done with both of them.
    **ティナ**: 何か月もよ。彼は臆病者だし、もう二人とも愛想が尽きたわ。
-6. **Frank**: Neither of them deserved your trust.
+6. **Frank**: Yeah, neither of them deserved your trust.
    **フランク**: どっちも君の信頼に値しなかったね。
 7. **Tina**: My ex tried to apologize later. Way too late.
    **ティナ**: 元カレは後で謝ってきたけど、完全に手遅れだったわ。
@@ -346,7 +346,7 @@
     **フランク**: 不思議だね。当たり前だと思ってる家族こそ、まさに必要な相手だったりする。
 11. **Tina**: She'd told me he was wrong for me from the very start.
     **ティナ**: 姉は最初から、彼はやめたほうがいいって言ってたの。
-12. **Frank**: Then she's the one to listen to next time.
+12. **Frank**: Then she's the one you gotta listen to next time.
     **フランク**: なら、次は彼女の言うことを聞くべきだね。
 13. **Tina**: [quietly] Yeah. Sometimes the people closest to us see us clearest.
     **ティナ**: そうね。一番近くにいる人が、一番はっきり見えてることもあるのよね。
@@ -372,7 +372,7 @@
    **フランク**: 僕たちの事情を全部知ったら、違う風に思うかもしれないよ。
 7. **Tina**: She'd like you even more. She respects people who take care of others.
    **ティナ**: もっと気に入るわ。母は人を気にかけられる人を尊敬するの。
-8. **Frank**: What else did she ask about?
+8. **Frank**: So what else did she ask about?
    **フランク**: 他にはどんなことを聞かれたの？
 9. **Tina**: My career. She handed me a whole list of people I "should" contact.
    **ティナ**: 私の進路。連絡すべき人のリストをまるごと渡されたの。
@@ -380,7 +380,7 @@
     **フランク**: 全部に連絡したら、お母さんは喜ぶのかな？
 11. **Tina**: Maybe. But I'd lose my own direction along the way.
     **ティナ**: たぶんね。でもそのうちに、自分の進みたい方向を見失っちゃう。
-12. **Frank**: Then tell her that. Kindly, but clearly.
+12. **Frank**: Then you gotta tell her that. Kindly, but clearly.
     **フランク**: なら、それを伝えなよ。優しく、でもはっきりと。
 13. **Tina**: [smiling] I could say it better if you helped me organize my thoughts first — tall boy.
     **ティナ**: 先に考えを整理するのを手伝ってくれたら、もっとうまく言えると思う。背の高い男の子さん。
@@ -406,7 +406,7 @@
    **フランク**: 少しは分かってくれた？
 7. **Tina**: About three words. And only after I repeated them really slowly.
    **ティナ**: 3語くらいね。しかも、すごくゆっくり繰り返した後で。
-8. **Frank**: Well, body language is sort of universal.
+8. **Frank**: Well, body language is sorta universal.
    **フランク**: まあ、ボディランゲージはある意味万国共通だよね。
 9. **Tina**: True. Except I ordered fish and got fried chicken.
    **ティナ**: そうね。ただ、魚を頼んだのにフライドチキンが来たけど。
@@ -474,11 +474,11 @@
    **フランク**: もしかしたら、流したんじゃなくて、ただ黙っただけかも。
 7. **Tina**: Or pretended to. Same difference.
    **ティナ**: それか、流したふり。どっちでも同じよ。
-8. **Frank**: [carefully] It isn't, though. Going quiet — that's how the worst things grow. Trust me.
+8. **Frank**: [carefully] Nah, it isn't, though. Going quiet — that's how the worst things grow. Trust me.
    **フランク**: でも、同じじゃない。黙り込むこと……それが一番悪いものを育てるんだ。信じてくれ。
 9. **Tina**: [pausing] ...You sound like you've learned that the hard way.
    **ティナ**: ……それ、痛い目を見て学んだ人の言い方ね。
-10. **Frank**: Just say what you actually need. The day you feel it, not three weeks later.
+10. **Frank**: You gotta say what you actually need. The day you feel it, not three weeks later.
     **フランク**: ただ、本当に必要なことを言うんだ。感じたその日に。3週間後じゃなく。
 11. **Tina**: I expected basic common sense to keep things fair.
     **ティナ**: 最低限の常識があれば、公平に保てると思ってたの。
@@ -534,7 +534,7 @@
    **フランク**: ご両親は君に、お姉さんの後を追わせようとしたの？
 3. **Tina**: Definitely. They preferred her path — the safe, conventional one.
    **ティナ**: 完全にね。両親は姉の道、安全で型通りの道を望んでた。
-4. **Frank**: So a lot of pressure to be like her.
+4. **Frank**: So, kinda a lot of pressure to be like her.
    **フランク**: じゃあ、お姉さんみたいになれって、相当なプレッシャーだったんだね。
 5. **Tina**: I carried that quietly for years.
    **ティナ**: そのプレッシャーを、何年も一人で抱えてたの。
@@ -598,7 +598,7 @@
 
 1. **Tina**: If I won the lottery, I'd buy everything I've ever wanted!
    **ティナ**: 宝くじに当たったら、ずっと欲しかったものを全部買うわ！
-2. **Frank**: That's a little vague, Tina.
+2. **Frank**: That's kinda vague, Tina.
    **フランク**: それはちょっと漠然としてるね、ティナ。
 3. **Tina**: A big house — with a pink kitchen!
    **ティナ**: 大きな家よ、ピンクのキッチン付きの！
@@ -606,7 +606,7 @@
    **フランク**: 本当に当たったら、他の人のために何をするの？
 5. **Tina**: I'd help my family. They deserve to spoil themselves a little too.
    **ティナ**: 家族を助けるわ。みんなだって、少しは贅沢していいじゃない。
-6. **Frank**: That's more specific. I like it.
+6. **Frank**: Yeah, that's more specific. I like it.
    **フランク**: それはより具体的だね。いいと思う。
 7. **Tina**: And we'd travel everywhere together. You and me.
    **ティナ**: それに、一緒にどこへでも旅行するの。あなたと私で。
@@ -618,7 +618,7 @@
     **フランク**: 全部一度に使ったら、何が残るの？
 11. **Tina**: Memories. Those are what really matter.
     **ティナ**: 思い出よ。それこそが本当に大切なもの。
-12. **Frank**: [smiles] Wise words. From someone who opened with a pink kitchen.
+12. **Frank**: [smiles] Wise words. Kinda rich, coming from someone who opened with a pink kitchen.
     **フランク**: 賢い言葉だ。ピンクのキッチンから始めた人にしてはね。
 13. **Tina**: [grinning] Win or not, you're already on the travel list. Free of charge.
     **ティナ**: 当たっても当たらなくても、あなたはもう旅行リスト入りよ。無料でね。
@@ -686,7 +686,7 @@
     **フランク**: それまで、うちに泊まってもいいよ。少しお金も浮くし。
 11. **Tina**: That's really sweet. But I want my own place. My own ceiling to look up at.
     **ティナ**: 本当に優しいね。でも、自分の部屋が欲しいの。見上げるための、自分の天井がね。
-12. **Frank**: Fair enough. Good luck with the search.
+12. **Frank**: Yeah, fair enough. Good luck with the search.
     **フランク**: そっか、わかるよ。部屋探し、頑張って。
 13. **Tina**: Thanks. The day I find the one with the right light, I'm moving in by sundown.
     **ティナ**: ありがとう。ぴったりの光の部屋を見つけた日には、日が沈む前に引っ越すわ。
@@ -750,7 +750,7 @@
    **フランク**: 思い出はいつだって長く残る。本当だよ。
 9. **Tina**: [grinning] Okay. Travel a bit, save a bit. Balance.
    **ティナ**: わかった。少し旅して、少し貯める。バランスね。
-10. **Frank**: That's the wisest thing you've said all month.
+10. **Frank**: That's kinda the wisest thing you've said all month.
     **フランク**: それは今月、君が言った中で一番賢いよ。
 11. **Tina**: [pause] So I'll just buy the one thing I actually need.
     **ティナ**: だから、本当に必要な一つだけ買うことにする。
@@ -818,7 +818,7 @@
    **フランク**: 事前に食べ物のことをひと言メッセージしておけば——
 9. **Tina**: —I know, I know. I was too nervous to read his face.
    **ティナ**: ——分かってる、分かってる。緊張しすぎて、彼の顔を読めなかったの。
-10. **Frank**: Next time, just ask what they like first.
+10. **Frank**: Next time, you just gotta ask what they like first.
     **フランク**: 次は、まず相手の好みを聞きなよ。
 11. **Tina**: Yeah. If I'd done that, the whole night would've gone better.
     **ティナ**: そうね。そうしてたら、夜全体がもっとうまくいったのに。
@@ -954,7 +954,7 @@
    **フランク**: もっと広がった？
 9. **Tina**: The whole group, apparently. People I thought I could trust.
    **ティナ**: グループ全員みたい。信頼できると思ってた人たち。
-10. **Frank**: That's awful. You shouldn't have to guard yourself with friends.
+10. **Frank**: Yeah, that's awful. You shouldn't have to guard yourself with friends.
     **フランク**: それはひどいね。友達相手に身構えなきゃいけないなんて。
 11. **Tina**: From now on, my circle's getting smaller. Only people who've earned it.
     **ティナ**: これからは付き合いをぐっと絞るわ。信頼を勝ち取った人だけ。
@@ -1026,7 +1026,7 @@
     **フランク**: 行くよ。どんなに渋々でも。
 11. **Tina**: She'd ask if we're dating within five minutes.
     **ティナ**: 5分以内に、私たちが付き合ってるか聞いてくるわ。
-12. **Frank**: And we'd both say no, at the same time, too quickly.
+12. **Frank**: Yeah, and we'd both say no, at the same time, too quickly.
     **フランク**: で、二人とも同時に、早口で「いいえ」と言うんだ。
 13. **Tina**: [laughing] Which is exactly what makes her suspicious. Perfect.
     **ティナ**: それがまさに、彼女を怪しませるのよ。完璧ね。
@@ -1094,7 +1094,7 @@
     **フランク**: 約束して。二人がうまくいかなくなっても、割り込まないって。
 11. **Tina**: I won't. My dignity matters more than that.
     **ティナ**: しないわ。私のプライドのほうが大事。
-12. **Frank**: That's the kind of maturity I admire.
+12. **Frank**: That's the kinda maturity I admire.
     **フランク**: そういう大人なところ、尊敬するよ。
 13. **Tina**: [wry] Tell my heart that. It didn't get the memo yet.
     **ティナ**: それを私の心に言ってよ。まだ連絡が届いてないみたい。
@@ -1162,7 +1162,7 @@
     **フランク**: それで、何を学んだ？
 11. **Tina**: Slow down. Hear the real question before answering.
     **ティナ**: 落ち着くこと。答える前に、本当の質問を聞き取ること。
-12. **Frank**: Painful wisdom. But you earned it.
+12. **Frank**: Painful wisdom. Yeah, but you earned it.
     **フランク**: 痛い教訓だね。でも自分でつかんだものだ。
 13. **Tina**: [sighing] Next time I'll just listen first. Revolutionary, I know.
     **ティナ**: 次は、まず聞くことにする。画期的でしょ、分かってる。
@@ -1220,7 +1220,7 @@
    **フランク**: 交通アプリ、見なかったの？
 5. **Tina**: I forgot rush hour was even a thing.
    **ティナ**: ラッシュアワーの存在を完全に忘れてたの。
-6. **Frank**: At this rate, what time are we even looking at?
+6. **Frank**: At this rate, what time are we even gonna get there?
    **フランク**: このペースだと、何時くらいになりそう？
 7. **Tina**: Midnight. Total fail on my part.
    **ティナ**: 真夜中ね。完全に私の失敗だわ。
@@ -1228,7 +1228,7 @@
    **フランク**: ラッシュが始まる前に出ていればなあ。
 9. **Tina**: [wistful] You know, back home we'd just fold space. None of this.
    **ティナ**: ねえ、故郷だったら空間をたたむだけなのに。こんなこと一切なし。
-10. **Frank**: [deadpan] On Earth we call that "the train." Which you skipped.
+10. **Frank**: [deadpan] On Earth we call that "the train." Which you kinda skipped.
     **フランク**: 地球ではそれを「電車」と呼ぶんだ。君が乗らなかったやつだよ。
 11. **Tina**: [laughs] Okay, ouch. The worst part is losing the reservation.
     **ティナ**: ふふ、痛いとこ突くわね。一番最悪なのは、予約を失うことよ。
@@ -1300,7 +1300,7 @@
     **フランク**: お酒の合間に水を飲んでおくべきだったね。
 11. **Tina**: Yeah. Past me really didn't think ahead.
     **ティナ**: そうね。昨日の私は先を考えてなかった。
-12. **Frank**: Eat some toast. Drink this. If you can keep it down.
+12. **Frank**: You gotta eat some toast. Drink this. If you can keep it down.
     **フランク**: トーストを食べて。これを飲んで。吐かずにいられるなら。
 13. **Tina**: [weakly] Tell past me I said thanks. She won't listen, but try.
     **ティナ**: 昨日の私に、ありがとうって伝えて。聞かないだろうけど、一応ね。
@@ -1360,7 +1360,7 @@
    **フランク**: 悩むね。いいチャンスだ。でも手放すには大きい額だ。
 7. **Tina**: If I had the guts, I'd just take the plunge.
    **ティナ**: 度胸があれば、思い切って飛び込むんだけど。
-8. **Frank**: [carefully] I get that. But you should be practical too.
+8. **Frank**: [carefully] I get that. But you gotta be practical too.
    **フランク**: 分かるよ。でも、現実的に考えることも要る。
 9. **Tina**: I know I'll regret staying. Even though leaving scares me.
    **ティナ**: 残ったら後悔するって分かってる。辞めるのは怖いけど。
@@ -1424,7 +1424,7 @@
    **フランク**: 聖人になっても、魂は満たされないよ。
 5. **Tina**: [hopeful] If I cut out sugar completely, would I drop ten pounds?
    **ティナ**: 砂糖を完全に断ったら、10ポンド落ちる？
-6. **Frank**: Maybe. You'd also lose your joy.
+6. **Frank**: Maybe. You'd also kinda lose your joy.
    **フランク**: たぶんね。喜びも一緒に落ちるけど。
 7. **Tina**: [sighs] If only chocolate counted as protein.
    **ティナ**: チョコがタンパク質にカウントされたらいいのに。
@@ -1492,7 +1492,7 @@
    **フランク**: 君のすることは、思ってるより彼らに届くよ。
 5. **Tina**: If I lasted a whole month, would I miss it?
    **ティナ**: まる一か月続けたら、恋しくなるかな？
-6. **Frank**: The first three days are brutal. After that, it's easy.
+6. **Frank**: The first three days are brutal. After that, it's kinda easy.
    **フランク**: 最初の3日がきつい。その後は楽になるよ。
 7. **Tina**: But what if I miss something important?
    **ティナ**: でも、大事なことを見逃したら？
@@ -1504,7 +1504,7 @@
     **フランク**: 時間さ。その使い方が、何もかもを形作る。
 11. **Tina**: If I tried tomorrow— would you do it with me?
     **ティナ**: 明日やってみたら、一緒にやってくれる？
-12. **Frank**: Yes. It's easier with someone beside you.
+12. **Frank**: Yeah. It's easier with someone beside you.
     **フランク**: うん。そばに誰かいると、楽になるからね。
 13. **Tina**: [softly] Maybe then I'll hear home a little more clearly.
     **ティナ**: そうしたら、故郷の声がもう少しはっきり聞こえるかもね。
@@ -1520,7 +1520,7 @@
    **フランク**: あのシェフは本当に腕がいい。料理にはやられたよ。
 2. **Tina**: What was your favorite?
    **ティナ**: 一番よかったのは？
-3. **Frank**: The duck. Strange way to cook it, but excellent.
+3. **Frank**: The duck. Kinda strange way to cook it, but excellent.
    **フランク**: 鴨だ。妙な調理法だったけど、見事だった。
 4. **Tina**: And that special sauce — what was it?
    **ティナ**: あの特製ソースは？何だったの？
@@ -1572,7 +1572,7 @@
     **フランク**: 何か持っていった？
 11. **Tina**: A photo album. Pages and pages of when we were young.
     **ティナ**: フォトアルバム。私たちの若い頃のページがいっぱいの。
-12. **Frank**: That's a good way to start rebuilding.
+12. **Frank**: Yeah, that's a good way to start rebuilding.
     **フランク**: それは、立て直し始めるのにいい方法だね。
 13. **Tina**: [quietly] Maybe if I'd reached out sooner, it wouldn't still ache like this.
     **ティナ**: もっと早く連絡していたら、今もこんなに胸が痛まなかったのかもね。
@@ -1640,7 +1640,7 @@
     **フランク**: もし壊れたら、そばにいてあげる？
 11. **Tina**: Always. However frustrated her choices make me.
     **ティナ**: いつでも。彼女の選択にどれだけもどかしくなっても。
-12. **Frank**: That's hard. But that's what real friendship is.
+12. **Frank**: Yeah, that's hard. But that's what real friendship is.
     **フランク**: しんどいね。でも、それが本当の友情なんだろう。
 13. **Tina**: [quietly] So I'll wait. And I'll keep the door open.
     **ティナ**: だから待つわ。そして、ドアは開けておく。
@@ -1688,7 +1688,7 @@
 
 1. **Tina**: What if my whole life is just a simulation?
    **ティナ**: もし私の人生全部が、ただのシミュレーションだったら？
-2. **Frank**: Sleep, Tina. Please.
+2. **Frank**: You gotta sleep, Tina. Please.
    **フランク**: 寝なよ、ティナ。お願いだから。
 3. **Tina**: But if it were a simulation, would it even matter?
    **ティナ**: でも、もしそうだったとして、それって重要なの？
@@ -1708,7 +1708,7 @@
     **フランク**: たいていそうしてるよ。だいたい突き詰めると「寝なさい」になる。
 11. **Tina**: If I closed my eyes, would the universe end?
     **ティナ**: 目を閉じたら、宇宙は終わる？
-12. **Frank**: No. Just this incredibly long night. Finally.
+12. **Frank**: Nah. Just this incredibly long night. Finally.
     **フランク**: いや。この信じられないほど長い夜が、やっと終わるだけさ。
 13. **Tina**: [yawning] Fine. If sleep solves everything, tomorrow's problems can wait until tomorrow.
     **ティナ**: わかったわ。睡眠が全部解決するなら、明日のことは明日ね。
@@ -1738,7 +1738,7 @@
    **フランク**: こうして見上げながら、何を考えてるの？
 9. **Tina**: [pointing] Who I'd have become, under that sky. You?
    **ティナ**: あの空の下にいたら、どんな自分になってたか。あなたは？
-10. **Frank**: [tracing the scar] About wanting answers. About who chose the things I have to live with.
+10. **Frank**: [tracing the scar] About wanting answers. About who chose the things I gotta live with.
     **フランク**: 答えがほしいってことさ。僕が背負って生きる選択を、誰がしたのかってね。
 11. **Tina**: We're both a little stitched together, aren't we.
     **ティナ**: 私たちって、二人とも、ちょっと継ぎ接ぎよね。
@@ -1810,7 +1810,7 @@
     **フランク**: 君は、わざとこの映画を選んだんだね。
 11. **Tina**: Maybe part of me did. I didn't think it would hit this hard.
     **ティナ**: 心のどこかではね。でも、こんなに強く刺さるとは思わなかった。
-12. **Frank**: I should probably go see him.
+12. **Frank**: I probably gotta go see him.
     **フランク**: やっぱり、会いに行くべきなんだろうな。
 13. **Tina**: [gently] I think you should. And you don't have to go alone.
     **ティナ**: 行ったほうがいいと思う。それに、一人で行かなくていいのよ。
@@ -1858,7 +1858,7 @@
 
 1. **Tina**: Someone who cares about you is standing here with a gift.
    **ティナ**: あなたを大事に思う人が、贈り物を持ってここに立ってるわよ。
-2. **Frank**: Tina. No.
+2. **Frank**: Tina. Nope.
    **フランク**: ティナ。やめてくれ。
 3. **Tina**: If you tried one different thing, would the world end?
    **ティナ**: 一つ違うものを試したら、世界が終わる？
@@ -1874,7 +1874,7 @@
    **フランク**: 何も、だろうね。
 9. **Tina**: So try it. Just to see.
    **ティナ**: なら試して。ためしにね。
-10. **Frank**: [reluctant] Fine. I'll try it. Indoors. And you tell no one.
+10. **Frank**: [reluctant] Fine. I'm gonna try it. Indoors. And you tell no one.
     **フランク**: わかった。試すよ。室内でだ。それと、誰にも言うな。
 11. **Tina**: Your secret's safe.
     **ティナ**: 秘密は守るわ。
@@ -2016,7 +2016,7 @@
     **フランク**: こうなったとき、どうすれば少し楽になる？
 12. **Tina**: You showing up, apparently. And coffee.
     **ティナ**: あなたが来てくれること、かな。それとコーヒー。
-13. **Frank**: [gently] I'll always come. And I'll always bring coffee.
+13. **Frank**: [gently] I'm always gonna come. And I'll always bring coffee.
     **フランク**: いつでも来るよ。コーヒーも、いつでも持ってくる。
 
 ### B1-60 The First Real Fight
@@ -2050,5 +2050,5 @@
     **フランク**: こういうのが得意だったら、もっとうまくやれたんだけどね。
 12. **Tina**: We both would have. That's why we're talking now.
     **ティナ**: 二人ともよ。だから今、こうして話してるの。
-13. **Frank**: Next time something bothers me, I'll tell you that day. Not two days later.
+13. **Frank**: Next time something bothers me, I'm gonna tell you that day. Not two days later.
     **フランク**: 次に何か引っかかったら、その日のうちに言うよ。2日も黙らずに。

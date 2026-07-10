@@ -1,6 +1,6 @@
 # フランケン＆ティナ 英語大作戦 — CEFR A2 スキット対話本文（日本語対訳）
 
-> キャラクター: **Frank**（フランケン：礼儀正しく観察的・人造人間。短縮形を控えめに） / **Tina**（ティナ：好奇心旺盛で感情豊か・別の星から来た。短縮形＋間投詞） + 場面ごとの第三者
+> キャラクター: **Frank**（フランケン：礼儀正しく観察的・人造人間。レジスター切替＝公的・業務場面は短縮形控えめ、Tinaと二人きりの私的場面はgonna/wanna等のネイティブ口語も） / **Tina**（ティナ：好奇心旺盛で感情豊か・別の星から来た。短縮形＋間投詞） + 場面ごとの第三者
 > ※ 配置はプレイ順の通し番号 `A2-01〜A2-60`。
 > ※ 各英文の下に日本語訳。演技指示 `[tag]` と効果音 `[SFX: ...]` は英語行のみ（日本語訳には付けない）。
 > ※ 編集方針は `skits_sitcom_style_guide.md`、配置・対応表は `skits_arrangement.md`、時系列は `frank_and_tina_timeline.md`。
@@ -22,7 +22,7 @@
    **フランク**: 僕だよ。同じ顔。同じ…縫い目。
 4. **Tina**: A few years, and you're still wearing that exact coat!
    **ティナ**: 数年も経つのに、まだそっくり同じコートを着てるのね！
-5. **Frank**: It works. Why replace it. [beat] You have so much news. I can tell.
+5. **Frank**: It works. Why replace it. [beat] You've got so much news. I can tell.
    **フランク**: 役に立つからね。替える必要がない。…君、知らせがたくさんあるね。わかるよ。
 6. **Tina**: [bursting] I'm apartment hunting! And — wait, you first. What's the news?
    **ティナ**: アパートを探してるの！それと——待って、あなたが先。何があったの？
@@ -88,7 +88,7 @@
    **フランク**: …僕も。今のは言ってない。
 9. **Tina**: [grinning] Too late! I heard it. Okay — this weekend, the next two episodes, my place.
    **ティナ**: 遅いわ！聞いちゃった。決まり——今週末、続きの2話、私の家で。
-10. **Frank**: I'll bring the drinks. You bring snacks. And tissues. [beat] For you.
+10. **Frank**: I'm gonna bring the drinks. You bring snacks. And tissues. [beat] For you.
     **フランク**: 僕が飲み物を持っていく。君はお菓子。それとティッシュ。…君のためにね。
 
 ### A2-04 Lab Interview Practice
@@ -114,7 +114,7 @@
    **フランク**: でも本当だよ。関係ある。僕はラボを内側から知ってる。
 8. **Tina**: [laughing] Okay, save that for the second interview. Take a deep breath. Stay calm.
    **ティナ**: わかった、それは二次面接まで取っておいて。深呼吸して。落ち着いて。
-9. **Frank**: I'll take my time and answer clearly. [beat] And not mention the storm.
+9. **Frank**: I'm gonna take my time and answer clearly. [beat] And not mention the storm.
    **フランク**: 焦らず、はっきり答える。…そして嵐の話はしない。
 10. **Tina**: You've got this. Message me right after — I'll be waiting.
     **ティナ**: あなたなら大丈夫。終わったらすぐ連絡して——待ってるから。
@@ -140,7 +140,7 @@
    **フランク**: 進歩だね。
 7. **Tina**: [collapsing onto him] I can't move. Carry me home.
    **ティナ**: もう動けない。家まで運んで。
-8. **Frank**: No. You'll walk it off. Slowly.
+8. **Frank**: No. You're gonna walk it off. Slowly.
    **フランク**: だめ。歩いて消化するんだ。ゆっくりね。
 9. **Tina**: [muttering] Next time I'll eat slower. Way slower.
    **ティナ**: 次はもっとゆっくり食べる。ずっとゆっくり。
@@ -156,7 +156,7 @@
 
 1. **Tina**: Your village is smaller than the city, but the sky there looks bigger.
    **ティナ**: あなたの村は街より小さいけど、空はもっと広く見えるのね。
-2. **Frank**: It does. The mountain air is clearer. Quieter, too.
+2. **Frank**: It does. The mountain air's kinda clearer. Quieter, too.
    **フランク**: そうだよ。山の空気は澄んでる。それに静かだ。
 3. **Tina**: Were there farms? I want to picture all of it.
    **ティナ**: 農場はあった？全部思い浮かべたいの。
@@ -228,7 +228,7 @@
    **フランク**: 食べ物は？すごいって聞いたよ。
 9. **Tina**: So much fresh fruit! [eyes him] Don't worry — I didn't eat any flowers there either.
    **ティナ**: 新鮮な果物がたくさん！…安心して、あっちでも花は食べてないわ。
-10. **Frank**: [deadpan] Then I'll book a trip. It sounds safe now.
+10. **Frank**: [deadpan] Then I'm gonna book a trip. It sounds safe now.
     **フランク**: じゃあ旅行を予約するよ。もう安全そうだ。
 
 ### A2-09 Booking a Restaurant
@@ -280,7 +280,7 @@
    **フランク**: 30分。手は安定してた。だいたいね。
 7. **Tina**: [excited] Ooh — cut mine! Just a little. Please?
    **ティナ**: あら——私のも切ってよ！ちょっとだけ。お願い？
-8. **Frank**: No. Your hair is pink. If I make one mistake, everyone will see it.
+8. **Frank**: No. Your hair is pink. If I make one mistake, everyone's gonna see it.
    **フランク**: だめ。君の髪はピンクだ。一回でも失敗したら、みんなに見える。
 9. **Tina**: Come on, just the bangs!
    **ティナ**: お願いよ、前髪だけ！
@@ -424,7 +424,7 @@
    **フランク**: …じゃあ行くよ。いつ？
 9. **Tina**: Saturday! And I've already planned everything — dinner, dessert, the whole night.
    **ティナ**: 土曜日！もう全部計画したわ——夕食、デザート、夜全部。
-10. **Frank**: Of course you have. [beat] I'll just bring the earplugs. For me.
+10. **Frank**: Of course you have. [beat] I'm just gonna bring the earplugs. For me.
     **フランク**: 君ならそうだろうね。…僕は耳栓を持っていくよ。自分用に。
 
 ### A2-16 Complaining About Noise
@@ -536,7 +536,7 @@
    **フランク**: コーヒーは食べ物じゃないよ、ティナ。
 9. **Tina**: Just thirty minutes of sleep? The paper's due tomorrow!
    **ティナ**: 30分だけ寝ていい？レポート明日締め切りなの！
-10. **Frank**: Two hours. I'll wake you. [sits down] And I'm not leaving until you close your eyes.
+10. **Frank**: Two hours. I'm gonna wake you. [sits down] And I'm not leaving until you close your eyes.
     **フランク**: 2時間。起こすから。…君が目を閉じるまで、僕は帰らない。
 
 ### A2-20 Book Club Meeting
@@ -604,11 +604,11 @@
 
 1. **Tina**: [groans] Ugh, I look terrible! This shirt is way too long.
    **ティナ**: うう、ひどい格好！このシャツ、長すぎるわ。
-2. **Frank**: The size is a little off. But the colors match.
+2. **Frank**: The size is kinda off. But the colors match.
    **フランク**: サイズは少し合ってないね。でも色は合ってるよ。
 3. **Tina**: And my shoes don't match at all! Everything's a disaster.
    **ティナ**: 靴は全然合ってないし！もう全部、大失敗よ。
-4. **Frank**: Honestly? Nobody but you is going to notice.
+4. **Frank**: Honestly? Nobody but you is gonna notice.
    **フランク**: 正直に言う？君以外、誰も気づかないよ。
 5. **Tina**: Easy for you to say! You always look perfect.
    **ティナ**: 言うのは簡単よ！あなたはいつも完璧なんだから。
@@ -676,7 +676,7 @@
    **フランク**: 一貫してるんだ。君の片思いみたいに、数か月ごとにね。
 9. **Tina**: [gasps] Rude! ...Okay, a little true. So you'll come Saturday?
    **ティナ**: 失礼ね！…まあ、ちょっとは本当ね。じゃあ土曜来てくれる？
-10. **Frank**: Bring snacks. I'll come — to watch you watch him.
+10. **Frank**: Bring snacks. I'm gonna come — to watch you watch him.
     **フランク**: お菓子を持っておいで。行くよ——君が彼を見るのを見にね。
 
 ### A2-25 Travel Insurance
@@ -732,7 +732,7 @@
    **フランク**: その雲じゃないよ、ティナ。インターネット上のだよ。
 9. **Tina**: Oh. [pause] ...Earth keeps using one word for two things.
    **ティナ**: あら。…地球はひとつの言葉をふたつのことに使うのね。
-10. **Frank**: [sighs] Sit down. We'll check it step by step.
+10. **Frank**: [sighs] Sit down. We're gonna check it, step by step.
     **フランク**: 座って。一歩ずつ確認していこう。
 
 ### A2-27 Lost Luggage
@@ -812,7 +812,7 @@
    **フランク**: 作ったよ。今日うまくいくように、二回練習したんだ。
 6. **Tina**: [touched] You practiced... for me?
    **ティナ**: 練習したの…私のために？
-7. **Frank**: You came a long way to be my friend. A cake is a small thing.
+7. **Frank**: You came a long way to be my friend. A cake's kinda a small thing.
    **フランク**: 君は遠くから来て、僕の友達になってくれた。ケーキくらい小さなことさ。
 8. **Tina**: [quietly] It's not small. Nobody bakes for me.
    **ティナ**: 小さくなんかないわ。私のために焼いてくれる人なんていないもの。
@@ -978,7 +978,7 @@
    **フランク**: 自動再生をオフにしなよ。タップ三回だ。
 5. **Tina**: But then I might miss something important!
    **ティナ**: でもそしたら大事な何かを見逃すかも！
-6. **Frank**: Like what? Show me one important thing from the last three hours.
+6. **Frank**: Like what? Gimme one important thing from the last three hours.
    **フランク**: 例えば？この3時間で見た大事なものを一つ見せて。
 7. **Tina**: [scrolling back] Um... a cat who plays piano. A guy frying an egg on a—
    **ティナ**: ええと…ピアノを弾く猫。卵をなんとかの上で焼く男の——
@@ -996,7 +996,7 @@
 **Narrator**: Frank just finished a book he loves — about a scientist who travels through time. He wants Tina to read it.
 **ナレーター**: フランクは大好きな本を読み終えたばかり。時間を旅する科学者の話だ。ティナに読ませたい。
 
-1. **Frank**: I just finished an amazing book. You've got to read it.
+1. **Frank**: I just finished an amazing book. You've gotta read it.
    **フランク**: すごい本を読み終えたんだ。絶対読むべきだよ。
 2. **Tina**: Oh? Tell me more.
    **ティナ**: あら？もっと教えて。
@@ -1070,7 +1070,7 @@
    **フランク**: ラッキーだね。僕は二日酔いにならないんだ。部品が違うから。
 9. **Tina**: [muffled into cushion] Of course you don't. You're insufferable.
    **ティナ**: そりゃそうよね。あなたって我慢ならないわ。
-10. **Frank**: [setting down a tray] Soup and toast. Drink slowly. I'll sit with you.
+10. **Frank**: [setting down a tray] Soup and toast. Drink slowly. I'm gonna sit with you.
     **フランク**: スープとトーストだ。ゆっくり飲んで。そばにいるよ。
 
 ### A2-39 Fixing a Bike
@@ -1218,7 +1218,7 @@
    **フランク**: 星一つにルーター一台。それは強力なプランだ。
 10. **Tina**: Oh, it's connected now! Thank you so much!
     **ティナ**: あ、つながった！本当にありがとうございます！
-11. **Frank**: [to Tina] Earth needs millions of these. Don't tell the technician. He'll feel bad.
+11. **Frank**: [to Tina] Earth needs millions of these. Don't tell the technician. He's gonna feel bad.
     **フランク**: 地球はこれが何百万台もいるんだ。技術者には言うなよ。落ち込むから。
 
 ### A2-44 Workout Buddy
@@ -1246,7 +1246,7 @@
    **フランク**: 食事も前より良くしてるの？
 9. **Tina**: [proud] Definitely — more protein, less junk food now.
    **ティナ**: もちろん。今はタンパク質多め、ジャンクフード少なめよ。
-10. **Frank**: Then you'll be stronger than him in no time.
+10. **Frank**: Then you're gonna be stronger than him in no time.
     **フランク**: それならすぐ彼より強くなるよ。
 11. **Tina**: [grinning] Good. Then I'll quit, while I'm winning.
     **ティナ**: よかった。じゃあ勝ってるうちにやめるわ。
@@ -1292,7 +1292,7 @@
 
 1. **Tina**: Look at this — the dress I ordered online looks awful!
    **ティナ**: これ見て。ネットで注文したワンピース、ひどい見た目なの！
-2. **Frank**: How is it different from the picture? Let me see.
+2. **Frank**: How is it different from the picture? Lemme see.
    **フランク**: 写真とどう違うの？見せて。
 3. **Tina**: The color is wrong and the fit is terrible.
    **ティナ**: 色が違うし、サイズ感も最悪なの。
@@ -1436,7 +1436,7 @@
     **フランク**: 間違ってはいないね。
 11. **Tina**: Maybe a moon next to it someday. Will you help me design it?
     **ティナ**: いつか隣に月を入れるかも。デザイン手伝ってくれる？
-12. **Frank**: [softly] Your star, my drawing. Yeah. I'll start tonight.
+12. **Frank**: [softly] Your star, my drawing. Yeah. I'm gonna start tonight.
     **フランク**: 君の星に、僕の絵。ああ。今夜から描き始めるよ。
 
 ### A2-51 School Application
@@ -1492,7 +1492,7 @@
    **フランク**: 彼女は何て言ったの？
 7. **Tina**: Just "fine, sorry." No real reason.
    **ティナ**: ただ「大丈夫、ごめん」だけ。ちゃんとした理由はなし。
-8. **Frank**: [carefully] Sometimes people cancel because they need space.
+8. **Frank**: [carefully] Sometimes people cancel 'cause they need space.
    **フランク**: 人は一人の時間が必要でキャンセルすることもあるよ。
 9. **Tina**: Maybe. But I've been hurt one too many times.
    **ティナ**: そうかもね。でも、もう何度も傷ついたわ。
@@ -1554,7 +1554,7 @@
    **フランク**: 教授は何か言った？
 7. **Tina**: She gave me a look when I sat down.
    **ティナ**: 席に着いたとき、にらまれたわ。
-8. **Frank**: She's strict because she cares about us.
+8. **Frank**: She's strict 'cause she cares about us.
    **フランク**: 厳しいのは、僕たちを大事に思ってるからだよ。
 9. **Tina**: Yeah... I'll leave home earlier tomorrow.
    **ティナ**: そうね…明日は早めに家を出るわ。
@@ -1654,7 +1654,7 @@
    **フランク**: 睡眠が第一だ。予定は後回しでいい。
 7. **Tina**: We have two whole weeks — that's so much time!
    **ティナ**: 丸々2週間もあるのよ。たっぷりある！
-8. **Frank**: After you rest, we can start the things I planned.
+8. **Frank**: After you rest, we're gonna start the things I planned.
    **フランク**: 君が休んだら、僕が計画したことを始めよう。
 9. **Tina**: [surprised] Wait — you planned things? Already?
    **ティナ**: 待って——もう計画したの？

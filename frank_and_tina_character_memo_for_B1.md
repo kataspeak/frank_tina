@@ -36,8 +36,8 @@
 | レベル | 特徴 |
 |---|---|
 | A1 | "It is..." を縮約せず使う／短文中心／"I see." "Yes." と相槌 |
-| A2 | 縮約形が増える／idiom を限定的に使用（"Long time no see"、"You've got this"、"in no time"）／"Right." "Of course." "Got it." が口癖 |
-| B1 提案 | 仮定法・過去完了・婉曲表現を「論理的に整理する場面」で自然導入。"I would have..." "Now that I think about it..." "Looking back..." など内省的な構文が似合う |
+| A2 | 縮約形が増える／idiom を限定的に使用（"Long time no see"、"You've got this"、"in no time"）／"Right." "Of course." "Got it." が口癖／**（2026-07-10改定）Tinaと二人きりの私的レジスターでは gonna/wanna/gotta/kinda/sorta/'cause/lemme/gimme/see ya もためらわず使う。店員・面接官など公的レジスターでは引き続き控える** |
+| B1 提案 | 仮定法・過去完了・婉曲表現を「論理的に整理する場面」で自然導入。"I would have..." "Now that I think about it..." "Looking back..." など内省的な構文が似合う。**私的レジスターの砕け＋内省構文は矛盾しない**（"I guess I'm kinda still thinking about what you said." のように併用可） |
 
 ---
 
