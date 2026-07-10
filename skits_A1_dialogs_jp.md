@@ -75,8 +75,8 @@
    **フランク**: 今朝も言ってたよ。昨日も。
 5. **Tina**: Hunger is no joke, Frank!
    **ティナ**: 空腹は冗談じゃないのよ、フランク！
-6. **Frank**: Okay, okay. Order first.
-   **フランク**: わかった、わかった。まず注文して。
+6. **Frank**: Okay, okay. Let's order first.
+   **フランク**: わかった、わかった。まず注文しよう。
 7. **Tina**: [excited] A burger! And fries! And a shake!
    **ティナ**: ハンバーガー！それにポテト！それにシェイク！
 8. **Frank**: That is a lot for a "weak, tired" person.
@@ -311,8 +311,8 @@
    **ティナ**: もう一回！もっといい光で！
 8. **Frank**: [deadpan] Tina. The phone is full. Forty photos. All of you.
    **フランク**: ティナ。スマホがいっぱいだ。40枚。全部、君だ。
-9. **Tina**: [grinning] Good start! Now delete the bad ones — all zero of them!
-   **ティナ**: いいスタートね！じゃあダメなのを消して——0枚だけど！
+9. **Tina**: [grinning] Good start! Now delete the bad ones — but I don't think there are any!
+   **ティナ**: いいスタートね！じゃあダメなのを消して——そんな写真、ないと思うけど！
 
 ### A1-13 My Teacher
 
@@ -748,8 +748,8 @@
    **フランク**: うん。お茶を持っていくよ。
 9. **Tina**: [sniffles] Thank you, Frank. You're kind.
    **ティナ**: ありがとう、フランク。優しいのね。
-10. **Frank**: [deadpan] A doctor built me. He forgot to add colds. So I can visit.
-    **フランク**: 博士が僕を作った。風邪は付け忘れたんだ。だから見舞いに行ける。
+10. **Frank**: [deadpan] I cannot catch colds. The doctor forgot that part. So I can visit.
+    **フランク**: 僕は風邪をひかない。博士がその機能を付け忘れたんだ。だから見舞いに行ける。
 
 ### A1-29 At the Hair Salon
 
@@ -990,8 +990,8 @@
    **フランク**: この本が見つからないんです。
 4. **Staff**: Let me check. ...It is on shelf five.
    **職員**: 確認しますね。…5番の棚にありますよ。
-5. **Frank**: Thank you. I usually just read here. How do I borrow it?
-   **フランク**: ありがとうございます。いつもは読むだけなので。どうやって借りれば？
+5. **Frank**: Thank you. I usually only read books here. How do I check this one out?
+   **フランク**: ありがとうございます。いつもはここで読むだけなんです。この本はどうやって借りればいいですか？
 6. **Staff**: At the front desk, over there.
    **職員**: あちらの受付カウンターです。
 7. **Tina**: [appearing, excited] Frank! I found the manga! Twelve books!
@@ -1301,10 +1301,10 @@
 
 1. **Frank**: I want to send this box to Japan. It is a gift — too big to carry on the plane.
    **フランク**: この箱を日本へ送りたいんです。贈り物で、飛行機で持っていくには大きすぎるので。
-2. **Clerk**: Air mail or surface mail?
-   **局員**: 航空便ですか、船便ですか？
-3. **Frank**: Air mail, please. How long does it take?
-   **フランク**: 航空便で。どれくらいかかりますか？
+2. **Clerk**: Standard or express shipping?
+   **局員**: 通常便ですか、速達便ですか？
+3. **Frank**: Standard shipping, please. How long does it take?
+   **フランク**: 通常便でお願いします。どれくらいかかりますか？
 4. **Clerk**: About one week.
    **局員**: 1週間ほどです。
 5. **Tina**: [peering] One week? On my planet, we send things by light!
@@ -1562,8 +1562,8 @@
 
 1. **Tina**: See you tomorrow morning, Frank!
    **ティナ**: また明日の朝ね、フランク！
-2. **Frank**: Goodbye. Have a good night.
-   **フランク**: さようなら。いい夜を。
+2. **Frank**: Good night. See you tomorrow.
+   **フランク**: おやすみ。また明日。
 3. **Tina**: Same time, same place?
    **ティナ**: 同じ時間、同じ場所？
 4. **Frank**: Same time, same place. As always.
@@ -1654,8 +1654,8 @@
    **ティナ**: さようなら、フランク。寂しくなるわ。
 2. **Frank**: I will miss you, too.
    **フランク**: 僕も寂しくなる。
-3. **Tina**: Will you message me? Even far away?
-   **ティナ**: メッセージをくれる？遠く離れていても？
+3. **Tina**: Will you message me, even when I'm far away?
+   **ティナ**: 遠く離れていても、メッセージをくれる？
 4. **Frank**: Of course. As often as I can.
    **フランク**: もちろん。できる限り。
 5. **Tina**: Same time, same place — even across the stars?
