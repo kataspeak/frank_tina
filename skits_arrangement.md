@@ -202,7 +202,7 @@ B1-39→40→41＝昇進打診→迷い→退職のキャリア決断ビルド�
 | B2-29 | SNS Identity | | B2-59 | Future Plans |
 | B2-30 | Public Apology Draft | | B2-60 | Stitched Together |
 
-> 横断 callback（博士／母＝キャンパス案内／初対面回想／最初の喧嘩／新ジャケット／星図／agency／最初の週／ルームメイト）は
+> 横断 callback（博士／母＝キャンパス案内／初対面回想／ピンクのコート／最初の喧嘩／新ジャケット／星図／agency／最初の週／ルームメイト）は
 > `frank_and_tina_timeline.md` §3 を正とする。
 
 ## 5. 保守チェックリスト（スキット追加・改稿・再配置時）
