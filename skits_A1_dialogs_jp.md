@@ -169,7 +169,7 @@
    **ティナ**: 私の部屋へようこそ、フランク！同じ建物に住んでるのに、全然来ないんだから！
 2. **Frank**: My room is just down the hall. This is my first time inside. Wow. It is very... pink.
    **フランク**: 僕の部屋は廊下のすぐ先だよ。中に入るのは初めてだ。わあ。とても…ピンクだね。
-3. **Tina**: [proud] Pink everywhere! Bed, books, lamp, wall!
+3. **Tina**: [proud] Pink everywhere! Bed, books, lamp, walls!
    **ティナ**: どこもかしこもピンク！ベッド、本、ランプ、壁！
 4. **Frank**: [points] Oh. A star map. That is not pink.
    **フランク**: おや。星図だ。これはピンクじゃないね。
@@ -331,7 +331,7 @@
    **ティナ**: 一度も？！それって悲しいわ！
 5. **Frank**: It is fine. I do not smile either. We understand each other.
    **フランク**: 平気だよ。僕も笑わないから。お互い分かり合えるんだ。
-6. **Tina**: [laughs] Two serious faces, staring all day!
+6. **Tina**: [laughs] Two serious faces, staring at each other all day!
    **ティナ**: 真面目な顔が2つ、一日中にらめっこね！
 7. **Frank**: It is a very calm classroom.
    **フランク**: とても穏やかな教室だよ。
@@ -1054,7 +1054,7 @@
    **ティナ**: みんな私たちのことも言ってるのよ。
 8. **Frank**: [flat] What do they say?
    **フランク**: 何て言ってるの？
-9. **Tina**: [playful] That we're a funny pair. The alien and the stitched-up boy.
+9. **Tina**: [playful] That we're a funny pair. The alien and the boy with the stitches.
    **ティナ**: 変な二人組だって。宇宙人と縫い目だらけの男の子。
 10. **Frank**: [deadpan] ...That one is true.
     **フランク**: …それは本当だ。
