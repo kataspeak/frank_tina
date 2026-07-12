@@ -581,7 +581,7 @@
    **ティナ**: フランク、それダンスじゃないわ。突っ立ってるだけよ。
 7. **Frank**: A doctor built me to walk. Not to dance.
    **フランク**: 博士は僕を歩くために作った。踊るためじゃない。
-8. **Tina**: Then today, we add a new feature!
+8. **Tina**: Then today, we're adding a new feature!
    **ティナ**: じゃあ今日、新しい機能を追加しましょう！
 9. **Frank**: [deadpan] I am not sure I have the parts.
    **フランク**: その部品があるか分からないな。
@@ -794,8 +794,8 @@
    **フランク**: どこで買ったの？
 5. **Tina**: At the mall. Fifty percent off!
    **ティナ**: モールで。50%オフだったの！
-6. **Frank**: Smart shopping.
-   **フランク**: 賢い買い物だね。
+6. **Frank**: Nice find.
+   **フランク**: よく見つけたね。
 7. **Tina**: [proud] I know! I love a good deal.
    **ティナ**: でしょ！お買い得が大好きなの。
 8. **Frank**: How many pink things is that now?
@@ -826,8 +826,8 @@
    **ティナ**: もちろん！まっすぐ、それから…左。
 8. **Frank**: Right.
    **フランク**: 右だよ。
-9. **Tina**: Yes, you're right, it's right.
-   **ティナ**: そう、あなたが正しい、右ね。
+9. **Tina**: Right. It's right.
+   **ティナ**: そうね、右ね。
 10. **Frank**: [deadpan] I will lead the way.
     **フランク**: 僕が先に行くよ。
 
@@ -1156,11 +1156,11 @@
 
 1. **Frank**: Hello. I am Frank. I live here.
    **フランク**: こんにちは。僕はフランクです。ここに住んでいます。
-2. **Kate**: Hi! I am Kate. Nice to meet you.
+2. **Kate**: Hi! I'm Kate. Nice to meet you.
    **ケイト**: こんにちは！ケイトです。はじめまして。
 3. **Tina**: I'm Tina! What do you do, Kate?
    **ティナ**: 私はティナ！ケイト、お仕事は？
-4. **Kate**: I am a nurse. At the hospital.
+4. **Kate**: I'm a nurse. At the hospital.
    **ケイト**: 看護師なの。病院でね。
 5. **Tina**: A nurse! [gasps] Frank has so many stitches—
    **ティナ**: 看護師さん！フランクって縫い目がいっぱい——
@@ -1269,7 +1269,7 @@
 **Narrator**: Tina is at the cafe counter. A barista takes her order.
 **ナレーター**: ティナはカフェのカウンターにいる。バリスタが注文を取る。
 
-1. **Tina**: Today I feel grown-up! So... a small coffee, please.
+1. **Tina**: Today I feel grown-up! I'll have... a small coffee, please.
    **ティナ**: 今日は大人の気分！なので…スモールサイズのコーヒーをお願いします。
 2. **Barista**: Hot or iced?
    **バリスタ**: ホットですか、アイスですか？
@@ -1400,7 +1400,7 @@
    **ティナ**: 友達。ここ、地球にいる。
 6. **Frank**: [surprised] Here?
    **フランク**: ここにいる友達？
-7. **Tina**: [holding it out to him] For you. I want one part of our trip to stay here.
+7. **Tina**: [holding it out to him] For you. I want a piece of this trip to stay here with you.
    **ティナ**: あなたに。二人の旅の一部を、ここに残したいの。
 8. **Frank**: [quietly] With me?
    **フランク**: 僕に？
@@ -1548,7 +1548,7 @@
    **ティナ**: できました。はい、どうぞ。
 8. **Teller**: Thank you. Here are your dollars.
    **窓口係**: ありがとうございます。こちらがドルです。
-9. **Tina**: [putting away the dollars] That's done. I only kept five hundred yen.
+9. **Tina**: [putting away the dollars] All set. I only kept five hundred yen.
    **ティナ**: これで終わりね。500円だけ残しておいたわ。
 10. **Frank**: [quietly] Good. A small memory of Japan.
     **フランク**: うん。日本の小さな思い出だね。
