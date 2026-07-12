@@ -324,10 +324,10 @@
 **Narrator**: It is Tina's first day at the gym. A trainer is showing her how to start.
 **ナレーター**: ティナのジム初日。トレーナーが始め方を教えている。
 
-1. **Trainer**: For your first day, we'll start with three kilos.
-   **トレーナー**: 初日は3キロから始めましょう。
-2. **Tina**: Three kilos? [picks it up] That's really light. My hot chocolate mug is heavier than this.
-   **ティナ**: 3キロ？ずいぶん軽いわね。私のホットチョコのマグカップのほうが重いわよ。
+1. **Trainer**: For your first day, we'll start with three pounds.
+   **トレーナー**: 初日は3ポンドから始めましょう。
+2. **Tina**: Three pounds? [picks it up] That's really light. My hot chocolate mug is heavier than this.
+   **ティナ**: 3ポンド？ずいぶん軽いわね。私のホットチョコのマグカップのほうが重いわよ。
 3. **Trainer**: [smiling] At first, form is more important than weight. We'll do three sets.
    **トレーナー**: 最初は、重さよりフォームのほうが大事ですよ。3セットやりましょう。
 4. **Tina**: Okay. Will I get sore tomorrow?
@@ -874,7 +874,7 @@
    **ティナ**: 私がいじってるまさにその部分を、みんな気に入ってるのね！
 7. **Frank**: Three companies messaged me today. One wants a whole series.
    **フランク**: 今日3社から連絡が来た。一社は全シリーズを希望してる。
-8. **Tina**: A series? Frank, you could be actually famous!
+8. **Tina**: A series? Frank, you could actually be famous!
    **ティナ**: シリーズ？フランク、あなた本当に有名になれるわよ！
 9. **Frank**: [pause, suddenly nervous] ...Half a million people watched my face.
    **フランク**: …50万人が僕の顔を見た。
@@ -1152,7 +1152,7 @@
    **薬剤師**: …彼の、何が？
 6. **Frank**: [flat] Ignore her. Should I take it with water?
    **フランク**: 彼女のことは気にしないでください。水で飲むべきですか？
-7. **Pharmacist**: Yes. But you mustn't drink alcohol with it.
+7. **Pharmacist**: Yes. But you shouldn't drink alcohol with it.
    **薬剤師**: はい。ただし、一緒にお酒を飲んではいけません。
 8. **Tina**: For how long, though? A week? A year?
    **ティナ**: でもどれくらい？1週間？1年？
@@ -1178,7 +1178,7 @@
    **ティナ**: でももっと必要なの、じゃないと机で寝ちゃう。
 4. **Frank**: [flat] That's exactly the problem.
    **フランク**: それがまさに問題なんだ。
-5. **Tina**: My deadline tomorrow really makes me nervous. Coffee helps!
+5. **Tina**: I'm really nervous about my deadline tomorrow. Coffee helps!
    **ティナ**: 明日の締め切りが本当に不安なの。コーヒーが効くのよ！
 6. **Frank**: Coffee won't write the paper for you, sadly.
    **フランク**: 残念ながら、コーヒーが代わりにレポートを書いてはくれないよ。
@@ -1360,7 +1360,7 @@
 **Narrator**: Tina and Frank have just left a very emotional movie. Almost everyone was crying. Frank insists he wasn't.
 **ナレーター**: ティナとフランクはとても感動的な映画を見終えて出てきた。ほぼ全員が泣いていた。フランクは自分は泣いてないと言い張る。
 
-1. **Tina**: Wow, everyone in the cinema was crying so hard!
+1. **Tina**: Wow, everyone in the movie theater was crying so hard!
    **ティナ**: わあ、映画館のみんながすごく泣いてたわね！
 2. **Frank**: [stiff] I wasn't. I stayed calm.
    **フランク**: 僕は泣いてないよ。冷静だった。
