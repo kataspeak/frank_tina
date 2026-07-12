@@ -300,7 +300,7 @@
    **ティナ**: 見て——これがお寺。先月ね。
 2. **Frank**: The monks were chanting that morning. I remember the bell.
    **フランク**: あの朝、お坊さんたちがお経を唱えてた。鐘の音を覚えてる。
-3. **Tina**: We gave a small donation, and the monk gave us a good-luck card.
+3. **Tina**: We gave a small donation, and the monk gave us a good-luck charm.
    **ティナ**: 私たち少しお布施をして、お坊さんがお守り札をくれたわね。
 4. **Frank**: You tried to give him three flowers in return.
    **フランク**: 君はお返しに花を3本あげようとしてた。
@@ -530,7 +530,7 @@
    **フランク**: 起きすぎだ。人間はこれ向きに作られてない。
 5. **Tina**: [muttering] You'd know.
    **ティナ**: …あなたなら詳しいわよね。
-6. **Frank**: I would. I run fine for days. You don't. What have you eaten?
+6. **Frank**: I would. I can go days without sleep. You don't. What have you eaten?
    **フランク**: そうだよ。僕は何日でも平気だ。君は違う。何を食べた？
 7. **Tina**: Coffee. And chips. And chocolate, every hour.
    **ティナ**: コーヒー。それとポテチ。それとチョコ、1時間ごとに。
@@ -820,7 +820,7 @@
    **フランク**: 君は遠くから来て、僕の友達になってくれた。ケーキくらい小さなことさ。
 8. **Tina**: [quietly] It's not small. Nobody bakes for me.
    **ティナ**: 小さくなんかないわ。私のために焼いてくれる人なんていないもの。
-9. **Frank**: [pause] Then visit again next weekend. I'll have learned a second cake.
+9. **Frank**: [pause] Then visit again next weekend. I'll have learned a second recipe.
    **フランク**: じゃあ来週末もまた来て。二つ目のケーキを覚えておくよ。
 10. **Tina**: [smiling] Deal. [beat] ...Can the next one be pink?
     **ティナ**: 決まりね。…次のはピンクにできる？
