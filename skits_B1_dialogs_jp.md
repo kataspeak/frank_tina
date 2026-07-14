@@ -46,8 +46,8 @@
 
 **場面:** 夜のカフェ。Tina が将来への不安を吐き出している。
 
-**Narrator**: Late evening at their usual café. Tina has been quiet, stirring a cold hot chocolate. Then it spills out.
-**ナレーター**: 夜更けのいつものカフェ。ティナはずっと黙って、冷めたホットチョコをかき混ぜていた。そして、ふいに口を開く。
+**Narrator**: Late evening at their usual café. Tina has been quiet, stirring a cold matcha latte. Then it spills out.
+**ナレーター**: 夜更けのいつものカフェ。ティナはずっと黙って、冷めた抹茶ラテをかき混ぜていた。そして、ふいに口を開く。
 
 1. **Tina**: [sighs] I have no idea what I'm doing with my life, Frank.
    **ティナ**: 自分の人生、何に向かってるのか全然わからないの、フランク。
@@ -877,8 +877,8 @@
    **ティナ**: もし来月、急に仕事を失ったら？
 5. **Planner**: That's what an emergency fund is for. About six months of expenses.
    **プランナー**: そのための緊急資金です。支出のおよそ6か月分ですね。
-6. **Tina**: [thinking] Six months... If I cut back on hot chocolate, I'd save a lot more.
-   **ティナ**: 6か月……ホットチョコレートを控えれば、もっと貯まるわ。
+6. **Tina**: [thinking] Six months... If I cut back on matcha lattes, I'd save a lot more.
+   **ティナ**: 6か月……抹茶ラテを控えれば、もっと貯まるわ。
 7. **Planner**: [smiling] That's where most young clients start.
    **プランナー**: 若いお客様は、たいていそこから始めますよ。
 8. **Tina**: Hmm. Maybe just one less cup a week.
@@ -889,10 +889,10 @@
     **ティナ**: 今日始めたら、いつ頃ゆとりを持って退職できますか？
 11. **Planner**: Around sixty, depending on your choices.
     **プランナー**: 選び方次第ですが、60歳くらいです。
-12. **Tina**: Then I'll start today. With the plan, not the hot chocolate.
-    **ティナ**: では今日から始めます。計画のほうをね、ホットチョコじゃなくて。
-13. **Tina**: [standing, to herself] Okay — maybe one hot chocolate today. To celebrate the plan.
-    **ティナ**: ……いいえ、今日だけホットチョコ1杯付けよう。計画のお祝いにね。
+12. **Tina**: Then I'll start today. With the plan, not the matcha latte.
+    **ティナ**: では今日から始めます。計画のほうをね、抹茶ラテじゃなくて。
+13. **Tina**: [standing, to herself] Okay — maybe one matcha latte today. To celebrate the plan.
+    **ティナ**: ……いいえ、今日だけ抹茶ラテ1杯付けよう。計画のお祝いにね。
 
 ### B1-27 Breakup Counseling
 
@@ -1601,8 +1601,8 @@
    **ティナ**: その笑顔、もうくたくたなんです。……休暇をあげないと。
 9. **Counselor**: What would happen if you told people the true version?
    **カウンセラー**: もし本当のバージョンを人に話したら、何が起きると思いますか？
-10. **Tina**: I've only ever told one person. He didn't flinch. He just... refills my hot chocolate on the bad days.
-    **ティナ**: 一人にだけ、話したことがあります。彼はたじろがなかった。ただ……つらい日には、ホットチョコレートを注ぎ足してくれるんです。
+10. **Tina**: I've only ever told one person. He didn't flinch. He just... refills my matcha latte on the bad days.
+    **ティナ**: 一人にだけ、話したことがあります。彼はたじろがなかった。ただ……つらい日には、抹茶ラテを注ぎ足してくれるんです。
 11. **Counselor**: Then you already know it can be survived. We can work on widening that circle — slowly.
     **カウンセラー**: なら、乗り越えられることはもう知っていますね。その輪を、少しずつ広げていきましょう。
 12. **Tina**: Slowly sounds right. Today the circle is you, him, and this couch.

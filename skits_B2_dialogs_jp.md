@@ -1214,10 +1214,10 @@
    **司会**: お二人それぞれにとって、帰属とは何を意味しますか？
 2. **Frank**: An example: someone at the lab labeled a mug "Frank" and left it by the kettle. No announcement.
    **フランク**: 一つ例を。研究室の誰かが、マグカップに「Frank」と書いて、ポットのそばに置いてくれました。何のお知らせもなく。
-3. **Tina**: The day the café owner made my hot chocolate before I ordered. I stopped being "a customer."
-   **ティナ**: 私は、カフェのオーナーが注文する前にホットチョコレートを作ってくれた日ですね。あの日、「お客さん」を卒業したんです。
-4. **Moderator**: So belonging is... mugs and hot chocolate?
-   **司会**: つまり帰属とは……マグカップとホットチョコレート？
+3. **Tina**: The day the café owner made my matcha latte before I ordered. I stopped being "a customer."
+   **ティナ**: 私は、カフェのオーナーが注文する前に抹茶ラテを作ってくれた日ですね。あの日、「お客さん」を卒業したんです。
+4. **Moderator**: So belonging is... mugs and matcha lattes?
+   **司会**: つまり帰属とは……マグカップと抹茶ラテ？
 5. **Frank**: It's being expected. A place that expects you never asks why you came.
    **フランク**: 「居ることを想定されている」ということです。あなたを想定している場所は、なぜ来たのかと尋ねません。
 6. **Tina**: And you stop performing. My first year, I rehearsed "normal" on the bus. You don't rehearse where you belong.
@@ -1230,8 +1230,8 @@
    **フランク**: 週に一つ、小さな親切を。廊下の鉢植えに水をやるだけでいい。そうやって、建物があなたの名前を覚えるんです。
 10. **Moderator**: Is belonging found, or built?
     **司会**: 帰属は、見つけるものですか、築くものですか？
-11. **Tina**: Built. Mine took years — one hot chocolate at a time.
-    **ティナ**: 築くものです。私のは何年もかかりました——ホットチョコレート1杯ずつ。
+11. **Tina**: Built. Mine took years — one matcha latte at a time.
+    **ティナ**: 築くものです。私のは何年もかかりました——抹茶ラテ1杯ずつ。
 12. **Frank**: And it's portable. I would argue the mug isn't the point — the people who put it there are.
     **フランク**: そして、持ち運べるものです。マグカップが本体ではないと申し上げたい——それを置いてくれた人たちが、本体です。
 13. **Moderator**: Mugs, buses, hallway plants. Best definition this stage has heard. Questions?
@@ -2022,8 +2022,8 @@
 
 **場面:** 静かな晩。ティナの部屋。星図が壁にかかっている。
 
-**Narrator**: A quiet evening. Black coffee, hot chocolate. The star map is on the wall. Tina left the door unlocked; Frank knocks before stepping in.
-**ナレーター**: 静かな晩。ブラックコーヒー、ホットチョコレート。星図が壁にかかっている。ティナはドアの鍵を開けておいた。フランクは入る前にノックする。
+**Narrator**: A quiet evening. Black coffee, matcha latte. The star map is on the wall. Tina left the door unlocked; Frank knocks before stepping in.
+**ナレーター**: 静かな晩。ブラックコーヒー、抹茶ラテ。星図が壁にかかっている。ティナはドアの鍵を開けておいた。フランクは入る前にノックする。
 
 1. **Frank**: You didn't lock the door.
    **フランク**: ドアの鍵、かけてなかったね。

@@ -32,7 +32,7 @@
 | ID | タイトル | 種別 | 配置意図 |
 |---|---|---|---|
 | A1-01 | Beyond the Stars! | 節 | 初対面（シリーズ開幕） |
-| A1-02 | What's That? | キ | 署名確立（黒コーヒー/ホットチョコ） |
+| A1-02 | What's That? | キ | 署名確立（黒コーヒー/抹茶ラテ） |
 | A1-03 | I'm Soooo Hungry | キ | 早めに掛け合いの温度を出す |
 | A1-04 | The Mountain Village | キ | Frank出自①（山の村） |
 | A1-05 | Family Photo | 節 | Frank出自②（博士＝父） |

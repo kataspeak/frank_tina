@@ -49,14 +49,18 @@
    **ティナ**: 緑！私の惑星では、緑は「飲むな」って意味なの。
 4. **Frank**: [deadpan] Here it means tea.
    **フランク**: ここでは、お茶という意味だよ。
-5. **Tina**: [relieved] Oh. Okay. Then... hot chocolate, please!
-   **ティナ**: あら。よかった。じゃあ…ホットチョコレートをお願い！
-6. **Frank**: And black coffee for me. It is my favorite.
+5. **Tina**: [brave] Hmm... Okay. I'll be brave. One matcha latte, please!
+   **ティナ**: うーん…よし。勇気を出すわ。抹茶ラテを一つ、お願い！
+6. **Frank**: And a black coffee for me. It is my favorite.
    **フランク**: 僕はブラックコーヒー。お気に入りなんだ。
-7. **Tina**: Black? No sugar? No color? [playful] That's so you.
-   **ティナ**: ブラック？砂糖なし？色もなし？いかにもあなたね。
-8. **Frank**: [deadpan] Black coffee is not dangerous on any planet.
-   **フランク**: ブラックコーヒーは、どの星でも危なくないよ。
+7. **Tina**: [tries it, gasps] Oh! It's sweet and warm! I love it!
+   **ティナ**: あら！甘くて温かい！大好き！
+8. **Frank**: [deadpan] A minute ago, it was "do not drink."
+   **フランク**: さっきまで「飲むな」だったのにね。
+9. **Tina**: [grinning] Not anymore! This is my favorite drink on Earth now!
+   **ティナ**: もう違うわ！これが今、地球で一番のお気に入りよ！
+10. **Frank**: [deadpan] Black coffee is not dangerous on any planet.
+    **フランク**: ブラックコーヒーは、どの星でも危なくないよ。
 
 ### A1-03 I'm Soooo Hungry
 
@@ -878,8 +882,8 @@
    **ティナ**: いつもと同じ？
 6. **Frank**: Black coffee. As always.
    **フランク**: ブラックコーヒー。いつも通り。
-7. **Tina**: Hot chocolate for me, of course.
-   **ティナ**: 私はもちろんホットチョコレート。
+7. **Tina**: A matcha latte for me, of course.
+   **ティナ**: 私はもちろん抹茶ラテ。
 8. **Frank**: You never change, Tina.
    **フランク**: 君は変わらないなあ、ティナ。
 9. **Tina**: [warmly] Neither do you. Black coffee since the day we met.
@@ -908,8 +912,8 @@
    **ティナ**: ええ。どうしたの？
 6. **Frank**: Do you want to study together? At the cafe?
    **フランク**: 一緒に勉強しない？カフェで？
-7. **Tina**: [knowing] Our table. Black coffee, hot chocolate.
-   **ティナ**: いつものテーブル。ブラックコーヒーとホットチョコ。
+7. **Tina**: [knowing] Our table. Black coffee, matcha latte.
+   **ティナ**: いつものテーブル。ブラックコーヒーと抹茶ラテ。
 8. **Frank**: [small pause] ...You already knew I would call.
    **フランク**: …僕が電話するって、もう分かってたんだね。
 9. **Tina**: [playful] I'm from another planet, Frank. We know things.

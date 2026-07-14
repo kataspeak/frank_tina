@@ -326,8 +326,8 @@
 
 1. **Trainer**: For your first day, we'll start with three pounds.
    **トレーナー**: 初日は3ポンドから始めましょう。
-2. **Tina**: Three pounds? [picks it up] That's really light. My hot chocolate mug is heavier than this.
-   **ティナ**: 3ポンド？ずいぶん軽いわね。私のホットチョコのマグカップのほうが重いわよ。
+2. **Tina**: Three pounds? [picks it up] That's really light. My matcha latte mug is heavier than this.
+   **ティナ**: 3ポンド？ずいぶん軽いわね。私の抹茶ラテのマグカップのほうが重いわよ。
 3. **Trainer**: [smiling] At first, form is more important than weight. We'll do three sets.
    **トレーナー**: 最初は、重さよりフォームのほうが大事ですよ。3セットやりましょう。
 4. **Tina**: Okay. Will I get sore tomorrow?
@@ -806,12 +806,12 @@
 
 1. **Frank**: Welcome. Try this tea — a friend sent it from Japan.
    **フランク**: ようこそ。このお茶を飲んでみて。友達が日本から送ってくれたんだ。
-2. **Tina**: [inhaling] Oh wow, it smells amazing! What is it?
-   **ティナ**: わあ、すごくいい香り！何なの？
-3. **Frank**: Matcha. Grown in the hills near Kyoto.
-   **フランク**: 抹茶だよ。京都の近くの丘で育ったんだ。
-4. **Tina**: It's so green. And you made the cake too?
-   **ティナ**: すごく緑ね。ケーキもあなたが作ったの？
+2. **Tina**: [inhaling] Oh wow — it smells like my favorite latte! But... different.
+   **ティナ**: わあ——私の大好きなラテの香り！でも…何か違う。
+3. **Frank**: Matcha. Grown in the hills near Kyoto. Yours has milk and sugar. This is just the tea.
+   **フランク**: 抹茶だよ。京都の近くの丘で育ったんだ。君のはミルクと砂糖入り。これはお茶だけ。
+4. **Tina**: So this is the real thing! It's so green. And you made the cake too?
+   **ティナ**: じゃあこれが本物なのね！すごく緑。ケーキもあなたが作ったの？
 5. **Frank**: [a little shy] I did. I practiced twice so today would go well.
    **フランク**: 作ったよ。今日うまくいくように、二回練習したんだ。
 6. **Tina**: [touched] You practiced... for me?
