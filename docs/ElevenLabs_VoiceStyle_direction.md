@@ -18,32 +18,23 @@
 
 Eleven v3は感情・話速・ささやき・笑いなどを指示でき、角括弧のAudio Tagsも使用できる。ただし生成結果には多少ばらつきがあるため、**短く具体的な演技指定**を基本にするのが扱いやすい。
 
-**4層で考えると設計しやすい**
+**音声に直接反映できる3層で考える**
 
 1. 感情・トーン
 2. 話し方・テンポ・音量
 3. 非言語音（間・自然さ）
-4. 場面・関係性・ペルソナ
+
+場面・関係性・ペルソナは、Eleven v3へ直接渡す音声指示ではなく、各セリフの演技を決めるための制作上の背景情報として扱う。背景情報はそのまま入力せず、必要に応じて感情、話し方、テンポ、音量、非言語音など、実際に音として表現できる指示へ変換する。
 
 参考: [ElevenLabs Best Practices](https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices) / [Voice Design](https://elevenlabs.io/docs/eleven-creative/voices/voice-design)
 
 ---
 
-## 1. 記述方式（3パターン）
+## 1. 記述方式（2パターン）
 
-### パターンA：冒頭にシチュエーションを記述する
+Eleven v3への演技指定は、反映させたいセリフまたはセリフ内の箇所に直接付ける。会話冒頭に場面設定や登場人物の関係性をまとめて記述し、後続のセリフ全体へ反映させる方式は使用しない。
 
-会話全体の背景をテキスト先頭に置く。安定しやすい。
-
-```text
-[Setting: A busy coffee shop. Speaker A is a friendly barista, speaking warmly and fast.
-Speaker B is a tired, indecisive customer, speaking softly.]
-
-A: Hi there! What can I get started for you today?
-B: Um... I'm not sure. I really need something with a lot of caffeine.
-```
-
-### パターンB：セリフごとに `[ ]` でインライン指定する
+### パターンA：セリフごとに `[ ]` でインライン指定する
 
 ```text
 A: [Excited, laughing] Guess what? I just won two tickets to the concert!
@@ -52,7 +43,7 @@ B: [Gasping, shocked] Wait, are you serious? No way!
 
 タグは**演技を発生させたい発話の直前**に置く。長い台詞の先頭に一つだけ置くと影響範囲が曖昧になるため、必要な箇所の直前に置くほうが管理しやすい。
 
-### パターンC：定型フォーマット（推奨）
+### パターンB：定型フォーマット（推奨）
 
 演技指定欄を統一するなら次の形。
 
@@ -185,7 +176,7 @@ Frank explains it seriously, completely unaware that Tina is making fun of him.
 | 自信満々に間違える | `Confidently, completely unaware that they are wrong.` |
 | 苦笑いする | `With an awkward, strained smile in the voice.` |
 | 愛想笑いする | `With a polite but clearly forced laugh.` |
-| 呆れている | `Dryly amused and slightly exasperated.` |
+| 呆れている | Dryly amused and slightly **exasperated**. |
 | つっこむ | `Quickly and incredulously, pointing out the obvious problem.` |
 | いたずらっぽく | `Mischievously, enjoying the other person's confusion.` |
 | 勝ち誇って | `Triumphantly, pleased to have proven their point.` |
@@ -501,6 +492,4 @@ Speak nervously and hesitantly, with a quiet voice, as if unsure of yourself.
 8. **教材用途なら誇張を抑える** — 学習者が聞き取れる範囲に留める。感情タグ + `[speaking clearly]` の組み合わせが安全。
 9. **試行錯誤する** — 同じテキストで異なる指示を試し、最適なものを見つける。生成にはばらつきがある。
 10. **固定候補＋自由記述1文** — 表現のばらつきを防ぎ、キャラクター性を維持できる。
-
-
 

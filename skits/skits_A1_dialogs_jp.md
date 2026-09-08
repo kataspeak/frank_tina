@@ -199,14 +199,14 @@
    **ティナ**: 毎日？きっと疲れるでしょう！
 3. **Frank**: It is good for my health.
    **フランク**: 健康にいいんだよ。
-4. **Tina**: I ride my bike. It's fast! And it's pink!
-   **ティナ**: 私は自転車で行くの。速いのよ！それにピンク！
-5. **Frank**: Of course it is pink.
-   **フランク**: もちろんピンクだよね。
-6. **Tina**: [excited] Hop on the back! I'll give you a ride!
-   **ティナ**: 後ろに乗って！乗せてあげる！
-7. **Frank**: [nervous] On a pink bike? People will look.
-   **フランク**: ピンクの自転車に？みんなが見るよ。
+4. **Tina**: I ride my bike. It's fast!
+   **ティナ**: 私は自転車で行くの。速いのよ！
+5. **Frank**: Let me guess. It's pink, right?
+   **フランク**: 当ててみようか。ピンクだよね？
+6. **Tina**: [proudly] Of course! Bright pink! Hop on the back. I'll give you a ride!
+   **ティナ**: もちろん！鮮やかなピンクよ！後ろに乗って。乗せてあげる！
+7. **Frank**: [nervous] On a bright pink bike? People will look.
+   **フランク**: 鮮やかなピンクの自転車に？みんなが見るよ。
 8. **Tina**: [playful] They already look. You have stitches!
    **ティナ**: もうみんな見てるわよ。あなた、縫い目があるもの！
 9. **Frank**: [pause] ...That is fair. Let's go.
@@ -289,7 +289,7 @@
    **フランク**: お願いだから、先生の花を食べないで。
 9. **Tina**: [playful] Okay, okay! ...Just one?
    **ティナ**: わかった、わかった！…1本だけ？
-10. **Frank**: No, Tina. No.
+10. **Frank**: No, Tina.  Nooo...
     **フランク**: だめだ、ティナ。だめ。
 
 ### A1-12 OMG, New Phone!
@@ -404,25 +404,26 @@
 
 **Narrator**: Frank and Tina are at the library. Frank needs a book for class.
 **ナレーター**: フランクとティナは図書館にいる。フランクは授業のために本が必要だ。
-
 1. **Frank**: I am looking for a science book. Can you help me?
    **フランク**: 科学の本を探しているんだ。手伝ってくれる？
 2. **Tina**: Of course! Let's ask the librarian.
    **ティナ**: もちろん！司書さんに聞きましょう。
-3. **Librarian**: [whispers] Science books are over there, on the right.
+3. **Frank**: Excuse me. Where are the science books?
+   **フランク**: すみません。科学の本はどこにありますか？
+4. **Librarian**: [whispers] Science books are over there, on the right.
    **司書**: 科学の本はあちらの右側ですよ。
-4. **Frank**: Thank you.
+5. **Frank**: Thank you.
    **フランク**: ありがとうございます。
-5. **Tina**: [loud] Great! Now let's find some manga!
+6. **Tina**: [loud] Great! Now let's find some manga!
    **ティナ**: やった！次は漫画を探しましょう！
-6. **Librarian**: [whispers] Shh. Please be quiet.
+7. **Librarian**: [whispers] Shh. Please be quiet.
    **司書**: しーっ。静かにお願いします。
-7. **Tina**: [whispering, too loud] Sorry! [whispers] Where is the manga?
+8. **Tina**: [whispering, too loud] Sorry! [whispers] Where is the manga?
    **ティナ**: ごめんなさい！漫画はどこ？
-8. **Librarian**: [whispers] Second floor.
+9. **Librarian**: [whispers] Second floor.
    **司書**: 2階です。
-9. **Frank**: [deadpan whisper] Tina, your whisper is louder than your normal voice.
-   **フランク**: ティナ、君のささやき声は、普段の声より大きいよ。
+10. **Frank**: [deadpan whisper] Tina, your whisper is louder than your normal voice.
+    **フランク**: ティナ、君のささやき声は、普段の声より大きいよ。
 
 ### A1-17 At the Supermarket
 
@@ -583,7 +584,7 @@
    **フランク**: …動いている。
 6. **Tina**: [laughs] Frank, that's not dancing. That's standing.
    **ティナ**: フランク、それダンスじゃないわ。突っ立ってるだけよ。
-7. **Frank**: A doctor built me to walk. Not to dance.
+7. **Frank**: The doctor built me to walk. Not to dance.
    **フランク**: 博士は僕を歩くために作った。踊るためじゃない。
 8. **Tina**: Then today, we're adding a new feature!
    **ティナ**: じゃあ今日、新しい機能を追加しましょう！
@@ -652,7 +653,7 @@
 
 1. **Tina**: [excited] Come to my birthday party!
    **ティナ**: 私の誕生日パーティーに来て！
-2. **Frank**: Thank you. I will come.
+2. **Frank**: Thank you. I'd love to come.
    **フランク**: ありがとう。行くよ。
 3. **Tina**: It's on Saturday at six.
    **ティナ**: 土曜日の6時よ。
@@ -682,7 +683,7 @@
    **ティナ**: でしょ！暖かいコートを着ててよかったわ。
 3. **Frank**: My coat is at home.
    **フランク**: 僕のコートは家にあるんだ。
-4. **Tina**: Then wear mine. Here.
+4. **Tina**: Oh! You can wear mine. Here.
    **ティナ**: じゃあ私のを着て。はい。
 5. **Frank**: It is pink.
    **フランク**: ピンクだよ。
@@ -776,8 +777,8 @@
    **フランク**: ピンクの自転車も持ってます。ピンクのコートも。
 7. **Tina**: [playful] Frank! Don't tell my secrets!
    **ティナ**: フランク！私の秘密をばらさないで！
-8. **Frank**: [deadpan] It is not a secret. It is everything you own.
-   **フランク**: 秘密じゃない。君の持ち物全部だ。
+8. **Frank**: [deadpan] It is not a secret. Everything you own is pink.
+   **フランク**: 秘密じゃない。君の持ち物は全部ピンクだ。
 9. **Tina**: [laughs] Make it extra pink, please!
    **ティナ**: うんとピンクにしてください！
 
@@ -822,7 +823,7 @@
    **ティナ**: もう一度言っていただけますか？
 4. **Stranger**: Go straight. Then right. About five minutes.
    **見知らぬ人**: まっすぐ。それから右。5分ほどです。
-5. **Tina**: Thank you so much!
+5. **Tina**: Oh, thank you so much!
    **ティナ**: 本当にありがとうございます！
 6. **Frank**: Tina, do you remember the way?
    **フランク**: ティナ、道は覚えてる？
