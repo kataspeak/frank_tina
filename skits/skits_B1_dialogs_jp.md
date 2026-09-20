@@ -7,42 +7,7 @@
 
 ---
 
-### B1-01 Crisis at Work
-
-**場面:** 深夜のオフィス。締め切りに追われる Frank と同僚。
-
-**Narrator**: It's late at night in the office. Frank and his coworker, Priya, are racing a deadline for an important client. The pizza arrived an hour ago.
-**ナレーター**: 深夜のオフィス。フランクと同僚のプリヤは、重要な顧客のための締め切りに追われている。ピザは1時間前に届いた。
-
-1. **Priya**: Okay, status. The data section?
-   **プリヤ**: さて、状況確認。データの節は？
-2. **Frank**: Done. Checked twice. The charts are printing— The charts were printing.
-   **フランク**: 完了。2回確認済み。グラフは今印刷して——グラフは、印刷していました。
-   `[SFX: printer error beep]`
-3. **Priya**: Not tonight, printer. Ben's part?
-   **プリヤ**: お願いだから今夜はやめてよ、プリンター。ベンの分は？
-4. **Frank**: Finished before he left. I'll fix the printer — it fears me. Sarah's summary needs twenty minutes.
-   **フランク**: 帰る前に終わらせてた。プリンターは僕が直すよ——あれは僕を恐れてるから。サラの要約はあと20分。
-5. **Priya**: And the cover letter?
-   **プリヤ**: で、送り状は？
-6. **Frank**: Here. I kept it to one page. Clients stop reading after one page.
-   **フランク**: ここに。1ページに収めたよ。顧客は1ページを超えると読むのをやめるからね。
-7. **Priya**: True. Last slice of pizza is yours. You've earned it.
-   **プリヤ**: 確かに。最後のピザはあなたのよ。それだけ働いたんだから。
-8. **Frank**: Split it. I need to text Tina first — I said I'd be home by ten.
-   **フランク**: 半分こにしよう。先にティナにメッセージを送らないと——10時には帰るって言ったんだ。
-9. **Priya**: It's almost one. What are you telling her?
-   **プリヤ**: もうすぐ1時よ。何て送るの？
-10. **Frank**: "Still alive. Report nearly done. Pizza acquired. Home by two."
-    **フランク**: 「まだ生きてる。報告書ほぼ完成。ピザ確保。2時までに帰宅」。
-11. **Priya**: You text like you write reports.
-    **プリヤ**: あなた、メッセージまで報告書みたいに書くのね。
-12. **Frank**: Reports are never misunderstood.
-    **フランク**: 報告書は、誤解されたことがない。
-13. **Priya**: Fair. Send it, grab your half, and let's get this thing out the door.
-    **プリヤ**: ごもっとも。送信して、半分取って、これを送り出しちゃいましょ。
-
-### B1-02 Quarter-Life Crisis
+### B1-01 Quarter-Life Crisis
 
 **場面:** 夜のカフェ。Tina が将来への不安を吐き出している。
 
@@ -60,7 +25,7 @@
 5. **Tina**: But what if I pick the totally wrong one?
    **ティナ**: でも、完全に間違ったのを選んじゃったら？
 6. **Frank**: Nothing you choose now is carved in stone. You can change your mind.
-   **フランク**: 今選ぶことが一生固定されるわけじゃない。いつでも考え直せる。
+   **フランク**: 今決めたことを、一生変えちゃいけないわけじゃない。いつでも考え直せるよ。
 7. **Tina**: My friends all seem to know exactly where they're headed.
    **ティナ**: 友達はみんな、自分の行き先がはっきりわかってるみたい。
 8. **Frank**: Nah, they're faking it. You're only seeing the highlight reel.
@@ -74,7 +39,45 @@
 12. **Frank**: If we're both lost, we should at least be lost together.
     **フランク**: 二人とも迷ってるなら、せめて一緒に迷おう。
 13. **Tina**: Deal. I'll figure out my life. You figure out being a person.
-    **ティナ**: 決まりね。私は人生を見つける。あなたは人間になることを見つけて。
+    **ティナ**: 決まりね。私はこれからどう生きるか考える。あなたは人間としてどう生きるか考えてね。
+
+> **注釈 — “Nothing you choose now is carved in stone.”**: `be carved in stone` は、文字どおりには「石に刻まれている」で、「確定していて変更できない」という意味のイディオムです。ここでは `Nothing` で否定し、「今決めることは、どれも後から変えられる」と伝えています。選択を間違えるのが怖いティナに、フランクが「今の選択で一生が決まるわけではない」と安心させる表現です。自然な意訳は「今決めたことを、一生変えちゃいけないわけじゃない」です。`be set in stone` も同じ意味で使われます。
+
+### B1-02 Crisis at Work
+
+**場面:** 深夜のオフィス。締め切りに追われる Frank と同僚。
+
+**Narrator**: It's late at night in the office. Frank and his coworker, Priya, are racing to meet a deadline for an important client. The pizza arrived an hour ago.
+**ナレーター**: 深夜のオフィス。フランクと同僚のプリヤは、重要な顧客のための締め切りに追われている。ピザは1時間前に届いた。
+
+1. **Priya**: Okay, status. The data section?
+   **プリヤ**: さて、状況確認。データセクションは？
+2. **Frank**: The data section is done. I've checked it twice. The printer stopped halfway through the charts, but I'll fix it—it fears me.
+   **フランク**: データセクションは完成したよ。2回確認済み。グラフを印刷している途中でプリンターが止まったけど、僕が直すよ——あれは僕を恐れているから。
+3. **Priya**: Good luck with that. Ben's part?
+   **プリヤ**: じゃあ、頑張ってね。ベンの分は？
+4. **Frank**: He finished it before he left. Sarah needs another twenty minutes for her summary.
+   **フランク**: 帰る前に終わらせたよ。サラは要約を仕上げるのに、あと20分かかる。
+5. **Priya**: And the cover letter?
+   **プリヤ**: で、送り状は？
+6. **Frank**: Here. I kept it to one page. Clients stop reading after one page.
+   **フランク**: ここに。1ページに収めたよ。顧客は1ページを超えると読むのをやめるからね。
+7. **Priya**: True. Last slice of pizza is yours. You've earned it.
+   **プリヤ**: 確かに。最後のピザはあなたのよ。それだけ働いたんだから。
+8. **Frank**: Let's split it. I need to text Tina first — I said I'd be home by ten.
+   **フランク**: 半分こにしよう。先にティナにメッセージを送らないと——10時には帰るって言ったんだ。
+9. **Priya**: It's almost one. What are you telling her?
+   **プリヤ**: もうすぐ1時よ。何て送るの？
+10. **Frank**: "Still alive. Report nearly done. Pizza acquired. Home by two."
+    **フランク**: 「まだ生きてる。報告書ほぼ完成。ピザ確保。2時までに帰宅」。
+11. **Priya**: You text like you write reports.
+    **プリヤ**: あなた、メッセージまで報告書みたいに書くのね。
+12. **Frank**: Reports are never misunderstood.
+    **フランク**: 報告書なら、誤解されることはないからね。
+13. **Priya**: Fair. Send it, grab your half, and let's get this thing out the door.
+    **プリヤ**: ごもっとも。ティナに送って、ピザを半分食べて、この報告書を仕上げて送っちゃいましょ。
+
+> **注釈 — “let's get this thing out the door.”**: ここでは、文字どおり何かを「ドアの外に出す」という意味ではありません。`get ～ out the door` は、仕事で「～を完成させて送り出す・納品する」という意味で使う口語表現です。`this thing` は、二人が作業している報告書を指すくだけた言い方です。締め切りに追われるプリヤが「さあ、仕上げて送ってしまおう」と呼びかけています。自然な意訳は「この報告書を仕上げて送っちゃいましょ」です。
 
 ### B1-03 After the Lecture
 
@@ -96,15 +99,15 @@
 6. **Tina**: Frank. You mean the doctor.
    **ティナ**: フランク。博士のことね。
 7. **Frank**: If he'd made me differently, would I want different things? A different drink. A different life.
-   **フランク**: もし彼が僕を違うふうに作っていたら、僕は違うものを望んだんだろうか。違う飲み物。違う人生。
+   **フランク**: もし彼が僕を違うふうに作っていたら、僕は今、違うものを望んでいるんだろうか。違う飲み物。違う人生。
 8. **Tina**: What you want feels real to me. Your curiosity. The way you check on people. That's yours.
    **ティナ**: あなたのその想いは、私には本物に感じる。あなたの好奇心も、人を気にかけるところも。それはあなたのものよ。
 9. **Frank**: I almost raised my hand to ask the professor. I couldn't find the words.
    **フランク**: 教授に聞こうと手を挙げかけたんだ。でも、言葉が見つからなかった。
 10. **Tina**: Tell me what you would have said. I'm listening.
     **ティナ**: 何て言おうとしたのか、私に話して。聞いてるから。
-11. **Frank**: That what someone makes, and what it becomes — they aren't the same thing.
-    **フランク**: 誰かが作ったものと、それが何になっていくかは、同じじゃない、ということさ。
+11. **Frank**: That someone can make you — but they don't get to decide who you become.
+    **フランク**: 誰かが君を作ることはできる。でも、君がどんな人間になるかまでは決められない、ってことさ。
 12. **Tina**: Right. And you're the proof.
     **ティナ**: そうよ。あなたがその証拠だわ。
 13. **Frank**: I'm not sure yet. But saying it out loud, here, with you — that helps.
@@ -139,8 +142,8 @@
     **フランク**: それは考えものだよ。僕なんて、誰も止めてくれなかったせいで、辞書を丸ごと読んだことがある。
 11. **Tina**: If only the test were next month instead.
     **ティナ**: 試験が来月だったらよかったのに。
-12. **Frank**: It's not. But it's tonight, and I'm here. So — where do we start?
-    **フランク**: 来月じゃない。でも試験は今夜で、僕はここにいる。どこから始める？
+12. **Frank**: It's tomorrow. But I'm here to help tonight. So — where do we start?
+    **フランク**: 試験は明日だよ。でも今夜は僕が手伝う。さあ、どこから始める？
 13. **Tina**: ...Chapter one. And don't let me reach for my phone.
     **ティナ**: ……第一章から。あと、私がスマホに手を伸ばしたら止めて。
 
@@ -158,9 +161,9 @@
 2. **Frank**: Tuesday, 9:14 p.m. Right after last week's system update. I wrote it down.
    **フランク**: 火曜の午後9時14分。先週のシステム更新の直後です。書き留めてあります。
 3. **Support**: You... wrote it down?
-   **サポート**: ……書き留めて、ある？
+   **サポート**: ……書き留めて、あるんですか？
 4. **Frank**: I keep a log of problems. I'd been editing for six hours when this one appeared.
-   **フランク**: 問題の記録をつけているんです。これが現れたとき、僕は6時間ぶっ通しで編集していました。
+   **フランク**: 問題の記録をつけているんです。この問題が起きたときには、僕は6時間ぶっ通しで編集していました。
 5. **Support**: Most people just say "yesterday, maybe." Was auto-save on?
    **サポート**: たいていの方は「昨日、たぶん」としか言わないんですよ。自動保存はオンでしたか？
 6. **Frank**: It said it was. What if it failed silently?
@@ -172,7 +175,7 @@
 9. **Support**: It happens. Install it, send me your error logs, and I can rebuild the file from the last good save.
    **サポート**: よくあることです。それを入れて、エラーログを送ってください。最後の正常な保存からファイルを復元できますから。
 10. **Frank**: Installing now. Logs are already in your inbox. Both of them.
-    **フランク**: 今入れています。ログはもう受信箱に。2種類とも。
+    **フランク**: 今入れています。ログはもう受信箱に。2つとも。
 11. **Support**: You attached them before I asked?
     **サポート**: 頼む前に、添付を？
 12. **Frank**: You would have asked. Everyone asks.
@@ -189,9 +192,9 @@
 
 1. **Tina**: I'm twenty-three, Frank, and I still can't cook a single thing.
    **ティナ**: もう23歳なのよ、フランク。それなのに何ひとつ料理できないの。
-2. **Frank**: If you lived alone, you'd learn fast enough.
-   **フランク**: 一人暮らしをすれば、すぐに覚えるよ。
-3. **Tina**: I'd starve before I learned, even trying my hardest.
+2. **Frank**: If you had to cook for yourself, you'd learn fast enough.
+   **フランク**: 自分で作るしかなかったら、すぐに覚えるよ。
+3. **Tina**: I'd starve before I learned, even if I tried my hardest.
    **ティナ**: 一生懸命やっても、覚える前に飢え死にするわ。
 4. **Tina**: I burned rice yesterday. Rice has, like, one rule.
    **ティナ**: 昨日なんて、ご飯を焦がしたのよ。ご飯なんてルールが一つしかないのに。
@@ -202,7 +205,7 @@
 7. **Frank**: Boring or not, that's how beginners survive — 'cause the recipe is the rules.
    **フランク**: 退屈でも何でも、初心者はそうやって生き延びるんだ。レシピがルールなんだよ。
 8. **Tina**: I just wish adulting came with a manual.
-   **ティナ**: 大人になることに説明書がついていればなあ。
+   **ティナ**: 大人の生活にも説明書があればいいのに。
 9. **Frank**: It does. It's called the back of the rice bag.
    **フランク**: あるよ。米袋の裏に書いてある。
 10. **Tina**: Okay, fair.
@@ -229,10 +232,10 @@
    **ティナ**: ええ、もちろんです。ただ、おおよその期間が知りたくて。
 4. **Officer**: Cases are reviewed one at a time, usually in the order they arrive.
    **職員**: 申請は通常、届いた順に1件ずつ審査されます。
-5. **Tina**: So two that arrive together don't get processed together?
-   **ティナ**: では、一緒に届いた2件が一緒に処理されるわけじゃないんですね？
-6. **Officer**: No. Each one is reviewed on its own.
-   **職員**: ええ。それぞれ個別に審査されます。
+5. **Tina**: So I should hear back about two weeks after she does?
+   **ティナ**: じゃあ、友達に連絡が来たら、その2週間後くらいに私にも来るってこと？
+6. **Officer**: Not necessarily. Each application can take a different amount of time.
+   **職員**: 必ずしもそうではありません。申請ごとにかかる時間は違いますから。
 7. **Tina**: How long do applicants usually wait?
    **ティナ**: 申請者は普通どれくらい待つんですか？
 8. **Officer**: About six weeks. Though the system's gotten faster lately.
@@ -248,6 +251,8 @@
 13. **Tina**: Complete. First time anyone's said that about me and a form.
     **ティナ**: そろってる。書類のことで、誰かにそう言われたのは初めてだわ。
 
+> **注釈 — “promise the stars”**: 直訳は「星をあげると約束する」。実際には「実現できそうにない大きな約束をする」という意味の慣用表現です。`promise the moon` も同じ意味で使われます。ここでは職員が弁護士の大げさな約束を皮肉っていますが、宇宙人のティナは「星はそんなに遠くない」と返し、比喩を文字どおりに受け取る冗談にしています。
+
 ### B1-08 Group Project Hell
 
 **場面:** いつものカフェ。Frank がグループ課題の惨事を語っている。
@@ -261,12 +266,12 @@
    **ティナ**: あの「頼れる人」？眼鏡で、色分けフォルダの？
 3. **Frank**: That's him. Nobody heard a word. And he had the slides.
    **フランク**: その彼だ。誰も一言も聞いてない。しかも、スライド担当だった。
-4. **Tina**: No way. So what did you walk in with?
-   **ティナ**: うそでしょ。それで、何を持って会場に入ったの？
-5. **Frank**: Nothing. We rebuilt twenty slides in four hours, passing one laptop around.
-   **フランク**: 何も。4時間で20枚を作り直したんだ。1台のノートパソコンを回しながら。
-6. **Tina**: That's a heist movie. Did you try calling him at least?
-   **ティナ**: それ、強盗映画じゃない。せめて電話はしてみた？
+4. **Tina**: No way. So what did you do?
+   **ティナ**: うそでしょ。それで、どうしたの？
+5. **Frank**: We rebuilt twenty slides in four hours, passing one laptop around.
+   **フランク**: 4時間で20枚を作り直したんだ。1台のノートパソコンを回しながら。
+6. **Tina**: One laptop for the whole group? Did you try calling him?
+   **ティナ**: グループ全員でパソコン1台？ その人に電話はしてみたの？
 7. **Frank**: Five times. Straight to voicemail.
    **フランク**: 5回。全部、留守電に直行。
 8. **Tina**: And the presentation itself?
