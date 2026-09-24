@@ -1,0 +1,3002 @@
+{
+  "A1-01": {
+    "slug": "a1-01-beyond-the-stars",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "c3d971d165408c72d8c102299c4d82ff2dac3221fe0357b3a9570e79a906186a",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "where exactly are you from?",
+        "explanation": "「一体どこから来たの？」。exactlyで、知りたい点を少し強めて尋ねています。"
+      },
+      {
+        "line": 4,
+        "phrase": "So cool!",
+        "explanation": "「すごくかっこいい！」。短い感想だけでも、相手への驚きや好意が伝わります。"
+      },
+      {
+        "line": 7,
+        "phrase": "I'm Tina.",
+        "explanation": "「私はティナ」。I'mに名前を続ける、初対面の自己紹介です。"
+      }
+    ],
+    "note": "フランクの縫い目を、ティナは怖がらずに「かっこいい」と言います。相手の当たり前を軽やかにひっくり返す、二人らしい出会いです。",
+    "heading": "初対面で出身地を聞く",
+    "editorialApproval": "pending"
+  },
+  "A1-02": {
+    "slug": "a1-02-what-s-that",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "8c6b7ff26a5842890bc23ba939b6ede79267a90dce14bc099ccff3b590b98c78",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "what's that green drink?",
+        "explanation": "「あの緑の飲み物は何？」。what's thatに説明を加えて、気になる物を指して尋ねます。"
+      },
+      {
+        "line": 5,
+        "phrase": "One matcha latte, please!",
+        "explanation": "「抹茶ラテを一つお願いします」。数と品名にpleaseを添える注文の形です。"
+      },
+      {
+        "line": 6,
+        "phrase": "It is my favorite.",
+        "explanation": "「お気に入りなんだ」。favoriteで、特に好きな物を伝えられます。"
+      }
+    ],
+    "note": "故郷では危険の色だった緑が、地球ではお気に入りの飲み物に。ティナの大きな反応と、フランクの静かな返しを楽しむ回です。",
+    "heading": "カフェで飲み物を尋ねる",
+    "editorialApproval": "pending"
+  },
+  "A1-03": {
+    "slug": "a1-03-i-m-soooo-hungry",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "ba68d77e252e0c097e90ef2a3628d6c49b1f6da862f03124e6f696eb8d325230",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I need food now!",
+        "explanation": "「今すぐ食べ物が必要！」。needとnowで、切実な希望をはっきり伝えています。"
+      },
+      {
+        "line": 2,
+        "phrase": "get in line",
+        "explanation": "「列に並ぶ」。混雑した食堂や店で使うまとまりです。"
+      },
+      {
+        "line": 6,
+        "phrase": "Let's order first.",
+        "explanation": "「まず注文しよう」。Let'sで誘い、firstで順番を示します。"
+      }
+    ],
+    "note": "「弱っている」はずのティナが、食べ物の匂いだけで急に元気に。空腹の大騒ぎが、注文するときの短い英語につながります。",
+    "heading": "学食で注文する",
+    "editorialApproval": "pending"
+  },
+  "A1-04": {
+    "slug": "a1-04-the-mountain-village",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "3d70b499d266e8dce1cddf0ade9b3b9c2f16b260ab6da50fa801cc291bff0a9a",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "where is your village?",
+        "explanation": "「あなたの村はどこ？」。where isで場所を尋ねています。"
+      },
+      {
+        "line": 2,
+        "phrase": "Far from here.",
+        "explanation": "「ここから遠い」。far fromに基準となる場所を続けます。"
+      },
+      {
+        "line": 4,
+        "phrase": "A few people.",
+        "explanation": "「少しの人たち」。a fewは、数えられるものが少しあるときの表現です。"
+      }
+    ],
+    "note": "雪の音が聞こえるほど静かな村と、明るくにぎやかな惑星。二人の好きな場所の違いから、それぞれの故郷が見えてきます。",
+    "heading": "故郷がどんな場所か話す",
+    "editorialApproval": "pending"
+  },
+  "A1-05": {
+    "slug": "a1-05-family-photo",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "b9210e97a877ce2762ac1e15c8f72041c3144dfbfc8b8ecbe830db6f97dfe4ca",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "This is my mom.",
+        "explanation": "「これは私のお母さん」。写真の人を紹介するときの基本の形です。"
+      },
+      {
+        "line": 4,
+        "phrase": "It is okay.",
+        "explanation": "「大丈夫だよ」。謝られたとき、相手を安心させる返事にも使います。"
+      },
+      {
+        "line": 6,
+        "phrase": "Like a father.",
+        "explanation": "「父親みたいに」。likeの後ろに名詞を置き、似ていることを伝えます。"
+      }
+    ],
+    "note": "ティナの「じゃあ、お父さん？」という問いに、フランクは博士との関係を見つめ直します。家族写真が、二人の背景を知るきっかけになります。",
+    "heading": "家族の写真を紹介する",
+    "editorialApproval": "pending"
+  },
+  "A1-06": {
+    "slug": "a1-06-i-hate-mondays",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "61fb4f63d9f10c0f6c4ae5b660c82a30f75e31cf1e1837ff2191871b8c71e0fa",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I hate Mondays!",
+        "explanation": "「月曜日は大嫌い！」。曜日を複数形にして、毎週のその日への気持ちを表します。"
+      },
+      {
+        "line": 4,
+        "phrase": "What is so bad?",
+        "explanation": "「何がそんなに悪いの？」。相手の不満の理由を尋ねる形です。"
+      },
+      {
+        "line": 9,
+        "phrase": "you win this one",
+        "explanation": "「今回はあなたの勝ち」。言い合いで相手に一本取られたときの返しです。"
+      }
+    ],
+    "note": "早起きが好きなフランクと、眠っていたいティナ。二人にとっての「月曜日」が違うため、いつもの愚痴が思わぬ方向へ進みます。",
+    "heading": "月曜の朝の気持ちを伝える",
+    "editorialApproval": "pending"
+  },
+  "A1-07": {
+    "slug": "a1-07-my-room",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "359696f65a35facf7888e47b7c167421be5cba94de9ca45fd52b6f691b07b2f6",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Welcome to my room",
+        "explanation": "「私の部屋へようこそ」。welcome toで、人を場所へ迎えます。"
+      },
+      {
+        "line": 2,
+        "phrase": "down the hall",
+        "explanation": "「廊下を進んだところ」。同じ建物の中で位置を説明するときに使います。"
+      },
+      {
+        "line": 7,
+        "phrase": "Small, but bright.",
+        "explanation": "「小さいけど、明るい」。butで、対照的な特徴を短く並べています。"
+      }
+    ],
+    "note": "ピンクでいっぱいの部屋にある、塗り替えられない星図。好きな色の話から、ティナが故郷を大切にしていることが伝わります。",
+    "heading": "友達を自分の部屋に迎える",
+    "editorialApproval": "pending"
+  },
+  "A1-08": {
+    "slug": "a1-08-going-to-school",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "7d6cd93fd56da7b35463176c2711e944f00fbbe4001d05aa06d110a1c5f0a592",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I walk to school every day.",
+        "explanation": "「毎日歩いて学校へ行く」。移動方法と毎日の習慣を一緒に伝えます。"
+      },
+      {
+        "line": 4,
+        "phrase": "I ride my bike.",
+        "explanation": "「自転車に乗る」。rideとmy bikeをまとまりで覚えられます。"
+      },
+      {
+        "line": 6,
+        "phrase": "I'll give you a ride!",
+        "explanation": "「乗せていくよ！」。相手を乗り物で送るときの申し出です。"
+      }
+    ],
+    "note": "ピンクの自転車を気にするフランクに、ティナは彼自身の目立つ見た目を指摘。通学の誘いにも、二人の視点の違いが表れます。",
+    "heading": "通学の方法を話す",
+    "editorialApproval": "pending"
+  },
+  "A1-09": {
+    "slug": "a1-09-selfie-time",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "a46278764ad8d5c182ce589765238481366df0076882be822385e9592dbf90cf",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Let's take a selfie!",
+        "explanation": "「自撮りしよう！」。写真を撮るときはtakeを使います。"
+      },
+      {
+        "line": 3,
+        "phrase": "Just a little smile?",
+        "explanation": "「少しだけ笑ってくれる？」。断片的な問いかけが、やわらかいお願いになっています。"
+      },
+      {
+        "line": 7,
+        "phrase": "Just look here!",
+        "explanation": "「ここを見て！」。相手に視線を向けてほしいときの短い指示です。"
+      }
+    ],
+    "note": "笑顔をお願いされても、フランクの顔は変わりません。ティナは最後にその表情の良さを見つけ、写真を楽しんでいます。",
+    "heading": "友達を自撮りに誘う",
+    "editorialApproval": "pending"
+  },
+  "A1-10": {
+    "slug": "a1-10-breakfast-time",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "e11e72c5bd5c814483e5983c3da075b5bef54509854dc9aa9f1f80970f466020",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I usually eat toast and eggs.",
+        "explanation": "「普段はトーストと卵を食べる」。usuallyは、いつもの習慣を表します。"
+      },
+      {
+        "line": 3,
+        "phrase": "I prefer toast.",
+        "explanation": "「トーストのほうが好き」。preferで、比べたときの好みを伝えます。"
+      },
+      {
+        "line": 4,
+        "phrase": "Just one bite.",
+        "explanation": "「一口だけ」。食べ物を試してもらうときに添えられる表現です。"
+      }
+    ],
+    "note": "パンケーキを味わったフランクの控えめな評価を、ティナは独自に翻訳します。ことばと本音の距離に、二人の親しさがにじみます。",
+    "heading": "朝食の好みを話す",
+    "editorialApproval": "pending"
+  },
+  "A1-11": {
+    "slug": "a1-11-in-the-classroom",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "1cbe458132f73372a30b603dc419bafbc69ff49a68f47eb310ab5edceb570d01",
+    "learning": [
+      {
+        "line": 3,
+        "phrase": "On the desk!",
+        "explanation": "「机の上！」。onで、物が載っている場所を示します。"
+      },
+      {
+        "line": 4,
+        "phrase": "Those are flowers.",
+        "explanation": "「あれは花だよ」。複数の物を指すときはthose areを使います。"
+      },
+      {
+        "line": 8,
+        "phrase": "Please do not eat",
+        "explanation": "「食べないでください」。please do notに動詞を続けて、丁寧に止めます。"
+      }
+    ],
+    "note": "先生への花を食べ物だと思うティナ。指さして物を説明する英語が、地球と故郷の違いをめぐる小さな騒動になります。",
+    "heading": "教室にある物を説明する",
+    "editorialApproval": "pending"
+  },
+  "A1-12": {
+    "slug": "a1-12-omg-new-phone",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "f84b9a1d4ae599dbde4ac38a43912771ee9544c675470d524f29428fb2791307",
+    "learning": [
+      {
+        "line": 3,
+        "phrase": "Take a photo of me!",
+        "explanation": "「私の写真を撮って！」。take a photo ofで、撮る相手を指定します。"
+      },
+      {
+        "line": 5,
+        "phrase": "Give me a second!",
+        "explanation": "「ちょっと待って！」。a secondは、ここでは短い時間を指します。"
+      },
+      {
+        "line": 8,
+        "phrase": "The phone is full.",
+        "explanation": "「携帯がいっぱい」。fullで、空き容量がないことを表しています。"
+      }
+    ],
+    "note": "一枚のつもりが、髪型や光を直すうちに40枚。ティナの完璧な写真へのこだわりに、フランクのスマホが追いつきません。",
+    "heading": "写真を撮ってもらう",
+    "editorialApproval": "pending"
+  },
+  "A1-13": {
+    "slug": "a1-13-my-teacher",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "0d7e8f6dddec531999a8b05db5839ed2bddd2c63259c606cc9db4d64923d3dff",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "My teacher is very strict.",
+        "explanation": "「私の先生はとても厳しい」。人の性格をbe動詞と形容詞で説明します。"
+      },
+      {
+        "line": 2,
+        "phrase": "Mine is funny!",
+        "explanation": "「私の先生は面白い！」。mineでmy teacherを繰り返さずに表します。"
+      },
+      {
+        "line": 8,
+        "phrase": "We laugh a lot!",
+        "explanation": "「私たちはよく笑う」。a lotで、その動作が多いことを伝えます。"
+      }
+    ],
+    "note": "笑わない先生と笑わないフランクは、互いを理解できるそう。ティナが思う楽しい教室と、フランクの落ち着ける教室は違います。",
+    "heading": "先生の性格を話す",
+    "editorialApproval": "pending"
+  },
+  "A1-14": {
+    "slug": "a1-14-after-school",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "4aab020eb33de2639729f6224a778aa0a084fed2d3ff1a6fcfa7a3d5ccbae4fe",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I'm playing tennis after school.",
+        "explanation": "「放課後テニスをする予定」。現在進行形で、決まっている予定を話しています。"
+      },
+      {
+        "line": 5,
+        "phrase": "Come watch me play tennis!",
+        "explanation": "「テニスをするところを見に来て！」。come watchで、来て見てほしいと誘います。"
+      },
+      {
+        "line": 7,
+        "phrase": "Cheer for me!",
+        "explanation": "「私を応援して！」。cheer forに応援する相手を続けます。"
+      }
+    ],
+    "note": "テニスに誘われても、本を持っていくつもりのフランク。静かな時間が好きな彼と、にぎやかな応援を求めるティナのすれ違いです。",
+    "heading": "放課後の予定に誘う",
+    "editorialApproval": "pending"
+  },
+  "A1-15": {
+    "slug": "a1-15-chill-day",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "0de178d44a1de13ca65dd88db1c6b8e1bff0d6c785339db3a4938c659b4d2793",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "What are you doing?",
+        "explanation": "「何をしているの？」。今していることを尋ねる基本表現です。"
+      },
+      {
+        "line": 3,
+        "phrase": "For how long?",
+        "explanation": "「どのくらいの間？」。続けている時間を短く聞き返しています。"
+      },
+      {
+        "line": 9,
+        "phrase": "Send me the video",
+        "explanation": "「その動画を送って」。sendに相手と送りたい物を続けます。"
+      }
+    ],
+    "note": "宿題を優先したいフランクも、猫の動画には少し興味があるようです。「一つだけ」の誘いに乗る変化が、会話の小さなオチになります。",
+    "heading": "休日に何をしているか聞く",
+    "editorialApproval": "pending"
+  },
+  "A1-16": {
+    "slug": "a1-16-at-the-library",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "0dea74db84e61d36a92f86dffe40492821dc4d5f6adc97045f0bb917a756b053",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I am looking for a science book.",
+        "explanation": "「科学の本を探しています」。look forで、探している物を伝えます。"
+      },
+      {
+        "line": 1,
+        "phrase": "Can you help me?",
+        "explanation": "「手伝ってもらえますか？」。困ったときに使える依頼です。"
+      },
+      {
+        "line": 4,
+        "phrase": "over there, on the right",
+        "explanation": "「あちらの右側」。大まかな場所と方向を組み合わせて案内します。"
+      }
+    ],
+    "note": "科学書を探すフランクと、マンガへ向かうティナ。静かにするはずのささやきまで大きいのが、ティナらしいところです。",
+    "heading": "図書館で本の場所を尋ねる",
+    "editorialApproval": "pending"
+  },
+  "A1-17": {
+    "slug": "a1-17-at-the-supermarket",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "dc021f1ae3703fd98eb5dd40617734a44fb38718e6c1a91a516388be31a647bd",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "How much is this apple?",
+        "explanation": "「このりんごはいくら？」。how muchで、値段を尋ねます。"
+      },
+      {
+        "line": 3,
+        "phrase": "Three apples, please.",
+        "explanation": "「りんごを三つお願いします」。個数と品物で注文できます。"
+      },
+      {
+        "line": 7,
+        "phrase": "Here you go!",
+        "explanation": "「はい、どうぞ」。物やお金を渡すときの表現です。"
+      }
+    ],
+    "note": "りんごの値段には納得しても、分け方はティナ流。「地球の計算」を喜ぶ彼女に、フランクが静かに突っ込みます。",
+    "heading": "スーパーで値段を尋ねる",
+    "editorialApproval": "pending"
+  },
+  "A1-18": {
+    "slug": "a1-18-this-is-so-cute",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "a71f59c642ee86853ce634cd234d60710252a72c83678c001be76f2cf755a8aa",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "This bear is so cute!",
+        "explanation": "「このクマ、すごくかわいい！」。soで感想を強めています。"
+      },
+      {
+        "line": 3,
+        "phrase": "Look at its face!",
+        "explanation": "「その顔を見て！」。look atで、注目してほしい物を示します。"
+      },
+      {
+        "line": 6,
+        "phrase": "it is hard to move my face",
+        "explanation": "「顔を動かすのは難しい」。it is hard toに動詞を続け、難しさを表します。"
+      }
+    ],
+    "note": "笑顔のクマを、フランクの先生にしようとするティナ。かわいい物を見つけるたび、会話は予想外の方向へ進みます。",
+    "heading": "気に入った物を見せる",
+    "editorialApproval": "pending"
+  },
+  "A1-19": {
+    "slug": "a1-19-i-want-a-pencil",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "ff8ed485d335d7b5bdaeb107af61c08041313f450e8824e8a16e0664df3dd14d",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I would like a pencil, please.",
+        "explanation": "「鉛筆を一本お願いします」。would likeで、欲しい物を丁寧に伝えます。"
+      },
+      {
+        "line": 2,
+        "phrase": "Anything else?",
+        "explanation": "「ほかに何か？」。店員が追加の希望を尋ねる短い表現です。"
+      },
+      {
+        "line": 9,
+        "phrase": "That is enough.",
+        "explanation": "「それで十分」。必要な量や条件が満たされたときに使います。"
+      }
+    ],
+    "note": "書ければ十分なフランクと、色や飾りも大切なティナ。同じ鉛筆を前にしても、満足する条件が違います。",
+    "heading": "文房具を買う",
+    "editorialApproval": "pending"
+  },
+  "A1-20": {
+    "slug": "a1-20-what-do-you-like",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "0e1897ac0e0912d6d5e3ea9df84c7e66d052f08120e4c11a1d21dd9df9a31cd7",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Do you like ice cream",
+        "explanation": "「アイスクリームは好き？」。do you likeで、相手の好みを聞きます。"
+      },
+      {
+        "line": 2,
+        "phrase": "Vanilla is my favorite.",
+        "explanation": "「バニラがお気に入り」。好きな物を主語にして答えています。"
+      },
+      {
+        "line": 7,
+        "phrase": "Try one bite of mine.",
+        "explanation": "「私のを一口食べてみて」。mineで、私のアイスを指します。"
+      }
+    ],
+    "note": "いつもバニラを選ぶフランクが、ティナのいちご味を一口。思いがけない好みの変化は、どうやら秘密にしたいようです。",
+    "heading": "アイスの好みを伝える",
+    "editorialApproval": "pending"
+  },
+  "A1-21": {
+    "slug": "a1-21-game-night",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "58af0767787b3ba39d7ceed0620d11f7368c41fb70a618f28119a333e07d0977",
+    "learning": [
+      {
+        "line": 3,
+        "phrase": "I practiced all week!",
+        "explanation": "「一週間ずっと練習した！」。過去形とall weekで、準備してきたことを伝えます。"
+      },
+      {
+        "line": 7,
+        "phrase": "No way!",
+        "explanation": "「まさか！」。驚きや信じられない気持ちを表す口語です。"
+      },
+      {
+        "line": 9,
+        "phrase": "Right now!",
+        "explanation": "「今すぐ！」。nowにrightを添えて、すぐにしてほしいと強めています。"
+      }
+    ],
+    "note": "今夜こそ勝つと宣言するティナ。フランクの夜の過ごし方を聞くと、その自信も揺らぎます。短い叫びや言い切りが、対戦の勢いを作っています。",
+    "heading": "ゲームの勝負で気持ちを伝える",
+    "editorialApproval": "pending"
+  },
+  "A1-22": {
+    "slug": "a1-22-my-hobby",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "63540f835f2ab21b2c821b03239b9dc3c3f8a31efc2acf08dab3ae60879d7840",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I like to read.",
+        "explanation": "「読書が好き」。like toに動詞を続けて、好きな活動を伝えます。"
+      },
+      {
+        "line": 3,
+        "phrase": "I move too slowly.",
+        "explanation": "「動きが遅すぎる」。tooは、必要以上で困る程度を表します。"
+      },
+      {
+        "line": 4,
+        "phrase": "Like this!",
+        "explanation": "「こんなふうに！」。実際に動きを見せながら教えるときの表現です。"
+      }
+    ],
+    "note": "読書が好きなフランクを踊らせたいティナ。「動いている」と「踊っている」の違いが、二人の小さな攻防になります。",
+    "heading": "趣味について話す",
+    "editorialApproval": "pending"
+  },
+  "A1-23": {
+    "slug": "a1-23-weekend-plans",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "3427bde911ae40b0295a0848fcd5782e59b7f04dd84bd237042ae1fdba25c62e",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "on Saturday",
+        "explanation": "「土曜日に」。曜日の前にはonを使います。"
+      },
+      {
+        "line": 2,
+        "phrase": "I will stay home and read.",
+        "explanation": "「家にいて本を読むつもり」。willで、これからすることを伝えます。"
+      },
+      {
+        "line": 6,
+        "phrase": "it reminds you of home",
+        "explanation": "「それで故郷を思い出すんだね」。remind someone ofで、何かを連想させます。"
+      }
+    ],
+    "note": "宇宙映画の宇宙人は、ティナには家族に似て見えるようです。週末の過ごし方にも、地球の外から来た彼女の視点が入り込みます。",
+    "heading": "週末の予定を話す",
+    "editorialApproval": "pending"
+  },
+  "A1-24": {
+    "slug": "a1-24-snack-attack",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "e1773dfd691b4e3f501e544cca1a1b668af5d69e1ba37b9c95419e5e7f5abb90",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I want chips.",
+        "explanation": "「ポテトチップスが欲しい」。wantの後に欲しい物を続けます。"
+      },
+      {
+        "line": 5,
+        "phrase": "want one?",
+        "explanation": "「一つ欲しい？」。Do youを省いた、親しい相手への気軽な問いかけです。"
+      },
+      {
+        "line": 9,
+        "phrase": "They're all gone now.",
+        "explanation": "「もう全部なくなった」。all goneで、一つも残っていないことを伝えます。"
+      }
+    ],
+    "note": "深夜のお菓子を止めたかったフランクも、一口の誘惑には負けます。二人の会話より、お菓子がなくなるほうが早い夜です。",
+    "heading": "お菓子をすすめる",
+    "editorialApproval": "pending"
+  },
+  "A1-25": {
+    "slug": "a1-25-birthday-party",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "3ef706fe997178ece8f6a42e788a8e796bf361906793bd4566d20c88039bf147",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Come to my birthday party!",
+        "explanation": "「誕生日パーティーに来て！」。come toで、集まりへ誘います。"
+      },
+      {
+        "line": 3,
+        "phrase": "on Saturday at six",
+        "explanation": "「土曜日の6時に」。曜日にはon、時刻にはatを使います。"
+      },
+      {
+        "line": 4,
+        "phrase": "It is a surprise.",
+        "explanation": "「それはお楽しみ」。中身をまだ明かしたくない贈り物や計画に使えます。"
+      }
+    ],
+    "note": "贈り物を秘密にしても、ティナの好きな色は秘密になりません。フランクが一語だけ答えるところに、二人の積み重ねが見えます。",
+    "heading": "誕生日パーティーに招待する",
+    "editorialApproval": "pending"
+  },
+  "A1-26": {
+    "slug": "a1-26-today-s-weather",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "1157e599cbf747142f2028c771dc443b45112a13c077694a6236967ba2c831db",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "It is cold today.",
+        "explanation": "「今日は寒い」。天気や気温をit isで表す基本形です。"
+      },
+      {
+        "line": 4,
+        "phrase": "You can wear mine.",
+        "explanation": "「私のを着ていいよ」。mineは、ここでは私のコートを指します。"
+      },
+      {
+        "line": 6,
+        "phrase": "Put it on.",
+        "explanation": "「それを着て」。put onは服を身につける動作で、itは間に入れます。"
+      }
+    ],
+    "note": "温かさとピンクの見た目の間でためらうフランク。ティナにとっては、彼がいちごのように見えることも長所です。",
+    "heading": "寒い日に服を貸す",
+    "editorialApproval": "pending"
+  },
+  "A1-27": {
+    "slug": "a1-27-i-m-bored",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "c7db7b4de7ab34e2518b6d64f136bc00ba77ea02b2e96b75414ae3b019f6a5ae",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I'm soooo bored.",
+        "explanation": "「すごく退屈」。boredで退屈している気持ちを表し、soの伸ばし方が強調になっています。"
+      },
+      {
+        "line": 4,
+        "phrase": "I will tell you a story.",
+        "explanation": "「お話をしてあげる」。tell someone a storyで、相手に話を語ります。"
+      },
+      {
+        "line": 7,
+        "phrase": "Keep going!",
+        "explanation": "「続けて！」。話や動作を止めずに続けてほしいと伝えます。"
+      }
+    ],
+    "note": "フランクが語る星の少女は、どこか目の前のティナに似ています。物語を始める言い方と終える言い方が、いたずらっぽい返しになります。",
+    "heading": "退屈な友達に話をする",
+    "editorialApproval": "pending"
+  },
+  "A1-28": {
+    "slug": "a1-28-i-have-a-cold",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "2f451c556dc2f3cdad555f31f89a28f3978fc17da3d5676aa632e4b59441617a",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I have a cold.",
+        "explanation": "「風邪をひいています」。have a coldで体調を伝えます。"
+      },
+      {
+        "line": 1,
+        "phrase": "My head hurts.",
+        "explanation": "「頭が痛い」。痛む場所を主語にし、hurtsを続けます。"
+      },
+      {
+        "line": 7,
+        "phrase": "Will you visit me?",
+        "explanation": "「会いに来てくれる？」。will youで、相手がしてくれるか尋ねています。"
+      }
+    ],
+    "note": "宿題を気にするティナに、フランクは休むことをすすめます。会いに行くという返事には、彼ならではの理由も添えられています。",
+    "heading": "体調を伝えて助けを頼む",
+    "editorialApproval": "pending"
+  },
+  "A1-29": {
+    "slug": "a1-29-at-the-hair-salon",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "00d93b285fb7074816b6ecef923d10e095d3f6a2c9732d4b1a7b331848fc5f16",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "I'd like it shorter, please.",
+        "explanation": "「もっと短くしてください」。itは髪を指し、shorterで今より短くと伝えます。"
+      },
+      {
+        "line": 2,
+        "phrase": "About shoulder length.",
+        "explanation": "「肩くらいの長さ」。具体的な目安を添えることで、希望が伝わりやすくなります。"
+      },
+      {
+        "line": 4,
+        "phrase": "Can you make it pink?",
+        "explanation": "「ピンクにできますか？」。make itに色を続けて、仕上がりを頼みます。"
+      }
+    ],
+    "note": "髪もピンクにしたいティナ。フランクの補足で、彼女の「秘密」のピンク好きが、実は誰にでもわかることになってしまいます。",
+    "heading": "美容室で希望を伝える",
+    "editorialApproval": "pending"
+  },
+  "A1-30": {
+    "slug": "a1-30-new-sneakers",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "d9ce75e8b3d7d2f03ed096d350e11187e88502e586ecf154fcec7b16bf223f26",
+    "learning": [
+      {
+        "line": 3,
+        "phrase": "Brand new!",
+        "explanation": "「新品！」。買ったばかりの物を強調するまとまりです。"
+      },
+      {
+        "line": 4,
+        "phrase": "Where did you buy them?",
+        "explanation": "「どこで買ったの？」。過去の買い物をdidで尋ねます。"
+      },
+      {
+        "line": 5,
+        "phrase": "Fifty percent off!",
+        "explanation": "「50パーセント引き！」。percent offは割引率の表現です。"
+      }
+    ],
+    "note": "半額のお買い得には得意げなティナ。でも、増え続けるピンクの持ち物を数える話になると、急に地球の習慣から距離を取ります。",
+    "heading": "買った物を友達に見せる",
+    "editorialApproval": "pending"
+  },
+  "A1-31": {
+    "slug": "a1-31-asking-directions",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "6e601dee1ac985cdb60cfd563d810a179b9d9f51c49761a12b2e39f42cbf2c94",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Where is the station?",
+        "explanation": "「駅はどこですか？」。目的地の位置を尋ねる基本表現です。"
+      },
+      {
+        "line": 2,
+        "phrase": "Go straight, then turn right.",
+        "explanation": "「まっすぐ進んで、右に曲がって」。thenで道順を順番につなぎます。"
+      },
+      {
+        "line": 3,
+        "phrase": "Could you say that again, please?",
+        "explanation": "「もう一度言っていただけますか？」。聞き取れなかったときの丁寧な頼み方です。"
+      }
+    ],
+    "note": "説明をもう一度聞いたティナですが、右と左はまだ混乱気味。短い「Right.」が訂正にも確認にもなるやりとりです。",
+    "heading": "道を尋ねて聞き返す",
+    "editorialApproval": "pending"
+  },
+  "A1-32": {
+    "slug": "a1-32-at-the-restaurant",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "b6d51d2a3d7f3e8bc30bc2fadbe8f47dfce3c0a72fa051e62fe191ca86f4e202",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I would like a large pizza, please.",
+        "explanation": "「大きいピザをお願いします」。品名と大きさを合わせて注文しています。"
+      },
+      {
+        "line": 2,
+        "phrase": "Anything to drink?",
+        "explanation": "「飲み物は何か？」。注文時に店員が希望を尋ねる表現です。"
+      },
+      {
+        "line": 3,
+        "phrase": "Water is fine, thank you.",
+        "explanation": "「水で大丈夫です、ありがとう」。is fineで、それでよいと伝えます。"
+      }
+    ],
+    "note": "料理を選ぶ基準にも、ティナのピンク好きが登場します。トマトソースの色まで都合よく考える彼女に、フランクは正確な色を返します。",
+    "heading": "レストランで食事を注文する",
+    "editorialApproval": "pending"
+  },
+  "A1-33": {
+    "slug": "a1-33-cafe-time",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "78af50ae85d1e1e74b302c00a6179f732d6a3206967c0bb35002287593329b02",
+    "learning": [
+      {
+        "line": 3,
+        "phrase": "We always sit at this table.",
+        "explanation": "「いつもこのテーブルに座る」。alwaysで習慣を表し、atで席の場所を示します。"
+      },
+      {
+        "line": 5,
+        "phrase": "Same as always?",
+        "explanation": "「いつもと同じ？」。注文や予定を短く確かめる表現です。"
+      },
+      {
+        "line": 9,
+        "phrase": "Neither do you.",
+        "explanation": "「あなたも変わらない」。否定文に対して「あなたも同じ」と返しています。"
+      }
+    ],
+    "note": "変わらない飲み物と、いつもの席。二人にとって繰り返しは、退屈さよりも安心できる時間のしるしになっています。",
+    "heading": "いつもの注文を確かめる",
+    "editorialApproval": "pending"
+  },
+  "A1-34": {
+    "slug": "a1-34-phone-call",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "8919eae3541142ffe290b89d94680ca4374fde43dbaaa51a40dd589ed29cd77f",
+    "learning": [
+      {
+        "line": 4,
+        "phrase": "Are you free now?",
+        "explanation": "「今、空いている？」。freeで時間の都合を尋ねます。"
+      },
+      {
+        "line": 6,
+        "phrase": "Do you want to study together?",
+        "explanation": "「一緒に勉強しない？」。do you want toは、希望を聞きながら誘う形です。"
+      },
+      {
+        "line": 10,
+        "phrase": "See you at three.",
+        "explanation": "「3時に会おう」。see youに時刻を添える別れ際の挨拶です。"
+      }
+    ],
+    "note": "カフェの席も飲み物も、言わなくても決まっている二人。先回りするティナは、その理由を宇宙人ならではの能力にしてしまいます。",
+    "heading": "電話で勉強に誘う",
+    "editorialApproval": "pending"
+  },
+  "A1-35": {
+    "slug": "a1-35-test-tomorrow",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "58262636f477bbc2985d5414d87aca5bb000f7736072d1ad866cf4d236c0edbc",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I'm not ready!",
+        "explanation": "「まだ準備ができていない！」。readyで準備の状態を伝えます。"
+      },
+      {
+        "line": 4,
+        "phrase": "One page at a time.",
+        "explanation": "「一度に一ページずつ」。at a timeで少しずつ進めることを表します。"
+      },
+      {
+        "line": 8,
+        "phrase": "Will you let me help?",
+        "explanation": "「手伝わせてくれる？」。let me helpで、自分が手伝うことを申し出ています。"
+      }
+    ],
+    "note": "知識を一瞬で入れたいティナに、フランクが提案するのは一ページずつの勉強。彼女の故郷の言い方を使って、ゆっくり一緒に進もうと伝えます。",
+    "heading": "テスト前に励ます",
+    "editorialApproval": "pending"
+  },
+  "A1-36": {
+    "slug": "a1-36-i-failed",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "924a11482e8e92f089aed36bf214dd6c73ddef24334f86ae4b3233ee5f6fce0f",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "Try again.",
+        "explanation": "「もう一度やってみよう」。短く背中を押す表現です。"
+      },
+      {
+        "line": 6,
+        "phrase": "Tell her the truth.",
+        "explanation": "「彼女に本当のことを話して」。tellに相手と伝える内容を続けます。"
+      },
+      {
+        "line": 8,
+        "phrase": "I will sit next to you.",
+        "explanation": "「君の隣に座るよ」。next toで、すぐ隣という位置を示します。"
+      }
+    ],
+    "note": "テストの結果より、母に伝えることを怖がるティナ。フランクは隣に座ると申し出て、彼女が一人で話さずに済むようにします。",
+    "heading": "失敗した友達を励ます",
+    "editorialApproval": "pending"
+  },
+  "A1-37": {
+    "slug": "a1-37-asking-for-help",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "2f7889d2278a2923a54d332856ae7815690fbec98915b647fa6853f87d914ae5",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Could you help me, please?",
+        "explanation": "「手伝っていただけますか？」。couldとpleaseを使う丁寧な依頼です。"
+      },
+      {
+        "line": 4,
+        "phrase": "Let me check.",
+        "explanation": "「確認します」。相手を待たせるときにも使うひとことです。"
+      },
+      {
+        "line": 5,
+        "phrase": "How do I check this one out?",
+        "explanation": "「これを借りるにはどうすれば？」。図書館のcheck outは貸出手続きを意味します。"
+      }
+    ],
+    "note": "一冊を丁寧に探すフランクと、十二冊のマンガを見つけたティナ。借りる本の数まで勝負にしてしまう彼女の勢いが出ています。",
+    "heading": "図書館で借り方を尋ねる",
+    "editorialApproval": "pending"
+  },
+  "A1-38": {
+    "slug": "a1-38-lost-and-found",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "63da2d95894c6889b522ac1786f276e91519d84cbe6f2432a5287e192639dd0b",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I lost my key!",
+        "explanation": "「鍵をなくしました！」。lostはloseの過去形です。"
+      },
+      {
+        "line": 2,
+        "phrase": "Can you describe it?",
+        "explanation": "「どんな物か説明できますか？」。見た目や特徴を聞くときに使います。"
+      },
+      {
+        "line": 7,
+        "phrase": "That's mine!",
+        "explanation": "「それ、私のです！」。mineで持ち主が自分だと伝えます。"
+      }
+    ],
+    "note": "鍵についている小さな星は、ティナにとって単なる飾りではありません。忘れ物の受け取りから、故郷への思いがのぞきます。",
+    "heading": "忘れ物の特徴を説明する",
+    "editorialApproval": "pending"
+  },
+  "A1-39": {
+    "slug": "a1-39-gossip-time",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "72edf8f20d4384d5876c30db5bf682b800c9c0b5dfff3b1a52f621f216df4c78",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Did you hear?",
+        "explanation": "「聞いた？」。相手がその話を知っているか確かめる会話の入口です。"
+      },
+      {
+        "line": 2,
+        "phrase": "I do not know them well.",
+        "explanation": "「彼らをよく知らない」。wellで、どの程度知っているかを表します。"
+      },
+      {
+        "line": 8,
+        "phrase": "What do they say?",
+        "explanation": "「何て言っているの？」。話の内容をさらに尋ねています。"
+      }
+    ],
+    "note": "うわさに興味のないフランクも、自分たちの話には耳を傾けます。二人が「面白い組み合わせ」という評価には、彼も納得するようです。",
+    "heading": "学校のうわさ話をする",
+    "editorialApproval": "pending"
+  },
+  "A1-40": {
+    "slug": "a1-40-shopping-for-clothes",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "3e2ba731767e4059bb5dd6d6516fe831d3694bf65e8cb1dab3ae66bbac502cc0",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Can I try this on?",
+        "explanation": "「試着してもいいですか？」。try onは服を着て確かめることです。"
+      },
+      {
+        "line": 5,
+        "phrase": "Do you have a small?",
+        "explanation": "「Sサイズはありますか？」。a smallで小さいサイズの商品を指します。"
+      },
+      {
+        "line": 7,
+        "phrase": "I'll take it.",
+        "explanation": "「これにします」。買う物を決めたときの定番表現です。"
+      }
+    ],
+    "note": "三着あるピンクのドレスに、もう一着。ティナには完璧なセットでも、フランクの数え方とは一致しません。",
+    "heading": "服の試着とサイズを頼む",
+    "editorialApproval": "pending"
+  },
+  "A1-41": {
+    "slug": "a1-41-crush-talk",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "307c52586951df4a78285e699740aac1b448982852d8e3b5787ab0bf25911ea4",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I think I like someone.",
+        "explanation": "「好きな人がいるみたい」。I thinkを添えて、自分の気持ちを控えめに話しています。"
+      },
+      {
+        "line": 8,
+        "phrase": "You can move on.",
+        "explanation": "「次へ進める」。move onは、気持ちを切り替えて先へ進むことです。"
+      },
+      {
+        "line": 9,
+        "phrase": "You're too logical.",
+        "explanation": "「理屈っぽすぎるよ」。tooで、その性質が強すぎると伝えています。"
+      }
+    ],
+    "note": "恋の相談にも、答えを集める方法を提案するフランク。ティナが欲しい共感と、彼の論理的な返事のずれが会話を動かします。",
+    "heading": "気になる人のことを相談する",
+    "editorialApproval": "pending"
+  },
+  "A1-42": {
+    "slug": "a1-42-asking-about-a-job",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "ae577922383117af6347067a3b804ada5a1b3944e7a1a1576f12a61a073a8178",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I want to apply.",
+        "explanation": "「応募したいです」。applyで、仕事などに申し込む意思を伝えます。"
+      },
+      {
+        "line": 2,
+        "phrase": "Do you have experience?",
+        "explanation": "「経験はありますか？」。仕事の応募でよく聞かれる質問です。"
+      },
+      {
+        "line": 5,
+        "phrase": "Twenty hours a week.",
+        "explanation": "「週に20時間」。a weekで、一週間あたりの量を表します。"
+      }
+    ],
+    "note": "応募するのはティナのはずが、話は眠らないフランクにも向きます。彼の真剣な自己紹介が、店長には冗談に聞こえてしまいます。",
+    "heading": "仕事に応募する",
+    "editorialApproval": "pending"
+  },
+  "A1-43": {
+    "slug": "a1-43-a-new-neighbor",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "c72940a6ffdd5ba352b4260cbf56567eb1e07743ab51da39bc2ca0a4ad4b67b3",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "Nice to meet you.",
+        "explanation": "「初めまして」。初対面の相手への挨拶です。"
+      },
+      {
+        "line": 3,
+        "phrase": "What do you do",
+        "explanation": "「お仕事は何ですか？」。ここでは職業を尋ねています。"
+      },
+      {
+        "line": 4,
+        "phrase": "I'm a nurse.",
+        "explanation": "「看護師です」。職業を表す単数の名詞にはaを添えます。"
+      }
+    ],
+    "note": "看護師だと聞いて、ティナはフランクの縫い目の話を始めます。慌てる自己紹介の最後には、誰が新しい住人なのかまで逆転します。",
+    "heading": "新しい隣人に自己紹介する",
+    "editorialApproval": "pending"
+  },
+  "A1-44": {
+    "slug": "a1-44-school-trip-plans",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "6fa75dd61c78f1ab3b41c101eaa7847e9e48b97321c5253809b7f7b2f5f4c8e7",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I want to see the Statue of Liberty!",
+        "explanation": "「自由の女神を見たい！」。want to seeで、訪れて見たい物を伝えます。"
+      },
+      {
+        "line": 3,
+        "phrase": "Take lots of photos of me!",
+        "explanation": "「私の写真をたくさん撮って！」。lots ofで多い数を表します。"
+      },
+      {
+        "line": 9,
+        "phrase": "Three more days!",
+        "explanation": "「あと3日！」。数にmoreを添え、残りの日数を示しています。"
+      }
+    ],
+    "note": "ティナの「たくさんの写真」は、まず100枚から。旅の準備にも、二人の性格の違いと写真へのこだわりが出ています。",
+    "heading": "旅行の楽しみを話す",
+    "editorialApproval": "pending"
+  },
+  "A1-45": {
+    "slug": "a1-45-school-festival",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "e4fdde55130f0ed7b88972b5621e1768654ab5b4a2ca34df950920aaa0e7b4f3",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "I see a food booth.",
+        "explanation": "「食べ物の屋台が見える」。I seeで見つけた物を相手に知らせます。"
+      },
+      {
+        "line": 3,
+        "phrase": "Let's try it!",
+        "explanation": "「試してみよう！」。食べたことのない物に誘うときにも使えます。"
+      },
+      {
+        "line": 4,
+        "phrase": "what is in it?",
+        "explanation": "「何が入っているの？」。料理の材料や中身を尋ねる形です。"
+      }
+    ],
+    "note": "たこ焼きの中身は、ティナの故郷では意外な職業。食べる前から話が脱線してしまうところに、二人の文化の違いがあります。",
+    "heading": "文化祭で食べ物を試す",
+    "editorialApproval": "pending"
+  },
+  "A1-46": {
+    "slug": "a1-46-movie-night",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "a6422fa7f5eb7f3432d105966499c6c40d1e83d9ad322086d181772221e7d6c5",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Let's watch a scary movie!",
+        "explanation": "「怖い映画を見よう！」。watchは動きのある映像を見るときに使います。"
+      },
+      {
+        "line": 3,
+        "phrase": "Me neither!",
+        "explanation": "「私も違う！」。相手の否定の発言に同意する口語です。"
+      },
+      {
+        "line": 5,
+        "phrase": "hold my hand",
+        "explanation": "「手を握って」。holdで、手をつないで支える動作を伝えます。"
+      }
+    ],
+    "note": "怖くないと言っていた二人も、映画が始まると様子が変わります。フランクは自分の怖さまで、友達を助ける行動として説明します。",
+    "heading": "友達と映画を見る",
+    "editorialApproval": "pending"
+  },
+  "A1-47": {
+    "slug": "a1-47-ordering-coffee",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "fbfe578a7745d41b8d882e106a7d88df1d5ae63746014c9ae100d9391ca5f3bc",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "Hot or iced?",
+        "explanation": "「温かいもの、それともアイス？」。注文の選択肢を短く確認しています。"
+      },
+      {
+        "line": 3,
+        "phrase": "Iced, please.",
+        "explanation": "「アイスでお願いします」。選んだ方にpleaseを添える答え方です。"
+      },
+      {
+        "line": 4,
+        "phrase": "Can I get a name for the order?",
+        "explanation": "「ご注文のお名前をいただけますか？」。受け渡し用の名前を聞く表現です。"
+      }
+    ],
+    "note": "砂糖もミルクも不要なフランクですが、名前まで省くわけにはいきません。注文の列挙が、店員との小さな行き違いを生んでいます。",
+    "heading": "コーヒーを注文する",
+    "editorialApproval": "pending"
+  },
+  "A1-48": {
+    "slug": "a1-48-at-the-post-office",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "4f89dc2630ed83414cce5d3e6bf9889fe76549b89a8c1c48c216f6cee9b8a3ec",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I want to send this box to Japan.",
+        "explanation": "「この箱を日本に送りたいです」。sendの後に物と行き先を続けます。"
+      },
+      {
+        "line": 3,
+        "phrase": "How long does it take?",
+        "explanation": "「どのくらいかかりますか？」。配達や移動の所要時間を尋ねます。"
+      },
+      {
+        "line": 7,
+        "phrase": "How much will it be?",
+        "explanation": "「いくらになりますか？」。これから払う料金を確認します。"
+      }
+    ],
+    "note": "日本への贈り物を送るフランク。配達に一週間と聞いたティナは故郷の速さを持ち出しますが、彼には地球の速さで十分です。",
+    "heading": "郵便局で荷物を送る",
+    "editorialApproval": "pending"
+  },
+  "A1-49": {
+    "slug": "a1-49-karaoke",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "c96d92893dbb552a92e3e789106266dcd96fec86568168165765e73db12937e9",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Sing this song with me!",
+        "explanation": "「この歌を一緒に歌って！」。with meで一緒にしてほしいと誘います。"
+      },
+      {
+        "line": 4,
+        "phrase": "Trust me on this.",
+        "explanation": "「このことは僕を信じて」。自分がよくわかっていることについて念を押します。"
+      },
+      {
+        "line": 6,
+        "phrase": "Choose a slow, easy song.",
+        "explanation": "「ゆっくりで簡単な歌を選んで」。chooseの後に希望の条件を添えています。"
+      }
+    ],
+    "note": "歌いたくなかったフランクの一曲を、ティナは自分の宝物として受け取ります。I'm keeping itは、歌った瞬間を大切に覚えておくという意味合いです。",
+    "heading": "苦手なことに友達と挑戦する",
+    "editorialApproval": "pending"
+  },
+  "A1-50": {
+    "slug": "a1-50-hotel-check-in",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "60b794e9697289213354e7e8f8b203a3ccf45d25874219620c7bd94db42e2bec",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I have a reservation.",
+        "explanation": "「予約しています」。ホテルや店に着いたときの基本表現です。"
+      },
+      {
+        "line": 3,
+        "phrase": "Could I have a quiet room?",
+        "explanation": "「静かな部屋にしていただけますか？」。could I haveで希望を丁寧に頼みます。"
+      },
+      {
+        "line": 5,
+        "phrase": "Is it far from the elevator?",
+        "explanation": "「エレベーターから遠いですか？」。far fromで距離を確かめています。"
+      }
+    ],
+    "note": "眺めより静かさを重視するフランク。宿の希望を丁寧に伝えるほど、普通の旅行客とは少し違う彼の好みが見えてきます。",
+    "heading": "ホテルにチェックインする",
+    "editorialApproval": "pending"
+  },
+  "A1-51": {
+    "slug": "a1-51-buying-souvenirs",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "1db491ea5fcda8bfc142c460c479d1a555c92fff7ad9a5bb90081d06b1da61f1",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "How much is it?",
+        "explanation": "「これはいくらですか？」。値段を尋ねる基本表現です。"
+      },
+      {
+        "line": 2,
+        "phrase": "It is handmade here.",
+        "explanation": "「ここで手作りされています」。handmadeで手作りの品だと説明します。"
+      },
+      {
+        "line": 4,
+        "phrase": "Who is the gift for?",
+        "explanation": "「その贈り物は誰に？」。forで、受け取る相手を尋ねます。"
+      }
+    ],
+    "note": "ティナが選んだ旅の記念品は、フランクへの贈り物でした。彼の不器用な受け取り方にも、大切にする気持ちが表れています。",
+    "heading": "お土産の値段と贈る相手を話す",
+    "editorialApproval": "pending"
+  },
+  "A1-52": {
+    "slug": "a1-52-calling-a-doctor",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "ba03800103bfd90934c23cbee182ba43bf16d9302cfccc8b2c6e06622c8ce402",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I would like to make an appointment, please.",
+        "explanation": "「予約を取りたいのですが」。make an appointmentは面会や診察を予約する表現です。"
+      },
+      {
+        "line": 3,
+        "phrase": "As soon as possible, please.",
+        "explanation": "「できるだけ早くお願いします」。as soon as possibleで希望の早さを伝えます。"
+      },
+      {
+        "line": 4,
+        "phrase": "How about tomorrow at three?",
+        "explanation": "「明日の3時はいかがですか？」。how aboutで具体的な候補を提案します。"
+      }
+    ],
+    "note": "診察の理由は、フランクの腕の縫い目。予約のやりとりが丁寧に進んでも、最後にティナのピンク好きが入り込みます。",
+    "heading": "電話で診察を予約する",
+    "editorialApproval": "pending"
+  },
+  "A1-53": {
+    "slug": "a1-53-late-night-talk",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "346e5e828e0f78c587042ca118824df3b7714579b61d592a3379cbd647b221a2",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "don't go yet!",
+        "explanation": "「まだ行かないで！」。not yetは、まだその時ではないという意味です。"
+      },
+      {
+        "line": 6,
+        "phrase": "write it down",
+        "explanation": "「書き留めて」。write downの間にitを入れ、内容を記録するようすすめます。"
+      },
+      {
+        "line": 9,
+        "phrase": "Five more minutes?",
+        "explanation": "「あと5分だけ？」。moreで時間の延長をお願いしています。"
+      }
+    ],
+    "note": "旅の夜を終わらせたくないティナと、休ませたいフランク。五分のお願いが三分になる、小さな時間の交渉です。",
+    "heading": "楽しい時間を少し延ばす",
+    "editorialApproval": "pending"
+  },
+  "A1-54": {
+    "slug": "a1-54-what-time-is-it",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "a5c113acab347fa0dc94ff63dd68e89cdee9df43a63d71636196e35b1c807586",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "What time is it?",
+        "explanation": "「何時ですか？」。現在の時刻を尋ねる表現です。"
+      },
+      {
+        "line": 5,
+        "phrase": "Which platform?",
+        "explanation": "「どのホーム？」。whichで複数の選択肢からどれかを聞きます。"
+      },
+      {
+        "line": 6,
+        "phrase": "This way. Follow me.",
+        "explanation": "「こちら。ついてきて」。進む方向を示して案内する短い表現です。"
+      }
+    ],
+    "note": "電車まであと五分。走らない主義のフランクに、ティナは今日だけの新しい役割を与えます。短い指示が急ぐ場面のテンポを作ります。",
+    "heading": "駅で時刻と乗り場を尋ねる",
+    "editorialApproval": "pending"
+  },
+  "A1-55": {
+    "slug": "a1-55-buying-a-train-ticket",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "a4e31667ea07eb41b60b108ebc471a04a6b47b92dea51a5cf0ca88096f9473eb",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Two tickets to Kyoto, please.",
+        "explanation": "「京都まで二枚お願いします」。枚数と行き先を合わせて切符を頼みます。"
+      },
+      {
+        "line": 2,
+        "phrase": "One way or round trip?",
+        "explanation": "「片道ですか、往復ですか？」。切符の種類を確認する表現です。"
+      },
+      {
+        "line": 8,
+        "phrase": "Your train leaves at six.",
+        "explanation": "「列車は6時に出ます」。時刻表の出発予定を現在形で伝えています。"
+      }
+    ],
+    "note": "二人分の往復切符を頼むフランク。事務的な購入の中で、ティナは一緒に旅をする約束をあらためて確かめます。",
+    "heading": "列車の切符を買う",
+    "editorialApproval": "pending"
+  },
+  "A1-56": {
+    "slug": "a1-56-at-the-bank",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "9bc11e6278070153373a1b457ea1be8e2ac647cc2cf56b2685d24a7f966ec10a",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "exchange yen for dollars",
+        "explanation": "「円をドルに替える」。exchange A for Bで交換する方向を表します。"
+      },
+      {
+        "line": 6,
+        "phrase": "Please sign this form here.",
+        "explanation": "「この書類のここに署名してください」。signは署名することです。"
+      },
+      {
+        "line": 9,
+        "phrase": "All set.",
+        "explanation": "「準備完了」。必要な手続きが終わったときにも使います。"
+      }
+    ],
+    "note": "旅行で残った円を替えつつ、少しだけ記念に残すティナ。金額や書類のやりとりの中にも、旅を大切にする気持ちがあります。",
+    "heading": "銀行で両替する",
+    "editorialApproval": "pending"
+  },
+  "A1-57": {
+    "slug": "a1-57-see-you-tomorrow",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "cb6b21a4080cb3fabf70d5603e7d23ae5c87bb3e435680d08ab2ab8090dead42",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "See you tomorrow morning",
+        "explanation": "「また明日の朝に」。see youに次に会う時を添えます。"
+      },
+      {
+        "line": 3,
+        "phrase": "Same time, same place?",
+        "explanation": "「同じ時間、同じ場所？」。わかっている予定を手短に確認します。"
+      },
+      {
+        "line": 8,
+        "phrase": "easy to keep",
+        "explanation": "「守りやすい」。ここでkeepの対象はpromises、つまり約束です。"
+      }
+    ],
+    "note": "いつもの時間、いつもの場所。その繰り返しを、フランクは守りやすい小さな約束として大切にしています。",
+    "heading": "明日の約束を確かめる",
+    "editorialApproval": "pending"
+  },
+  "A1-58": {
+    "slug": "a1-58-taking-a-taxi",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "c4af50493279d3878e56f4cd59cc7065fc829e495205e87c1af3639fd5b40d12",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Please take me to the hotel.",
+        "explanation": "「ホテルへ連れていってください」。take me toで行き先を伝えます。"
+      },
+      {
+        "line": 4,
+        "phrase": "Your first time here?",
+        "explanation": "「ここは初めて？」。省略を使った気軽な質問です。"
+      },
+      {
+        "line": 10,
+        "phrase": "feel at home",
+        "explanation": "「くつろぐ、なじむ」。家にいるような気持ちになることを表します。"
+      }
+    ],
+    "note": "にぎやかな街から連想するのは、静かな故郷だけではありません。フランクが恋しく思うものが、運転手との短い会話に表れます。",
+    "heading": "タクシーで行き先を伝える",
+    "editorialApproval": "pending"
+  },
+  "A1-59": {
+    "slug": "a1-59-at-the-airport",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "29c00da1aadeaf23775c91106cc9dba0366d21ceca57f7e154a8646ddee6cc2a",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Your passport, please.",
+        "explanation": "「パスポートをお願いします」。窓口で書類を求める表現です。"
+      },
+      {
+        "line": 5,
+        "phrase": "You're all set.",
+        "explanation": "「手続きは済みました」。必要な準備が整ったと伝えます。"
+      },
+      {
+        "line": 6,
+        "phrase": "How long does it take to walk there?",
+        "explanation": "「歩いてどのくらいかかりますか？」。所要時間に移動方法を加えて尋ねます。"
+      }
+    ],
+    "note": "搭乗口まで歩く時間が、二人には別れまでの残り時間でもあります。ティナの「四番まで」というお願いに、その名残惜しさが出ています。",
+    "heading": "空港でゲートまでの道を聞く",
+    "editorialApproval": "pending"
+  },
+  "A1-60": {
+    "slug": "a1-60-saying-goodbye",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "105d9edf0a0e08eab46d99fbc2f30c21f93a4a87990bd8ba70fd4d67f15716ac",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I'll miss you.",
+        "explanation": "「会えなくなると寂しい」。離れる相手への気持ちを伝える表現です。"
+      },
+      {
+        "line": 3,
+        "phrase": "Will you message me",
+        "explanation": "「メッセージをくれる？」。messageを動詞として使っています。"
+      },
+      {
+        "line": 4,
+        "phrase": "As often as I can.",
+        "explanation": "「できるだけ頻繁に」。as often asで、可能な限り回数を重ねると答えます。"
+      }
+    ],
+    "note": "いつもの別れの挨拶が、星を隔ててもつながる約束へと変わります。フランクは二人らしいことばで、さよならに答えます。",
+    "heading": "離れる友達に気持ちを伝える",
+    "editorialApproval": "pending"
+  },
+  "A2-01": {
+    "slug": "a2-01-welcome-back",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "2999f1a272ea225d62ccddee171ff5bfc7f2cea5bec9656d493cc62f1033dd21",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "is that really you?",
+        "explanation": "「本当にあなたなの？」。思いがけない再会の驚きを伝えます。"
+      },
+      {
+        "line": 6,
+        "phrase": "I'm apartment hunting!",
+        "explanation": "「アパートを探しているの」。huntingを、住まいなどを探す意味で使っています。"
+      },
+      {
+        "line": 6,
+        "phrase": "What's the news?",
+        "explanation": "「何か変わったことは？」。相手の近況を聞くひとことです。"
+      }
+    ],
+    "note": "数年ぶりでも、コートもコーヒーの好みも変わりません。ラボの面接という近況が、二人の最初の出会いを思い出させます。",
+    "heading": "久しぶりの友達と再会する",
+    "editorialApproval": "pending"
+  },
+  "A2-02": {
+    "slug": "a2-02-new-apartment",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "05b2bf4d74d4ee42965946c501eb289e7e1bb03a6a09cdab6133faf54d78591c",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "you're free to repaint",
+        "explanation": "「自由に塗り直してよい」。free toは、ここでは無料ではなく自由を意味します。"
+      },
+      {
+        "line": 4,
+        "phrase": "was fully renovated last year",
+        "explanation": "「去年すっかり改装された」。受け身で、部屋に施された変更を説明しています。"
+      },
+      {
+        "line": 10,
+        "phrase": "Let me sleep on it.",
+        "explanation": "「一晩考えさせてください」。その場で決めず、少し考える時間を頼む表現です。"
+      }
+    ],
+    "note": "壁をピンクにできることに夢中のティナ。暖かさや家賃を確かめるフランクが、理想の部屋探しに現実の視点を添えます。",
+    "heading": "部屋の内見で条件を確かめる",
+    "editorialApproval": "pending"
+  },
+  "A2-03": {
+    "slug": "a2-03-have-you-seen-it",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "9a798efec1433950aa8bbe4bce25bb4532ebfc8e11cb2b4cc8d73e9869eee587",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Have you seen that show",
+        "explanation": "「あの番組を見たことがある？」。have you seenで、今までの視聴経験を尋ねます。"
+      },
+      {
+        "line": 1,
+        "phrase": "I'm obsessed.",
+        "explanation": "「すっかり夢中」。ここでは番組に強くはまっている気持ちを表します。"
+      },
+      {
+        "line": 7,
+        "phrase": "It made me cry",
+        "explanation": "「それで泣いてしまった」。make＋人＋動詞で、ある反応を引き起こしたと伝えます。"
+      }
+    ],
+    "note": "一番静かな場面が好きなフランクも、実は泣いていました。ティッシュを「君のため」と言い添えるところに、彼の照れがにじみます。",
+    "heading": "話題のドラマの感想を話す",
+    "editorialApproval": "pending"
+  },
+  "A2-04": {
+    "slug": "a2-04-lab-interview-practice",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "e7d4dd75836346081ead17e57bcecf17a1a49c727df1063451efac2959b33511",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "Tell me about yourself.",
+        "explanation": "「自己紹介をしてください」。面接で経歴や人物像を聞く問いかけです。"
+      },
+      {
+        "line": 8,
+        "phrase": "Take a deep breath.",
+        "explanation": "「深呼吸して」。落ち着くように促す表現です。"
+      },
+      {
+        "line": 10,
+        "phrase": "You've got this.",
+        "explanation": "「あなたならできる」。親しい相手を励ます口語です。"
+      }
+    ],
+    "note": "研究所の経験を伝えようとして、自分が作られた夜まで話すフランク。ティナは彼の正直さを残しつつ、面接らしい順番に整えようとします。",
+    "heading": "面接前に自己紹介を練習する",
+    "editorialApproval": "pending"
+  },
+  "A2-05": {
+    "slug": "a2-05-i-m-stuffed",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "a8d7134018da153c83ddc260b794d6ce5768d70c24c273c326ba7c0c2452895d",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I think I ate too much.",
+        "explanation": "「食べすぎたと思う」。too muchで、多すぎた量を表します。"
+      },
+      {
+        "line": 8,
+        "phrase": "walk it off",
+        "explanation": "「歩いて調子を戻す」。ここでは食べすぎの不快感を歩いて和らげるという会話上の表現です。"
+      },
+      {
+        "line": 9,
+        "phrase": "Way slower.",
+        "explanation": "「ずっとゆっくり」。wayは口語で比較級を強めます。"
+      }
+    ],
+    "note": "デザートの飾りが食べられる花かどうか、今回は確認したティナ。学んだことはあっても、食べる量の調整にはまだ苦労しているようです。",
+    "heading": "食べすぎたことを話す",
+    "editorialApproval": "pending"
+  },
+  "A2-06": {
+    "slug": "a2-06-talking-about-hometown",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "7936dc286adfb855c789de85807723ebff9c0acc70bc8059022feadf35422d92",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "smaller than the city",
+        "explanation": "「街より小さい」。比較級とthanで二つの場所を比べます。"
+      },
+      {
+        "line": 5,
+        "phrase": "That sounds lonely.",
+        "explanation": "「それは寂しそう」。soundsで、聞いた話から受ける印象を伝えます。"
+      },
+      {
+        "line": 6,
+        "phrase": "even farther",
+        "explanation": "「さらに遠い」。evenで比較の差を強め、fartherで距離を表します。"
+      }
+    ],
+    "note": "にぎやかなイメージのティナの故郷にも、静かな夜空があります。違う星の出身でも、二人には懐かしく思う空があるとわかります。",
+    "heading": "故郷と今の街を比べる",
+    "editorialApproval": "pending"
+  },
+  "A2-07": {
+    "slug": "a2-07-renting-a-car",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "28f61b276cb9e7ea5b3a599961bf086319514e077bac9ce596f9a2191b07738a",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "May I see your driver's license, please?",
+        "explanation": "「運転免許証を見せていただけますか？」。may Iで丁寧に確認を頼みます。"
+      },
+      {
+        "line": 7,
+        "phrase": "How much is it per day?",
+        "explanation": "「一日いくらですか？」。per dayで日ごとの料金を尋ねます。"
+      },
+      {
+        "line": 9,
+        "phrase": "Could I see it before I decide?",
+        "explanation": "「決める前に見てもいいですか？」。beforeで、決定より先にしたいことを示します。"
+      }
+    ],
+    "note": "免許証の出生地には「星のかなた」。フランクは小さな町と説明して、手続きを現実的な話へ戻そうとします。",
+    "heading": "レンタカーを借りる",
+    "editorialApproval": "pending"
+  },
+  "A2-08": {
+    "slug": "a2-08-i-ve-been-there",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "0262285546291a08acba85c43d57f973fca81f4f4c8be9fb5b2fe6502314602d",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I've been to Hawaii twice",
+        "explanation": "「ハワイに二回行ったことがある」。have been toに回数を添えて経験を話します。"
+      },
+      {
+        "line": 3,
+        "phrase": "Have you visited them?",
+        "explanation": "「その人たちを訪ねたことはある？」。現在完了で、これまでの経験を聞きます。"
+      },
+      {
+        "line": 8,
+        "phrase": "I've heard it's amazing.",
+        "explanation": "「すばらしいと聞いている」。人から聞いた評判を紹介する言い方です。"
+      }
+    ],
+    "note": "ハワイの「温かさ」を、人の温かさとして語るティナ。フランクの質問で、同じ形容詞にも違う意味があることが見えてきます。",
+    "heading": "旅行した経験を話す",
+    "editorialApproval": "pending"
+  },
+  "A2-09": {
+    "slug": "a2-09-booking-a-restaurant",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "02f67f08f4b636efa95a3b7d279e3051a645ab42bbb706b078be2faad41694a9",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I'd like to book a table near the window.",
+        "explanation": "「窓際の席を予約したいです」。book a tableでレストランを予約します。"
+      },
+      {
+        "line": 2,
+        "phrase": "For how many people?",
+        "explanation": "「何名様ですか？」。人数だけを短く確認する表現です。"
+      },
+      {
+        "line": 9,
+        "phrase": "do you take credit cards?",
+        "explanation": "「クレジットカードは使えますか？」。takeで、支払い方法を受け付けるか尋ねます。"
+      }
+    ],
+    "note": "眺めのいい席に喜ぶティナが、四人分の予約を二人で使うつもりに。フランクの食欲まで一人として数えてしまいます。",
+    "heading": "レストランを電話で予約する",
+    "editorialApproval": "pending"
+  },
+  "A2-10": {
+    "slug": "a2-10-new-hairstyle",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "3736a25ce1d50c8a9ec6fb68bd8128c5d99e1d09d02bda3fbf30b89cb6d93bf0",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "I did it myself",
+        "explanation": "「自分でやった」。myselfで、ほかの人に頼まずしたことを強めます。"
+      },
+      {
+        "line": 5,
+        "phrase": "How long did the whole thing take you?",
+        "explanation": "「全部でどのくらいかかった？」。終わった作業の所要時間を尋ねます。"
+      },
+      {
+        "line": 10,
+        "phrase": "Sit still",
+        "explanation": "「じっと座っていて」。stillは、ここでは動かずにという意味です。"
+      }
+    ],
+    "note": "自分で丁寧に髪を切ったフランクを、ティナが美容師に任命。自信はまだないものの、前髪だけならと引き受ける小さな交渉です。",
+    "heading": "新しい髪型を褒める",
+    "editorialApproval": "pending"
+  },
+  "A2-11": {
+    "slug": "a2-11-showing-photos",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "ed5de6618bf5e492108545e50b556d9de72a7f21db87716d5684b45c86a57418",
+    "learning": [
+      {
+        "line": 4,
+        "phrase": "in return",
+        "explanation": "「お返しに」。何かを受け取ったことへの応答を表します。"
+      },
+      {
+        "line": 7,
+        "phrase": "right away",
+        "explanation": "「すぐに」。父からの電話が間を置かずに来たと伝えています。"
+      },
+      {
+        "line": 9,
+        "phrase": "Distance doesn't matter",
+        "explanation": "「距離は関係ない」。matterは、重要である・影響するという意味の動詞です。"
+      }
+    ],
+    "note": "寺や湖の写真が、旅先での出来事や家族との電話を呼び戻します。フランクが残してほしい写真には、自分も写っています。",
+    "heading": "旅行写真を見ながら思い出す",
+    "editorialApproval": "pending"
+  },
+  "A2-12": {
+    "slug": "a2-12-at-the-gym",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "46f62c0fc220c49e093faeb4b0963d9f5f20e943aadd2e9778d9a81471ebdf5e",
+    "learning": [
+      {
+        "line": 3,
+        "phrase": "more important than weight",
+        "explanation": "「重さより重要」。比較級で、何を優先するかを説明します。"
+      },
+      {
+        "line": 4,
+        "phrase": "Will I get sore tomorrow?",
+        "explanation": "「明日は筋肉痛になりますか？」。get soreで、痛みが出る変化を表します。"
+      },
+      {
+        "line": 7,
+        "phrase": "at least two days a week",
+        "explanation": "「週に少なくとも二日」。at leastで最低限の数を示します。"
+      }
+    ],
+    "note": "休む日も練習の一部だと聞き、急にやる気になるティナ。トレーナーの説明を、自分の好きな休息の方向へ受け取っています。",
+    "heading": "ジムで練習の進め方を聞く",
+    "editorialApproval": "pending"
+  },
+  "A2-13": {
+    "slug": "a2-13-no-reply",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "26e7926232c163d6c4bdf6e31b49765237d7c71616f1314e38502172e50f1e66",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "hasn't replied in three days",
+        "explanation": "「三日間返事をしていない」。現在完了の否定で、今まで続く状態を表します。"
+      },
+      {
+        "line": 7,
+        "phrase": "I don't want to bother him.",
+        "explanation": "「彼の迷惑になりたくない」。botherは相手を困らせたり邪魔したりすることです。"
+      },
+      {
+        "line": 10,
+        "phrase": "Let's walk instead.",
+        "explanation": "「代わりに歩こう」。insteadで別の行動を提案します。"
+      }
+    ],
+    "note": "返事を待つティナに、フランクはメッセージを増やす前の休憩を提案。スマホを置いて歩こうという具体的な誘いで会話を締めます。",
+    "heading": "返信が来ない悩みを話す",
+    "editorialApproval": "pending"
+  },
+  "A2-14": {
+    "slug": "a2-14-cooking-class",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "db3f355b08fb4095bc9a6596e77c8aafe45b0ada0459389118abde88026497fc",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "until it's tender",
+        "explanation": "「柔らかくなるまで」。untilで、どんな状態になるまで続けるかを示します。"
+      },
+      {
+        "line": 7,
+        "phrase": "drain the pasta",
+        "explanation": "「パスタの湯を切る」。drainは水分を取り除く調理の動作です。"
+      },
+      {
+        "line": 8,
+        "phrase": "Can I taste it now?",
+        "explanation": "「今、味見してもいい？」。tasteを動詞にして、少し食べて確かめることを頼みます。"
+      }
+    ],
+    "note": "塩を一箱入れかけるティナを、講師が慌てて止めます。待ちきれない彼女の食欲が、手順を示す英語の合間から顔を出します。",
+    "heading": "料理の手順を聞く",
+    "editorialApproval": "pending"
+  },
+  "A2-15": {
+    "slug": "a2-15-concert-tickets",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "b0bec564ab1e65d10afc6de7fde5ca3b3b7f08586e75eb075d8f86d253ca09a3",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "guess what",
+        "explanation": "「ねえ、聞いて」。うれしい知らせの前に相手の注意を引く表現です。"
+      },
+      {
+        "line": 2,
+        "phrase": "sell out in minutes",
+        "explanation": "「数分で売り切れる」。sell outでチケットなどが完売することを表します。"
+      },
+      {
+        "line": 8,
+        "phrase": "I'm in.",
+        "explanation": "「参加するよ」。誘いや計画に乗る、短い口語です。"
+      }
+    ],
+    "note": "一時間かけてチケットを取ったティナは、夜の予定まで準備済み。フランクは自分の分だとわかると、彼女らしい歌声にも備えます。",
+    "heading": "コンサートに友達を誘う",
+    "editorialApproval": "pending"
+  },
+  "A2-16": {
+    "slug": "a2-16-complaining-about-noise",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "654184be0b4b2b823d13509fe819c457c715e97977c98943a1bfce52f21ac5bd",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "The people next door",
+        "explanation": "「隣の人たち」。next doorで、隣の部屋や家を表します。"
+      },
+      {
+        "line": 5,
+        "phrase": "The line was always busy.",
+        "explanation": "「電話がずっと話し中でした」。busyは電話がつながらない状態にも使います。"
+      },
+      {
+        "line": 6,
+        "phrase": "a quieter room",
+        "explanation": "「もっと静かな部屋」。比較級で改善してほしい条件を示します。"
+      }
+    ],
+    "note": "あまり眠らないフランクにも、静かな夜は必要です。落ち着いた説明に彼自身の出自の話が混ざり、受付係を少し戸惑わせます。",
+    "heading": "ホテルで騒音を相談する",
+    "editorialApproval": "pending"
+  },
+  "A2-17": {
+    "slug": "a2-17-group-chat-problem",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "f28be3dcb46a72db7f12c46c416bca7f557e95c12810f0b77147675b8d055beb",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "You look upset.",
+        "explanation": "「動揺しているようだね」。lookに形容詞を続け、相手の様子を伝えます。"
+      },
+      {
+        "line": 4,
+        "phrase": "What started it?",
+        "explanation": "「何がきっかけだった？」。争いや出来事の始まりを尋ねます。"
+      },
+      {
+        "line": 6,
+        "phrase": "Did she apologize?",
+        "explanation": "「彼女は謝った？」。apologizeは謝罪するという動詞です。"
+      }
+    ],
+    "note": "傷つけたあとに退出しても、問題は消えないと考えるフランク。二人は出来事を整理し、まず誰に声をかけるかへ進みます。",
+    "heading": "グループチャットの問題を話す",
+    "editorialApproval": "pending"
+  },
+  "A2-18": {
+    "slug": "a2-18-computer-trouble",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "89133874d1ca22b957ec731a7fac81837efd3f6f1770028e20589cc828b621df",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "hasn't worked since this morning",
+        "explanation": "「今朝から動かない」。sinceで、不具合が始まった時点を示します。"
+      },
+      {
+        "line": 6,
+        "phrase": "Have you restarted the computer?",
+        "explanation": "「パソコンを再起動しましたか？」。対処をすでに試したか尋ねます。"
+      },
+      {
+        "line": 8,
+        "phrase": "a screenshot of the error",
+        "explanation": "「エラーのスクリーンショット」。不具合を画像で伝えるときの表現です。"
+      }
+    ],
+    "note": "サポート担当者が直せるのはメールの機能。四ページのメッセージを送る相手から返事が来るかは、別の問題として残ります。",
+    "heading": "パソコンの不具合を説明する",
+    "editorialApproval": "pending"
+  },
+  "A2-19": {
+    "slug": "a2-19-pulling-an-all-nighter",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "f7664a7192b6e49e6b03bb65e3932c0c6537ce461886458defbc984e50464e96",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I haven't slept since Tuesday morning!",
+        "explanation": "「火曜の朝から寝ていない！」。現在完了とsinceで続いている状態を表します。"
+      },
+      {
+        "line": 3,
+        "phrase": "so much work left",
+        "explanation": "「残っている作業がたくさん」。leftは、ここでは残っているという意味です。"
+      },
+      {
+        "line": 9,
+        "phrase": "The paper's due tomorrow!",
+        "explanation": "「レポートの締め切りは明日！」。dueで提出期限を伝えます。"
+      }
+    ],
+    "note": "コーヒーとお菓子で課題を続けるティナを、フランクは休ませようとします。起こす時間まで引き受けることで、彼女の心配に応えます。",
+    "heading": "徹夜している友達を心配する",
+    "editorialApproval": "pending"
+  },
+  "A2-20": {
+    "slug": "a2-20-book-club-meeting",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "e98524893122b99fb49f11a899c987880b7a7b3e7e4f79ea0f95b5d04d9af332",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "What did you think of the novel?",
+        "explanation": "「その小説をどう思った？」。think ofで感想や評価を尋ねます。"
+      },
+      {
+        "line": 6,
+        "phrase": "out of nowhere",
+        "explanation": "「どこからともなく、突然」。予想しない登場のしかたを表します。"
+      },
+      {
+        "line": 8,
+        "phrase": "It reminded me of us.",
+        "explanation": "「私たちのことを思い出した」。remind＋人＋ofで、連想した対象を伝えます。"
+      }
+    ],
+    "note": "小説に現れる人物を話すうち、ティナは二人の出会いを重ねます。フランクが覚えている最初のことばに、物語の記憶が戻ります。",
+    "heading": "読んだ小説の感想を共有する",
+    "editorialApproval": "pending"
+  },
+  "A2-21": {
+    "slug": "a2-21-volunteer-work",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "3e893f8f30a6cfe314f3eb6a5d6db97c27386d316d74de0469b19681cfc155e1",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "Do I need to bring any tools myself?",
+        "explanation": "「道具は自分で持っていく必要がありますか？」。need toで必要な準備を尋ねます。"
+      },
+      {
+        "line": 4,
+        "phrase": "What kind of work will I do?",
+        "explanation": "「どんな仕事をしますか？」。what kind ofで内容の種類を聞きます。"
+      },
+      {
+        "line": 5,
+        "phrase": "picking up litter",
+        "explanation": "「ごみを拾うこと」。pick upで落ちている物を拾い上げます。"
+      }
+    ],
+    "note": "雑草を抜くにも、フランクは間違った植物を抜かないよう確かめます。丁寧すぎる質問が、作業時間の見積もりまで変えてしまいます。",
+    "heading": "ボランティアの活動内容を聞く",
+    "editorialApproval": "pending"
+  },
+  "A2-22": {
+    "slug": "a2-22-fashion-disaster",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "f4f270e28beb521bb4f94da91fc05f1d33e205a66e569cf887ecb6d2d1f91788",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "way too long for me",
+        "explanation": "「私には長すぎる」。wayを加え、too longを口語的に強めます。"
+      },
+      {
+        "line": 5,
+        "phrase": "out of place",
+        "explanation": "「場違い、ちぐはぐ」。服装のほか、周囲となじまないものにも使います。"
+      },
+      {
+        "line": 6,
+        "phrase": "swap the shoes",
+        "explanation": "「靴を取り替える」。swapで、別の物に交換する動作を表します。"
+      }
+    ],
+    "note": "全部が失敗に見えるティナに、フランクは靴だけ替えればよいと提案。彼がいつも服選びに迷わない理由は、意外に単純です。",
+    "heading": "服の組み合わせを相談する",
+    "editorialApproval": "pending"
+  },
+  "A2-23": {
+    "slug": "a2-23-asking-neighbors",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "c7fa271b1ba6fed546e16fb0f8e2805de188f411461afd9c68b32f9fdd7e1817",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I just moved in.",
+        "explanation": "「引っ越してきたばかりです」。move inは新しい住まいに入ることです。"
+      },
+      {
+        "line": 1,
+        "phrase": "Where's the recycling area?",
+        "explanation": "「リサイクル置き場はどこですか？」。共用設備の場所を尋ねています。"
+      },
+      {
+        "line": 4,
+        "phrase": "please rinse them out first",
+        "explanation": "「まずすすいでください」。rinse outで容器の中を水ですすぐことを表します。"
+      }
+    ],
+    "note": "引っ越してきたばかりなのに、フランクは住民より規則に詳しい様子。助けを求める会話が、最後には助けを申し出る会話になります。",
+    "heading": "隣人に建物のルールを尋ねる",
+    "editorialApproval": "pending"
+  },
+  "A2-24": {
+    "slug": "a2-24-crush-update",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "792965b4cdff73ad32432928ad0a7225de8f5ebf936fb9f6f63561574a9deadb",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "You should go watch a game.",
+        "explanation": "「試合を見に行くといいよ」。shouldで行動をすすめます。"
+      },
+      {
+        "line": 3,
+        "phrase": "I've already memorized the whole schedule!",
+        "explanation": "「予定はもう全部暗記した！」。alreadyで、すでに済ませたことを強調します。"
+      },
+      {
+        "line": 7,
+        "phrase": "I know it by heart.",
+        "explanation": "「暗記しているよ」。by heartは、記憶してすらすら言える状態です。"
+      }
+    ],
+    "note": "相手の試合予定も好みも暗記しているティナ。フランクのコーヒーだって覚えていると返すところに、親友同士の遠慮のなさが出ています。",
+    "heading": "好きな人の近況を話す",
+    "editorialApproval": "pending"
+  },
+  "A2-25": {
+    "slug": "a2-25-travel-insurance",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "c99491532a7d57bb8648a5bf0dc4a5e6a79e175e8d39180d00dd81e731534fef",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "This plan covers medical care and lost luggage.",
+        "explanation": "「このプランは医療と荷物紛失を補償する」。coverは保険などが範囲に含めるという意味です。"
+      },
+      {
+        "line": 2,
+        "phrase": "What's the limit for medical care?",
+        "explanation": "「医療の上限はいくらですか？」。limitで適用される上限を尋ねます。"
+      },
+      {
+        "line": 10,
+        "phrase": "I brought two highlighters.",
+        "explanation": "「マーカーを二本持ってきました」。broughtはbringの過去形です。"
+      }
+    ],
+    "note": "生年月日の欄から、自分が作られた日の話へ進むフランク。長い規約も歓迎する慎重さが、手続きの場面に彼らしい笑いを作ります。",
+    "heading": "旅行保険の条件を確かめる",
+    "editorialApproval": "pending"
+  },
+  "A2-26": {
+    "slug": "a2-26-lost-my-phone",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "92e3be20cff194f5f5890461ee5c394394330405736190321f75227d3626954f",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "Have you checked the bus stop?",
+        "explanation": "「バス停は確認した？」。すでに探した場所を現在完了で尋ねます。"
+      },
+      {
+        "line": 5,
+        "phrase": "It goes straight to voicemail.",
+        "explanation": "「すぐ留守番電話になる」。straight toで、ほかを経由せず直接つながることを表します。"
+      },
+      {
+        "line": 6,
+        "phrase": "backed up in the cloud",
+        "explanation": "「クラウドにバックアップされている」。ここでcloudは空の雲ではなく、インターネット上の保存先です。"
+      }
+    ],
+    "note": "写真がクラウドにあると聞き、空の雲を探しかけるティナ。フランクは、同じことばに二つの意味がある地球の事情を説明します。",
+    "heading": "なくしたスマホを探す",
+    "editorialApproval": "pending"
+  },
+  "A2-27": {
+    "slug": "a2-27-lost-luggage",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "c51d93f558ec1b93e44b1e36c44200eb76dbe875cdce42c610bb198190b00fbe",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "my bag never came out on the belt",
+        "explanation": "「バッグがベルトに出てきませんでした」。荷物を受け取れなかった状況を説明します。"
+      },
+      {
+        "line": 5,
+        "phrase": "You really can't miss it.",
+        "explanation": "「見逃しようがありません」。とても目立つ物や場所について使います。"
+      },
+      {
+        "line": 8,
+        "phrase": "by mistake",
+        "explanation": "「間違って」。意図せず起きた誤りを表します。"
+      }
+    ],
+    "note": "目立つピンクのバッグには、代わりのない故郷の星図も。荷物だけがパリに行ったと知ったティナは、驚きをユーモアで返します。",
+    "heading": "空港で出てこない荷物を届け出る",
+    "editorialApproval": "pending"
+  },
+  "A2-28": {
+    "slug": "a2-28-mom-s-calling",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "90cfb06b14b69bff43e03b5d6c9eed05e2cd88da8fcb31510e7fc7cf8875a534",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I was just studying",
+        "explanation": "「ちょうど勉強していた」。過去進行形で、電話の前にしていたことを説明します。"
+      },
+      {
+        "line": 6,
+        "phrase": "Put him on.",
+        "explanation": "「彼に代わって」。電話をその人に渡してほしいという口語です。"
+      },
+      {
+        "line": 8,
+        "phrase": "Tina finished her project",
+        "explanation": "「ティナは課題を終えました」。finishedで完了したことを報告しています。"
+      }
+    ],
+    "note": "「挨拶だけ」のはずが、フランクはティナの勉強も食事も丁寧に報告。母に気に入られ、訪問先は別の惑星まで広がります。",
+    "heading": "電話を友達に代わる",
+    "editorialApproval": "pending"
+  },
+  "A2-29": {
+    "slug": "a2-29-hosting-a-guest",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "aa49acdd85e5d630ded79302010a45697cd069d36cfea4d4403a4af80e95dc4c",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Try this tea",
+        "explanation": "「このお茶を飲んでみて」。tryで、食べ物や飲み物を試すようすすめます。"
+      },
+      {
+        "line": 2,
+        "phrase": "it smells like my favorite latte",
+        "explanation": "「好きなラテの匂いがする」。smell likeで匂いの似ている物を伝えます。"
+      },
+      {
+        "line": 9,
+        "phrase": "visit again next weekend",
+        "explanation": "「来週末また来て」。againと次の時期を添え、再訪を誘います。"
+      }
+    ],
+    "note": "ティナのために二度練習したケーキ。フランクの控えめな説明にも、友達を迎える時間を大切に準備したことが伝わります。",
+    "heading": "友達をお茶とケーキで迎える",
+    "editorialApproval": "pending"
+  },
+  "A2-30": {
+    "slug": "a2-30-asking-for-refund",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "b5bd40c7babff65cd989afd27efd8a083748937639e4fe061fce1758692cd697",
+    "learning": [
+      {
+        "line": 3,
+        "phrase": "I'd like a full refund, please.",
+        "explanation": "「全額返金をお願いします」。full refundで、全額の払い戻しを希望します。"
+      },
+      {
+        "line": 4,
+        "phrase": "Have you tried to fix it yourself?",
+        "explanation": "「自分で直そうとしましたか？」。試した対処を現在完了で確認します。"
+      },
+      {
+        "line": 6,
+        "phrase": "back in one piece",
+        "explanation": "「元の一つの形に戻って」。ここでは分解した物が組み直されているか尋ねています。"
+      }
+    ],
+    "note": "修理しようと分解した結果、ネジが三本余った商品。返金の相談の中で、手伝ったフランクの存在感が大きくなっていきます。",
+    "heading": "壊れた商品の返金を頼む",
+    "editorialApproval": "pending"
+  },
+  "A2-31": {
+    "slug": "a2-31-tiktok-famous",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "2e131e5fbc8958f411fdd27b67fe436e168a1b14cab6127ba37b5de6a69250cd",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "My video went viral overnight!",
+        "explanation": "「動画が一晩で拡散した！」。go viralはネットで急速に広まることです。"
+      },
+      {
+        "line": 3,
+        "phrase": "Half a million views",
+        "explanation": "「50万回の再生」。millionは100万、half a millionはその半分です。"
+      },
+      {
+        "line": 7,
+        "phrase": "Three companies messaged me today.",
+        "explanation": "「今日、三社から連絡が来た」。messageを連絡する動詞として使っています。"
+      }
+    ],
+    "note": "ティナがからかう単調な話し方が、ネットでは落ち着くと好評に。見た目も話し方もそのまま受け入れられ、フランクが驚く回です。",
+    "heading": "動画が話題になったことを伝える",
+    "editorialApproval": "pending"
+  },
+  "A2-32": {
+    "slug": "a2-32-changing-reservation",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "b4e5328a7d8cb4e25bf0f564f36a6bc5f30e827ba67b1bf05a83a239b312963e",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "could I change the reservation I made yesterday?",
+        "explanation": "「昨日した予約を変更できますか？」。変更したい予約を後ろから説明しています。"
+      },
+      {
+        "line": 2,
+        "phrase": "What's the booking number?",
+        "explanation": "「予約番号は何ですか？」。booking numberは予約を特定する番号です。"
+      },
+      {
+        "line": 5,
+        "phrase": "Could you move it to next Saturday?",
+        "explanation": "「来週の土曜日に変えられますか？」。moveで日程を移すことを頼みます。"
+      }
+    ],
+    "note": "予約人数を増やすだけでなく、デザートから離れた席も頼むフランク。以前のティナの行動を踏まえた、細やかな座席の交渉です。",
+    "heading": "レストランの予約を変更する",
+    "editorialApproval": "pending"
+  },
+  "A2-33": {
+    "slug": "a2-33-roommate-problems",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "5f0e5c2d96d3372b01cadffab0eb8e09bcc3416f55f5ed0596ac552f35beb730",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "Have you talked to her about it directly?",
+        "explanation": "「本人に直接話した？」。have youで、すでに試した話し合いを尋ねます。"
+      },
+      {
+        "line": 4,
+        "phrase": "the shared chore chart",
+        "explanation": "「共有の家事分担表」。choreは日常の家事や雑用です。"
+      },
+      {
+        "line": 10,
+        "phrase": "one calm, final talk",
+        "explanation": "「最後に一度、落ち着いて話すこと」。calmで話し合いの雰囲気を示しています。"
+      }
+    ],
+    "note": "皿を洗わない同居人に困るティナへ、フランクは自分の番号管理を紹介。彼は一人暮らしなので、その方法だけでは問題が解けません。",
+    "heading": "ルームメイトとの家事を相談する",
+    "editorialApproval": "pending"
+  },
+  "A2-34": {
+    "slug": "a2-34-workplace-training",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "090afb77330aea48e90a3942d3abfc88570ed8a725c5298e598cd22f999a1d79",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "How long will it take each day?",
+        "explanation": "「一日どのくらいかかりますか？」。each dayを添え、日ごとの所要時間を聞きます。"
+      },
+      {
+        "line": 4,
+        "phrase": "Should I prepare anything beforehand?",
+        "explanation": "「前もって何か準備すべきですか？」。beforehandは事前にという意味です。"
+      },
+      {
+        "line": 6,
+        "phrase": "I have a few questions.",
+        "explanation": "「いくつか質問があります」。説明のあとに質問へ入る表現です。"
+      }
+    ],
+    "note": "事前準備は不要と言われても、フランクは手引きを熟読済み。細かな矛盾まで見つける新人に、担当者のほうが驚かされます。",
+    "heading": "職場の研修について質問する",
+    "editorialApproval": "pending"
+  },
+  "A2-35": {
+    "slug": "a2-35-too-much-screen-time",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "42f28a448fead0a50b6ca79ded8ef1b13b359da336cc83e16e7451d991ea4e50",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I've been scrolling for three hours!",
+        "explanation": "「三時間ずっとスクロールしている！」。現在完了進行形で続けてきた動作を話します。"
+      },
+      {
+        "line": 4,
+        "phrase": "Turn off the auto-play setting.",
+        "explanation": "「自動再生の設定を切って」。turn offで機能を停止します。"
+      },
+      {
+        "line": 5,
+        "phrase": "I might miss something important!",
+        "explanation": "「大事なものを見逃すかも！」。mightで可能性への心配を表しています。"
+      }
+    ],
+    "note": "大切な動画を見逃したくないティナですが、見ていたのは身近なフランクの動画。彼の指摘が、時間の使い方を見直すきっかけになります。",
+    "heading": "スマホを見る時間について話す",
+    "editorialApproval": "pending"
+  },
+  "A2-36": {
+    "slug": "a2-36-recommending-a-book",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "c2195a8743802debedac48095fe29d261d7c7d65eef1e2c37e06ac9d9bb50aa7",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "Tell me more.",
+        "explanation": "「もっと聞かせて」。相手の話に興味を示して続きを促します。"
+      },
+      {
+        "line": 4,
+        "phrase": "Can I borrow it?",
+        "explanation": "「それを借りていい？」。borrowは自分が借りるときの動詞です。"
+      },
+      {
+        "line": 7,
+        "phrase": "return it by Friday",
+        "explanation": "「金曜日までに返す」。byで期限を示しています。"
+      }
+    ],
+    "note": "本を貸すのに返却の契約まで用意するフランク。過去の経験から学ぶ彼に、ティナもピンクのペンで応じます。",
+    "heading": "面白かった本をすすめる",
+    "editorialApproval": "pending"
+  },
+  "A2-37": {
+    "slug": "a2-37-library-late-fee",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "acb5e34854d50c4d39f416a380e50992b3b8488d52aff795ab5b4c9745624d01",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "three days overdue",
+        "explanation": "「期限を三日過ぎている」。overdueは返却や支払いの期限超過を表します。"
+      },
+      {
+        "line": 5,
+        "phrase": "Once you pay the fee",
+        "explanation": "「料金を払えば」。onceで、あることが済んだ後の条件を示します。"
+      },
+      {
+        "line": 8,
+        "phrase": "May I have a receipt?",
+        "explanation": "「領収書をいただけますか？」。may I haveで丁寧に受け取りを頼みます。"
+      }
+    ],
+    "note": "料金を払えば終わる手続きも、フランクには初めての失敗の記録。受領書を保管する理由まで、彼の几帳面さが表れます。",
+    "heading": "図書館の延滞料金を払う",
+    "editorialApproval": "pending"
+  },
+  "A2-38": {
+    "slug": "a2-38-hangover",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "41e824963a6613d7afc1aae7a50eef348198b1839aebaea0bba0abac4879566d",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "your head's pounding",
+        "explanation": "「頭ががんがんする」。poundingは強く脈打つような感じを表します。"
+      },
+      {
+        "line": 5,
+        "phrase": "I lost count",
+        "explanation": "「数がわからなくなった」。数える途中で見失ったときの表現です。"
+      },
+      {
+        "line": 10,
+        "phrase": "I'm gonna sit with you.",
+        "explanation": "「一緒に座っているよ」。gonnaはgoing toのくだけた形で、親しい会話で使われています。"
+      }
+    ],
+    "note": "昨夜の飲み物の数を思い出せないティナ。フランクは自分との違いを口にしつつ、朝食を用意してそばに座ります。",
+    "heading": "昨夜のことと今の調子を話す",
+    "editorialApproval": "pending"
+  },
+  "A2-39": {
+    "slug": "a2-39-fixing-a-bike",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "837adf02fefa275724347fce44902736942be2d69fb79de1b66c12c721321491",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "How much will it cost?",
+        "explanation": "「いくらかかりますか？」。修理などの費用を事前に聞きます。"
+      },
+      {
+        "line": 4,
+        "phrase": "Could you also check the brakes?",
+        "explanation": "「ブレーキも確認してもらえますか？」。alsoで追加の依頼を添えます。"
+      },
+      {
+        "line": 10,
+        "phrase": "Call me when it's ready.",
+        "explanation": "「できたら電話してください」。whenで、連絡してほしい時点を示します。"
+      }
+    ],
+    "note": "ボルト一つの緩む周期まで記録するフランク。細かさに驚く整備士も、転ばずに走りたいという理由には納得します。",
+    "heading": "自転車の修理を頼む",
+    "editorialApproval": "pending"
+  },
+  "A2-40": {
+    "slug": "a2-40-awkward-moment",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "6fd2ccb1c1651f5f302b2fd345c9c2bdd4d43e8d23ae11edf8631bc2eef07d3d",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "an awkward moment",
+        "explanation": "「気まずい瞬間」。awkwardで、居心地の悪い状況を表します。"
+      },
+      {
+        "line": 3,
+        "phrase": "caught me passing a note",
+        "explanation": "「メモを回しているところを見つけた」。catch＋人＋動詞ingで、している最中を見つけることです。"
+      },
+      {
+        "line": 7,
+        "phrase": "out loud",
+        "explanation": "「声に出して」。黙読ではなく音読することを表します。"
+      }
+    ],
+    "note": "授業中のメモを見つかったフランク。恥ずかしかった話のはずが、その中身はみんなに好評だった数学の冗談でした。",
+    "heading": "気まずかった出来事を話す",
+    "editorialApproval": "pending"
+  },
+  "A2-41": {
+    "slug": "a2-41-pharmacy-advice",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "6454eed8ee02eca1f245a4763584891863e0f2b1e08cfb638d07680b85721007",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "twice a day",
+        "explanation": "「一日に二回」。回数を表すtwiceに、一日あたりを意味するa dayを添えます。"
+      },
+      {
+        "line": 2,
+        "phrase": "Before or after meals?",
+        "explanation": "「食前ですか、食後ですか？」。食事とのタイミングを確認する質問です。"
+      },
+      {
+        "line": 6,
+        "phrase": "Should I take it with water?",
+        "explanation": "「水で飲むべきですか？」。薬を飲むときのtakeを使った確認表現です。"
+      }
+    ],
+    "note": "薬の効果を魔法のように受け取るティナ。フランクは具体的な飲み方を確かめ、最後まで薬と魔法を区別しようとします。",
+    "heading": "薬局で飲み方を確認する",
+    "editorialApproval": "pending"
+  },
+  "A2-42": {
+    "slug": "a2-42-i-need-caffeine",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "4cb4bf92b62f4c393636fc9fc390985c01cfa6b22d7d397cbf1004e76f01fe0f",
+    "learning": [
+      {
+        "line": 3,
+        "phrase": "fall asleep at my desk",
+        "explanation": "「机で寝落ちする」。fall asleepは眠りに落ちる変化を表します。"
+      },
+      {
+        "line": 5,
+        "phrase": "I'm really nervous about my deadline tomorrow.",
+        "explanation": "「明日の締め切りがとても心配」。nervous aboutで緊張や不安の対象を伝えます。"
+      },
+      {
+        "line": 7,
+        "phrase": "finish the last chapter tonight",
+        "explanation": "「今夜、最後の章を仕上げる」。finishに具体的な作業と期限を添えています。"
+      }
+    ],
+    "note": "コーヒーを増やしたいティナに、フランクは別の気分転換を提案。いつも飲んでいる本人が、真似をしないでと返すところが笑いになります。",
+    "heading": "締め切り前の焦りを話す",
+    "editorialApproval": "pending"
+  },
+  "A2-43": {
+    "slug": "a2-43-internet-setup",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "2a35245d516a5ea460703f5944d7e044027c1ce5e27c0508c76a81df18b0c2a2",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "I've already plugged it into the wall.",
+        "explanation": "「もう壁の差込口につなぎました」。plug intoで電源などに接続することを表します。"
+      },
+      {
+        "line": 5,
+        "phrase": "Could you read me the message?",
+        "explanation": "「そのメッセージを読んでもらえますか？」。画面の表示を口頭で伝えてもらう依頼です。"
+      },
+      {
+        "line": 7,
+        "phrase": "One moment, please.",
+        "explanation": "「少々お待ちください」。確認や作業の間、待ってもらう丁寧な表現です。"
+      }
+    ],
+    "note": "厳しいルールを尊重するフランクですが、仮パスワードの簡単さには不満。つながって喜ぶティナと、まだ議論する彼の差が出ます。",
+    "heading": "ネット接続のエラーを相談する",
+    "editorialApproval": "pending"
+  },
+  "A2-44": {
+    "slug": "a2-44-workout-buddy",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "2971ed8abc5dac5edf1f01a6841e903adf753c71eafad4dcefbf69ca95d92c81",
+    "learning": [
+      {
+        "line": 3,
+        "phrase": "I'm improving faster than him",
+        "explanation": "「彼より速く上達している」。比較級で進み方の違いを伝えます。"
+      },
+      {
+        "line": 5,
+        "phrase": "He never skips a workout.",
+        "explanation": "「彼は練習を欠かさない」。skipは予定していたことを飛ばす意味です。"
+      },
+      {
+        "line": 9,
+        "phrase": "more protein, less junk food",
+        "explanation": "「たんぱく質を多く、ジャンクフードを少なく」。moreとlessで量の変化を対比します。"
+      }
+    ],
+    "note": "継続が大切だと聞いたティナは、相手に勝つまで続けると約束。勝ったらやめるという条件まで、最初から含めたつもりでした。",
+    "heading": "運動の上達を友達と比べる",
+    "editorialApproval": "pending"
+  },
+  "A2-45": {
+    "slug": "a2-45-donating-clothes",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "b5c029b6b9eecdc84687bc521841be3d5b6671aac0c5043e60d3a99182032dd0",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "families in need",
+        "explanation": "「支援を必要とする家族」。in needで、助けが必要な状態を表します。"
+      },
+      {
+        "line": 5,
+        "phrase": "recycled separately",
+        "explanation": "「別にリサイクルされる」。separatelyはほかと分けてという意味です。"
+      },
+      {
+        "line": 10,
+        "phrase": "I'm ready to let it go.",
+        "explanation": "「手放す心の準備ができた」。let goは、ここでは持ち続けていた物を手放すことです。"
+      }
+    ],
+    "note": "学生時代に二人を温めたコートを、次の人へ渡すティナ。思い出を失うのではなく、誰かを温める役目を託す場面です。",
+    "heading": "大切にしていた服を寄付する",
+    "editorialApproval": "pending"
+  },
+  "A2-46": {
+    "slug": "a2-46-online-shopping-fails",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "34de2e296f46fb46fb0b63a672383b5e31a9c64f8c241f8c576737c332ec3ea1",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "How is it different from the picture?",
+        "explanation": "「写真とどう違うの？」。different fromで比較する対象を示します。"
+      },
+      {
+        "line": 4,
+        "phrase": "the shoulders fit me perfectly",
+        "explanation": "「肩がぴったり合う」。fitは服の大きさが合うことを表します。"
+      },
+      {
+        "line": 11,
+        "phrase": "They were on sale!",
+        "explanation": "「セールだったの！」。on saleで値引きして売られていたと伝えます。"
+      }
+    ],
+    "note": "ティナには大きすぎたジャケットも、フランクにはぴったり。うまく収まりそうなところで、三着買ったという新しい問題が出てきます。",
+    "heading": "通販で届いた服について話す",
+    "editorialApproval": "pending"
+  },
+  "A2-47": {
+    "slug": "a2-47-vet-visit",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "3dbe8f95cc930f1e9fa5d8dc992cec8e008f083f80a27c9e9994766f28ee9bed",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "He hasn't eaten his dog food since yesterday.",
+        "explanation": "「昨日からドッグフードを食べていない」。sinceで、続いている状態の始まりを示します。"
+      },
+      {
+        "line": 2,
+        "phrase": "Has he eaten anything else?",
+        "explanation": "「ほかに何か食べましたか？」。anything elseで別の可能性を確かめます。"
+      },
+      {
+        "line": 5,
+        "phrase": "a very small piece",
+        "explanation": "「ほんの小さな一切れ」。pieceで食べ物などの一部分を数えます。"
+      }
+    ],
+    "note": "ドッグフードを食べない犬には、ほかのごちそうがたくさん。少しずつ明かされる食事の記録から、誰が誰を訓練しているのかが逆転します。",
+    "heading": "動物病院で様子を説明する",
+    "editorialApproval": "pending"
+  },
+  "A2-48": {
+    "slug": "a2-48-crying-at-movies",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "a81eb2c7eacbda773932ec36d79703b8ab1bfa08529995e819bd5ebe82d8f85f",
+    "learning": [
+      {
+        "line": 4,
+        "phrase": "I'll admit",
+        "explanation": "「認めるけれど」。少し抵抗のあることを認める際に添える表現です。"
+      },
+      {
+        "line": 5,
+        "phrase": "found its way home",
+        "explanation": "「家へたどり着いた」。find one's wayで道を見つけて目的地に着くことを表します。"
+      },
+      {
+        "line": 12,
+        "phrase": "If I'm honest.",
+        "explanation": "「正直に言うと」。本音を伝える前後に添えられます。"
+      }
+    ],
+    "note": "泣いていないと言い張るフランクも、ティナの短い呼びかけには隠しきれません。派手な反応と小さな告白の対比を味わう回です。",
+    "heading": "感動した映画の感想を話す",
+    "editorialApproval": "pending"
+  },
+  "A2-49": {
+    "slug": "a2-49-asking-for-time-off",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "17a69a5ba102def3d4fb7421e5432ae0ea4e3364f5931d2d0d5092c33d9495f2",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Could I take Friday off next week, please?",
+        "explanation": "「来週の金曜日に休みを取れますか？」。take a day offは一日休暇を取ることです。"
+      },
+      {
+        "line": 8,
+        "phrase": "Can you finish the project before Friday?",
+        "explanation": "「金曜日より前に終えられますか？」。beforeで期限より前という条件を示します。"
+      },
+      {
+        "line": 9,
+        "phrase": "by Thursday evening",
+        "explanation": "「木曜の夕方までに」。byはその時点までを期限にする表現です。"
+      }
+    ],
+    "note": "親友と過ごす日を、上司はデートだと思い込みます。フランクは仕事の締め切りにも答えながら、誤解を最後まで訂正します。",
+    "heading": "職場で休暇を申請する",
+    "editorialApproval": "pending"
+  },
+  "A2-50": {
+    "slug": "a2-50-new-tattoo",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "e15112c0289b9f3058cee3b27e9a90b1650bbe14b131437c3b216409642321c8",
+    "learning": [
+      {
+        "line": 5,
+        "phrase": "carry home with me",
+        "explanation": "「故郷を身につけて持ち歩く」。ここでは星の絵を通して、故郷を近くに感じる表現です。"
+      },
+      {
+        "line": 6,
+        "phrase": "Did it hurt?",
+        "explanation": "「痛かった？」。hurtで、痛みがあったか尋ねます。"
+      },
+      {
+        "line": 9,
+        "phrase": "six times",
+        "explanation": "「六回」。数にtimesを添えて、起きた回数を示します。"
+      }
+    ],
+    "note": "故郷の星を身につけたティナ。勇敢だったという自己評価を詳しく聞くうちに、フランクは別の人の勇気を見つけます。",
+    "heading": "新しいタトゥーを見せる",
+    "editorialApproval": "pending"
+  },
+  "A2-51": {
+    "slug": "a2-51-school-application",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "149a77e10a96d397ae9a89cde88df7634eb9b1eaf4ddfc378ce2d37796a787d6",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "Please fill out this form",
+        "explanation": "「この用紙に記入してください」。fill outはフォームの欄を埋めることです。"
+      },
+      {
+        "line": 2,
+        "phrase": "Which course should I choose?",
+        "explanation": "「どのコースを選ぶとよいですか？」。whichとshouldで選択の助言を求めます。"
+      },
+      {
+        "line": 8,
+        "phrase": "Do I need any documents?",
+        "explanation": "「必要な書類はありますか？」。documentsは手続きに使う書類です。"
+      }
+    ],
+    "note": "会話を上達させたいティナは、料金や書類を順番に確認。いつもの出生地の記載が、受付係にとっては初めてのケースになります。",
+    "heading": "語学学校のコースに申し込む",
+    "editorialApproval": "pending"
+  },
+  "A2-52": {
+    "slug": "a2-52-cancelled-plans",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "a28e1de24cbd1e372e0aeef95e5d19bc310a4fc81db7120df41d25512220954a",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "at the last minute",
+        "explanation": "「直前になって」。予定の寸前のタイミングを表します。"
+      },
+      {
+        "line": 8,
+        "phrase": "they need space",
+        "explanation": "「一人になる余裕が必要」。spaceを、人との距離や心の余裕という意味で使います。"
+      },
+      {
+        "line": 10,
+        "phrase": "tell her how you really feel",
+        "explanation": "「本当の気持ちを彼女に話す」。how you feelで感じていることを伝えます。"
+      }
+    ],
+    "note": "友達にも事情があると考えるフランクは、ティナ自身の傷ついた気持ちも伝えるよう促します。もっともらしい助言の出どころが、最後に明かされます。",
+    "heading": "直前のキャンセルについて相談する",
+    "editorialApproval": "pending"
+  },
+  "A2-53": {
+    "slug": "a2-53-phone-plan-change",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "7469028a5fd1a2106b0ecdd443739174b050f768a72d060c2d7875e6ea48a546",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "How much will I save every month?",
+        "explanation": "「毎月どのくらい節約できますか？」。saveで、減らせる支出を尋ねます。"
+      },
+      {
+        "line": 4,
+        "phrase": "Will my phone number stay the same?",
+        "explanation": "「番号は同じままですか？」。stay the sameで変わらない状態を表します。"
+      },
+      {
+        "line": 9,
+        "phrase": "when does the new plan start?",
+        "explanation": "「新しいプランはいつ始まりますか？」。現在形で決まっている開始日を尋ねます。"
+      }
+    ],
+    "note": "安くなるという相談から、ティナは番号も変わると早合点。彼の番号を暗記していることが、慌てた理由とともにわかります。",
+    "heading": "携帯電話のプランを確認する",
+    "editorialApproval": "pending"
+  },
+  "A2-54": {
+    "slug": "a2-54-late-to-class-again",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "c1dac2a275eea3747b27f11d7582799d8c5bcea22ca0ab5ecb810637c940c9ee",
+    "learning": [
+      {
+        "line": 3,
+        "phrase": "I waited on the platform for fifteen minutes.",
+        "explanation": "「ホームで15分待った」。forを使って待った時間を伝えます。"
+      },
+      {
+        "line": 5,
+        "phrase": "because of the rain",
+        "explanation": "「雨のために」。because ofの後ろには、理由となる名詞を続けます。"
+      },
+      {
+        "line": 9,
+        "phrase": "I'll leave home earlier tomorrow.",
+        "explanation": "「明日はもっと早く家を出る」。earlierで今までより早い行動を表します。"
+      }
+    ],
+    "note": "電車の遅れを説明するティナは、早めに出る代わりに授業の時刻を早く教えてもらう案を出します。フランクの返しで、その作戦にも穴が見つかります。",
+    "heading": "遅刻の理由を説明する",
+    "editorialApproval": "pending"
+  },
+  "A2-55": {
+    "slug": "a2-55-reporting-a-theft",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "560014662710f706e477add5ca2e724fcae488d39557e5189b33f9929cd5d742",
+    "learning": [
+      {
+        "line": 2,
+        "phrase": "Where did it happen?",
+        "explanation": "「どこで起きましたか？」。出来事が起きた場所を尋ねます。"
+      },
+      {
+        "line": 4,
+        "phrase": "What did the man look like?",
+        "explanation": "「その男はどんな見た目でしたか？」。look likeで外見の特徴を聞きます。"
+      },
+      {
+        "line": 11,
+        "phrase": "I take that back.",
+        "explanation": "「今の評価は取り消すよ」。以前に言ったことを撤回するときの表現です。"
+      }
+    ],
+    "note": "名前を大きく書いた派手なバッグが、今回は探す手がかりになります。ティナの目立つ好みに、フランクも評価を改めます。",
+    "heading": "被害の状況と持ち物を説明する",
+    "editorialApproval": "pending"
+  },
+  "A2-56": {
+    "slug": "a2-56-doctor-s-visit",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "d01081e777efb7c07c4b4bc914c0b8e277018399d7a4734a35f59f196023e040",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "how long have you had this pain?",
+        "explanation": "「この痛みはどのくらい続いていますか？」。現在完了で症状の継続期間を尋ねます。"
+      },
+      {
+        "line": 7,
+        "phrase": "Has the pain gotten worse since yesterday?",
+        "explanation": "「昨日より痛みは悪化しましたか？」。get worseで状態の悪化を表します。"
+      },
+      {
+        "line": 13,
+        "phrase": "What a relief.",
+        "explanation": "「ほっとした」。心配がなくなったときのひとことです。"
+      }
+    ],
+    "note": "本人より先に答えてしまうほど心配なティナ。フランクは腹痛だけでなく、夜に静かに休めるという診察結果にもほっとします。",
+    "heading": "診察で症状の経過を伝える",
+    "editorialApproval": "pending"
+  },
+  "A2-57": {
+    "slug": "a2-57-end-of-semester",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "e27fb6f06bcab4dd6548ea8f55b8107e09f0e698ce5bc2e414e94cf7707691fe",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I've finally finished all the exams",
+        "explanation": "「ついに試験を全部終えた」。finallyが待ち望んだ完了を強調します。"
+      },
+      {
+        "line": 3,
+        "phrase": "I haven't slept well lately.",
+        "explanation": "「最近よく眠れていない」。latelyは最近の状態を現在完了で話すときに使えます。"
+      },
+      {
+        "line": 11,
+        "phrase": "How long does the fun last?",
+        "explanation": "「楽しい時間はどのくらい続くの？」。lastを動詞にして継続時間を尋ねます。"
+      }
+    ],
+    "note": "休むことまで予定表にするフランク。自由時間を楽しみにするティナに、遊べる時間を分単位で伝えるところが彼らしい返しです。",
+    "heading": "試験後の休みの予定を話す",
+    "editorialApproval": "pending"
+  },
+  "A2-58": {
+    "slug": "a2-58-fitness-goals",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "32343cb0331a82da1fd8d1d13cf73333b985d9765c610593969adb238198c2c3",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "aim for a stronger core",
+        "explanation": "「より強い体幹を目指す」。aim forで目標を示します。"
+      },
+      {
+        "line": 6,
+        "phrase": "Should I do more cardio or use heavier weights?",
+        "explanation": "「有酸素運動を増やすか、重さを増やすか」。orで二つの選択肢を比べて相談します。"
+      },
+      {
+        "line": 9,
+        "phrase": "Stick with the plan",
+        "explanation": "「計画を続ける」。stick withは、途中でやめず取り組み続けるという意味です。"
+      }
+    ],
+    "note": "体幹を鍛える話も、写真写りが良くなると聞くとティナは前向きに。毎日の変化を求める彼女は、最後にポーズの変化で応じます。",
+    "heading": "ジムで新しい目標を相談する",
+    "editorialApproval": "pending"
+  },
+  "A2-59": {
+    "slug": "a2-59-train-delay-announcement",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "434faa8fd7669b327a73bf2f19c6d00325b2140de1e74b787be502b389e8df96",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "due to bad weather",
+        "explanation": "「悪天候のため」。due toで原因を説明する、案内によく出る表現です。"
+      },
+      {
+        "line": 3,
+        "phrase": "How long is the delay?",
+        "explanation": "「どのくらい遅れていますか？」。delayで遅延の長さを確認します。"
+      },
+      {
+        "line": 8,
+        "phrase": "Keep it short and simple.",
+        "explanation": "「短く簡潔にして」。連絡の内容を絞るようにすすめます。"
+      }
+    ],
+    "note": "遅延を大事件として職場に伝えたティナですが、タクシーなら間に合うかもしれません。大げさな連絡のあとで、別の気まずさが生まれます。",
+    "heading": "電車の遅延について尋ねる",
+    "editorialApproval": "pending"
+  },
+  "A2-60": {
+    "slug": "a2-60-year-end-greeting",
+    "reviewStatus": "agent-reviewed",
+    "sourceRevision": "0f3834389e57af639efa0a37069ed1c94f4ad10074ea59a6884a1216af98ee87",
+    "learning": [
+      {
+        "line": 1,
+        "phrase": "I want to thank everyone",
+        "explanation": "「みんなに感謝したい」。thankを動詞として使い、感謝を伝える相手を続けます。"
+      },
+      {
+        "line": 4,
+        "phrase": "Same here.",
+        "explanation": "「私も同じ」。相手の気持ちや経験に重ねる短い返事です。"
+      },
+      {
+        "line": 12,
+        "phrase": "To next year.",
+        "explanation": "「来年に乾杯」。toで、乾杯や願いを向ける対象を示します。"
+      }
+    ],
+    "note": "感謝する人の一覧からティナを外しかけた理由は、毎日助けてくれた人だから。フランクの几帳面さが、まっすぐな感謝を伝える形になります。",
+    "heading": "一年の感謝を伝える",
+    "editorialApproval": "pending"
+  }
+}

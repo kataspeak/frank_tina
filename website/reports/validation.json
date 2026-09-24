@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "htmlPages": 129,
+  "episodes": 120,
+  "bilingualBlocks": 1336,
+  "sfx": 21,
+  "expressions": 360,
+  "webpFiles": 360,
+  "sitemapUrls": 127,
+  "stateCombinations": 16,
+  "parserNegativeCases": 5,
+  "sourceNotesHandled": 2,
+  "problems": [],
+  "materialRevision": "cef671d758eb080e8e5d135fd986dfac851ffc80dca4715387fd04ad98c9106c",
+  "browserChecks": "See browser-validation.json and VALIDATION.md. This script alone does not claim browser QA."
+}

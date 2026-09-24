@@ -1,0 +1,14 @@
+{
+  "brand": "FrankenDojo",
+  "brandByline": "by KataSpeak",
+  "includedLevels": ["A1", "A2"],
+  "previewOrigin": "http://localhost:4321",
+  "productionOrigin": null,
+  "release": {"siteApproved": false, "webTraining": false, "ios": false, "android": false, "billing": false},
+  "app": {"lessonUrlTemplate": null, "routeConfirmed": false},
+  "stores": {"ios": null, "android": null},
+  "signup": {"endpoint": null, "privacyUrl": null, "consentText": null, "integrationVerified": false},
+  "links": {"operator": "https://seiwait.com", "terms": null, "privacy": null, "contact": null},
+  "pricing": {"monthlyYen": 200, "trialDays": 14, "productVerified": false},
+  "publication": {"requiredLevels": ["A1", "A2", "B1", "B2"], "requiredEpisodeCount": 240}
+}
