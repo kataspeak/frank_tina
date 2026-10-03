@@ -1,6 +1,0 @@
-{
-  "filesChecked": 201,
-  "broken": [],
-  "decoder": "Pillow Image.verify, bundled runtime; web build uses cwebp",
-  "scope": "images/ including OLD; visual review limited to the 120 selected illustrations"
-}

@@ -2,7 +2,7 @@
 
 サイトの説明・デモは `content/features.json` に集約した。FrankenDojoの現行コードとテストを優先し、`docs/AppSpec.md`、`docs/sleep_practice.md` と照合した。アプリ側のファイルは変更していない。下記の参照先は制作時の根拠であり、サイト生成時には読み込まない。
 
-参照ルート：`/Users/Yoshio/StudioProjects/FrankenDojo/`。参照ファイルのSHA-256は [app-reference.json](reports/redesign-2026-09-27/app-reference.json) に保存。アプリのテストは内容を参照したもので、今回Flutterテストや実機テストを実行したという意味ではない。
+参照ルート：`/Users/Yoshio/StudioProjects/FrankenDojo/`。参照ファイルのSHA-256は ローカルの `reports/redesign-2026-09-27/app-reference.json`（Git管理対象外） に保存。アプリのテストは内容を参照したもので、今回Flutterテストや実機テストを実行したという意味ではない。
 
 | ページ | 採用した説明 | 現行コード・テスト（参照ルートからの相対パス） |
 |---|---|---|

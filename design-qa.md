@@ -1,5 +1,7 @@
 # サイト改善のDesign QA — 2026-09-27
 
+この文書は制作時のQA記録です。以下の `website/reports/` 内の証拠はローカル保存・Git管理対象外のため、新しいチェックアウトには含まれません。再検証の手順は [README.md](website/README.md) を参照してください。
+
 **Findings**
 
 現時点で未解決のP0/P1/P2指摘はない。トップのポスター構成と提供素材を維持し、スマホでは文字・フランク・ロゴを縦に再配置した。
@@ -8,16 +10,16 @@
 
 - Source visual truth: `reference_material/ref_website/assets/FrankenDojoWeb-0485870.webp`（5300×3070）および `ref_web.md`。
 - Implementation: `http://127.0.0.1:4321/ja/`。ホーム8機能の入口と `/ja/features/<slug>/`。
-- 実装キャプチャ: [PC](website/reports/redesign-2026-09-27/screenshots/home-1440.jpg)、[スマホ](website/reports/redesign-2026-09-27/screenshots/home-390.jpg)。
-- 同じ入力内の比較: [参考画像とヒーロー](website/reports/redesign-2026-09-27/screenshots/comparison-final.jpg)、[PCとスマホ](website/reports/redesign-2026-09-27/screenshots/comparison-responsive.jpg)。比較HTMLも同フォルダに保存。
+- 実装キャプチャ: PC（`website/reports/redesign-2026-09-27/screenshots/home-1440.jpg`）、スマホ（`website/reports/redesign-2026-09-27/screenshots/home-390.jpg`）。
+- 同じ入力内の比較: 参考画像とヒーロー（`website/reports/redesign-2026-09-27/screenshots/comparison-final.jpg`）、PCとスマホ（`website/reports/redesign-2026-09-27/screenshots/comparison-responsive.jpg`）。比較HTMLも同フォルダに保存。
 - Viewport: 1440×1000、768×1000、390×844、320×844。実画像は1425×990、753×980、375×812、305×804（キャプチャからブラウザのスクロールバー等が除かれる）。取得時の画像サイズを確認し、リサイズ途中のキャプチャは不採用。
 - Normalization: 参考画像とPCのヒーローを同じ約1.73の縦横比・同じCSS表示幅へ縮小。実装のヘッダーは比較HTML内で除外。元画像を1:1ピクセル比較するものではなく、構成・タイポグラフィの比較。画像はスクリーンショットのまま、比較用CSSで表示範囲を調整した。
 - State: ログインなし・未公開プレビュー・ダーク背景・ヒーロー演出終了後。スマホ画像は指定の縦配置。デモは操作中と停止中の状態を別途確認。
-- Focused evidence: [デモ操作](website/reports/redesign-2026-09-27/screenshots/shadowing-1440.jpg)、[320pxのボタン](website/reports/redesign-2026-09-27/screenshots/materials-320.jpg)、[JavaScriptなしの説明](website/reports/redesign-2026-09-27/screenshots/no-js-768.jpg)。ヒーロー内の見出し・ロゴは比較画像で十分読めるため、さらに小さい領域への切り出しは不要。
+- Focused evidence: デモ操作（`website/reports/redesign-2026-09-27/screenshots/shadowing-1440.jpg`）、320pxのボタン（`website/reports/redesign-2026-09-27/screenshots/materials-320.jpg`）、JavaScriptなしの説明（`website/reports/redesign-2026-09-27/screenshots/no-js-768.jpg`）。ヒーロー内の見出し・ロゴは比較画像で十分読めるため、さらに小さい領域への切り出しは不要。
 
 **Comparison history**
 
-1. 初回比較：P2。英語見出しが参考より小さく、右上の余白が過大。ロゴが低すぎた。[初回実装](website/reports/redesign-2026-09-27/screenshots/desktop-initial.jpg) と参考を `comparison-initial.html` で並べて実見。見出しを5.75vwから7.2vwへ、ロゴ上端を64%から57%へ調整し、語間の幅を確保した。
+1. 初回比較：P2。英語見出しが参考より小さく、右上の余白が過大。ロゴが低すぎた。初回実装（`website/reports/redesign-2026-09-27/screenshots/desktop-initial.jpg`） と参考を `comparison-initial.html` で並べて実見。見出しを5.75vwから7.2vwへ、ロゴ上端を64%から57%へ調整し、語間の幅を確保した。
 2. スマホ初回実見：P2。ティナと筆文字が重なり、文節の途中で日本語見出しが改行された。本チャットの初回390pxスクリーンショットで確認。ティナをフランクの右へ移動し、見出しに文節単位の折り返しを追加。導入文のスマホ文字サイズも調整した。
 3. 修正後比較：上記の最終比較画像と320・390・768・1440pxを確認。参考の主要領域、画像、色、改行階層を保ち、重なり・横はみ出しは解消。この構成比較に基づく指摘は解消。
 
@@ -33,13 +35,13 @@
 | Image quality / fidelity | 提供された5種類の画像を使用。ロゴ・人物・リングをCSS/SVGの模造画像へ置換していない。透過・縦横比・顔の表示を確認。既存物語画像は確認済みSHA-256を維持 |
 | Copy / content | 指定4コピーを保持。準備中の公開状況を表示。機能説明は現行コード・テストに対応し、想起のピンクノイズ、未達と進行、無発話停止の区別を説明 |
 
-日本語の折り返し・フォーカスの修正後証拠：[390pxの機能カード](website/reports/redesign-2026-09-27/screenshots/controls-390.jpg)。
+日本語の折り返し・フォーカスの修正後証拠：390pxの機能カード（`website/reports/redesign-2026-09-27/screenshots/controls-390.jpg`）。
 
 **Interactions / accessibility**
 
 8デモの切り替え、再生・停止・再実行・ステップ送り、空の学習リスト、キーボードのTab/Enter、戻り時のフォーカス、HOMEと履歴の位置復元、直接訪問、幅変更、保存禁止時のアンカー復帰を確認。通常サイト操作のコンソールerrorは0件。全詳細の静的説明と通常リンクをJavaScriptなしで表示。減速設定の分岐は専用fixtureで停止・手動操作を確認した。
 
-詳細な結果・範囲・未実施環境は [VALIDATION.md](website/reports/redesign-2026-09-27/VALIDATION.md)。実OSの減速設定切り替え、実機アプリ、他ブラウザ固有の試験はこのWeb実装QAには含めていない。
+詳細な結果・範囲・未実施環境は ローカルの `website/reports/redesign-2026-09-27/VALIDATION.md`。実OSの減速設定切り替え、実機アプリ、他ブラウザ固有の試験はこのWeb実装QAには含めていない。
 
 **Open Questions**
 

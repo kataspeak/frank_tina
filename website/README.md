@@ -40,7 +40,8 @@ python3 -m http.server 4321 --bind 127.0.0.1 --directory dist
 | `content/images.json` | 明示的な採用ファイル、日英alt、焦点位置、採用根拠、実見時ハッシュ |
 | `config.json` | ローカル用の初期設定。外部URL・公開状態の集約先 |
 | `scripts/validate.py` | 生成HTML・原本対応・内部リンク・教材境界・設定切替などの検証 |
-| `reports/` | 検証結果、画像棚卸し、未完了事項、PC・スマホの画面 |
+| `ASSET_AUDIT.md` | 画像選定・ID補正の判断根拠。Gitで保持する保守資料 |
+| `reports/` | ローカルの検証結果・スクリーンショット。生成入力・配信対象ではなく、Git管理対象外 |
 | `.cache/material.json` | 形式バージョンと教材リビジョンを持つ、原本由来の生成データ。配信対象外 |
 | `.cache/images/` | 画像ハッシュ・サイズをキーにしたWebPキャッシュ。配信対象外 |
 | `dist/` | 配信用生成物。手編集しない。Git管理対象外 |
@@ -76,7 +77,7 @@ python3 -m http.server 4321 --bind 127.0.0.1 --directory dist
 4. 画像を変更した場合は実見し、採用パス・日英alt・焦点・`reviewedSha256` を更新します。複数候補から更新日時だけで選びません。
 5. 再生成・検証を実行し、`reports/` と実画面を確認します。
 
-今回、A2の15話でファイル名のIDと画像内容が食い違っていました。現行台本の内容と照合し、**原画像を改名せず** `sourceEpisodeId` 付きで明示的に対応を補正しました。詳しくは [画像監査](reports/ASSET_AUDIT.md) を参照してください。一覧画像は全体表示を基本にして顔の切れを防ぎ、詳細では縦横比を保って全体を表示します。
+今回、A2の15話でファイル名のIDと画像内容が食い違っていました。現行台本の内容と照合し、**原画像を改名せず** `sourceEpisodeId` 付きで明示的に対応を補正しました。詳しくは [画像監査](ASSET_AUDIT.md) を参照してください。一覧画像は全体表示を基本にして顔の切れを防ぎ、詳細では縦横比を保って全体を表示します。
 
 演技タグは既知の許可リストで扱い、未知の角括弧を一括削除しません。SFXは位置と内容を保持し、発話とは別の表示にします。A1-47後の設定メモとA1-49後の注釈は、既知の制作資料として監査に保存し、発話本文には出しません。
 
@@ -109,13 +110,19 @@ python3 scripts/build.py --production --config config.local.json
 
 通常ビルドは全ページ `noindex,nofollow`、robotsは全体を拒否します。XMLサイトマップも確認用originで生成されます。本番URLでのサイトマップ提出・検索登録は未実施です。公開用ビルドが失敗しても、直前のローカル出力を本番成果物として使わないでください。
 
-## 検証結果
+## 検証と結果の保存
 
-[検証記録とスクリーンショット](reports/VALIDATION.md) を参照してください。コード・台本・画像の変更後には改めて検証が必要です。元資料で確認済みの本文と、今回追加した解説の最終編集確認は別の状態として管理しています。
+コード・台本・画像の変更後には、上記のビルドと `python3 scripts/validate.py` を再実行してください。原本と英文・対訳・話者・SFXの一致、120話のIDと前後リンク、学習表現、画像、内部リンク、メタデータ、公開条件を検証します。成功は `reports/validation.json` の `success` と終了コードで確認します。
+
+`reports/` は実行時に自動作成され、検証JSON・スクリーンショット・過去の確認記録をローカルに保存します。既存レポートは生成入力ではなく、Gitにも配信物にも含めません。新しいチェックアウトには過去の記録はありません。`--report-dir` で保存先を変更できます。
+
+自動検証だけでブラウザ確認の完了とは扱いません。320 / 390 / 768 / 1440pxで横はみ出し・画像表示を確認し、検索・和訳切替・キーボード操作・デモ・HOME復帰・JavaScript無効時の表示・動きを減らす設定も確認します。必要な画面や結果はローカルの `reports/` に保存してください。
+
+元資料で確認済みの本文と、サイト追加解説・画像対応の最終編集確認は別の状態として管理しています。画像選定の判断根拠は [画像監査](ASSET_AUDIT.md) に保持します。
 
 ## 2026-09-27のサイト改善
 
-ポスターに合わせたトップと、8種類の機能詳細・操作デモを追加しました。機能説明はFrankenDojoのコードとテストを参照して作成しました。参照先はビルド依存に含めていません。根拠と更新箇所は [機能説明の制作メモ](FEATURE_SOURCES.md)、今回の確認結果は [検証記録](reports/redesign-2026-09-27/VALIDATION.md) を参照してください。以前の検証レポートは保持しています。
+ポスターに合わせたトップと、8種類の機能詳細・操作デモを追加しました。機能説明はFrankenDojoのコードとテストを参照して作成しました。参照先はビルド依存に含めていません。根拠と更新箇所は [機能説明の制作メモ](FEATURE_SOURCES.md) を参照してください。制作時の検証記録はローカルの `reports/redesign-2026-09-27/` に保持しています（Git管理対象外）。
 
 今回と同じ出力先で検証する場合：
 
@@ -136,7 +143,7 @@ Poppins ExtraBoldとNoto Sans JP（400・700）は `static/fonts/` から配信�
 
 `static/opening.js` とトップの専用マークアップで制御します。`static/animations/frankendojo_opening.riv` は `../output/rive/frankendojo-opening/frankendojo_opening.riv` の配信用コピーです。元のRiveを更新した場合はこのコピーも更新してください。アートボードは `FrankenDojo Opening`、ステートマシンは `Opening Player`、尺は2秒です。尺を変更した場合は `opening.js` の停止時間も更新します。
 
-公式 `@rive-app/canvas` 2.43.1（MIT、ライセンス同梱）とWASMを `static/vendor/rive-2.43.1/` からローカル配信します。トップ以外では読み込みません。通常ビルド・閲覧時にCDNへ接続しません。検証は `node scripts/test_opening.cjs` と既存のPython検証、記録は [Rive組み込みの確認記録](reports/rive-opening-2026-09-27/VALIDATION.md) を参照してください。
+公式 `@rive-app/canvas` 2.43.1（MIT、ライセンス同梱）とWASMを `static/vendor/rive-2.43.1/` からローカル配信します。トップ以外では読み込みません。通常ビルド・閲覧時にCDNへ接続しません。検証は `node scripts/test_opening.cjs` と既存のPython検証、制作時の確認記録はローカルの `reports/rive-opening-2026-09-27/` に保存しています（Git管理対象外）。
 
 
 ## Cloudflare Pagesへのサイト先行公開（2026-09-29）
@@ -164,4 +171,4 @@ wrangler pages deploy website/dist --project-name frankendojo --branch main --co
 
 この実行環境では `--force` なしのPagesコマンドが新しいWorkers配備へ委譲されるため、既定のPagesサイトへ配置するために指定しました。今回使用したCLIは隣接アプリの `tools/web/node_modules/.bin/wrangler` です。別環境では同じバージョンの公式CLIを使用してください。資格情報をリポジトリ・配信物へ入れないでください。
 
-記録: [Cloudflare配置の検証](reports/cloudflare-2026-09-29/VALIDATION.md)。
+制作時の配置確認記録はローカルの `reports/cloudflare-2026-09-29/` に保存しています（Git管理対象外）。再配置時にはビルド・検証後、公開URLの表示とHTTP応答も確認してください。
