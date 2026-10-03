@@ -1,0 +1,71 @@
+{
+  "簡単": "1.0倍",
+  "普通": "0.8倍\n0.8倍\n1.0倍",
+  "困難": "0.6倍\n0.6倍\n0.6倍\n0.8倍\n0.8倍\n1.0倍",
+  "speedStep": "2 / 7 ステップ",
+  "speedRestart": "1 / 7 ステップ",
+  "normalVisit": {
+    "focus": "",
+    "hash": "",
+    "y": 0
+  },
+  "chunkStart": "LISTEN\n\n模範再生\n思い出す時間\n発話\n1セット完了\nチャンク 1 / 3 を聞く\n\n3つのチャンクに分かれたフレーズの例です。",
+  "chunkEnd": "ONE SET\n\n模範再生\n思い出す時間\n発話\n1セット完了\n全チャンクで、1セット完了\n\n次のセットがあれば、最初のチャンクから練習します。",
+  "phraseMode": "1 / 4 ステップ",
+  "repeatCounts": {
+    "簡単": "1セット",
+    "普通": "1セット\n2セット",
+    "困難": "1セット\n2セット\n3セット"
+  },
+  "repeatMax": 10,
+  "repeatMin": 1,
+  "lessonsInitial": "レッスン 01\nレッスン 03\nレッスン 04",
+  "lessonsEmpty": "WAITING\n\n練習対象がありません\n\nレッスンを学習中にすると、練習リストに戻ります。",
+  "emptyDisabled": true,
+  "lessonsRestored": "レッスン 02",
+  "sleepOptions": [
+    "15分30分60分90分",
+    "1分3分5分"
+  ],
+  "sleepStop": "QUIET STOP\n\n練習開始\n発話を記録\n静かに停止\n翌朝に確認\n発話が途切れたら停止\n\n無発話1分、または開始から最大15分で停止。模範再生・一時停止などは無発話の計測から除きます。",
+  "sleepMorning": "GOOD MORNING\n\n練習開始\n発話を記録\n静かに停止\n翌朝に確認\n翌朝の小さな手応え\n\n発話時間（推定）と履歴を振り返ります。",
+  "materialEdit": "MAKE IT YOURS\n\n音源\n解析\n区切り編集\n練習\n波形で確認・編集\n\n聞きながら調整し、確認完了で確定。",
+  "materialEnd": "PRACTICE\n\n音源\n解析\n区切り編集\n練習\n声に出して練習\n\nいつものシャドーイング・リピーティングへ。",
+  "consoleErrors": [],
+  "noJs": {
+    "demoVisible": false,
+    "menu": "簡単：1.0 倍\n\n普通：0.8 → 0.8 → 1.0 倍\n\n困難：0.6 → 0.6 → 0.6 → 0.8 → 0.8 → 1.0 倍"
+  },
+  "storageUnavailableHome": "/ja/#feature-shadowing",
+  "storageUnavailableReturn": {
+    "focus": "learn-shadowing",
+    "top": 12.296875
+  },
+  "reducedMotion": {
+    "playLabel": "再生",
+    "initial": "1 / 4 ステップ",
+    "manualNext": "2 / 4 ステップ",
+    "restart": "1 / 4 ステップ",
+    "stillPaused": "再生"
+  },
+  "history": {
+    "beforeBack": {
+      "focus": "learn-speech-detection",
+      "y": 2855
+    },
+    "afterBack": {
+      "focus": "learn-speech-detection",
+      "y": 2855.5
+    }
+  },
+  "manualPauseAfterAutoStart": {
+    "before": "2 / 4 ステップ",
+    "after": "2 / 4 ステップ",
+    "playLabel": "再生"
+  },
+  "repeatOrderGuard": {
+    "easyMinimum": 1,
+    "hardMaximum": 10,
+    "hardOneDisabledWhileNormalTwo": true
+  }
+}

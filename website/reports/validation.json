@@ -1,5 +1,5 @@
 {
-  "success": true,
+  "success": false,
   "htmlPages": 129,
   "episodes": 120,
   "bilingualBlocks": 1336,
@@ -10,7 +10,12 @@
   "stateCombinations": 16,
   "parserNegativeCases": 5,
   "sourceNotesHandled": 2,
-  "problems": [],
+  "problems": [
+    "配信禁止形式: .DS_Store",
+    "配信禁止形式: .DS_Store",
+    "配信禁止形式: .DS_Store",
+    "配信禁止形式: .DS_Store"
+  ],
   "materialRevision": "cef671d758eb080e8e5d135fd986dfac851ffc80dca4715387fd04ad98c9106c",
   "browserChecks": "See browser-validation.json and VALIDATION.md. This script alone does not claim browser QA."
 }

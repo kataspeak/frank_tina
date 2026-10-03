@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-27",
+  "root": "/Users/Yoshio/StudioProjects/FrankenDojo",
+  "referenceOnly": true,
+  "appTestsExecuted": false,
+  "sha256": {
+    "docs/AppSpec.md": "f3caad0a7489d02642e488e6478ad9c654e3987785dce31d42596e9070e46ca8",
+    "docs/sleep_practice.md": "42fddd6d1e1a1caba63d1453991d6637b1b4219e50c5171021f22a417d6ac303",
+    "docs/course_authoring_flow.md": "ab221eff08cbb9f71078cf1ad18f26180ad15fa09ce185db02b3b0638bad384c",
+    "lib/domain/lesson/usecases/start_lesson_practice_usecase.dart": "f0980435a834da758af80af3b9bcaa91e3a3e0993816307be8dc4dc8017a3acd",
+    "test/domain/lesson/usecases/start_lesson_practice_usecase_test.dart": "69fe54add70b393e6b510061622f5282fd01eeea49fc5d9446af26ccb8e7359a",
+    "lib/domain/lesson/services/phrase_endpoint_detector.dart": "91072d1b96830bb3b483e6dd21c251889af717d70f6abbbc674fc954571cc5c5",
+    "test/domain/lesson/services/phrase_endpoint_detector_test.dart": "5a5f39f713c353274edfa7a0d54d33c6c930b9c92b300e46566eeeaef22f3580",
+    "lib/domain/settings/value_objects/phrase_endpoint_settings.dart": "4956dd454930760774832aa1c1dc3b4ee97400d67fe6bebb2e162094c77dcd74",
+    "lib/application/app_state/app_state_signals.dart": "05d43ea0472d707ebc32dc2d6a95ecf372c79f93bb7706352917a3c81df8dc20",
+    "lib/domain/lesson/value_objects/practice_settings.dart": "c8103c348242520b590b9ffceebf4ccee989d17e4fa2187971fabbfd039366dd",
+    "lib/domain/settings/value_objects/repeat_settings.dart": "43e1b748cbe57556dbdaaa43999e43d50e3784b77702a5db838a340ba0be4183",
+    "lib/presentation/lesson/playback/viewmodels/lesson_playback_viewmodel.dart": "827db39ecd1ad593bc38204bd4ebd0b86c8f9cff2c66fe421f025c60313d88e2",
+    "lib/presentation/course/playback/viewmodels/course_playback_viewmodel.dart": "999af0970df714d6856fac762bb730feeecb0f30a81dcf9199b0e7630c823bec",
+    "test/presentation/course/playback/viewmodels/course_playback_viewmodel_test.dart": "a89b7983cb3b16c8a11058cdbae40fe93b0bd10de03f4c801d66c8cf672598cf",
+    "lib/domain/sleep_practice/entities/sleep_practice_session.dart": "b3a492295819eab50e832d44dab2b485d431efd6982a161d4714edb1cefdf7ff",
+    "lib/domain/sleep_practice/usecases/sleep_practice_usecase.dart": "0d42166276c1b7ba279e1bbd62e6d27fb54caff312156f9c957d41a8637a53a8",
+    "lib/presentation/sleep_practice/sleep_practice_viewmodel.dart": "5cea31556106b9c509533a70f41140c64d59252c62a86ceaec993f133a699597",
+    "lib/application/sleep_practice/sleep_practice_stopper.dart": "c262ea6395f984aea02b9a868a60563d72d8a855c46b73678774900106c2c317",
+    "test/domain/sleep_practice/sleep_practice_usecase_test.dart": "9a5862ae8e134637b096c688b7062fe2a230da744c1c486e1a8276693d98f99d",
+    "test/application/sleep_practice/sleep_practice_stopper_test.dart": "299bba2496fc538ed103adae5785afa6cb21117474a2f33389a0bb6fbed6107b",
+    "lib/domain/lesson/services/lesson_editor_service.dart": "be576787a525d22464a0600af175211855b1ad0914aa4036811646788875cb61"
+  },
+  "mechanicallyComparedConstants": {
+    "shadowSpeeds.easy": [
+      1.0
+    ],
+    "shadowSpeeds.normal": [
+      0.8,
+      0.8,
+      1.0
+    ],
+    "shadowSpeeds.hard": [
+      0.6,
+      0.6,
+      0.6,
+      0.8,
+      0.8,
+      1.0
+    ],
+    "repeatCounts.easy": 1,
+    "repeatCounts.normal": 2,
+    "repeatCounts.hard": 3
+  }
+}

@@ -19,6 +19,7 @@ WEB = ROOT / 'website'
 def load_config(path=None, production=False):
     config=json.loads((path or WEB/'config.json').read_text())
     config['production']=production
+    config['indexable']=production and config.get('searchIndexing', True)
     config['origin']=(config['productionOrigin'] if production else config['previewOrigin'])
     if not config['origin']:
         raise ValueError('本番ドメインが未設定です')
@@ -97,7 +98,9 @@ def write_page(path, html):
     target=WEB/'dist'/path.strip('/')/'index.html'
     target.parent.mkdir(parents=True,exist_ok=True); target.write_text(html)
 
-def build(config):
+def build(config, report_dir=None):
+    report_dir = report_dir or WEB/'reports'
+    report_dir.mkdir(parents=True, exist_ok=True)
     material=parse_sources(); episodes=material['episodes']
     meta=json.loads((WEB/'content/episodes.json').read_text())
     images=json.loads((WEB/'content/images.json').read_text())
@@ -117,14 +120,20 @@ def build(config):
     if len({templates.url(ep) for ep in episodes}) != len(episodes): raise ValueError('URL重複')
     if config['production']:
         blockers=publication_blockers(config,episodes)
+        if config.get('prelaunchOnly') and (WEB/'dist/app').exists():
+            blockers.append('先行公開の配信先にappが存在します。アプリを含む出力は配置できません。')
         if blockers: raise ValueError('本番公開ゲート:\n'+'\n'.join(blockers))
     output=WEB/'dist'; output.mkdir(exist_ok=True)
     # Clean only generator-owned directories. /app is never touched.
     for owned in ('ja','assets'):
         if (output/owned).exists(): shutil.rmtree(output/owned)
     (output/'assets/images').mkdir(parents=True,exist_ok=True)
-    for p in (WEB/'static').iterdir():
-        if p.is_file(): shutil.copyfile(p,output/'assets'/p.name)
+    for p in (WEB/'static').rglob('*'):
+        if p.is_file() and p.suffix in {'.css', '.js', '.webp', '.woff2', '.txt', '.riv', '.wasm'}:
+            target = output/'assets'/p.relative_to(WEB/'static')
+            target.parent.mkdir(parents=True,exist_ok=True)
+            shutil.copyfile(p,target)
+    (output/'.DS_Store').unlink(missing_ok=True)
     for legal in ('LICENSE','NOTICE'): shutil.copyfile(ROOT/legal,output/'assets'/f'{legal}.txt')
     with ThreadPoolExecutor(max_workers=6) as pool:
         list(pool.map(convert_image,episodes))
@@ -133,15 +142,26 @@ def build(config):
     if hasattr(templates,'all_pages'):
         for path, html in templates.all_pages(config,episodes).items(): write_page(path,html)
     write_sitemaps(config,episodes)
-    (output/'robots.txt').write_text(f'User-agent: *\nDisallow: /\n' if not config['production'] else f'User-agent: *\nAllow: /ja/\nDisallow: /app/\nSitemap: {config["origin"]}/sitemap.xml\n')
+    (output/'robots.txt').write_text(f'User-agent: *\nDisallow: /\n' if not config['indexable'] else f'User-agent: *\nAllow: /ja/\nDisallow: /app/\nSitemap: {config["origin"]}/sitemap.xml\n')
     (output/'404.html').write_text(templates.layout(config,'/404.html',f'ページが見つかりません — {templates.BRAND}','お探しのページが見つかりません。A1・A2の物語一覧からお探しください。','<section class="section-shell section"><p class="eyebrow">404 / PAGE NOT FOUND</p><h1>物語が見つかりませんでした。</h1><p class="lead">一覧から、読みたい回を探してみてください。</p><div class="actions">'+templates.button('物語の一覧へ','/ja/courses/')+'</div></section>'))
     (WEB/'.cache/material.json').write_text(json.dumps(material,ensure_ascii=False,indent=2)+'\n')
-    (WEB/'reports/source-audit.json').write_text(json.dumps({'schemaVersion':1,'materialRevision':material['materialRevision'],'counts':{level:sum(ep['level']==level for ep in episodes) for level in ('A1','A2')},'sourceNotes':material['sourceNotes'],'images':audit},ensure_ascii=False,indent=2)+'\n')
-    (WEB/'reports/publication-blockers.json').write_text(json.dumps(publication_blockers(config,episodes),ensure_ascii=False,indent=2)+'\n')
-    print(f'Build complete: {len(episodes)} episodes, {len(list(output.rglob("*.html")))} HTML pages. Preview only (noindex).')
+    (report_dir/'source-audit.json').write_text(json.dumps({'schemaVersion':1,'materialRevision':material['materialRevision'],'counts':{level:sum(ep['level']==level for ep in episodes) for level in ('A1','A2')},'sourceNotes':material['sourceNotes'],'images':audit},ensure_ascii=False,indent=2)+'\n')
+    (report_dir/'publication-blockers.json').write_text(json.dumps(publication_blockers(config,episodes),ensure_ascii=False,indent=2)+'\n')
+    print(f'Build complete: {len(episodes)} episodes, {len(list(output.rglob("*.html")))} HTML pages. {"Production" if config["production"] else "Local preview"}; {"index" if config["indexable"] else "noindex"}.')
 
 def publication_blockers(config,episodes):
     blockers=[]
+    # 2026-09-29: user authorized publishing the current A1/A2 site before
+    # releasing the app. Keep the full app launch gate separate and unchanged.
+    if config.get('prelaunchOnly'):
+        if len(episodes)!=120 or {ep['level'] for ep in episodes}!={'A1','A2'}:
+            blockers.append('先行公開の対象はA1・A2の120話です。')
+        if not config['release']['siteApproved']: blockers.append('サイトの公開は未承認。')
+        if urlparse(config.get('productionOrigin') or '').scheme!='https': blockers.append('本番のHTTPSドメインが必要です。')
+        if any(config['release'][key] for key in ('webTraining','ios','android','billing')) or config['signup']['integrationVerified']:
+            blockers.append('サイト先行公開ではアプリ・課金・案内受付を有効化できません。')
+        if config.get('searchIndexing', True): blockers.append('今回の先行公開では既定のnoindexを維持します。')
+        return blockers
     if len(episodes)!=240 or {ep['level'] for ep in episodes}!={'A1','A2','B1','B2'}:
         blockers.append('全240話一括公開の条件未充足。今回の範囲はA1・A2の120話。B1・B2は未収録。')
     if not config['release']['siteApproved']: blockers.append('サイトの正式公開は未承認。')
@@ -155,7 +175,7 @@ def publication_blockers(config,episodes):
 def write_sitemaps(config,episodes):
     ns='http://www.sitemaps.org/schemas/sitemap/0.9'; ins='http://www.google.com/schemas/sitemap-image/1.1'
     ET.register_namespace('',ns); ET.register_namespace('image',ins)
-    pages=['/ja/','/ja/characters/','/ja/courses/','/ja/courses/a1/','/ja/courses/a2/','/ja/updates/','/ja/rights/']+[templates.url(ep) for ep in episodes]
+    pages=['/ja/','/ja/characters/','/ja/courses/','/ja/courses/a1/','/ja/courses/a2/','/ja/updates/','/ja/rights/']+[templates.url(ep) for ep in episodes]+[templates.marketing.feature_url(f) for f in templates.marketing.features()]
     sitemap=ET.Element(f'{{{ns}}}urlset')
     for path in pages:
         node=ET.SubElement(sitemap,f'{{{ns}}}url'); ET.SubElement(node,f'{{{ns}}}loc').text=config['origin']+path
@@ -168,10 +188,12 @@ def write_sitemaps(config,episodes):
 
 if __name__=='__main__':
     parser=argparse.ArgumentParser(); parser.add_argument('--production',action='store_true'); parser.add_argument('--config',type=Path)
+    parser.add_argument('--report-dir', type=Path, default=WEB/'reports')
     args=parser.parse_args()
-    try: build(load_config(args.config,args.production))
+    args.report_dir.mkdir(parents=True,exist_ok=True)
+    try: build(load_config(args.config,args.production),args.report_dir)
     except (ValueError, subprocess.CalledProcessError) as exc:
-        (WEB/'reports/build-errors.txt').write_text(str(exc)+'\n')
+        (args.report_dir/'build-errors.txt').write_text(str(exc)+'\n')
         raise SystemExit(str(exc))
     else:
-        (WEB/'reports/build-errors.txt').unlink(missing_ok=True)
+        (args.report_dir/'build-errors.txt').unlink(missing_ok=True)

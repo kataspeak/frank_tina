@@ -1,0 +1,22 @@
+{
+  "logo": {
+    "source": "reference_material/ref_website/assets/frenken_dojo.webp",
+    "sha256": "301484f58e45a4aee1d6a160adc85d81c3036fe985213ec8279ce494a844ca99"
+  },
+  "frank": {
+    "source": "reference_material/ref_website/assets/Frank_speaking.webp",
+    "sha256": "58bbbd657987e3bcc40595dd3032559042e932d386e8b67cc274443107940e14"
+  },
+  "tina": {
+    "source": "reference_material/ref_website/assets/Tina.webp",
+    "sha256": "76d7c7ff3ed7770b0f9fddf9f60fccd2e60fd652186e0c7464cd6eb9290b42f8"
+  },
+  "hearing": {
+    "source": "reference_material/ref_website/assets/repeat_hearing.webp",
+    "sha256": "d93d4d6eacc310f0a226b637aea7c1a37dbf0d88d6f6a5110cfbd7e81e94a5b5"
+  },
+  "speaking": {
+    "source": "reference_material/ref_website/assets/repeat_speaking.webp",
+    "sha256": "5d3463ce3266986780316ed6068cf6ec34fea02f4a179ece9496687b9cbac2fc"
+  }
+}

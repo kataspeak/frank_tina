@@ -3,3 +3,4 @@ dist/
 __pycache__/
 .venv/
 config.local.json
+/reports/build-errors.txt

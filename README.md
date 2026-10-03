@@ -3,7 +3,7 @@
 **オリジナル・シットコム型 英語学習教材の台本（全文公開）**
 An original sitcom-style English learning script series — published in full.
 
-© 2026 誠和アプリ開発 (Seiwa App Development). All rights reserved.
+© 2026 KataSpeak. All rights reserved.
 Licensed under **CC BY-NC-ND 4.0** — see [LICENSE](./LICENSE).
 
 ---
@@ -47,9 +47,9 @@ It is the original courseware for the shadowing-training app **SayDojo**.
 ## ライセンスと利用について / License
 
 本リポジトリは **ソース公開（source-available）であり、オープンソースでは
-ありません**。台本・登場人物・ストーリーはすべて誠和アプリ開発の著作物です。
+ありません**。台本・登場人物・ストーリーはすべてKataSpeakの著作物です。
 
-- ✅ **できること**：クレジット（「誠和アプリ開発」）と出典を明示した上での
+- ✅ **できること**：クレジット（「KataSpeak」）と出典を明示した上での
   **閲覧・共有・引用**。学習目的の個人利用。
 - ❌ **できないこと**：商用利用、改変版の再配布、翻案・脚色、音声/映像化、
   他サービスへの組み込み。これらには**事前の書面による許諾**が必要です。
@@ -69,7 +69,7 @@ It is the original courseware for the shadowing-training app **SayDojo**.
 - 誤字・脱字・対訳のミス
 
 > ⚠️ **コントリビューションについて**：Issue や Pull Request で提案・修正を
-> ご提供いただいた時点で、その内容の著作権は誠和アプリ開発に譲渡され、
+> ご提供いただいた時点で、その内容の著作権はKataSpeakに譲渡され、
 > 本教材に組み込まれ得ることに同意いただいたものとみなします
 > （詳細は [LICENSE](./LICENSE) のコントリビューション条項）。
 
@@ -77,9 +77,9 @@ It is the original courseware for the shadowing-training app **SayDojo**.
 
 ## 著作権・タイムスタンプについて / Copyright & timestamp
 
-本台本の著作権は創作時点で誠和アプリ開発に発生しています。
+本台本の著作権は創作時点でKataSpeakに発生しています。
 本リポジトリでの公開および Git コミット履歴・リリースタグは、
 その存立時期を示す記録の一部です。
 
-*This work is an original creation of 誠和アプリ開発. The public Git history
+*This work is an original creation of KataSpeak. The public Git history
 and release tags of this repository serve as a record of its existence.*

@@ -1,6 +1,6 @@
 {
   "A1-01": {
-    "sourceImage": "images/A1-01_Beyond_the_Stars.png",
+    "sourceImage": "images/illustration/A1/A1-01_Beyond_the_Stars.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夜のラボで、初めて顔を合わせる制服姿のフランクとティナ。",
@@ -16,7 +16,7 @@
     "reviewedSha256": "c690f7af5268b59494ecee90df96a4128da54f33a8a6603d50c280aabeca622e"
   },
   "A1-02": {
-    "sourceImage": "images/A1-02_Whats_That.png",
+    "sourceImage": "images/illustration/A1/A1-02_Whats_That.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "カフェでブラックコーヒーと緑の抹茶ラテを前に話す二人。",
@@ -32,7 +32,7 @@
     "reviewedSha256": "41002f8414984422f14b83bf379b936e9349200fca174775a9134edb672a22e8"
   },
   "A1-03": {
-    "sourceImage": "images/A1-03_Im_Soooo_Hungry.png",
+    "sourceImage": "images/illustration/A1/A1-03_Im_Soooo_Hungry.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "学食でハンバーガー、ポテト、シェイクを前に喜ぶティナとフランク。",
@@ -48,7 +48,7 @@
     "reviewedSha256": "dcf710838785f70795be27747e6a79aa875467517dad529f1d78d648c81b7847"
   },
   "A1-04": {
-    "sourceImage": "images/A1-04_The_Mountain_Village.png",
+    "sourceImage": "images/illustration/A1/A1-04_The_Mountain_Village.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "教室の窓辺で、山の村の絵をティナに見せるフランク。",
@@ -64,7 +64,7 @@
     "reviewedSha256": "0009bfea080fe51dd905363ad4300a28067f9ac91be1cef78e8dd74cb7cfc9f3"
   },
   "A1-05": {
-    "sourceImage": "images/A1-05_Family_Photo.png",
+    "sourceImage": "images/illustration/A1/A1-05_Family_Photo.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "教室の机に置いた家族写真を一緒に見るティナとフランク。",
@@ -80,7 +80,7 @@
     "reviewedSha256": "abf4f9c64eb2c00f99054d62f377f1cbf8d9d38b59baaefacfa13945baa1cc05"
   },
   "A1-06": {
-    "sourceImage": "images/A1-06_I_Hate_Mondays_droopy_antennae.png",
+    "sourceImage": "images/illustration/A1/A1-06_I_Hate_Mondays_droopy_antennae.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "通学路でうなだれるティナと、隣を歩くフランク。",
@@ -96,7 +96,7 @@
     "reviewedSha256": "39d264042f4dfaf37cc9c0bc0d58fffecb246b193b3472d447beee4cff7e5696"
   },
   "A1-07": {
-    "sourceImage": "images/A1-07_My_Room.png",
+    "sourceImage": "images/illustration/A1/A1-07_My_Room.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ピンクの部屋で星図を指さすティナと、それを見上げるフランク。",
@@ -112,7 +112,7 @@
     "reviewedSha256": "d17a285514e436982a67927b13aaa50354047f6777b7570220596e521ad3da3d"
   },
   "A1-08": {
-    "sourceImage": "images/A1-08_Going_to_School.png",
+    "sourceImage": "images/illustration/A1/A1-08_Going_to_School.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "田園の道で、ティナのピンクの自転車に乗る二人。",
@@ -128,7 +128,7 @@
     "reviewedSha256": "0d12312da015530bd5ec844077630c2da1f7c0134a910ecb1795ac469603d041"
   },
   "A1-09": {
-    "sourceImage": "images/A1-09_Selfie_time.png",
+    "sourceImage": "images/illustration/A1/A1-09_Selfie_time.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "晴れた公園で、スマホを掲げてフランクと自撮りするティナ。",
@@ -144,7 +144,7 @@
     "reviewedSha256": "2c0cf5c3a4c8901d7b9be2effc2493c9b0583be51290d389210f834779b5524f"
   },
   "A1-10": {
-    "sourceImage": "images/A1-10_Breakfast_Time.png",
+    "sourceImage": "images/illustration/A1/A1-10_Breakfast_Time.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "カフェで積み重なったパンケーキを前に、一口食べるフランク。",
@@ -160,7 +160,7 @@
     "reviewedSha256": "91ec5dfd89a61fcae365487d621feda01d83f7dc23601c131dbd5211cf65020c"
   },
   "A1-11": {
-    "sourceImage": "images/A1-11_In_the_Classroom.png",
+    "sourceImage": "images/illustration/A1/A1-11_In_the_Classroom.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "教室の花束へ手を伸ばすティナを、フランクが止めようとする。",
@@ -176,7 +176,7 @@
     "reviewedSha256": "013e0050cd5978eba12ef5b4bcf07decceadee5ff3f472d5f90c7b480fb5610f"
   },
   "A1-12": {
-    "sourceImage": "images/A1-12_OMG_New_Phone.png",
+    "sourceImage": "images/illustration/A1/A1-12_OMG_New_Phone.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "教室でポーズを取るティナを、スマホで撮るフランク。",
@@ -192,7 +192,7 @@
     "reviewedSha256": "f5ff11e5c3ecee01244184c0006a197ef969cee0d221461259c95410d3ef0e31"
   },
   "A1-13": {
-    "sourceImage": "images/A1-13_My_Teacher.png",
+    "sourceImage": "images/illustration/A1/A1-13_My_Teacher.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "廊下で、教室の方を指しながらフランクと話すティナ。",
@@ -208,7 +208,7 @@
     "reviewedSha256": "bb98874c0b3ce8cab9b2f5f890a2e051d60515c37451a52fbbc29efd31aed55c"
   },
   "A1-14": {
-    "sourceImage": "images/A1-14_After_School.png",
+    "sourceImage": "images/illustration/A1/A1-14_After_School.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夕方の校門で、本を持つフランクとラケットを持つティナ。",
@@ -224,7 +224,7 @@
     "reviewedSha256": "d0ede8b4943e4f1ac8f17e21150a3e89ee961ed73b257bd20a546db975ff1bf7"
   },
   "A1-15": {
-    "sourceImage": "images/A1-15_Chill_Day.png",
+    "sourceImage": "images/illustration/A1/A1-15_Chill_Day.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "別々の部屋で電話する二人。フランクは机、ティナは猫のいるソファ。",
@@ -240,7 +240,7 @@
     "reviewedSha256": "1db1faf98e044ff58b9017d4472b163656c0cd24c29197e7fc5d348eb48381de"
   },
   "A1-16": {
-    "sourceImage": "images/A1-16_At_the_Library.png",
+    "sourceImage": "images/illustration/A1/A1-16_At_the_Library.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "図書館で本を開くフランクとティナに、司書が静かにするよう伝える。",
@@ -256,7 +256,7 @@
     "reviewedSha256": "51a5e8c412e5aa711e59ac194b171f63e6204913b28da0a9b26057cf786e3380"
   },
   "A1-17": {
-    "sourceImage": "images/A1-17_At_the_Supermarket.png",
+    "sourceImage": "images/illustration/A1/A1-17_At_the_Supermarket.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "スーパーの果物売り場で、りんごを持つティナと買い物かごを持つフランク。",
@@ -272,7 +272,7 @@
     "reviewedSha256": "1099bee653e1e645f5000297ae8a7cdf0c4be48d3db3621a166c9658cab66f26"
   },
   "A1-18": {
-    "sourceImage": "images/A1-18_This_Is_So_Cute.png",
+    "sourceImage": "images/illustration/A1/A1-18_This_Is_So_Cute.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "おもちゃ屋でクマのぬいぐるみをフランクに見せるティナ。",
@@ -288,7 +288,7 @@
     "reviewedSha256": "0318d7906d4aac30618e7b59a161b1e183b083fea244059150d14cb20e404592"
   },
   "A1-19": {
-    "sourceImage": "images/A1-19_I_Want_a_Pencil.png",
+    "sourceImage": "images/illustration/A1/A1-19_I_Want_a_Pencil.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "文房具店で鉛筆とノートを持つフランクと、ピンクの売り場を指すティナ。",
@@ -304,7 +304,7 @@
     "reviewedSha256": "5f753b9c1ae5639daef84bc0a0e6882c66a248bd6332a5b26d45cbb4f0b85b31"
   },
   "A1-20": {
-    "sourceImage": "images/A1-20_What_Do_You_Like.png",
+    "sourceImage": "images/illustration/A1/A1-20_What_Do_You_Like.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "アイスクリーム店の前で、それぞれのアイスを味わう二人。",
@@ -320,7 +320,7 @@
     "reviewedSha256": "9e3d66c764364bac257d3cb77596ad4dbfed2dcaa8472f57bb095bfbc892b11c"
   },
   "A1-21": {
-    "sourceImage": "images/A1-21_Game_Night-monitor-removed.png",
+    "sourceImage": "images/illustration/A1/A1-21_Game_Night-monitor-removed.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "青い光の部屋でゲームのコントローラーを握る二人。手前にはポップコーン。",
@@ -336,7 +336,7 @@
     "reviewedSha256": "774abedb169ee6dd96d40c384044c93c77046178344c7cb1945aa3eecb3b5eae"
   },
   "A1-22": {
-    "sourceImage": "images/A1-22_My_Hobby.png",
+    "sourceImage": "images/illustration/A1/A1-22_My_Hobby.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夕方の教室で本を読むフランクのそばで、ティナが踊る。",
@@ -352,7 +352,7 @@
     "reviewedSha256": "24fb4f90078e687a6241e19f9c376d17866112310bef33b9469e075b9139b015"
   },
   "A1-23": {
-    "sourceImage": "images/A1-23_Weekend_Plans.png",
+    "sourceImage": "images/illustration/A1/A1-23_Weekend_Plans.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "教室で宇宙人のポスターを見せるティナと、指を立てて話すフランク。",
@@ -368,7 +368,7 @@
     "reviewedSha256": "39a210eb02fe3c25a88460c590d1625ff8adb1838d99a145927e06f591269a9f"
   },
   "A1-24": {
-    "sourceImage": "images/A1-24_Snack_Attack.png",
+    "sourceImage": "images/illustration/A1/A1-24_Snack_Attack.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夜の部屋で、ベッドの上のお菓子を分け合うフランクとティナ。",
@@ -384,7 +384,7 @@
     "reviewedSha256": "6f7f4f23835ab0895cf211c7ed5e0371da66fd40ce26b945e610dce826f0abd0"
   },
   "A1-25": {
-    "sourceImage": "images/A1-25_Birthday_Party-birthday-girl-stage-dress.png",
+    "sourceImage": "images/illustration/A1/A1-25_Birthday_Party-birthday-girl-stage-dress.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ピンクの飾りに囲まれ、誕生日のプレゼントを開ける二人。",
@@ -400,7 +400,7 @@
     "reviewedSha256": "a74d99d2010ed78915c5737f3f4b6ecd5617c264f801daf89693beda7d7db3d5"
   },
   "A1-26": {
-    "sourceImage": "images/A1-26_Todays_Weather.png",
+    "sourceImage": "images/illustration/A1/A1-26_Todays_Weather.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "雪の通りで、ピンクのコート姿のフランクとマフラーを直すティナ。",
@@ -416,7 +416,7 @@
     "reviewedSha256": "4e5308862f9913a76e96be66ba33bedf49cee4f753cca392448ea5a92491dcdf"
   },
   "A1-27": {
-    "sourceImage": "images/A1-27_Im_Bored-v3.png",
+    "sourceImage": "images/illustration/A1/A1-27_Im_Bored-v3.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ソファで本を持って語るフランクとティナ。頭上には星の少女のイメージ。",
@@ -432,7 +432,7 @@
     "reviewedSha256": "3a4a00419b58b528da914bdbb705cb34104e796b3ac78a10750dc9dbbe617a4c"
   },
   "A1-28": {
-    "sourceImage": "images/A1-28_I_Have_a_Cold-ill.png",
+    "sourceImage": "images/illustration/A1/A1-28_I_Have_a_Cold-ill.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ベッドで毛布にくるまるティナに、フランクが温かい飲み物を運ぶ。",
@@ -448,7 +448,7 @@
     "reviewedSha256": "046963c60133f71da7b8465518414bdadb1474ee389c599880b2d1d2ae6b2041"
   },
   "A1-29": {
-    "sourceImage": "images/A1-29_At_the_Hair_Salon.png",
+    "sourceImage": "images/illustration/A1/A1-29_At_the_Hair_Salon.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "美容室の鏡の前で、毛先がピンクの髪に笑顔を見せるティナ。",
@@ -464,7 +464,7 @@
     "reviewedSha256": "aac793f472fe4331a65362f42dd7f9d913ddc660a4a785bb31abd938823f9fc0"
   },
   "A1-30": {
-    "sourceImage": "images/A1-30_New_Sneakers_floral_summer_dress.png",
+    "sourceImage": "images/illustration/A1/A1-30_New_Sneakers_floral_summer_dress.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ショッピングモールでピンクのスニーカーを見せるティナとフランク。",
@@ -480,7 +480,7 @@
     "reviewedSha256": "50230d99c4d9a8ca5c3070e367650cd2ebe7260f473f6ac1044bf4e0814e3be5"
   },
   "A1-31": {
-    "sourceImage": "images/A1-31_Asking_Directions_la_downtown.png",
+    "sourceImage": "images/illustration/A1/A1-31_Asking_Directions_la_downtown.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "街角で、フランクとティナが女性に道を尋ねる。",
@@ -496,7 +496,7 @@
     "reviewedSha256": "56a7e93731ad3e54267114f9fbf847f07502f086f9cb1d67176f6be585ec841f"
   },
   "A1-32": {
-    "sourceImage": "images/A1-32_At_the_Restaurant.png",
+    "sourceImage": "images/illustration/A1/A1-32_At_the_Restaurant.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ピザとパスタの並ぶテーブルで、二人が店員に注文する。",
@@ -512,7 +512,7 @@
     "reviewedSha256": "a6e0e2478e4ec8b27d3df9ccbfebe441cd5cd23dd022c1cd49bfe5b4cfad74d3"
   },
   "A1-33": {
-    "sourceImage": "images/A1-33_Cafe_Time_autumn_matcha_latte.png",
+    "sourceImage": "images/illustration/A1/A1-33_Cafe_Time_autumn_matcha_latte.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "紅葉の見えるカフェで、コーヒーと抹茶ラテを前に話す二人。",
@@ -528,7 +528,7 @@
     "reviewedSha256": "e86549c296866ad372ba2f65d7c6aac9740757c283eb8a1144ea3520294c307c"
   },
   "A1-34": {
-    "sourceImage": "images/A1-34_Phone_Call_afternoon_matcha_study.png",
+    "sourceImage": "images/illustration/A1/A1-34_Phone_Call_afternoon_matcha_study.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "電話するフランクと、別の場所で抹茶ラテを前に応じるティナ。",
@@ -544,7 +544,7 @@
     "reviewedSha256": "6cd6d5786254798156b7dae1bf876fda98ef3452806f9f18ba5d9795f8ce8816"
   },
   "A1-35": {
-    "sourceImage": "images/A1-35_Test_Tomorrow.png",
+    "sourceImage": "images/illustration/A1/A1-35_Test_Tomorrow.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "教科書を開くフランクと、困った表情のティナ。周囲に勉強のイメージ。",
@@ -560,7 +560,7 @@
     "reviewedSha256": "f2b3e4e9fa8a1bb55197acf2cb9e64e27a39d602c23d98eff6973b02a0fa4d71"
   },
   "A1-36": {
-    "sourceImage": "images/A1-36_I_Failed.png",
+    "sourceImage": "images/illustration/A1/A1-36_I_Failed.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "教室で答案を見つめるティナのそばに、フランクが座る。",
@@ -576,7 +576,7 @@
     "reviewedSha256": "10980e7d9ef289a9f832d4dbf7d0a83a470fa6f3cffb1f8db52dca7664839a46"
   },
   "A1-37": {
-    "sourceImage": "images/A1-37_Asking_for_Help.png",
+    "sourceImage": "images/illustration/A1/A1-37_Asking_for_Help.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "図書館のカウンターで本を受け取るフランクと、本を抱えるティナ。",
@@ -592,7 +592,7 @@
     "reviewedSha256": "353bbb9af465b55e0724ff4ac1f65a61c2d317d032d560eecd507daf6987c8dc"
   },
   "A1-38": {
-    "sourceImage": "images/A1-38_Lost_and_Found_casual_star_handle_key.png",
+    "sourceImage": "images/illustration/A1/A1-38_Lost_and_Found_casual_star_handle_key.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "忘れ物の窓口で、ティナが係員から星形の鍵を受け取る。",
@@ -608,7 +608,7 @@
     "reviewedSha256": "8f62fb7fbb42593c4ce4b6b5e1bb4888be1f324be11facc9cc17da8b91c3904f"
   },
   "A1-39": {
-    "sourceImage": "images/A1-39_Gossip_Time.png",
+    "sourceImage": "images/illustration/A1/A1-39_Gossip_Time.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "学校の廊下で、本を持つフランクに話しかけるティナ。",
@@ -624,7 +624,7 @@
     "reviewedSha256": "2ac5f8e23c6df8c64f843692174602f3830b985681bf60f9c94595fd25fc8d92"
   },
   "A1-40": {
-    "sourceImage": "images/A1-40_Shopping_for_Clothes_wedding_guest_dress.png",
+    "sourceImage": "images/illustration/A1/A1-40_Shopping_for_Clothes_wedding_guest_dress.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "服屋の鏡の前でピンクのドレスを試すティナと、見守るフランク。",
@@ -640,7 +640,7 @@
     "reviewedSha256": "2d89e62dc593e3e951ce93c53f5c9b6e2c2f8583167bd531dd9a53c88a73e2e4"
   },
   "A1-41": {
-    "sourceImage": "images/A1-41_Crush_Talk_spring_outfit.png",
+    "sourceImage": "images/illustration/A1/A1-41_Crush_Talk_spring_outfit.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "カフェでスマホを見るフランクと、隣で話しかけるティナ。",
@@ -656,7 +656,7 @@
     "reviewedSha256": "4ba4088375fce3104dfc3dda78f6268ddc9e95ff53df3cbdf0ede9aef744b5aa"
   },
   "A1-42": {
-    "sourceImage": "images/A1-42_Asking_About_a_Job_subtle_reactions.png",
+    "sourceImage": "images/illustration/A1/A1-42_Asking_About_a_Job_subtle_reactions.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "カフェの入口で、二人が店員と話す。",
@@ -672,7 +672,7 @@
     "reviewedSha256": "f79488056e5ca9a7df32fc76b10165c0a4b2c9a1e283e1cc27f2e08f07fd283c"
   },
   "A1-43": {
-    "sourceImage": "images/A1-43_A_New_Neighbor_gym_casual.png",
+    "sourceImage": "images/illustration/A1/A1-43_A_New_Neighbor_gym_casual.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "アパートの廊下で、段ボール箱を持った新しい隣人に会う二人。",
@@ -688,7 +688,7 @@
     "reviewedSha256": "caff85068e15703cb80b701e900b63e227a1cffc4c4b17f153d2293754a25740"
   },
   "A1-44": {
-    "sourceImage": "images/A1-44_School_Trip_Plans_american_school_view.png",
+    "sourceImage": "images/illustration/A1/A1-44_School_Trip_Plans_american_school_view.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "学校で旅行パンフレットとカメラを前に、ティナが旅を思い描く。",
@@ -704,7 +704,7 @@
     "reviewedSha256": "45b9162db663f02530c4afd2dafb743ce781c07d4ae5491fdae81e8fa29ec8c9"
   },
   "A1-45": {
-    "sourceImage": "images/A1-45_School_Festival_off_shoulder_dress.png",
+    "sourceImage": "images/illustration/A1/A1-45_School_Festival_off_shoulder_dress.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "学校祭のたこ焼き屋台の前で、フランクとティナが話す。",
@@ -720,7 +720,7 @@
     "reviewedSha256": "84e67b9b2b2e30483b5006e73e24e076f11388562e1bd054797e87fa55928545"
   },
   "A1-46": {
-    "sourceImage": "images/A1-46_Movie_Night.png",
+    "sourceImage": "images/illustration/A1/A1-46_Movie_Night.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "月夜の部屋で、ソファに座って怖い映画を見る二人。",
@@ -736,7 +736,7 @@
     "reviewedSha256": "1a2c4889c837ca664d1fc6476f5109acb345062e5e14746137e672ea390804c0"
   },
   "A1-47": {
-    "sourceImage": "images/A1-47_Ordering_Coffee.png",
+    "sourceImage": "images/illustration/A1/A1-47_Ordering_Coffee.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "カフェのカウンターで、二人が驚く店員と話す。",
@@ -752,7 +752,7 @@
     "reviewedSha256": "8861c63a8b3572f63314c7ae47b757fabc091f4167c5952cd1a2d76ddead078f"
   },
   "A1-48": {
-    "sourceImage": "images/A1-48_At_the_Post_Office_luxury_sweatsuit.png",
+    "sourceImage": "images/illustration/A1/A1-48_At_the_Post_Office_luxury_sweatsuit.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "郵便局の窓口で、大きな段ボール箱を差し出すフランクとティナ。",
@@ -768,7 +768,7 @@
     "reviewedSha256": "5878689baf978ff4f3795be3042e96399362ae13d52fd82ce90a4734ce619f20"
   },
   "A1-49": {
-    "sourceImage": "images/A1-49_Karaoke_reluctant_bad_singing.png",
+    "sourceImage": "images/illustration/A1/A1-49_Karaoke_reluctant_bad_singing.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "カラオケで緊張しながら歌うフランクを、ティナが応援する。",
@@ -784,7 +784,7 @@
     "reviewedSha256": "ddbcf696fbc93b261847042aa078edf35c3a54abdeca6051afab08f7e33f5605"
   },
   "A1-50": {
-    "sourceImage": "images/A1-50_Hotel_Check-in_casual_kimono_luggage.png",
+    "sourceImage": "images/illustration/A1/A1-50_Hotel_Check-in_casual_kimono_luggage.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ホテルのフロントで、荷物を持つ二人がチェックインする。",
@@ -800,7 +800,7 @@
     "reviewedSha256": "cfc331d19efb6feee0213f87ef3a8b908497d47706609a6ed6b3161ee6621433"
   },
   "A1-51": {
-    "sourceImage": "images/A1-51_Buying_Souvenirs_pink_kimono.png",
+    "sourceImage": "images/illustration/A1/A1-51_Buying_Souvenirs_pink_kimono.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "土産物店で、小さな手まりを手に取る着物姿のティナとフランク。",
@@ -816,7 +816,7 @@
     "reviewedSha256": "1de176dd1aaff28434a4d29176590d6f7ff5ace1c2cfc60bc58d02ac96344206"
   },
   "A1-52": {
-    "sourceImage": "images/A1-52_Calling_a_Doctor_single_room_loungewear.png",
+    "sourceImage": "images/illustration/A1/A1-52_Calling_a_Doctor_single_room_loungewear.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ホテルの部屋で電話するフランクと、薬の容器を掲げるティナ。",
@@ -832,7 +832,7 @@
     "reviewedSha256": "c8b6162bee76d42daea5685478a84f43bb4e65bf865e2261e952bf9397d3d5c0"
   },
   "A1-53": {
-    "sourceImage": "images/A1-53_Late_Night_Talk_evening_dress_matcha.png",
+    "sourceImage": "images/illustration/A1/A1-53_Late_Night_Talk_evening_dress_matcha.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夜景の見える部屋で、お茶とアルバムを前に語り合う二人。",
@@ -848,7 +848,7 @@
     "reviewedSha256": "dbfc1e28db7007c175e5dc6ea7a48d7e39ecbb3ef64c7fc31419eac30edab6fb"
   },
   "A1-54": {
-    "sourceImage": "images/A1-54_What_Time_Is_It.png",
+    "sourceImage": "images/illustration/A1/A1-54_What_Time_Is_It.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "大きな時計のある駅で、ティナがフランクの手を引いて走る。",
@@ -864,7 +864,7 @@
     "reviewedSha256": "af47d257df9acda53a42d7f74ffa737ce4d7ab7d4511dc9aab4941415fd2ccec"
   },
   "A1-55": {
-    "sourceImage": "images/A1-55_Buying_a_Train_Ticket_date_casual.png",
+    "sourceImage": "images/illustration/A1/A1-55_Buying_a_Train_Ticket_date_casual.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "列車の見える窓口で、切符を受け取るフランクとティナ。",
@@ -880,7 +880,7 @@
     "reviewedSha256": "c0140f3582ae9eac77ffd38561c072152dc56f402212ef7c123bda6c01f647a5"
   },
   "A1-56": {
-    "sourceImage": "images/A1-56_At_the_Bank_flight_casual.png",
+    "sourceImage": "images/illustration/A1/A1-56_At_the_Bank_flight_casual.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "窓口で書類を書くティナを、フランクが見守る。",
@@ -896,7 +896,7 @@
     "reviewedSha256": "235909baafa3ad5873c2f8cb9e20de464941d484f22fa1d80a42cd1874846a61"
   },
   "A1-57": {
-    "sourceImage": "images/A1-57_See_You_Tomorrow_apartment_hallway.png",
+    "sourceImage": "images/illustration/A1/A1-57_See_You_Tomorrow_apartment_hallway.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "アパートの廊下で、それぞれの部屋の前から挨拶する二人。",
@@ -912,7 +912,7 @@
     "reviewedSha256": "e2038b5bf0200be8e1e7e7a41d66d3e91bfa5b43386498fabeb07b2ee01b6ca9"
   },
   "A1-58": {
-    "sourceImage": "images/A1-58_Taking_a_Taxi_frank_alone.png",
+    "sourceImage": "images/illustration/A1/A1-58_Taking_a_Taxi_frank_alone.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夜の街を走るタクシーの後部座席で、窓の外を見るフランク。",
@@ -928,7 +928,7 @@
     "reviewedSha256": "feae51c3312ea8176427ff1a42fa626a90364e1dcc3adadb28225971671ed61e"
   },
   "A1-59": {
-    "sourceImage": "images/A1-59_At_the_Airport_temari_farewell_dusk_tailored.png",
+    "sourceImage": "images/illustration/A1/A1-59_At_the_Airport_temari_farewell_dusk_tailored.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夕暮れの空港で、小さな手まりを手にするフランクとティナ。",
@@ -944,7 +944,7 @@
     "reviewedSha256": "661a293f0e145fca97bcea92b429a0d420c49661bce72647d8fa050ccd8fed8f"
   },
   "A1-60": {
-    "sourceImage": "images/A1-60_Saying_Goodbye_tailored_jacket_match.png",
+    "sourceImage": "images/illustration/A1/A1-60_Saying_Goodbye_tailored_jacket_match.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "空港の窓辺で、別れ際に抱き合うフランクとティナ。",
@@ -960,7 +960,7 @@
     "reviewedSha256": "4753c86ae7a67a37e3182430fe18d7677d8b8ef80b796ff995ba22538b78eadb"
   },
   "A2-01": {
-    "sourceImage": "images/A2-01_Welcome_Back.png",
+    "sourceImage": "images/illustration/A2/A2-01_Welcome_Back.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "紅葉の街角で、驚くフランクに両手を広げて駆け寄るティナ。",
@@ -976,7 +976,7 @@
     "reviewedSha256": "f49ed14264a601451be4e221964451a8c13ba5126239879adc227661873676c5"
   },
   "A2-02": {
-    "sourceImage": "images/A2-02_New_Apartment.png",
+    "sourceImage": "images/illustration/A2/A2-02_New_Apartment.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "日差しの入る空室で、不動産業者と部屋を見るフランクとティナ。",
@@ -992,7 +992,7 @@
     "reviewedSha256": "3439a8f5c9bb32e9e4eec01f0f3c232c9f44208a150ed19d6d11565fdf6d6287"
   },
   "A2-03": {
-    "sourceImage": "images/A2-03_Have_You_Seen_It.png",
+    "sourceImage": "images/illustration/A2/A2-03_Have_You_Seen_It.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夜のソファで、お菓子を手にドラマを見る二人。",
@@ -1008,7 +1008,7 @@
     "reviewedSha256": "0be826cc709ee579f89b309b145ed87b3493e5b91401c221e3e91be41ff9bfc6"
   },
   "A2-04": {
-    "sourceImage": "images/A2-04_Lab_Interview_Practice.png",
+    "sourceImage": "images/illustration/A2/A2-04_Lab_Interview_Practice.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "机を挟んで、面接の練習をするフランクとティナ。",
@@ -1024,7 +1024,7 @@
     "reviewedSha256": "5ba109c32427615c232015635ae327216778617eca67e8c38fdf02cf6589d95e"
   },
   "A2-05": {
-    "sourceImage": "images/A2-05_Im_Stuffed.png",
+    "sourceImage": "images/illustration/A2/A2-05_Im_Stuffed.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夕方のレストラン前で、お腹を押さえるティナと指をさすフランク。",
@@ -1040,7 +1040,7 @@
     "reviewedSha256": "c80d90f1012ac700c7ee68a26c74ecd9424f9577db7d833bc228a94bc48cb03f"
   },
   "A2-06": {
-    "sourceImage": "images/A2-06_Talking_About_Hometown.png",
+    "sourceImage": "images/illustration/A2/A2-06_Talking_About_Hometown.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "星空の丘で、ティナが夜空を指してフランクと話す。",
@@ -1056,7 +1056,7 @@
     "reviewedSha256": "12ea960c656c460a89d9c0caf6790b97435718edba9ef9d6f5c9d2a12661a47b"
   },
   "A2-07": {
-    "sourceImage": "images/A2-07_Renting_a_Car.png",
+    "sourceImage": "images/illustration/A2/A2-07_Renting_a_Car.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "レンタカー店のカウンターで、二人が係員と話す。",
@@ -1072,7 +1072,7 @@
     "reviewedSha256": "51bc314bef558c667c506fc6ae358fd0d9d02c9d5d7662a6f65cc1f471e9df10"
   },
   "A2-08": {
-    "sourceImage": "images/A2-08_Ive_Been_There.png",
+    "sourceImage": "images/illustration/A2/A2-08_Ive_Been_There.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "海辺のカフェで、スマホの旅行写真を見せるティナとフランク。",
@@ -1088,7 +1088,7 @@
     "reviewedSha256": "a085616043d01168b9e9653adad8bd2d961d4861347d67d447cfc15de43e839b"
   },
   "A2-09": {
-    "sourceImage": "images/A2-09_Booking_a_Restaurant.png",
+    "sourceImage": "images/illustration/A2/A2-09_Booking_a_Restaurant.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "テーブルを挟んで、レストランの予約を電話でするティナとフランク。",
@@ -1104,7 +1104,7 @@
     "reviewedSha256": "552f2912e0bdf5f2d45590a91ce128e5c43f713b8b97c45d2f694d97eb8fcb84"
   },
   "A2-10": {
-    "sourceImage": "images/A2-10_New_Hairstyle.png",
+    "sourceImage": "images/illustration/A2/A2-10_New_Hairstyle.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "洗面台の鏡の前で、フランクがティナの髪にハサミを近づける。",
@@ -1120,7 +1120,7 @@
     "reviewedSha256": "9c1b7b90d52f62dd6626d2542edd7c5f117776d2d112178fe5705f8493b471cb"
   },
   "A2-11": {
-    "sourceImage": "images/A2-11_Showing_Photos.png",
+    "sourceImage": "images/illustration/A2/A2-11_Showing_Photos.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ソファに並んで写真アルバムを見るフランクとティナ。",
@@ -1136,7 +1136,7 @@
     "reviewedSha256": "0b7e9c23f595e32f7fceeb6f120b2e17b4bf644e2550950a6e37bc97e62b5f3a"
   },
   "A2-12": {
-    "sourceImage": "images/A2-12_At_the_Gym.png",
+    "sourceImage": "images/illustration/A2/A2-12_At_the_Gym.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ジムでダンベルを持つティナとトレーナー、後ろのフランク。",
@@ -1152,7 +1152,7 @@
     "reviewedSha256": "eb72b8f6f7239656715d3911013eb6c2acd10634727ad127ea6de97ebf0a5ac0"
   },
   "A2-13": {
-    "sourceImage": "images/A2-13_No_Reply.png",
+    "sourceImage": "images/illustration/A2/A2-13_No_Reply.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夜のソファでスマホを気にするティナと、隣で話すフランク。",
@@ -1168,7 +1168,7 @@
     "reviewedSha256": "de986750270bd29c5f150828b699ebab82f48ef068a06230a29e618d02cb95ac"
   },
   "A2-14": {
-    "sourceImage": "images/A2-14_Cooking_Class.png",
+    "sourceImage": "images/illustration/A2/A2-14_Cooking_Class.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "料理教室で、鍋に大量の塩を入れるティナに先生が手を伸ばす。",
@@ -1184,7 +1184,7 @@
     "reviewedSha256": "e7b2ce42e1e84861a82dabfeb74494794527c0007db9f9225048504b70110d1f"
   },
   "A2-15": {
-    "sourceImage": "images/A2-15_Concert_Tickets.png",
+    "sourceImage": "images/illustration/A2/A2-15_Concert_Tickets.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "スマホとチケットを手に跳び上がるティナと、驚くフランク。",
@@ -1200,7 +1200,7 @@
     "reviewedSha256": "dedfaeec6362793471828b0348678736063d357d7a7bb3d34f0e0517b6b5ae85"
   },
   "A2-16": {
-    "sourceImage": "images/A2-16_Complaining_About_Noise.png",
+    "sourceImage": "images/illustration/A2/A2-16_Complaining_About_Noise.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "宿泊施設の受付で話すフランクと、耳をふさぐティナ。",
@@ -1216,7 +1216,7 @@
     "reviewedSha256": "f47172696832dd663122f793ab87464119cce0013903d93b784350ccbe4b0d28"
   },
   "A2-17": {
-    "sourceImage": "images/A2-17_Group_Chat_Problem.png",
+    "sourceImage": "images/illustration/A2/A2-17_Group_Chat_Problem.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "カフェで、スマホのグループチャットを見せるティナとフランク。",
@@ -1232,7 +1232,7 @@
     "reviewedSha256": "d4d7993dbc48322da40ceee5a77195dd4e35c766a8091c3f2867e6b909f5baac"
   },
   "A2-18": {
-    "sourceImage": "images/A2-18_Computer_Trouble.png",
+    "sourceImage": "images/illustration/A2/A2-18_Computer_Trouble.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "警告が出たパソコンの前で、困るティナと様子を見るフランク。",
@@ -1248,7 +1248,7 @@
     "reviewedSha256": "9c3639445d091766e710576d0f25e441db6809d80ac47f215300c6ab8a7b6e1c"
   },
   "A2-19": {
-    "sourceImage": "images/A2-19_Pulling_an_All-Nighter.png",
+    "sourceImage": "images/illustration/A2/A2-19_Pulling_an_All-Nighter.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "夜の机で課題に取り組むティナに、フランクが飲み物を運ぶ。",
@@ -1264,7 +1264,7 @@
     "reviewedSha256": "304cafd77b16d5306eace0fa67f6922584bb5d741d702e7f3362597d1b1b1e06"
   },
   "A2-20": {
-    "sourceImage": "images/A2-20_Book_Club_Meeting.png",
+    "sourceImage": "images/illustration/A2/A2-20_Book_Club_Meeting.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "カフェで本を開き、読書会の人々と話すフランクとティナ。",
@@ -1280,7 +1280,7 @@
     "reviewedSha256": "34d7a9af4f8f2afa73799ce8a009e7f718384516e0e8060eb74cf6072c967997"
   },
   "A2-21": {
-    "sourceImage": "images/A2-21_Volunteer_Work.png",
+    "sourceImage": "images/illustration/A2/A2-21_Volunteer_Work.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "公園で清掃道具を持ち、担当者の説明を聞く二人。",
@@ -1296,7 +1296,7 @@
     "reviewedSha256": "6566b868b0fc434bf59edf6dea003858b2ef06d89e9d670f373ae5ba1c5e60ce"
   },
   "A2-22": {
-    "sourceImage": "images/A2-22_Fashion_Disaster.png",
+    "sourceImage": "images/illustration/A2/A2-22_Fashion_Disaster.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "鏡の前で大きなピンクのシャツを着たティナと、部屋の入口のフランク。",
@@ -1312,7 +1312,7 @@
     "reviewedSha256": "ca29dbb4d173fa429e860099e06147cea04499e1b3483b3d86cfe9d7fc8118cf"
   },
   "A2-23": {
-    "sourceImage": "images/A2-24_Crush_Update.png",
+    "sourceImage": "images/illustration/A2/A2-24_Crush_Update.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "アパートの廊下で、ルールの冊子を持つフランクが隣人と話す。",
@@ -1329,7 +1329,7 @@
     "reviewedSha256": "684aaddbf909d2508d03c9a939808df4f48a702e995d1ab811080c008c0e55d2"
   },
   "A2-24": {
-    "sourceImage": "images/A2-26_Lost_My_Phone.png",
+    "sourceImage": "images/illustration/A2/A2-26_Lost_My_Phone.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "カフェでスマホの一覧をフランクに見せながら喜ぶティナ。",
@@ -1346,7 +1346,7 @@
     "reviewedSha256": "8d4dd1cd03697eeeefb32107b8f7f7d982c3d8bbe9872f5c25d79844de80a512"
   },
   "A2-25": {
-    "sourceImage": "images/A2-28_Moms_Calling.png",
+    "sourceImage": "images/illustration/A2/A2-28_Moms_Calling.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "保険のオフィスで、書類とマーカーを前に担当者と話すフランクとティナ。",
@@ -1363,7 +1363,7 @@
     "reviewedSha256": "18f42f1b500c98158e6187438a916577a3f424a7855754032b3596dce1019d0b"
   },
   "A2-26": {
-    "sourceImage": "images/A2-25_Travel_Insurance.png",
+    "sourceImage": "images/illustration/A2/A2-25_Travel_Insurance.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "カフェでクラウドのマークを映すパソコンと、空を見上げるティナ。",
@@ -1380,7 +1380,7 @@
     "reviewedSha256": "246569479f4491d9aee43eb5876511193a5b4d367ff66de2151145e7e201b922"
   },
   "A2-27": {
-    "sourceImage": "images/A2-27_Lost_Luggage.png",
+    "sourceImage": "images/illustration/A2/A2-27_Lost_Luggage.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "空港の手荷物窓口で、ピンクのスーツケースとパリの案内画面を前にする二人。",
@@ -1396,7 +1396,7 @@
     "reviewedSha256": "b30d73d4ae66d1d340367b2a0228a8864f49bca386270166e03417255bc6d4b6"
   },
   "A2-28": {
-    "sourceImage": "images/A2-23_Asking_Neighbors.png",
+    "sourceImage": "images/illustration/A2/A2-23_Asking_Neighbors.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "勉強道具を広げたテーブルで、スマホ越しに母と話すティナとフランク。",
@@ -1413,7 +1413,7 @@
     "reviewedSha256": "929356353a48a7c7684c57943eeb38bbfcdc7ea13f9e343a194826c41f24d382"
   },
   "A2-29": {
-    "sourceImage": "images/A2-29_Hosting_a_Guest.png",
+    "sourceImage": "images/illustration/A2/A2-29_Hosting_a_Guest.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "フランクが抹茶とケーキをティナに差し出す。",
@@ -1429,7 +1429,7 @@
     "reviewedSha256": "d6873540776a12e3170d760569d7ba17350b445c1c5817d1eb2861bfbe7a851d"
   },
   "A2-30": {
-    "sourceImage": "images/A2-34_Workplace_Training.png",
+    "sourceImage": "images/illustration/A2/A2-34_Workplace_Training.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "電気製品の店で、ティナが小型機器を店員に見せ、フランクは工具を持つ。",
@@ -1446,7 +1446,7 @@
     "reviewedSha256": "2658e519df1962103292de7022d40108e5ce1ffe68c46c9e22f7cc3e2dd3ee9f"
   },
   "A2-31": {
-    "sourceImage": "images/A2-30_Asking_for_Refund.png",
+    "sourceImage": "images/illustration/A2/A2-30_Asking_for_Refund.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "磁石の動画と反応が映るスマホをフランクが掲げ、ティナが喜ぶ。",
@@ -1463,7 +1463,7 @@
     "reviewedSha256": "15c58c93934db9a222c4aef8404c0d92f411b8862373bfafa0e058d087b69bf6"
   },
   "A2-32": {
-    "sourceImage": "images/A2-33_Roommate_Problems.png",
+    "sourceImage": "images/illustration/A2/A2-33_Roommate_Problems.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "座席図を前に電話するフランクと、デザートを思い描くティナ。",
@@ -1480,7 +1480,7 @@
     "reviewedSha256": "734d5f79ec380e09f2780179f00d52c04a245c7450ce9d01c1232978479b90d4"
   },
   "A2-33": {
-    "sourceImage": "images/A2-38_Hangover.png",
+    "sourceImage": "images/illustration/A2/A2-38_Hangover.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "カフェで皿と家事の一覧表を持つフランクに、ティナが話す。",
@@ -1497,7 +1497,7 @@
     "reviewedSha256": "72060ad29e7bde6c8493a206859e5d7750abed85a21a7418e9e8243c8b198926"
   },
   "A2-34": {
-    "sourceImage": "images/A2-32_Changing_Reservation.png",
+    "sourceImage": "images/illustration/A2/A2-32_Changing_Reservation.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "研修の場で、付箋だらけの冊子を開いて担当者と話すフランク。",
@@ -1514,7 +1514,7 @@
     "reviewedSha256": "b0931c66b8897e83230e18f27e77c7df244299dcb289151cae209ef813c5d9f9"
   },
   "A2-35": {
-    "sourceImage": "images/A2-35_Too_Much_Screen_Time.png",
+    "sourceImage": "images/illustration/A2/A2-35_Too_Much_Screen_Time.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "暗い部屋でスマホを見続けるティナを、フランクが指さす。",
@@ -1530,7 +1530,7 @@
     "reviewedSha256": "831759c2cb87b75ee583efc60d6a08969a5c89ab8d6a5d402e2c738a1aa2d9a9"
   },
   "A2-36": {
-    "sourceImage": "images/A2-31_TikTok_Famous.png",
+    "sourceImage": "images/illustration/A2/A2-31_TikTok_Famous.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "カフェで本と書類を差し出すフランクと、ピンクのペンを持つティナ。",
@@ -1547,7 +1547,7 @@
     "reviewedSha256": "c714de63121edc7b27682098dbaa54845dd05a1272276a6fe57393de67f5f4d1"
   },
   "A2-37": {
-    "sourceImage": "images/A2-37_Library_Late_Fee.png",
+    "sourceImage": "images/illustration/A2/A2-37_Library_Late_Fee.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "図書館のカウンターで、フランクが司書から受領書を受け取る。",
@@ -1563,7 +1563,7 @@
     "reviewedSha256": "f91c3baf89d975d8d2baa58dbe15873ffb47103f3c0b3ce4429d1e9fe512750e"
   },
   "A2-38": {
-    "sourceImage": "images/A2-39_Fixing_a_Bike.png",
+    "sourceImage": "images/illustration/A2/A2-39_Fixing_a_Bike.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "ソファでサングラスをかけてぐったりするティナに、フランクが朝食を運ぶ。",
@@ -1580,7 +1580,7 @@
     "reviewedSha256": "6eec39c56211806a48ab51b9ecd8877d298e44bd4f743664d7736d2b6b2e8ef9"
   },
   "A2-39": {
-    "sourceImage": "images/A2-36_Recommending_a_Book.png",
+    "sourceImage": "images/illustration/A2/A2-36_Recommending_a_Book.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "自転車店で記録ノートを開き、整備士と話すフランクとティナ。",
@@ -1597,7 +1597,7 @@
     "reviewedSha256": "c32cd74505fa48f328a7a847b1d9b86c3b2ad1582e9ff9e229adc6eddcdf279a"
   },
   "A2-40": {
-    "sourceImage": "images/A2-40_Awkward_Moment.png",
+    "sourceImage": "images/illustration/A2/A2-40_Awkward_Moment.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "カフェでノートを前に、気まずそうに話すフランクとティナ。",
@@ -1613,7 +1613,7 @@
     "reviewedSha256": "8590e7b13e81d3d5b1885800e36b4e8c555ef3a7aca94a198ca814fa902b9cd5"
   },
   "A2-41": {
-    "sourceImage": "images/A2-41_Pharmacy_Advice.png",
+    "sourceImage": "images/illustration/A2/A2-41_Pharmacy_Advice.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "薬局で、ティナが身ぶりを交え、フランクと薬剤師が話す。",
@@ -1629,7 +1629,7 @@
     "reviewedSha256": "db16aa57d5c24332d85c7c6025faaf8e7374b0797e7497a74f750116f9adb0d0"
   },
   "A2-42": {
-    "sourceImage": "images/A2-42_I_Need_Caffeine.png",
+    "sourceImage": "images/illustration/A2/A2-42_I_Need_Caffeine.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "たくさんのコーヒーカップが並ぶ机で、ティナとフランクが話す。",
@@ -1645,7 +1645,7 @@
     "reviewedSha256": "611569a1713551919b051245f966291b28878002df0f66721e88e78025b5357a"
   },
   "A2-43": {
-    "sourceImage": "images/A2-43_Internet_Setup.png",
+    "sourceImage": "images/illustration/A2/A2-43_Internet_Setup.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ルーターとパソコンを前に、ティナが喜び、フランクが電話する。",
@@ -1661,7 +1661,7 @@
     "reviewedSha256": "21776fca25ba4c67caa2c50a55afb02452144e05e6bfb73e4f588c2acc795a06"
   },
   "A2-44": {
-    "sourceImage": "images/A2-44_Workout_Buddy.png",
+    "sourceImage": "images/illustration/A2/A2-44_Workout_Buddy.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "カフェで、運動着のティナが腕を曲げてフランクに見せる。",
@@ -1677,7 +1677,7 @@
     "reviewedSha256": "0f70f0c630102f301570dba8476a274ef80dec0e31460bc4b27878a28411e095"
   },
   "A2-45": {
-    "sourceImage": "images/A2-45_Donating_Clothes.png",
+    "sourceImage": "images/illustration/A2/A2-45_Donating_Clothes.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "衣類の寄付窓口で、ピンクのコートを手にするティナとフランク。",
@@ -1693,7 +1693,7 @@
     "reviewedSha256": "fa2e9f1ba2b1332f2f378c9097ee84797b15e1b8fb9e4937c5dc41ae554f01b8"
   },
   "A2-46": {
-    "sourceImage": "images/A2-48_Crying_at_Movies.png",
+    "sourceImage": "images/illustration/A2/A2-48_Crying_at_Movies.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "部屋で大きすぎるジャケットを広げるティナと、同じ服を持つフランク。",
@@ -1710,7 +1710,7 @@
     "reviewedSha256": "b22a3b5b55b28620c251a7e50b5a7acad0a353327589f6f6152f5f53d34acaf9"
   },
   "A2-47": {
-    "sourceImage": "images/A2-47_Vet_Visit.png",
+    "sourceImage": "images/illustration/A2/A2-47_Vet_Visit.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "診察台の犬を前に、ティナとフランクが獣医と話す。",
@@ -1726,7 +1726,7 @@
     "reviewedSha256": "cdbb1295c90a3a41a4fd5ffbe9109d20711eaa1ebfe0c25bb89600f872576ffa"
   },
   "A2-48": {
-    "sourceImage": "images/A2-46_Online_Shopping_Fails.png",
+    "sourceImage": "images/illustration/A2/A2-46_Online_Shopping_Fails.png",
     "selectionReason": "画像の実見と現行台本の場面照合により採用。ファイル名のIDと内容がずれているため、原本を改名せず対応表で明示的に補正。",
     "alt": {
       "ja": "映画館の通路で目元をぬぐうフランクと、隣に立つティナ。",
@@ -1743,7 +1743,7 @@
     "reviewedSha256": "9a2a0b9d8ebfcf074e1f2fc060d8cfbc9829e16c0124d9dd9bb7d9658d728a1a"
   },
   "A2-49": {
-    "sourceImage": "images/A2-49_Asking_for_Time_Off.png",
+    "sourceImage": "images/illustration/A2/A2-49_Asking_for_Time_Off.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "職場で書類を持つフランクが上司に話し、ティナが隣に立つ。",
@@ -1759,7 +1759,7 @@
     "reviewedSha256": "b8b44d67cdb5fcbfa0b4e144ecb35d476b4f0bdba1b2ca6e90ac0ebf42cbbd12"
   },
   "A2-50": {
-    "sourceImage": "images/A2-50_New_Tattoo.png",
+    "sourceImage": "images/illustration/A2/A2-50_New_Tattoo.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "部屋で左手首の小さなタトゥーをフランクに見せるティナ。",
@@ -1775,7 +1775,7 @@
     "reviewedSha256": "b3d2f19a507ffa2120e5517967ea2333d19d4a78315ec22ccf4e14866f64afa0"
   },
   "A2-51": {
-    "sourceImage": "images/A2-51_School_Application.png",
+    "sourceImage": "images/illustration/A2/A2-51_School_Application.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "学校の受付で、タブレットを前に係員と話すティナとフランク。",
@@ -1791,7 +1791,7 @@
     "reviewedSha256": "b8d0847420c3befa055fc6accc946851384ffe02aeb3a67f3b45d851890ddc0d"
   },
   "A2-52": {
-    "sourceImage": "images/A2-52_Cancelled_Plans.png",
+    "sourceImage": "images/illustration/A2/A2-52_Cancelled_Plans.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "雨の見えるカフェで、スマホを置いて話すティナとフランク。",
@@ -1807,7 +1807,7 @@
     "reviewedSha256": "37fc970d12a9c9435ba21beb4907a5eacee278c794de5915b6036e2a9b18a371"
   },
   "A2-53": {
-    "sourceImage": "images/A2-53_Phone_Plan_Change.png",
+    "sourceImage": "images/illustration/A2/A2-53_Phone_Plan_Change.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "携帯ショップのカウンターで、フランクが店員と相談する。",
@@ -1823,7 +1823,7 @@
     "reviewedSha256": "9140d00119397110c0642b2345fa4e37525a04c4fee320ed497f045dc2a74841"
   },
   "A2-54": {
-    "sourceImage": "images/A2-54_Late_to_Class_Again.png",
+    "sourceImage": "images/illustration/A2/A2-54_Late_to_Class_Again.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "雨でぬれたティナが教室の入口に立ち、フランクが時計を指す。",
@@ -1839,7 +1839,7 @@
     "reviewedSha256": "3c72fdea9115c365243add6217113eef9be897ed0b1ff7ac890abdf3c60aa068"
   },
   "A2-55": {
-    "sourceImage": "images/A2-55_Reporting_a_Theft.png",
+    "sourceImage": "images/illustration/A2/A2-55_Reporting_a_Theft.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "警察署で、バッグの画像を前に警察官に話すティナとフランク。",
@@ -1855,7 +1855,7 @@
     "reviewedSha256": "850543d236c32de944c785adbfbcc9b6ce27c606736bc94cda95aab9b248e847"
   },
   "A2-56": {
-    "sourceImage": "images/A2-56_Doctors_Visit.png",
+    "sourceImage": "images/illustration/A2/A2-56_Doctors_Visit.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "診察室でお腹を押さえるフランクと、医師に話すティナ。",
@@ -1871,7 +1871,7 @@
     "reviewedSha256": "c1fbbbd71bda42287846d3d8ad57b9be880febb97ff7e35054467d7c3957881b"
   },
   "A2-57": {
-    "sourceImage": "images/A2-57_End_of_Semester.png",
+    "sourceImage": "images/illustration/A2/A2-57_End_of_Semester.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "学食で予定表を持つフランクと、机に頬杖をつくティナ。",
@@ -1887,7 +1887,7 @@
     "reviewedSha256": "86dd33561805f96bb6a01156aaa5fa2a08b36d800c2e3c51cb578ad685977676"
   },
   "A2-58": {
-    "sourceImage": "images/A2-58_Fitness_Goals.png",
+    "sourceImage": "images/illustration/A2/A2-58_Fitness_Goals.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "ジムで、ティナとフランクがトレーナーと目標を相談する。",
@@ -1903,7 +1903,7 @@
     "reviewedSha256": "df83c04765826fcd2d227cb2ef3f9a9fcf492bf3735f68e84c56d99fac4e924b"
   },
   "A2-59": {
-    "sourceImage": "images/A2-59_Train_Delay_Announcement.png",
+    "sourceImage": "images/illustration/A2/A2-59_Train_Delay_Announcement.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "雨の駅で遅延を知らせる表示を前に、驚くティナとフランク。",
@@ -1919,7 +1919,7 @@
     "reviewedSha256": "04a70a6e57c8eb4d3c289efbddf96118864b2b73e2384a00bbb1b6e0ac84f495"
   },
   "A2-60": {
-    "sourceImage": "images/A2-60_Year-End_Greeting.png",
+    "sourceImage": "images/illustration/A2/A2-60_Year-End_Greeting.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "年末の飾りのある部屋で、写真や星図を前にカップを合わせる二人。",

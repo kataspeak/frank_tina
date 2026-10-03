@@ -1,0 +1,50 @@
+[
+  {
+    "client": 305,
+    "doc": 305,
+    "route": "/ja/features/shadowing/",
+    "width": 320
+  },
+  {
+    "client": 305,
+    "doc": 305,
+    "route": "/ja/features/repeating/",
+    "width": 320
+  },
+  {
+    "client": 305,
+    "doc": 305,
+    "route": "/ja/features/speech-detection/",
+    "width": 320
+  },
+  {
+    "client": 305,
+    "doc": 305,
+    "route": "/ja/features/difficulty-speed/",
+    "width": 320
+  },
+  {
+    "client": 305,
+    "doc": 305,
+    "route": "/ja/features/difficulty-repeat/",
+    "width": 320
+  },
+  {
+    "client": 305,
+    "doc": 305,
+    "route": "/ja/features/lesson-selection/",
+    "width": 320
+  },
+  {
+    "client": 305,
+    "doc": 305,
+    "route": "/ja/features/sleep-stop/",
+    "width": 320
+  },
+  {
+    "client": 305,
+    "doc": 305,
+    "route": "/ja/features/own-materials/",
+    "width": 320
+  }
+]

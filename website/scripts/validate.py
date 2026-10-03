@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Checks the actual static deliverable and meaningful failure cases."""
+import argparse
 import copy
 import hashlib
 import itertools
@@ -42,8 +43,10 @@ class Document(HTMLParser):
 
 def normalized(text): return re.sub(r'\s+',' ',text).strip()
 
-def verify():
-    config=load_config(); original=parse_sources(); material=json.loads((WEB/'.cache/material.json').read_text()); eps=material['episodes']
+def verify(report_dir=None, baseline=None, config_path=None, production=False):
+    report_dir = report_dir or WEB/'reports'
+    report_dir.mkdir(parents=True,exist_ok=True)
+    config=load_config(config_path, production); original=parse_sources(); material=json.loads((WEB/'.cache/material.json').read_text()); eps=material['episodes']
     checks=[]; problems=[]; output=WEB/'dist'
     def check(condition,message):
         if not condition: problems.append(message)
@@ -111,6 +114,9 @@ def verify():
         sfx_count+=expected_sfx; spoken_count+=len(speech)
         check(len(doc.cls('expression-number'))==3,f'{ep["id"]}: 学習表現数')
         check(bool(doc.cls('story-note')[0].text()),f'{ep["id"]}: 解説欠落')
+        for item in ep['meta']['learning']:
+            check(item['phrase'] in doc.root.text() and item['explanation'] in doc.root.text(),f'{ep["id"]}: 学習表現・説明が変化')
+        check(ep['meta']['note'] in doc.cls('story-note')[0].text(),f'{ep["id"]}: ひとくちメモが変化')
         nav=doc.cls('episode-navigation')[0]
         for rel,j in [('prev',i-1),('next',i+1)]:
             links=[n.attrs['href'] for n in nav.all() if n.attrs.get('rel')==rel]
@@ -123,12 +129,64 @@ def verify():
     check(len(titles)==len(set(titles)),'title重複'); check(len(descriptions)==len(set(descriptions)),'description重複')
     for p in output.rglob('*'):
         if p.is_file() and p.relative_to(output).parts[0]!='app':
-            check(p.suffix in {'.html','.css','.js','.webp','.txt','.xml'},f'配信禁止形式: {p.name}')
+            check(p.suffix in {'.html','.css','.js','.webp','.txt','.xml','.woff2','.riv','.wasm'},f'配信禁止形式: {p.name}')
     check(len(list((output/'assets/images').glob('*.webp')))==360,'3サイズの配信画像数')
+    opening_assets = ['animations/frankendojo_opening.riv', 'vendor/rive-2.43.1/rive.js',
+                      'vendor/rive-2.43.1/rive.wasm', 'vendor/rive-2.43.1/rive_fallback.wasm',
+                      'vendor/rive-2.43.1/LICENSE.txt', 'opening.js']
+    for asset in opening_assets:
+        target = output/'assets'/asset
+        check(target.is_file() and target.read_bytes() == (WEB/'static'/asset).read_bytes(), f'Rive配信素材不一致: {asset}')
+    check(any(node.tag == 'img' and node.attrs.get('alt') for node in docs['/ja/'].cls('poster-art')[0].all()), 'トップの静止画フォールバック欠落')
+    check(bool(docs['/ja/'].cls('opening-replay')), 'アニメーション操作欠落')
+    for path, doc in docs.items():
+        if path != '/ja/':
+            check(not any('opening.js' in node.attrs.get('src', '') or 'rive.js' in node.attrs.get('src', '') for node in doc.tag('script')), f'トップ以外でRive読込: {path}')
     ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9','i':'http://www.google.com/schemas/sitemap-image/1.1'}
-    check(len(ET.parse(output/'sitemap.xml').findall('s:url',ns))==127,'サイトマップ数')
+    sitemap_paths={urlparse(n.text).path for n in ET.parse(output/'sitemap.xml').findall('s:url/s:loc',ns)}
+    check(len(sitemap_paths)==135,'サイトマップ数')
     check(len(ET.parse(output/'image-sitemap.xml').findall('s:url/i:image',ns))==120,'画像サイトマップ数')
     check('Disallow: /' in (output/'robots.txt').read_text(),'プレビューrobotsが拒否していない')
+    for feature in templates.marketing.features():
+        path=templates.marketing.feature_url(feature)
+        check(path in docs and path in sitemap_paths,f'{path}: 詳細ページ・サイトマップ欠落')
+        if path not in docs: continue
+        doc=docs[path]
+        data=next(n for n in doc.tag('script') if n.attrs.get('id')=='feature-data')
+        check(json.loads(data.text())['feature']==feature,f'{path}: 説明データ不一致')
+        check(len(doc.cls('explanation-steps')[0].children)==len(feature['steps']),f'{path}: JavaScriptなしの説明欠落')
+        for control in ('data-demo-play','data-demo-restart','data-demo-next'):
+            check(any(control in n.attrs for n in doc.tag('button')),f'{path}: デモ操作なし {control}')
+        check('動作イメージ' in doc.root.text(),f'{path}: 説明用デモの表示なし')
+    for copy_text in ('語学は鍛える時代へ','無意識で使える表現力が、ここで身につく','好きな教材を使っても、鍛えられる','今すぐダウンロードして、言葉の道場に入門'):
+        check(copy_text in docs['/ja/'].root.text(),f'指定コピー欠落: {copy_text}')
+    for name in ('poppins-800','noto-sans-jp-400','noto-sans-jp-700'):
+        font=output/'assets/fonts'/f'{name}.woff2'
+        check(font.is_file() and font.read_bytes()[:4]==b'wOF2',f'ローカルフォント欠落: {name}')
+    font_css=(output/'assets/fonts/fonts.css').read_text()
+    check('https://' not in font_css,'フォントに外部配信依存が残っている')
+    coverage={400:set(),700:set()}
+    for face in re.findall(r'@font-face\s*\{[^}]+\}',font_css):
+        for filename in re.findall(r'url\([\"\']?([^\)\"\']+)',face):
+            check((output/'assets/fonts'/filename).is_file(),f'文字範囲フォントの参照切れ: {filename}')
+        if 'Noto Sans JP' not in face: continue
+        weight=int(re.search(r'font-weight:\s*(\d+)',face).group(1))
+        ranges=re.search(r'unicode-range:\s*([^;]+)',face)
+        check(bool(ranges),'日本語フォントの文字範囲が確認できない')
+        if ranges:
+            for token in ranges.group(1).split(','):
+                bounds=token.strip().removeprefix('U+').split('-')
+                coverage[weight].update(range(int(bounds[0].replace('?','0'),16),int(bounds[-1].replace('?','F'),16)+1))
+    japanese={ord(char) for path,doc in docs.items() if path=='/ja/' or path.startswith('/ja/features/') for char in doc.root.text() if '\u3040'<=char<='\u30ff' or '\u4e00'<=char<='\u9fff'}
+    for weight,codes in coverage.items():
+        check(not japanese-codes,f'Noto Sans JP {weight}: 日本語文字が不足 {"".join(chr(c) for c in sorted(japanese-codes))}')
+    preserved=0
+    if baseline:
+        for path,expected_hash in json.loads(baseline.read_text()).items():
+            main=re.search(r'<main[^>]*>(.*?)</main>',(output/path).read_text(),re.S).group(1)
+            same=hashlib.sha256(main.encode()).hexdigest()==expected_hash
+            check(same,f'{path}: 変更前の物語本文HTMLが変化')
+            preserved+=same
     # Check state switches without making requests, starting billing or publishing.
     for web,ios,android,billing in itertools.product([False,True],repeat=4):
         c=copy.deepcopy(config); c['release'].update(webTraining=web,ios=ios,android=android,billing=billing)
@@ -141,6 +199,9 @@ def verify():
         links=[node.attrs.get('href') for node in update_doc.tag('a')]
         check((c['stores']['ios'] in links)==ios,'iOS単独の公開状態に追従していない')
         check((c['stores']['android'] in links)==android,'Android単独の公開状態に追従していない')
+        marketing_links=[n.attrs.get('href') for n in Document(templates.marketing.store_cta(c)).tag('a')]
+        check((c['stores']['ios'] in marketing_links)==ios,'トップ・詳細のiOS CTAが公開状態に追従していない')
+        check((c['stores']['android'] in marketing_links)==android,'トップ・詳細のAndroid CTAが公開状態に追従していない')
         dd=[node.text() for node in update_doc.tag('dd')]
         check(dd[1]==('提供中' if web else '提供準備中'),'Web公開状況が不一致')
         check(('（予定）' in dd[3])== (not billing),'料金の予定表示が不一致')
@@ -172,10 +233,23 @@ def verify():
                 try: source.parse_sources()
                 except SourceError as exc: check('skits/skits_A1_dialogs_jp.md:' in str(exc),f'{mutation}: 行番号のない診断')
                 else: problems.append(f'{mutation}: 破損した原本を受理')
-    check(bool(publication_blockers(config,eps)),'120話を本番公開可能として受理')
-    report={'success':not problems,'htmlPages':len(docs),'episodes':len(eps),'bilingualBlocks':spoken_count,'sfx':sfx_count,'expressions':360,'webpFiles':360,'sitemapUrls':127,'stateCombinations':16,'parserNegativeCases':5,'sourceNotesHandled':len(material['sourceNotes']),'problems':problems,'materialRevision':material['materialRevision'],'browserChecks':'See browser-validation.json and VALIDATION.md. This script alone does not claim browser QA.'}
-    (WEB/'reports/validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+    check(bool(publication_blockers(load_config(),eps)),'通常の全240話公開ゲートが120話を受理')
+    if config.get('prelaunchOnly'):
+        check(not publication_blockers(config,eps),'承認済みサイト先行公開の条件未充足')
+        check(not (output/'app').exists(),'先行公開に未公開appが混入')
+        for key in ('webTraining','ios','android','billing'):
+            unsafe=copy.deepcopy(config); unsafe['release'][key]=True
+            check(bool(publication_blockers(unsafe,eps)),f'先行公開で{key}を受理')
+    report={'success':not problems,'htmlPages':len(docs),'episodes':len(eps),'bilingualBlocks':spoken_count,'sfx':sfx_count,'expressions':360,'webpFiles':360,'sitemapUrls':135,'featurePages':8,'unchangedStoryMainHashes':preserved if baseline else 'not requested','stateCombinations':16,'parserNegativeCases':5,'sourceNotesHandled':len(material['sourceNotes']),'problems':problems,'materialRevision':material['materialRevision'],'browserChecks':'See the redesign QA record. This script alone does not claim browser QA.'}
+    (report_dir/'validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(report,ensure_ascii=False,indent=2))
     if problems: raise SystemExit(1)
 
-if __name__=='__main__': verify()
+if __name__=='__main__':
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--report-dir',type=Path)
+    parser.add_argument('--baseline',type=Path)
+    parser.add_argument('--config',type=Path)
+    parser.add_argument('--production',action='store_true')
+    args=parser.parse_args()
+    verify(args.report_dir,args.baseline,args.config,args.production)

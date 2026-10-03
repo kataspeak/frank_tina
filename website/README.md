@@ -1,12 +1,12 @@
 # FrankenDojo by KataSpeak — ローカルLP・スキットサイト
 
-確認済みの **A1・A2、各60話・計120話**を対象とした日本語サイトです。トップページ、人物紹介、2コースの入口・一覧、120話の詳細、アプリ公開案内、権利表記を静的HTMLで生成します。
+確認済みの **A1・A2、各60話・計120話**を対象とした日本語サイトです。トップページ、8つの機能詳細、人物紹介、2コースの入口・一覧、120話の詳細、アプリ公開案内、権利表記を静的HTMLで生成します。
 
-2026-09-12の指示書に対するユーザーの最新指示を優先し、B1・B2の本文・画像・コースページは生成していません。これは120話の**ローカル確認用**です。指示書にある全240話一括公開の方針を変更せず、本番公開・ドメイン変更・課金開始は行っていません。
+2026-09-12の指示書に対するユーザーの最新指示を優先し、B1・B2の本文・画像・コースページは生成していません。当初は120話のローカル確認用でした。2026-09-29のユーザー指示により、現在のA1・A2サイトをアプリに先行してCloudflare Pagesへ公開しました。アプリと課金は提供準備中です。通常の全240話公開条件とは別に、下記の先行公開設定を用意しています。
 
 ## 起動と再生成
 
-Python 3.12以降と `cwebp`（WebP CLI）が必要です。フロントエンドの依存インストール、外部フォント、CDN、アカウントは不要です。この環境ではPython 3.14と既存のcwebpで確認しました。
+Python 3.12以降と `cwebp`（WebP CLI）が必要です。フロントエンドの依存インストール、外部フォントサービスへの接続、CDN、アカウントは不要です。この環境ではPython 3.14と既存のcwebpで確認しました。
 
 ```sh
 cd /Users/Yoshio/StudioProjects/frank_tina/website
@@ -23,13 +23,17 @@ python3 -m http.server 4321 --bind 127.0.0.1 --directory dist
 
 既存プロジェクトには再利用できる生成スクリプト・Web開発依存がなく、`build/`には既存の教材JSONがありました。原本からの厳密な抽出を優先し、**Python標準ライブラリによる静的サイト生成 + cwebp**を選びました。テンプレートを共用し、個別HTMLや台本コピーを手編集しません。
 
-初期HTMLに全英文・和訳・話者・通常リンクを含みます。JavaScriptは検索、和訳の表示切替、設定済みの場合の案内フォームに限定しています。訓練プレーヤー・音声再生・録音・マイク取得・認証・購入処理は含みません。
+初期HTMLに全英文・和訳・話者・通常リンクを含みます。JavaScriptは検索、和訳の表示切替、設定済みの場合の案内フォーム、トップの出現演出、説明用デモ、HOME復帰の位置・フォーカス復元に使用します。説明はJavaScriptなしでも読めます。訓練プレーヤー・音声再生・録音・マイク取得・認証・購入処理は含みません。
 
 | ファイル | 用途 |
 |---|---|
 | `scripts/source.py` | 正本2ファイルの型付き抽出。未知書式・対訳欠損・IDや番号の不整合は原本行番号付きで失敗 |
 | `scripts/build.py` | 設定検証、画像監査・WebP変換、HTML・サイトマップ生成、本番公開ゲート |
 | `scripts/templates.py` | LP・共通レイアウト・一覧・人物・各話・公開案内のテンプレート、教材リンク生成 |
+| `scripts/marketing.py` | トップと8つの機能詳細の共通生成 |
+| `content/features.json` | 機能説明・動作イメージ・初期設定の共通データ |
+| `static/marketing.css` / `marketing.js` | トップ・機能詳細だけの表示と操作 |
+| `static/fonts/` / `static/brand/` | ローカル配信するフォント・提供素材の軽量画像 |
 | `static/site.css` | 配色、レスポンシブ表示、フォーカス、動きの軽減 |
 | `static/site.js` | 検索・訳切替・案内受付。メールをログやローカル保存へ書き込まない |
 | `content/episodes.json` | ID別の固定slug、見出し、3表現と出典台詞番号、解説、原本リビジョン、確認状態 |
@@ -48,6 +52,7 @@ python3 -m http.server 4321 --bind 127.0.0.1 --directory dist
 ```text
 /
 /ja/
+/ja/features/<slug>/ 8機能
 /ja/characters/
 /ja/courses/
 /ja/courses/a1/
@@ -100,10 +105,63 @@ python3 scripts/build.py --config config.local.json
 python3 scripts/build.py --production --config config.local.json
 ```
 
-**今回の120話構成では成功しない設計です。** 本番ドメイン、全240話、全話の追加解説・画像対応の最終編集確認、サイト公開承認、未公開アプリに代わる有効な案内受付が必要です。今ある設定をtrueへ変えるだけで120話を正式公開する設計にはしていません。B1・B2を含める場合は、原本確認後にパーサー・対象データ・コース紹介を拡張する後続作業が必要です。
+**通常設定では今回の120話構成を受け付けません。** 2026-09-29に承認されたサイト先行公開には、下記の専用設定を使用します。 本番ドメイン、全240話、全話の追加解説・画像対応の最終編集確認、サイト公開承認、未公開アプリに代わる有効な案内受付が必要です。通常設定の公開フラグだけでは120話を公開できません。B1・B2を含める場合は、原本確認後にパーサー・対象データ・コース紹介を拡張する後続作業が必要です。
 
 通常ビルドは全ページ `noindex,nofollow`、robotsは全体を拒否します。XMLサイトマップも確認用originで生成されます。本番URLでのサイトマップ提出・検索登録は未実施です。公開用ビルドが失敗しても、直前のローカル出力を本番成果物として使わないでください。
 
 ## 検証結果
 
 [検証記録とスクリーンショット](reports/VALIDATION.md) を参照してください。コード・台本・画像の変更後には改めて検証が必要です。元資料で確認済みの本文と、今回追加した解説の最終編集確認は別の状態として管理しています。
+
+## 2026-09-27のサイト改善
+
+ポスターに合わせたトップと、8種類の機能詳細・操作デモを追加しました。機能説明はFrankenDojoのコードとテストを参照して作成しました。参照先はビルド依存に含めていません。根拠と更新箇所は [機能説明の制作メモ](FEATURE_SOURCES.md)、今回の確認結果は [検証記録](reports/redesign-2026-09-27/VALIDATION.md) を参照してください。以前の検証レポートは保持しています。
+
+今回と同じ出力先で検証する場合：
+
+```sh
+python3 scripts/build.py --report-dir reports/redesign-2026-09-27
+python3 scripts/validate.py --report-dir reports/redesign-2026-09-27
+```
+
+変更前のキャッシュがあるこの作業環境では、検証に `--baseline .cache/redesign-baseline/story-main-sha256.json` を付けると、120話の本文HTML全体が変更前と一致することも確認できます。
+
+Poppins ExtraBoldとNoto Sans JP（400・700）は `static/fonts/` から配信し、同じフォルダにSIL OFLライセンスを置いています。フォント・画像の取得や変換は通常のビルドでは不要です。素材を更新するときだけ `python3 scripts/prepare_marketing_assets.py`、表示する文字を追加してフォントを更新するときだけ `python3 scripts/prepare_marketing_assets.py --fonts` を使います。後者は公式Google Fontsへの接続が必要です。
+
+デモは音を出さず、マイク・ファイル送信・録音も行いません。動きを減らす設定では自動再生せず、操作ボタンで進められます。HOMEへの復帰情報はタブ内の一時保存と履歴に限定し、直接アクセスでは機能アンカーへ戻ります。
+
+## トップのRiveアニメーション（2026-09-27追記）
+
+最新のユーザー指定に従い、トップのフランク画像に提供済みRiveを追加しました。ページ表示時に2秒間再生し、マウス進入・クリック／タップ・Enter／Spaceで先頭から再生します。最後の形で停止し、動きを減らす設定では自動再生とホバー再生を止め、明示的な操作だけで再生します。JavaScript無効・読み込み失敗時は元の静止画像を表示します。
+
+`static/opening.js` とトップの専用マークアップで制御します。`static/animations/frankendojo_opening.riv` は `../output/rive/frankendojo-opening/frankendojo_opening.riv` の配信用コピーです。元のRiveを更新した場合はこのコピーも更新してください。アートボードは `FrankenDojo Opening`、ステートマシンは `Opening Player`、尺は2秒です。尺を変更した場合は `opening.js` の停止時間も更新します。
+
+公式 `@rive-app/canvas` 2.43.1（MIT、ライセンス同梱）とWASMを `static/vendor/rive-2.43.1/` からローカル配信します。トップ以外では読み込みません。通常ビルド・閲覧時にCDNへ接続しません。検証は `node scripts/test_opening.cjs` と既存のPython検証、記録は [Rive組み込みの確認記録](reports/rive-opening-2026-09-27/VALIDATION.md) を参照してください。
+
+
+## Cloudflare Pagesへのサイト先行公開（2026-09-29）
+
+アプリをリリースせず、現在のランディングページ・8機能詳細・A1/A2の120話と関連ページを公開するユーザー指示に対応しました。
+
+- 設定: `config.prelaunch.json`。本番originは `https://frankendojo.com`。
+- 配置先: Pagesプロジェクト `frankendojo`、production branch `main`、`https://frankendojo.pages.dev`。
+- カスタムドメイン: `frankendojo.com`。DNS CNAMEは `@ → frankendojo.pages.dev`（Proxied）。
+- 指定ネームサーバー: `elle.ns.cloudflare.com` / `igor.ns.cloudflare.com`。ムームードメイン側で「GMOペパボ以外のネームサーバーを使用する」を選択する。
+- アプリ・ストア・課金・メール受付を有効にしない。`dist/app` がある場合は先行公開ビルドを拒否する。
+- 従来の指定どおり `noindex,nofollow` とrobotsの拒否を維持。公開URLへのアクセスは可能だが、検索掲載は開始しない。
+- `prelaunchOnly` の公開条件を追加。通常の全240話公開条件と各教材の編集確認フラグは変更しない。
+
+```sh
+python3 website/scripts/build.py --production --config website/config.prelaunch.json --report-dir website/reports/cloudflare-2026-09-29
+python3 website/scripts/validate.py --production --config website/config.prelaunch.json --report-dir website/reports/cloudflare-2026-09-29
+```
+
+認証済みWrangler 4.135.0での配置コマンド（リポジトリのルートから実行）：
+
+```sh
+wrangler pages deploy website/dist --project-name frankendojo --branch main --commit-dirty=true --force
+```
+
+この実行環境では `--force` なしのPagesコマンドが新しいWorkers配備へ委譲されるため、既定のPagesサイトへ配置するために指定しました。今回使用したCLIは隣接アプリの `tools/web/node_modules/.bin/wrangler` です。別環境では同じバージョンの公式CLIを使用してください。資格情報をリポジトリ・配信物へ入れないでください。
+
+記録: [Cloudflare配置の検証](reports/cloudflare-2026-09-29/VALIDATION.md)。
