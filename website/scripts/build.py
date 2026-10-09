@@ -123,6 +123,7 @@ def build(config, report_dir=None):
         if config.get('prelaunchOnly') and (WEB/'dist/app').exists():
             blockers.append('先行公開の配信先にappが存在します。アプリを含む出力は配置できません。')
         if blockers: raise ValueError('本番公開ゲート:\n'+'\n'.join(blockers))
+    templates.legal.pages(config, templates.layout, templates.crumbs)
     output=WEB/'dist'; output.mkdir(exist_ok=True)
     # Clean only generator-owned directories. /app is never touched.
     for owned in ('ja','assets'):
@@ -175,7 +176,7 @@ def publication_blockers(config,episodes):
 def write_sitemaps(config,episodes):
     ns='http://www.sitemaps.org/schemas/sitemap/0.9'; ins='http://www.google.com/schemas/sitemap-image/1.1'
     ET.register_namespace('',ns); ET.register_namespace('image',ins)
-    pages=['/ja/','/ja/characters/','/ja/courses/','/ja/courses/a1/','/ja/courses/a2/','/ja/updates/','/ja/rights/']+[templates.url(ep) for ep in episodes]+[templates.marketing.feature_url(f) for f in templates.marketing.features()]
+    pages=['/ja/','/ja/characters/','/ja/courses/','/ja/courses/a1/','/ja/courses/a2/','/ja/updates/','/ja/rights/']+list(templates.legal.DOCUMENTS)+[templates.url(ep) for ep in episodes]+[templates.marketing.feature_url(f) for f in templates.marketing.features()]
     sitemap=ET.Element(f'{{{ns}}}urlset')
     for path in pages:
         node=ET.SubElement(sitemap,f'{{{ns}}}url'); ET.SubElement(node,f'{{{ns}}}loc').text=config['origin']+path

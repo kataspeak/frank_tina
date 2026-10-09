@@ -172,3 +172,7 @@ wrangler pages deploy website/dist --project-name frankendojo --branch main --co
 この実行環境では `--force` なしのPagesコマンドが新しいWorkers配備へ委譲されるため、既定のPagesサイトへ配置するために指定しました。今回使用したCLIは隣接アプリの `tools/web/node_modules/.bin/wrangler` です。別環境では同じバージョンの公式CLIを使用してください。資格情報をリポジトリ・配信物へ入れないでください。
 
 制作時の配置確認記録はローカルの `reports/cloudflare-2026-09-29/` に保存しています（Git管理対象外）。再配置時にはビルド・検証後、公開URLの表示とHTTP応答も確認してください。
+
+## 法務ページ
+
+`content/legal/` のMarkdownから `/ja/legal/terms/`、`/ja/legal/privacy/`、`/ja/legal/commercial-transactions/` を生成し、全ページのフッターからリンクします。利用規約とプライバシーポリシーは2026-10-04に `/Users/Yoshio/StudioProjects/FrankenDojo/docs/legal/` から取り込んだ全文のスナップショットです。原本更新時は2ファイルを再取り込みしてください。特商法表記は同資料の事業者・課金情報に基づき作成しています。電話番号が未確認の場合、本番ビルドは配信物を書き換える前に停止します。

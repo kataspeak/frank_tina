@@ -19,3 +19,5 @@
 
 /* Decorative orbit may extend outside the hero; content remains within its grid. */
 main{overflow-x:clip}.library-list>h2{font-size:24px;margin:0 0 28px}.course-index-section>h2{font-size:25px;margin-top:30px}
+
+.legal-copy{overflow-wrap:anywhere}.legal-copy h3{margin-top:2em;font-size:1.1rem}.legal-copy ol,.legal-copy ul{padding-left:1.6em;margin-block:1em}.legal-copy li{margin-block:.55em}.legal-table{overflow-x:auto;margin-block:1.5em}.legal-table table{border-collapse:collapse;width:100%;min-width:620px}.legal-table th,.legal-table td{border:1px solid var(--line);padding:12px;text-align:left;vertical-align:top}.legal-table th{background:var(--panel)}

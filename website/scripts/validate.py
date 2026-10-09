@@ -144,7 +144,7 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False):
             check(not any('opening.js' in node.attrs.get('src', '') or 'rive.js' in node.attrs.get('src', '') for node in doc.tag('script')), f'トップ以外でRive読込: {path}')
     ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9','i':'http://www.google.com/schemas/sitemap-image/1.1'}
     sitemap_paths={urlparse(n.text).path for n in ET.parse(output/'sitemap.xml').findall('s:url/s:loc',ns)}
-    check(len(sitemap_paths)==135,'サイトマップ数')
+    check(len(sitemap_paths)==135+len(templates.legal.DOCUMENTS),'サイトマップ数')
     check(len(ET.parse(output/'image-sitemap.xml').findall('s:url/i:image',ns))==120,'画像サイトマップ数')
     check('Disallow: /' in (output/'robots.txt').read_text(),'プレビューrobotsが拒否していない')
     for feature in templates.marketing.features():
@@ -240,7 +240,7 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False):
         for key in ('webTraining','ios','android','billing'):
             unsafe=copy.deepcopy(config); unsafe['release'][key]=True
             check(bool(publication_blockers(unsafe,eps)),f'先行公開で{key}を受理')
-    report={'success':not problems,'htmlPages':len(docs),'episodes':len(eps),'bilingualBlocks':spoken_count,'sfx':sfx_count,'expressions':360,'webpFiles':360,'sitemapUrls':135,'featurePages':8,'unchangedStoryMainHashes':preserved if baseline else 'not requested','stateCombinations':16,'parserNegativeCases':5,'sourceNotesHandled':len(material['sourceNotes']),'problems':problems,'materialRevision':material['materialRevision'],'browserChecks':'See the redesign QA record. This script alone does not claim browser QA.'}
+    report={'success':not problems,'htmlPages':len(docs),'episodes':len(eps),'bilingualBlocks':spoken_count,'sfx':sfx_count,'expressions':360,'webpFiles':360,'sitemapUrls':len(sitemap_paths),'featurePages':8,'unchangedStoryMainHashes':preserved if baseline else 'not requested','stateCombinations':16,'parserNegativeCases':5,'sourceNotesHandled':len(material['sourceNotes']),'problems':problems,'materialRevision':material['materialRevision'],'browserChecks':'See the redesign QA record. This script alone does not claim browser QA.'}
     (report_dir/'validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(report,ensure_ascii=False,indent=2))
     if problems: raise SystemExit(1)

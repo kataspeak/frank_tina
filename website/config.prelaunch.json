@@ -30,8 +30,8 @@
   },
   "links": {
     "operator": "https://kataspeak.com",
-    "terms": null,
-    "privacy": null,
+    "terms": "/ja/legal/terms/",
+    "privacy": "/ja/legal/privacy/",
     "contact": null
   },
   "pricing": {

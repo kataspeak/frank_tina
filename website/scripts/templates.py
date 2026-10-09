@@ -1,6 +1,7 @@
 """Shared templates. All reading content is in the first HTML response."""
 import json
 import marketing
+import legal
 from html import escape as e
 from urllib.parse import quote
 from urllib.parse import urlparse
@@ -67,6 +68,7 @@ def layout(config, path, title, description, body, *, breadcrumbs=None, social_i
     nav = [("物語を読む", "/ja/courses/"), ("キャラクター", "/ja/characters/"), ("練習のしくみ", "/ja/#practice"), ("料金・提供予定", "/ja/#pricing")]
     nav_html = ''.join(f'<a href="{href}" {"aria-current=\"page\"" if href == path else ""}>{label}</a>' for label,href in nav)
     extra_links=''.join(f'<a href="{e(config["links"][key],quote=True)}">{label}</a>' for key,label in [("contact","お問い合わせ"),("terms","利用規約"),("privacy","プライバシーポリシー")] if config["links"][key])
+    extra_links += '<a href="/ja/legal/commercial-transactions/">特定商取引法に基づく表記</a>'
     favicon = quote('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="15" fill="#191c28"/><path d="M17 14h31v9H27v9h17v9H27v12H17z" fill="#ffa338"/><circle cx="47" cy="48" r="6" fill="#237bff"/></svg>')
     return f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(description,quote=True)}"><meta name="robots" content="{ 'index,follow' if config.get('indexable', config['production']) else 'noindex,nofollow'}"><meta name="theme-color" content="#191C28"><link rel="canonical" href="{e(canonical)}"><meta property="og:locale" content="ja_JP"><meta property="og:type" content="website"><meta property="og:site_name" content="{BRAND}"><meta property="og:title" content="{e(title,quote=True)}"><meta property="og:description" content="{e(description,quote=True)}"><meta property="og:url" content="{e(canonical)}">{social}<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,{favicon}"><link rel="stylesheet" href="/assets/site.css"><script src="/assets/site.js" defer></script>{marketing_assets}<script type="application/ld+json">{json.dumps(structured,ensure_ascii=False).replace('<', chr(92)+'u003c')}</script></head><body class="{'marketing-page' if is_marketing else 'reading-page'}"><a class="skip-link" href="#main">本文へスキップ</a><header class="site-header"><div class="header-inner"><a class="brand" href="{home_href}" {home_return} aria-label="{BRAND} ホーム">{brand()}</a><nav class="desktop-nav" aria-label="メインナビゲーション">{nav_html}</nav><a class="header-cta" href="{app_href}">{'アプリで練習' if config['release']['webTraining'] else 'アプリ公開案内'} {arrow()}</a><details class="mobile-menu"><summary aria-label="ナビゲーションを開く">メニュー <span aria-hidden="true">☰</span></summary><nav aria-label="モバイルナビゲーション">{nav_html}</nav></details></div></header><main id="main" tabindex="-1">{body}</main><footer class="site-footer"><div class="footer-top"><a class="brand" href="{home_href}" {home_return}>{brand()}</a><p>物語を楽しむ。声に出して、英語を鍛える。</p><a class="text-link" href="/ja/courses/">物語を読む {arrow()}</a></div><div class="footer-bottom"><p>© 2026 KataSpeak.<br>フランケン＆ティナ 英語大作戦 · CC BY-NC-ND 4.0</p><nav aria-label="フッターナビゲーション"><a href="{config['links']['operator']}">運営サイト</a><a href="/ja/rights/">権利表記</a><a href="/ja/updates/">提供状況</a>{extra_links}</nav></div><p class="preview-note">{'確認用プレビュー · A1・A2 / 120話 · アプリは提供準備中' if not config['production'] else ''}</p></footer></body></html>'''
 
@@ -145,6 +147,7 @@ def rights(config):
 def all_pages(config,episodes):
     by_id={ep['id']:ep for ep in episodes}
     pages=dict([course_index(config,episodes),course_index(config,episodes,'A1'),course_index(config,episodes,'A2'),characters(config,by_id),updates(config,episodes),rights(config)])
+    pages.update(legal.pages(config, layout, crumbs))
     pages.update(skit(config,episodes,i) for i in range(len(episodes)))
     pages.update(marketing.feature_page(config,f) for f in marketing.features())
     return pages
