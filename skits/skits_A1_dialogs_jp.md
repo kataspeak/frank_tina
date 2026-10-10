@@ -879,10 +879,10 @@
    **ティナ**: 私たちいつもこのテーブルね。
 4. **Frank**: It is our special spot.
    **フランク**: 僕たちの特別な場所だ。
-5. **Tina**: Same as always?
-   **ティナ**: いつもと同じ？
-6. **Frank**: Black coffee. As always.
-   **フランク**: ブラックコーヒー。いつも通り。
+5. **Tina**: Black coffee, as always?
+   **ティナ**: いつも通り、ブラックコーヒー？
+6. **Frank**: Yes, please.
+   **フランク**: うん、お願い。
 7. **Tina**: A matcha latte for me, of course.
    **ティナ**: 私はもちろん抹茶ラテ。
 8. **Frank**: You never change, Tina.
@@ -913,8 +913,8 @@
    **ティナ**: ええ。どうしたの？
 6. **Frank**: Do you want to study together? At the cafe?
    **フランク**: 一緒に勉強しない？カフェで？
-7. **Tina**: Our table. Black coffee, matcha latte.
-   **ティナ**: いつものテーブル。ブラックコーヒーと抹茶ラテ。
+7. **Tina**: I'm already here. My books are open. Your chair is ready.
+   **ティナ**: もう来てるよ。本も開いてる。あなたの席も用意してあるよ。
 8. **Frank**: ...You already knew I would call.
    **フランク**: …僕が電話するって、もう分かってたんだね。
 9. **Tina**: I'm from another planet, Frank. We know things.
@@ -1199,8 +1199,8 @@
    **ティナ**: 100枚。まずはね。
 6. **Frank**: One hundred photos. Of one person.
    **フランク**: 100枚。一人の。
-7. **Tina**: Different poses! And a New York T-shirt!
-   **ティナ**: ポーズを変えるの！それとニューヨークのTシャツ！
+7. **Tina**: Different poses! First in this shirt, then in a New York T-shirt!
+   **ティナ**: ポーズを変えるの！まずはこの服で、次はニューヨークのTシャツを着て！
 8. **Frank**: I will get one too.
    **フランク**: 僕も1枚買うよ。
 9. **Tina**: Three more days! Best trip ever!
@@ -1614,7 +1614,7 @@
 9. **Frank**: I miss a friend. She is loud, like this city.
    **フランク**: 友達が恋しい。彼女は、この街みたいに騒がしいんです。
 10. **Driver**: Then you will feel at home soon.
-    **運転手**: それなら、すぐに故郷みたいに感じますよ。
+    **運転手**: それなら、この街にもすぐなじめますよ。
 
 ### A1-59 At the Airport
 

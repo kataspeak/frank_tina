@@ -308,10 +308,10 @@
    **ティナ**: 私の故郷では、花は贈り物なの！…それとおやつ。
 6. **Frank**: And here — the lake. Sunset. The little boat.
    **フランク**: それでこれ——湖。夕暮れ。小さなボート。
-7. **Tina**: That night I sent my parents the photos. Dad called right away.
-   **ティナ**: あの夜、両親に写真を送ったの。お父さんがすぐ電話してきたわ。
-8. **Frank**: He talked for an hour. From very, very far away.
-   **フランク**: 1時間も喋ってた。すごく、すごく遠くからね。
+7. **Tina**: That night I sent my parents the photos. Dad called right away. We talked for an hour.
+   **ティナ**: あの夜、両親に写真を送ったの。お父さんがすぐ電話してきて、1時間も話したわ。
+8. **Frank**: An hour? From that far away?
+   **フランク**: 1時間も？あんなに遠くから？
 9. **Tina**: Distance doesn't matter to him. He always calls.
    **ティナ**: …距離なんてお父さんには関係ないの。いつも電話してくれる。
 10. **Frank**: Keep that photo. The boat one. I'm in it.
@@ -472,18 +472,18 @@
    **ティナ**: エマがグループを抜けたの。サラと大喧嘩して。
 4. **Frank**: What started it?
    **フランク**: 発端は？
-5. **Tina**: She posted a joke. It really hurt Sarah.
-   **ティナ**: 冗談を投稿したの。サラをすごく傷つけた。
+5. **Tina**: Emma posted a joke. It really hurt Sarah.
+   **ティナ**: エマが冗談を投稿したの。それでサラがすごく傷ついた。
 6. **Frank**: Did she apologize?
    **フランク**: 謝った？
 7. **Tina**: No. She said "it was just a joke" and left.
    **ティナ**: いいえ。「ただの冗談」だって言って、抜けたわ。
-8. **Frank**: Leaving doesn't fix it. Silence makes it worse. I've learned that.
-   **フランク**: …抜けても直らない。沈黙は悪くする。僕はそれを学んだ。
-9. **Tina**: We talked about it for hours after. Everyone's still hurt.
-   **ティナ**: あのあと何時間も話したの。みんなまだ傷ついてる。
-10. **Frank**: Then someone should message Sarah first. Tonight. Not a joke. A real one.
-    **フランク**: じゃあ誰かが先にサラに連絡すべきだ。今夜。…冗談じゃなくて。本物のメッセージを。
+8. **Frank**: Has anyone talked to Emma since then?
+   **フランク**: そのあと、誰かエマと話した？
+9. **Tina**: No. We talked in the group for hours, but nobody messaged her.
+   **ティナ**: ううん。グループでは何時間も話したけど、誰もエマにはメッセージを送ってないの。
+10. **Frank**: Then someone should message Emma. Just one person. Not the whole group.
+    **フランク**: じゃあ誰かがエマにメッセージを送ったほうがいい。ひとりだけね。グループ全員じゃなくて。
 
 ### A2-18 Computer Trouble
 
@@ -508,10 +508,10 @@
    **ティナ**: ええ、でも何度も同じ問題が起きるの。
 8. **Support**: Could you send me a screenshot of the error?
    **サポート**: エラーのスクリーンショットを送っていただけますか？
-9. **Tina**: Sure, one second. So — is the four-page thing fixable, or...?
-   **ティナ**: ええ、ちょっと待って。…それで——4ページのほうも直せます、それとも…？
-10. **Support**: The email, yes. The message — that one's up to him.
-    **サポート**: メールは、はい。メッセージのほうは——それは彼次第ですね。
+9. **Tina**: Sure, one second. Can you also make him reply?
+   **ティナ**: ええ、ちょっと待って。彼から返事が来るようにもできます？
+10. **Support**: I can fix your email app. Your love life isn't covered by tech support.
+    **サポート**: メールアプリは直せます。恋愛はサポート対象外です。
 
 ### A2-19 Pulling an All-Nighter
 
@@ -526,12 +526,12 @@
    **フランク**: 危険だよ。今すぐ寝ないと。
 3. **Tina**: But I have so much work left!
    **ティナ**: でもまだやることが山ほどあるのよ！
-4. **Frank**: You've been awake too long. Humans aren't built for this.
-   **フランク**: 起きすぎだ。人間はこれ向きに作られてない。
-5. **Tina**: You'd know.
-   **ティナ**: …あなたなら詳しいわよね。
-6. **Frank**: I would. I can go days without sleep. You don't. What have you eaten?
-   **フランク**: そうだよ。僕は何日でも平気だ。君は違う。何を食べた？
+4. **Frank**: You've been awake too long. Even aliens need sleep.
+   **フランク**: 起きすぎだよ。宇宙人だって睡眠は必要だ。
+5. **Tina**: Great. I came all this way, and I still have to go to bed.
+   **ティナ**: もう。こんな遠くまで来たのに、やっぱり寝なきゃいけないのね。
+6. **Frank**: Yes, you do. Now, what have you eaten?
+   **フランク**: そうだよ。で、何を食べた？
 7. **Tina**: Coffee. And chips. And chocolate, every hour.
    **ティナ**: コーヒー。それとポテチ。それとチョコ、1時間ごとに。
 8. **Frank**: That's not a real meal, Tina. And coffee can't replace sleep.
@@ -737,7 +737,7 @@
 9. **Tina**: Oh. ...Earth keeps using one word for two things.
    **ティナ**: あら。…地球はひとつの言葉をふたつのことに使うのね。
 10. **Frank**: Sit down. We'll check the internet first. The sky can wait.
-    **フランク**: 座って。まずインターネットを確認しよう。空は待ってくれるから。
+    **フランク**: 座って。まずネットを確認しよう。空を探すのはそのあとだ。
 
 ### A2-27 Lost Luggage
 
@@ -872,8 +872,8 @@
    **フランク**: どうやら棒読みが「妙に落ち着く」らしい。みんなそう書いてる。
 6. **Tina**: They love you for the exact thing I tease you about!
    **ティナ**: 私がいじってるまさにその部分を、みんな気に入ってるのね！
-7. **Frank**: Three companies messaged me today. One wants a whole series.
-   **フランク**: 今日3社から連絡が来た。一社は全シリーズを希望してる。
+7. **Frank**: Three companies messaged me today. One wants me to make a series of science videos.
+   **フランク**: 今日3社から連絡が来た。一社は科学動画のシリーズを作ってほしいんだって。
 8. **Tina**: A series? Frank, you could actually be famous!
    **ティナ**: シリーズ？フランク、あなた本当に有名になれるわよ！
 9. **Frank**: ...Half a million people watched my face.
@@ -961,9 +961,9 @@
 8. **Frank**: Two hundred and twelve. Page ninety contradicts page one-forty.
    **フランク**: 212ページです。90ページが140ページと矛盾しています。
 9. **Trainer**: ...You know what? You're training the new people next year.
-   **研修担当者**: …いいですか？来年は、あなたが新人研修担当です。
-10. **Frank**: I'll arrive ten minutes early. I always do.
-    **フランク**: 10分早く着くようにします。いつもそうしています。
+   **研修担当者**: …そうだ。来年は、あなたが新人研修担当です。
+10. **Frank**: Of course. Please read all two hundred and twelve pages before my class. You too.
+    **フランク**: 承知しました。僕の研修までに212ページ全部読んでおいてください。あなたも。
 
 ### A2-35 Too Much Screen Time
 
@@ -1012,8 +1012,8 @@
    **フランク**: もちろん。ここにサインして。
 6. **Tina**: Sign what?
    **ティナ**: 何にサインするの？
-7. **Frank**: That you'll return it by Friday.
-   **フランク**: 金曜日までに返すという約束だよ。
+7. **Frank**: A contract. It says you'll return the book by Friday.
+   **フランク**: 契約書だよ。金曜日までに本を返すって書いてある。
 8. **Tina**: You made a contract for one book?
    **ティナ**: 本一冊のために契約書を作ったの？
 9. **Frank**: You returned the last one late. A scientist learns from data.
@@ -1130,8 +1130,8 @@
    **ティナ**: それで？誰か笑った？
 9. **Frank**: ...Everyone did. She said it was the best one she'd seen.
    **フランク**: …全員だ。これまでで一番のジョークだって言われた。
-10. **Tina**: So you weren't embarrassed — you were a hit! Send me the joke.
-    **ティナ**: つまり恥をかいたんじゃなくて、ウケたのね！そのジョーク私にも送って。
+10. **Tina**: So you were a hit! Tell me the joke. But no homework, please.
+    **ティナ**: じゃあ、大ウケだったのね！私にも聞かせて。でも宿題はなしでお願い。
 
 ### A2-41 Pharmacy Advice
 
@@ -1254,8 +1254,8 @@
    **ティナ**: もちろん。今はタンパク質多め、ジャンクフード少なめよ。
 10. **Frank**: Then you're gonna be stronger than him in no time.
     **フランク**: それならすぐ彼より強くなるよ。
-11. **Tina**: Good. Then I can quit as soon as I beat him.
-    **ティナ**: よかった。じゃあ、彼に勝ったらすぐやめられるわね。
+11. **Tina**: Good. Then I can stop going to the gym as soon as I beat him.
+    **ティナ**: よかった。じゃあ、彼に勝ったらすぐジムに通うのをやめられるわね。
 12. **Frank**: You said you'd be consistent.
     **フランク**: コツコツ続けるって言っただろ。
 13. **Tina**: Until I beat him. I was very specific.
@@ -1506,10 +1506,10 @@
    **ティナ**: そうかもね。でも、もう何度も傷ついたわ。
 10. **Frank**: Then tell her how you really feel. Don't just stay quiet.
     **フランク**: それなら本当の気持ちを伝えなよ。黙ってちゃだめだ。
-11. **Tina**: When did you get so wise?
-    **ティナ**: いつからそんなに賢くなったの？
-12. **Frank**: I read it on the side of your coffee cup.
-    **フランク**: 君のコーヒーカップの横に書いてあった。
+11. **Tina**: Okay. I'll write her a message. I have a lot to say.
+    **ティナ**: わかった。メッセージを書くわ。言いたいこと、いっぱいあるの。
+12. **Frank**: A message, Tina. Not a book.
+    **フランク**: メッセージだよ、ティナ。本を書くんじゃないからね。
 
 ### A2-53 Phone Plan Change
 
@@ -1570,8 +1570,8 @@
     **フランク**: それしかないね。
 11. **Tina**: Or tell me class starts at eight instead of nine.
     **ティナ**: それか、9時じゃなくて8時に始まるって言ってよ。
-12. **Frank**: Tina, you're the one who told me it starts at nine.
-    **フランク**: ティナ、9時からだって僕に教えたのは君だよ。
+12. **Frank**: All right. Seven thirty. Just to be safe.
+    **フランク**: わかった。7時半。念のためね。
 
 ### A2-55 Reporting a Theft
 
@@ -1656,20 +1656,20 @@
    **フランク**: 週末はずっと寝るといいよ。
 5. **Tina**: But I'm having lunch with friends tomorrow.
    **ティナ**: でも明日は友達とランチなの。
-6. **Frank**: Cancel it. Sleep comes first.
-   **フランク**: キャンセルしなよ。睡眠が第一だ。
+6. **Frank**: Then get some sleep before lunch.
+   **フランク**: じゃあ、ランチまではゆっくり寝て。
 7. **Tina**: Lunch is sitting down. That's almost rest.
    **ティナ**: ランチは座って食べるでしょ。ほとんど休息よ。
 8. **Frank**: I made a recovery plan for you.
    **フランク**: 君のために回復計画を作ったよ。
 9. **Tina**: You made a plan for my break?
    **ティナ**: 私の休みの計画を作ったの？
-10. **Frank**: Sleep on Saturday. No phone on Sunday. Fun starts Monday at ten.
-    **フランク**: 土曜は睡眠。日曜は携帯なし。楽しい時間は月曜10時から。
-11. **Tina**: Finally. How long does the fun last?
-    **ティナ**: やっとね。楽しい時間はどれくらい続くの？
-12. **Frank**: Forty-five minutes.
-    **フランク**: 45分。
+10. **Frank**: Sleep late, have lunch with your friends, and enjoy your break.
+    **フランク**: 朝はゆっくり寝て、友達とランチをして、休みを楽しんで。
+11. **Tina**: That's your whole plan?
+    **ティナ**: 計画って、それだけ？
+12. **Frank**: Yes. I made three drafts.
+    **フランク**: うん。下書きは3回した。
 
 ### A2-58 Fitness Goals
 
