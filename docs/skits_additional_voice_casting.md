@@ -56,7 +56,7 @@ Frank・Tina・Narrator以外は、**追加6ボイス**で全役をカバーす�
 | スキット（台本へのリンク） | 役 | 発話数 | ボイスID | 場面 |
 |---|---|---:|---|---|
 | [A1-16 At the Library](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A1_dialogs_jp.md:401) | Librarian | 3 | US-F2 | 図書館。 |
-| [A1-17 At the Supermarket](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A1_dialogs_jp.md:428) | Clerk | 2 | US-F1 | スーパー。 |
+| [A1-17 At the Fruit Stand](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A1_dialogs_jp.md:429) | Clerk | 2 | US-F1 | 果物の屋台。 |
 | [A1-19 I Want a Pencil](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A1_dialogs_jp.md:482) | Clerk | 2 | US-F1 | 文房具店。 |
 | [A1-29 At the Hair Salon](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A1_dialogs_jp.md:759) | Stylist | 3 | US-F1 | ティナが新しい髪型に。 |
 | [A1-31 Asking Directions](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A1_dialogs_jp.md:811) | Stranger | 2 | US-M1 | 知らない街。 |

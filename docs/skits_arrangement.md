@@ -47,7 +47,7 @@
 | A1-14 | After School | 実 | テニス/図書館 |
 | A1-15 | Chill Day | キ | 軽い回 |
 | A1-16 | At the Library | 実 | マンガvs科学書（小事件） |
-| A1-17 | At the Supermarket | 実 | 地球の計算ネタ（小事件化の代表） |
+| A1-17 | At the Fruit Stand | 実 | 地球の計算ネタ（小事件化の代表） |
 | A1-18 | This Is So Cute! | キ | 性格対比 |
 | A1-19 | I Want a Pencil | 実 | 文房具（要・小事件化） |
 | A1-20 | What Do You Like? | 実 | 食/ピンク |

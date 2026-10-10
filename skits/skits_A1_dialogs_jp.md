@@ -66,7 +66,7 @@
 
 **場面:** 学食。昼の混雑。
 
-**Narrator**: Frank and Tina are in the school cafeteria. It is lunch time.
+**Narrator**: Frank and Tina are in the school cafeteria. It is lunchtime.
 **ナレーター**: フランクとティナは学食にいる。お昼の時間だ。
 
 1. **Tina**: I'm soooo hungry! I need food now!
@@ -207,7 +207,7 @@
    **ティナ**: もちろん！鮮やかなピンクよ！後ろに乗って。乗せてあげる！
 7. **Frank**: On a bright pink bike? People will look.
    **フランク**: 鮮やかなピンクの自転車に？みんなが見るよ。
-8. **Tina**: They already look. You have stitches!
+8. **Tina**: They already do. You have stitches!
    **ティナ**: もうみんな見てるわよ。あなた、縫い目があるもの！
 9. **Frank**: ...That is fair. Let's go.
    **フランク**: …それもそうだ。行こう。
@@ -289,7 +289,7 @@
    **フランク**: お願いだから、先生の花を食べないで。
 9. **Tina**: Okay, okay! ...Just one?
    **ティナ**: わかった、わかった！…1本だけ？
-10. **Frank**: No, Tina.  Nooo...
+10. **Frank**: No, Tina. Nooo...
     **フランク**: だめだ、ティナ。だめ。
 
 ### A1-12 OMG, New Phone!
@@ -361,14 +361,14 @@
    **フランク**: 同じ椅子だよ。窓のそば。完璧なんだ。
 5. **Tina**: Come watch me play tennis! It's exciting!
    **ティナ**: 私がテニスするの見に来て！わくわくするわよ！
-6. **Frank**: Okay. I will come watch you.
-   **フランク**: わかった。見に行くよ。
-7. **Tina**: Yes! Cheer for me! Be loud!
-   **ティナ**: やった！大きな声で応援して！
-8. **Frank**: I will bring my book. For the quiet parts.
-   **フランク**: 本を持っていくよ。静かな時間のために。
-9. **Tina**: Tennis has no quiet parts, Frank!
-   **ティナ**: テニスに静かな時間なんてないわよ、フランク！
+6. **Frank**: Okay. Are there chairs?
+   **フランク**: わかった。椅子はある？
+7. **Tina**: Yes! You can sit and watch me!
+   **ティナ**: あるわよ！座って私のプレーを見て！
+8. **Frank**: Perfect. I will bring my book.
+   **フランク**: 完璧だ。本を持っていくよ。
+9. **Tina**: Frank! Watch me, not your book!
+   **ティナ**: フランク！本じゃなくて、私を見て！
 
 ### A1-15 Chill Day
 
@@ -404,13 +404,14 @@
 
 **Narrator**: Frank and Tina are at the library. Frank needs a book for class.
 **ナレーター**: フランクとティナは図書館にいる。フランクは授業のために本が必要だ。
+
 1. **Frank**: I am looking for a science book. Can you help me?
    **フランク**: 科学の本を探しているんだ。手伝ってくれる？
 2. **Tina**: Of course! Let's ask the librarian.
    **ティナ**: もちろん！司書さんに聞きましょう。
 3. **Frank**: Excuse me. Where are the science books?
    **フランク**: すみません。科学の本はどこにありますか？
-4. **Librarian**: Science books are over there, on the right.
+4. **Librarian**: The science books are over there, on the right.
    **司書**: 科学の本はあちらの右側ですよ。
 5. **Frank**: Thank you.
    **フランク**: ありがとうございます。
@@ -425,12 +426,12 @@
 10. **Frank**: Tina, your whisper is louder than your normal voice.
     **フランク**: ティナ、君のささやき声は、普段の声より大きいよ。
 
-### A1-17 At the Supermarket
+### A1-17 At the Fruit Stand
 
-**場面:** スーパー。
+**場面:** 果物の屋台。
 
-**Narrator**: Tina is buying fruit. Frank is with her.
-**ナレーター**: ティナは果物を買っている。フランクも一緒だ。
+**Narrator**: Tina is buying fruit at a fruit stand. Frank is with her.
+**ナレーター**: ティナは果物の屋台で果物を買っている。フランクも一緒だ。
 
 1. **Tina**: How much is this apple?
    **ティナ**: このリンゴはいくらですか？
@@ -445,11 +446,11 @@
 6. **Frank**: Tina, that is just... normal math.
    **フランク**: ティナ、それはただの…普通の計算だよ。
 7. **Tina**: Here you go! One for me, one for you, one for—
-   **ティナ**: はい、どうぞ！フランク、1個は私、1個はあなた、1個は——
+   **ティナ**: はい、どうぞ！1個は私、1個はあなた、1個は——
 8. **Frank**: And the third one?
    **フランク**: じゃあ、3個目は？
-9. **Tina**: Also me.
-   **ティナ**: それも私。
+9. **Tina**: Me again!
+   **ティナ**: また私！
 10. **Frank**: More Earth math.
     **フランク**: それも地球の計算か。
 
@@ -457,7 +458,7 @@
 
 **場面:** おもちゃ屋。
 
-**Narrator**: Frank and Tina are in a toy shop. Tina finds a small bear.
+**Narrator**: Frank and Tina are in a toy store. Tina finds a small bear.
 **ナレーター**: フランクとティナはおもちゃ屋にいる。ティナは小さなクマを見つける。
 
 1. **Tina**: Look! This bear is so cute!
@@ -494,7 +495,7 @@
    **店員**: はい、どうぞ。他には？
 3. **Frank**: One small notebook, too. Lined, please.
    **フランク**: 小さなノートも1冊。罫線入りでお願いします。
-4. **Clerk**: That is two dollars.
+4. **Clerk**: That's two dollars.
    **店員**: 2ドルになります。
 5. **Frank**: Here you are. Thank you.
    **フランク**: はい、どうぞ。ありがとう。
@@ -528,7 +529,7 @@
    **ティナ**: 私はストロベリーが好き。ピンクだもの！
 6. **Frank**: Of course. You love pink.
    **フランク**: そうだよね。君はピンクが大好きだ。
-7. **Tina**: Try one bite of mine. Just one!
+7. **Tina**: Try a bite of mine. Just one!
    **ティナ**: 私のをひと口食べてみて。ひと口だけ！
 8. **Frank**: ...The pink one is better.
    **フランク**: …ピンクのほうが、おいしい。
@@ -612,7 +613,7 @@
    **フランク**: 宇宙。じゃあ故郷を思い出すんだね。
 7. **Tina**: Yeah! The aliens look just like my family.
    **ティナ**: そうよ！宇宙人が私の家族にそっくりなの。
-8. **Frank**: Tina, you ARE the alien.
+8. **Frank**: Tina, you ARE an alien.
    **フランク**: ティナ、君が宇宙人だよ。
 9. **Tina**: I know! That's why I love it!
    **ティナ**: 知ってるわ！だから大好きなの！
@@ -626,7 +627,7 @@
 
 1. **Tina**: Frank. Frank. I want chips.
    **ティナ**: フランク。フランク。ポテトチップスが食べたいの。
-2. **Frank**: It is midnight. Sleep.
+2. **Frank**: It is midnight. Go to sleep.
    **フランク**: もう真夜中だよ。寝なよ。
 3. **Tina**: Too late! Bag's open!
    **ティナ**: もう遅いわ！袋を開けちゃった！
@@ -743,8 +744,8 @@
    **ティナ**: でも宿題があるのよ。
 4. **Frank**: Health comes first.
    **フランク**: 健康が第一だ。
-5. **Tina**: I have soup at home.
-   **ティナ**: 家にスープがあるわ。
+5. **Tina**: I have some soup.
+   **ティナ**: スープならあるわ。
 6. **Frank**: Good. Eat it while it is hot.
    **フランク**: いいね。温かいうちに食べて。
 7. **Tina**: Will you visit me?
@@ -851,8 +852,8 @@
    **フランク**: お水で結構です、ありがとう。
 4. **Tina**: I'd like pasta with tomato sauce.
    **ティナ**: 私はトマトソースのパスタをお願いします。
-5. **Waiter**: We have spaghetti or penne.
-   **ウェイター**: スパゲッティかペンネがございます。
+5. **Waiter**: Spaghetti or penne?
+   **ウェイター**: スパゲッティとペンネ、どちらになさいますか？
 6. **Tina**: Hmm... do you have anything pink?
    **ティナ**: うーん…ピンクのものはありますか？
 7. **Waiter**: Did you say pink?
@@ -969,8 +970,8 @@
    **ティナ**: でもお母さんが怒るわ。
 6. **Frank**: Call her. Tell her the truth.
    **フランク**: 電話して。本当のことを話しなよ。
-7. **Tina**: It's so hard to say.
-   **ティナ**: 言うのがすごく難しいの。
+7. **Tina**: It's so hard to tell her.
+   **ティナ**: お母さんに言うのが、すごく難しいの。
 8. **Frank**: Then I will sit next to you.
    **フランク**: それなら僕が隣に座っているよ。
 9. **Tina**: Really? You'd do that?
@@ -993,7 +994,7 @@
    **職員**: もちろんです。どうされましたか？
 3. **Frank**: I cannot find this book.
    **フランク**: この本が見つからないんです。
-4. **Staff**: Let me check. ...It is on shelf five.
+4. **Staff**: Let me check. ...It's on shelf five.
    **職員**: 確認しますね。…5番の棚にありますよ。
 5. **Frank**: Thank you. I usually only read books here. How do I check this one out?
    **フランク**: ありがとうございます。いつもはここで読むだけなんです。この本はどうやって借りればいいですか？
@@ -1025,8 +1026,8 @@
    **職員**: いつなくしましたか？
 5. **Tina**: This morning. On the train.
    **ティナ**: 今朝。電車の中で。
-6. **Staff**: We found one this morning. Here you are.
-   **職員**: 今朝届きましたよ。はい、どうぞ。
+6. **Staff**: We found one this morning. Is this it?
+   **職員**: 今朝、一つ届きましたよ。こちらですか？
 7. **Tina**: That's mine! Thank you so much!
    **ティナ**: それ私のです！本当にありがとうございます！
 8. **Frank**: You have stars on your key, in your room, and on your clothes.
@@ -1055,7 +1056,7 @@
    **ティナ**: でもすごく面白いのよ！
 6. **Frank**: Books have better stories.
    **フランク**: 本のほうがいい物語がある。
-7. **Tina**: People say things about us, you know.
+7. **Tina**: People talk about us, too, you know.
    **ティナ**: みんな私たちのことも言ってるのよ。
 8. **Frank**: What do they say?
    **フランク**: 何て言ってるの？
@@ -1073,15 +1074,15 @@
 
 1. **Tina**: Can I try this on?
    **ティナ**: これを試着してもいいですか？
-2. **Clerk**: Yes. The fitting room is there.
-   **店員**: はい。試着室はあちらです。
+2. **Clerk**: Sure. The fitting room is over there.
+   **店員**: どうぞ。試着室はあちらです。
 3. **Tina**: What size is this dress?
    **ティナ**: このワンピースのサイズは何ですか？
 4. **Clerk**: It's a medium.
    **店員**: Mサイズです。
 5. **Tina**: Do you have a small? And... in pink?
    **ティナ**: Sサイズはありますか？それと…ピンクで？
-6. **Clerk**: We do. Here is one.
+6. **Clerk**: We do. Here you go.
    **店員**: ございますよ。こちらです。
 7. **Tina**: Perfect! I'll take it.
    **ティナ**: ぴったり！これをいただきます。
@@ -1117,7 +1118,7 @@
    **フランク**: サムが断れば、答えがわかる。そうしたら前に進める。
 9. **Tina**: You're too logical.
    **ティナ**: あなたって理屈っぽすぎるわ。
-10. **Frank**: A doctor built me. Logic was free.
+10. **Frank**: The doctor built me. Logic came free.
     **フランク**: 博士が僕を作った。論理はおまけで付いてきたんだ。
 
 ### A1-42 Asking About a Job
@@ -1131,7 +1132,7 @@
 
 1. **Tina**: Hi! I saw your sign. I want to apply.
    **ティナ**: こんにちは！貼り紙を見ました。応募したいんです。
-2. **Manager**: Do you have experience?
+2. **Manager**: Do you have any experience?
    **店長**: 経験はありますか？
 3. **Tina**: A little. I worked at a cafe.
    **ティナ**: 少し。カフェで働いていました。
@@ -1143,7 +1144,7 @@
    **店長**: いいですね。お友達も働けますか？
 7. **Frank**: I am very reliable. I never sleep.
    **フランク**: 僕はとても頼りになります。眠りませんから。
-8. **Manager**: ...A joke. Right?
+8. **Manager**: ...That's a joke, right?
    **店長**: …冗談、ですよね？
 9. **Tina**: Just a joke! Can I come in for an interview tomorrow?
    **ティナ**: ただの冗談です！明日、面接に伺っていいですか？
@@ -1223,7 +1224,7 @@
    **フランク**: 食べ物の出店が見える。お腹が空いたな。
 3. **Tina**: Takoyaki! Let's try it!
    **ティナ**: たこ焼き！食べてみましょう！
-4. **Tina**: Wait — what is in it?
+4. **Tina**: Wait — what's in it?
    **ティナ**: 待って——中身は何？
 5. **Frank**: Octopus.
    **フランク**: タコだよ。
@@ -1304,17 +1305,17 @@
 **Narrator**: Before his trip to Japan, Frank is at a post office near home. He has a box to send to Japan.
 **ナレーター**: 日本旅行の前、フランクは自宅近くの郵便局にいる。日本へ送る箱を持っている。
 
-1. **Frank**: I want to send this box to Japan. It is a gift — too big to carry on the plane.
+1. **Frank**: I would like to send this box to Japan. It is a gift — too big to carry on the plane.
    **フランク**: この箱を日本へ送りたいんです。贈り物で、飛行機で持っていくには大きすぎるので。
 2. **Clerk**: Standard or express shipping?
    **局員**: 通常便ですか、速達便ですか？
 3. **Frank**: Standard shipping, please. How long does it take?
    **フランク**: 通常便でお願いします。どれくらいかかりますか？
-4. **Clerk**: About one week.
+4. **Clerk**: About a week.
    **局員**: 1週間ほどです。
 5. **Tina**: One week? On my planet, we send things by light!
    **ティナ**: 1週間？私の惑星では、光で送るのよ！
-6. **Clerk**: We... do not have that option.
+6. **Clerk**: We... don't have that option.
    **局員**: その…そのサービスはございません。
 7. **Frank**: How much will it be?
    **フランク**: いくらになりますか？
@@ -1334,7 +1335,7 @@
 
 1. **Tina**: Sing this song with me!
    **ティナ**: この歌を一緒に歌って！
-2. **Frank**: I cannot sing. I will only listen.
+2. **Frank**: I cannot sing. I will just listen.
    **フランク**: 僕は歌えない。聞くだけにするよ。
 3. **Tina**: Anyone can sing!
    **ティナ**: 誰でも歌えるわ！
@@ -1395,7 +1396,7 @@
 
 1. **Tina**: I'll take this one. How much is it?
    **ティナ**: これをいただきます。いくらですか？
-2. **Clerk**: That is three thousand yen. It is handmade here.
+2. **Clerk**: That's three thousand yen. It's handmade here.
    **店員**: 3,000円です。ここで手作りされたものですよ。
 3. **Tina**: Handmade? It's beautiful.
    **ティナ**: 手作り？きれいね。
@@ -1451,7 +1452,7 @@
 **Narrator**: It is two in the morning during their trip to Japan. Frank wants to go to his room. Tina wants to talk.
 **ナレーター**: 日本旅行中の朝2時。フランクは自分の部屋に戻りたい。ティナは話したい。
 
-1. **Tina**: Frank, don't go yet! Let's talk more!
+1. **Tina**: Frank, don't go yet! Let's keep talking!
    **ティナ**: フランク、まだ行かないで！もっと話しましょう！
 2. **Frank**: It is two in the morning. You need to rest.
    **フランク**: 朝の2時だよ。君は休まないと。
@@ -1515,9 +1516,9 @@
    **係員**: 片道ですか、往復ですか？
 3. **Frank**: Round trip, please.
    **フランク**: 往復でお願いします。
-4. **Agent**: That is sixty thousand yen.
+4. **Agent**: That's sixty thousand yen.
    **係員**: 60,000円になります。
-5. **Tina**: Two round-trip tickets. So we are going together?
+5. **Tina**: Two round-trip tickets. So we're going together?
    **ティナ**: 往復切符が2枚。じゃあ、一緒に行くのね？
 6. **Frank**: Of course. It is our day trip.
    **フランク**: もちろん。二人の日帰り旅行だからね。
@@ -1543,7 +1544,7 @@
    **窓口係**: いくら両替なさいますか？
 3. **Tina**: Ten thousand yen, please.
    **ティナ**: 1万円お願いします。
-4. **Teller**: That is about seventy dollars.
+4. **Teller**: That's about seventy dollars.
    **窓口係**: 約70ドルになります。
 5. **Tina**: Okay. That's fine.
    **ティナ**: わかりました。それで結構です。
@@ -1613,35 +1614,35 @@
    **運転手**: 恋しいですか？
 9. **Frank**: I miss a friend. She is loud, like this city.
    **フランク**: 友達が恋しい。彼女は、この街みたいに騒がしいんです。
-10. **Driver**: Then you will feel at home soon.
+10. **Driver**: Then you'll feel at home soon.
     **運転手**: それなら、この街にもすぐなじめますよ。
 
 ### A1-59 At the Airport
 
-**場面:** 空港。ティナが旅立つ。出国手続きとゲート探し。
+**場面:** 空港。ティナが旅立つ。搭乗手続きとゲート探し。
 
 **Narrator**: Tina is at the airport. She is leaving today. Frank is with her.
 **ナレーター**: ティナは空港にいる。今日、旅立つ。フランクも一緒だ。
 
 `[SFX: airport announcement]`
 
-1. **Officer**: Your passport, please.
-   **係官**: パスポートをお願いします。
+1. **Agent**: Your passport, please.
+   **係員**: パスポートをお願いします。
 2. **Tina**: Here you are.
    **ティナ**: はい、どうぞ。
-3. **Officer**: Where are you going today?
-   **係官**: 今日はどちらへ？
-4. **Tina**: Home. Very far.
+3. **Agent**: Where are you going today?
+   **係員**: 今日はどちらへ？
+4. **Tina**: Home. Very far away.
    **ティナ**: 故郷へ。とても遠いの。
-5. **Officer**: You're all set. Gate 5, down the hall.
-   **係官**: 手続き完了です。5番ゲート、通路の先です。
+5. **Agent**: You're all set. Gate 5, down the hall.
+   **係員**: 手続き完了です。5番ゲート、通路の先です。
 6. **Tina**: How long does it take to walk there?
    **ティナ**: そこまで歩いてどれくらい？
-7. **Officer**: About ten minutes.
-   **係官**: 10分ほどです。
+7. **Agent**: About ten minutes.
+   **係員**: 10分ほどです。
 8. **Tina**: Ten minutes. Then we have to say goodbye.
    **ティナ**: 10分。そうしたら、お別れね。
-9. **Frank**: Then walk slowly. See? I keep your gift with me.
+9. **Frank**: Then let's walk slowly. See? I always keep your gift with me.
    **フランク**: それなら、ゆっくり歩こう。ほら、君にもらったお土産は、いつも僕と一緒だ。
 10. **Tina**: You kept it. Walk me to gate four. Not five. Five is the goodbye gate, isn't it?
     **ティナ**: 取っておいてくれたのね。4番ゲートまで送って。5番じゃなく。5番って、お別れのゲートでしょう？
@@ -1669,7 +1670,7 @@
    **フランク**: 空を見上げるよ。君がそこにいる。
 7. **Tina**: I'll come back someday.
    **ティナ**: いつか、また戻ってくるわ。
-8. **Frank**: I know. I always come back. So will you.
+8. **Frank**: I know. I always come back. You will, too.
    **フランク**: わかってる。僕はいつも帰ってくる。君もそうだ。
 9. **Tina**: Goodbye, my best friend.
    **ティナ**: さようなら、私の親友。
