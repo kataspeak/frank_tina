@@ -166,19 +166,19 @@
 
 **場面:** ティナの部屋。
 
-**Narrator**: Frank and Tina live in the same building, in different rooms. Today Frank visits Tina's room for the first time.
-**ナレーター**: フランクとティナは同じ建物の別々の部屋に住んでいる。今日、フランクは初めてティナの部屋を訪れる。
+**Narrator**: Frank and Tina live in separate apartments in the same building. Today Frank visits Tina's apartment for the first time.
+**ナレーター**: フランクとティナは同じ建物の別々の住戸に住んでいる。今日、フランクは初めてティナの部屋を訪れる。
 
-1. **Tina**: Welcome to my room, Frank! We live in the same building, but you never visit!
+1. **Tina**: Welcome to my apartment, Frank! We live in the same building, but you never visit!
    **ティナ**: 私の部屋へようこそ、フランク！同じ建物に住んでるのに、全然来ないんだから！
-2. **Frank**: My room is just down the hall. This is my first time inside. Wow. It is very... pink.
+2. **Frank**: My apartment is just down the hall. This is my first time inside. Wow. It is very... pink.
    **フランク**: 僕の部屋は廊下のすぐ先だよ。中に入るのは初めてだ。わあ。とても…ピンクだね。
 3. **Tina**: Pink everywhere! Bed, books, lamp, walls!
    **ティナ**: どこもかしこもピンク！ベッド、本、ランプ、壁！
 4. **Frank**: Oh. A star map. That is not pink.
    **フランク**: おや。星図だ。これはピンクじゃないね。
-5. **Tina**: That's a map of my home planet. I would never paint over that one.
-   **ティナ**: それは私の故郷の惑星の地図なの。それだけは絶対に塗りつぶさないわ。
+5. **Tina**: My home planet is on that map. I would never paint over it.
+   **ティナ**: その地図には、私の故郷の惑星が載ってるの。それだけは絶対に塗りつぶさないわ。
 6. **Frank**: It is beautiful. Which star is your home planet near?
    **フランク**: きれいだね。どの星の近くに、君の故郷の惑星はあるの？
 7. **Tina**: That tiny one. Small, but bright.
@@ -201,7 +201,7 @@
    **フランク**: 健康にいいんだよ。
 4. **Tina**: I ride my bike. It's fast!
    **ティナ**: 私は自転車で行くの。速いのよ！
-5. **Frank**: Let me guess. It's pink, right?
+5. **Frank**: Let me guess. It is pink, right?
    **フランク**: 当ててみようか。ピンクだよね？
 6. **Tina**: Of course! Bright pink! Hop on the back. I'll give you a ride!
    **ティナ**: もちろん！鮮やかなピンクよ！後ろに乗って。乗せてあげる！
@@ -353,8 +353,8 @@
 
 1. **Tina**: I'm playing tennis after school.
    **ティナ**: 今日は放課後にテニスをする予定なの。
-2. **Frank**: I read books at the library.
-   **フランク**: 僕は図書館で本を読むよ。
+2. **Frank**: I usually read at the library.
+   **フランク**: 僕はたいてい図書館で本を読むよ。
 3. **Tina**: Books? Every day? Same chair?
    **ティナ**: 本？毎日？同じ椅子で？
 4. **Frank**: Same chair. By the window. It is perfect.
@@ -446,8 +446,8 @@
    **フランク**: ティナ、それはただの…普通の計算だよ。
 7. **Tina**: Here you go! One for me, one for you, one for—
    **ティナ**: はい、どうぞ！フランク、1個は私、1個はあなた、1個は——
-8. **Frank**: —the third apple?
-   **フランク**: ——3個目は？
+8. **Frank**: And the third one?
+   **フランク**: じゃあ、3個目は？
 9. **Tina**: Also me.
    **ティナ**: それも私。
 10. **Frank**: More Earth math.
@@ -621,8 +621,8 @@
 
 **場面:** 深夜。
 
-**Narrator**: It is midnight. Frank is visiting, but it is late. He wants Tina to sleep before he goes back to his room.
-**ナレーター**: 真夜中だ。フランクは遊びに来ているが、もう遅い。彼は自分の部屋に帰る前に、ティナに寝てほしい。
+**Narrator**: It is midnight. Frank is visiting, but it is late. He wants Tina to go to sleep before he goes back to his room.
+**ナレーター**: 真夜中だ。フランクは遊びに来ているが、もう遅い。彼は自分の部屋に帰る前に、ティナに寝てもらいたい。
 
 1. **Tina**: Frank. Frank. I want chips.
    **ティナ**: フランク。フランク。ポテトチップスが食べたいの。
@@ -653,8 +653,8 @@
 
 1. **Tina**: Come to my birthday party!
    **ティナ**: 私の誕生日パーティーに来て！
-2. **Frank**: Thank you. I'd love to come.
-   **フランク**: ありがとう。行くよ。
+2. **Frank**: Thank you. I would love to come.
+   **フランク**: ありがとう。ぜひ行きたいよ。
 3. **Tina**: It's on Saturday at six.
    **ティナ**: 土曜日の6時よ。
 4. **Frank**: I will bring a gift. It is a surprise.
@@ -786,8 +786,8 @@
 
 **場面:** 新しいスニーカーを見せびらかす。
 
-**Narrator**: Tina bought new sneakers. She shows Frank.
-**ナレーター**: ティナは新しいスニーカーを買った。フランクに見せる。
+**Narrator**: Tina bought new sneakers. She shows them to Frank.
+**ナレーター**: ティナは新しいスニーカーを買った。そのスニーカーをフランクに見せる。
 
 1. **Tina**: Look at my new sneakers!
    **ティナ**: 私の新しいスニーカーを見て！
@@ -931,8 +931,8 @@
 
 1. **Tina**: Test tomorrow! I'm not ready!
    **ティナ**: 明日テストよ！準備できてないわ！
-2. **Frank**: Study now. It is not too late.
-   **フランク**: 今勉強しよう。まだ遅くない。
+2. **Frank**: Let's study now. It is not too late.
+   **フランク**: 今から勉強しよう。まだ遅くない。
 3. **Tina**: I'm so scared! My mind is blank!
    **ティナ**: すごく怖いわ！頭が真っ白なの！
 4. **Frank**: Open your book. One page at a time.
@@ -1263,7 +1263,7 @@
 8. **Frank**: Hm.
    **フランク**: ふむ。
 9. **Tina**: Frank. You are squeezing my hand.
-   **ティナ**: フランク。あなた、私の手を握ってるわ。
+   **ティナ**: フランク。私の手、ぎゅっと握ってるわ。
 10. **Frank**: I am helping you be brave.
     **フランク**: 君が勇敢でいられるようにしているんだ。
 
@@ -1351,10 +1351,10 @@
    **ティナ**: フランク。歌ってるわ。
 9. **Frank**: My voice is terrible.
    **フランク**: 僕の声はひどいよ。
-10. **Tina**: No. That one is mine. I'm keeping it.
-    **ティナ**: ううん。今のは私のもの。もらっておくわ。
+10. **Tina**: No. That song is mine now. I'm keeping it.
+    **ティナ**: ううん。今の歌は私のもの。大事にしておくわ。
 
-> **注釈 — “That one is mine. I’m keeping it.”**: 物を「もらう」という意味ではありません。`That one` は、フランクが今歌った不器用で特別な歌（声・瞬間）を指し、`I’m keeping it` は「大切な思い出として心にしまっておく」というニュアンスです。自分の声を「ひどい」と言うフランクに対し、ティナが「私には宝物」と伝える、やさしく少しロマンチックな表現です。自然な意訳は「今の歌は私へのプレゼントね。ずっと大事にするわ」です。
+> **注釈 — “That song is mine now. I’m keeping it.”**: 歌を物として所有するという意味ではありません。`That song` は、フランクが今歌った不器用で特別な歌を指し、`I’m keeping it` は「大切な思い出として心にしまっておく」というニュアンスです。自分の声を「ひどい」と言うフランクに対し、ティナが「私には宝物」と伝える、やさしく少しロマンチックな表現です。自然な意訳は「今の歌は私へのプレゼントね。ずっと大事にするわ」です。
 
 ### A1-50 Hotel Check-in
 
@@ -1442,7 +1442,7 @@
 9. **Frank**: It is an old one. The doctor will understand.
    **フランク**: 古い縫い目ですが、先生ならわかります。
 10. **Tina**: Tell them to use pink thread!
-    **ティナ**: ピンクの糸持ってきてって言ってよ！
+    **ティナ**: ピンクの糸を使ってって言ってよ！
 
 ### A1-53 Late Night Talk
 
@@ -1555,8 +1555,8 @@
    **窓口係**: ありがとうございます。こちらがドルです。
 9. **Tina**: All set. I only kept five hundred yen.
    **ティナ**: これで終わりね。500円だけ残しておいたわ。
-10. **Frank**: Good. A small memory of Japan.
-    **フランク**: うん。日本の小さな思い出だね。
+10. **Frank**: Good. A little souvenir from Japan.
+    **フランク**: うん。日本の小さな記念品だね。
 
 ### A1-57 See You Tomorrow
 
@@ -1639,8 +1639,8 @@
    **ティナ**: そこまで歩いてどれくらい？
 7. **Officer**: About ten minutes.
    **係官**: 10分ほどです。
-8. **Tina**: Ten minutes. Then I'll go.
-   **ティナ**: 10分したら、お別れね。
+8. **Tina**: Ten minutes. Then we have to say goodbye.
+   **ティナ**: 10分。そうしたら、お別れね。
 9. **Frank**: Then walk slowly. See? I keep your gift with me.
    **フランク**: それなら、ゆっくり歩こう。ほら、君にもらったお土産は、いつも僕と一緒だ。
 10. **Tina**: You kept it. Walk me to gate four. Not five. Five is the goodbye gate, isn't it?
@@ -1650,8 +1650,8 @@
 
 **場面:** 搭乗ゲートの前。
 
-**Narrator**: It is time for Tina to leave. This is the gate. Frank came to say goodbye.
-**ナレーター**: ティナが旅立つ時が来た。ここが搭乗ゲートだ。フランクは別れを告げに来た。
+**Narrator**: It is time for Tina to leave. They are at the gate. Frank came to say goodbye.
+**ナレーター**: ティナが旅立つ時が来た。二人は搭乗ゲートにいる。フランクは別れを告げに来た。
 
 `[SFX: final boarding call]`
 
