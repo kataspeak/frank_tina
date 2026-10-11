@@ -104,11 +104,11 @@ B1-39→40→41＝昇進打診→迷い→退職のキャリア決断ビルド�
 | ID | Title | | ID | Title |
 |---|---|---|---|---|
 | A2-01 | Welcome Back | | A2-31 | TikTok Famous |
-| A2-02 | New Apartment | | A2-32 | Changing Reservation |
+| A2-02 | New Apartment | | A2-32 | Changing a Reservation |
 | A2-03 | Have You Seen It? | | A2-33 | Roommate Problems |
 | A2-04 | Lab Interview Practice | | A2-34 | Workplace Training |
 | A2-05 | I'm Stuffed! | | A2-35 | Too Much Screen Time |
-| A2-06 | Talking About Hometown | | A2-36 | Recommending a Book |
+| A2-06 | Talking About Our Hometowns | | A2-36 | Recommending a Book |
 | A2-07 | Renting a Car | | A2-37 | Library Late Fee |
 | A2-08 | I've Been There | | A2-38 | Hangover |
 | A2-09 | Booking a Restaurant | | A2-39 | Fixing a Bike |

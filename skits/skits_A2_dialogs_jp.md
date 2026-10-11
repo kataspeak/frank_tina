@@ -39,8 +39,8 @@
 
 **場面:** 引越し先の内見。Tina、不動産業者、Frank。
 
-**Narrator**: Tina is looking at an apartment with an agent. Frank has come along. The kitchen and windows were renovated last year.
-**ナレーター**: ティナは不動産業者と一緒にアパートを内見している。フランクも付き添っている。キッチンと窓は去年改装された。
+**Narrator**: Tina is looking at an apartment with an agent. Frank has come along. The kitchen was renovated and the windows were replaced last year.
+**ナレーター**: ティナは不動産業者と一緒にアパートを内見している。フランクも付き添っている。キッチンは去年改装され、窓も新しいものに交換された。
 
 1. **Agent**: The walls are all white right now, but you're free to repaint.
    **業者**: 今は壁はすべて白ですが、塗り直しは自由ですよ。
@@ -149,7 +149,7 @@
 10. **Frank**: You said that last time. Come on. One slow step at a time.
     **フランク**: それ、前回も言ってた。…ほら。一歩ずつ、ゆっくりね。
 
-### A2-06 Talking About Hometown
+### A2-06 Talking About Our Hometowns
 
 **場面:** 夜、二人で空を見ながら故郷の話。
 
@@ -553,7 +553,7 @@
 2. **Tina**: I loved it. But the chapter about her childhood made me cry.
    **ティナ**: 大好きだったわ。でも彼女の子供時代の章で泣いちゃった。
 3. **Frank**: Same. The author writes about pain very clearly.
-   **フランク**: 僕も。作者は痛みをとても鮮明に描く。
+   **フランク**: 僕も。作者はつらさをとてもわかりやすく描いてる。
 4. **Tina**: And the new character near the end — she surprised me.
    **ティナ**: それと終盤の新しい登場人物——あれには驚いた。
 5. **Frank**: She arrives late. Says little. Changes everything.
@@ -687,8 +687,8 @@
 
 **場面:** 保険会社のオフィス。担当者がFrankにプランを説明している。
 
-**Narrator**: Frank is at an insurance office before a trip. An agent is explaining a travel plan, and Frank wants every detail.
-**ナレーター**: フランクは旅行前に保険会社のオフィスにいる。担当者が旅行プランを説明し、フランクは細部まで知りたがっている。
+**Narrator**: Frank is at an insurance office before a trip. An agent is explaining a travel insurance plan, and Frank wants every detail.
+**ナレーター**: フランクは旅行前に保険会社のオフィスにいる。担当者が旅行保険のプランを説明し、フランクは細部まで知りたがっている。
 
 1. **Agent**: This plan covers medical care and lost luggage. About fifty dollars, taxes included.
    **担当者**: このプランは医療と手荷物の紛失をカバーします。税込み約50ドルです。
@@ -866,8 +866,8 @@
    **ティナ**: まさか！あなたが？バズった？今すぐ見せて！
 3. **Frank**: Half a million views already. The one with the magnet and the soda can.
    **フランク**: もう50万回再生だ。磁石とソーダ缶のやつだよ。
-4. **Tina**: The one you filmed last week in your boring monotone voice?
-   **ティナ**: 先週、あの退屈な棒読みで撮ったやつ？
+4. **Tina**: The one from last week where you talk in that boring monotone voice?
+   **ティナ**: 先週の、あの退屈な棒読みでしゃべってるやつ？
 5. **Frank**: Apparently the monotone is "weirdly calming." People wrote that.
    **フランク**: どうやら棒読みが「妙に落ち着く」らしい。みんなそう書いてる。
 6. **Tina**: They love you for the exact thing I tease you about!
@@ -876,12 +876,12 @@
    **フランク**: 今日3社から連絡が来た。一社は科学動画のシリーズを作ってほしいんだって。
 8. **Tina**: A series? Frank, you could actually be famous!
    **ティナ**: シリーズ？フランク、あなた本当に有名になれるわよ！
-9. **Frank**: ...Half a million people watched my face.
+9. **Frank**: ...Half a million people saw my face.
    **フランク**: …50万人が僕の顔を見た。
 10. **Tina**: Stitches and all. Welcome to the internet, superstar.
     **ティナ**: 縫い目もろともね。インターネットへようこそ、スーパースター。
 
-### A2-32 Changing Reservation
+### A2-32 Changing a Reservation
 
 **場面:** Frankが電話でレストランの予約を変更している。
 
@@ -939,10 +939,10 @@
 
 ### A2-34 Workplace Training
 
-**場面:** 新しい職場の研修。研修担当者がFrankに予定を説明している。
+**場面:** 新しい職場で、研修前の打ち合わせ。担当者がFrankに予定を説明している。
 
-**Narrator**: Frank is at his new job's training session. A trainer is explaining the schedule and what to bring.
-**ナレーター**: フランクは新しい職場の研修に来ている。研修担当者が予定と持ち物を説明している。
+**Narrator**: Frank is meeting with a trainer at his new job. The trainer is explaining the schedule and what to bring.
+**ナレーター**: フランクは新しい職場で研修担当者と話している。担当者が研修の予定と持ち物を説明している。
 
 1. **Trainer**: Hello, Frank. Training starts next Monday at nine.
    **研修担当者**: こんにちは、フランクさん。研修は来週月曜9時からです。
@@ -970,7 +970,7 @@
 **場面:** Tinaの部屋。夜。スマホに釘付けのTina。
 
 **Narrator**: Tina has been on her phone all evening. Frank notices she just can't stop scrolling.
-**ナレーター**: ティナは一晩中スマホに釘付けだ。フランクは彼女がスクロールをやめられないことに気づく。
+**ナレーター**: ティナは夕方からずっとスマホに釘付けだ。フランクは彼女がスクロールをやめられないことに気づく。
 
 1. **Tina**: Ugh, I've been scrolling for three hours!
    **ティナ**: ああ、もう3時間もスクロールしちゃってる！
@@ -983,7 +983,7 @@
 5. **Tina**: But then I might miss something important!
    **ティナ**: でもそしたら大事な何かを見逃すかも！
 6. **Frank**: Like what? Gimme one important thing from the last three hours.
-   **フランク**: 例えば？この3時間で見た大事なものを一つ見せて。
+   **フランク**: 例えば？この3時間で見た大事なものを一つ挙げてみて。
 7. **Tina**: Um... a cat who plays piano. A guy frying an egg on a—
    **ティナ**: ええと…ピアノを弾く猫。卵をなんとかの上で焼く男の——
 8. **Frank**: —on a hot rock. I saw that. That was one of mine, by the way.
@@ -1065,7 +1065,7 @@
 4. **Frank**: How many did you have, exactly?
    **フランク**: 正確に何杯飲んだの？
 5. **Tina**: Three or four. I lost count after a while.
-   **ティナ**: 3杯か4杯。途中で数えるのやめちゃった。
+   **ティナ**: 3杯か4杯。途中で何杯目かわからなくなっちゃった。
 6. **Frank**: Drink lots of water, then. And eat something greasy.
    **フランク**: じゃあ水をたくさん飲んで。それと脂っこいものを食べて。
 7. **Tina**: I literally can't move from this couch.
@@ -1154,8 +1154,8 @@
    **フランク**: 彼女のことは気にしないでください。水で飲むべきですか？
 7. **Pharmacist**: Yes. But you shouldn't drink alcohol with it.
    **薬剤師**: はい。ただし、一緒にお酒を飲んではいけません。
-8. **Tina**: For how long, though? A week? A year?
-   **ティナ**: でもどれくらい？1週間？1年？
+8. **Tina**: How long should he take it? A week? A year?
+   **ティナ**: どれくらい飲めばいいの？1週間？1年？
 9. **Pharmacist**: Seven days — even if you feel better. You may feel a little sleepy at first.
    **薬剤師**: 7日間です。気分が良くなってもです。最初は少し眠気を感じるかもしれません。
 10. **Tina**: See? Magic.
@@ -1528,10 +1528,10 @@
    **フランク**: さらにいいですね。電話番号はそのままですか？
 5. **Tina**: Wait, your number's changing?! I'll lose you!
    **ティナ**: 待って、番号が変わるの？！あなたと連絡取れなくなる！
-6. **Staff**: No, ma'am. Everything stays the same.
-   **店員**: いいえ、お客様。すべてそのままです。
-7. **Frank**: Nothing changes. Sit down.
-   **フランク**: 何も変わらない。座ってて。
+6. **Staff**: No, ma'am. His number will stay the same.
+   **店員**: いいえ、お客様。彼の電話番号は変わりません。
+7. **Frank**: My number won't change. Sit down.
+   **フランク**: 僕の番号は変わらないよ。座ってて。
 8. **Tina**: ...Good. I have your number memorized. Don't make me learn a new one.
    **ティナ**: …よかった。あなたの番号、暗記してるんだから。新しいの覚えさせないでよ。
 9. **Frank**: So when does the new price start?

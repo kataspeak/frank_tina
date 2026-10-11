@@ -96,8 +96,8 @@ Frank・Tina・Narrator以外は、**追加6ボイス**で全役をカバーす�
 | [A2-27 Lost Luggage](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A2_dialogs_jp.md:742) | Agent | 5 | US-F1 | 空港の手荷物受取所。Tinaが係員のカウンターへ。 |
 | [A2-28 Mom's Calling](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A2_dialogs_jp.md:770) | Mom | 4 | US-F2 | Frankの家。Tinaが課題中にスマホが鳴る。 |
 | [A2-30 Asking for a Refund](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A2_dialogs_jp.md:828) | Clerk | 5 | US-F1 | 店内。Tinaが昨日買った壊れた商品を持って店員へ。 |
-| [A2-32 Changing Reservation](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A2_dialogs_jp.md:884) | Host | 5 | US-M1 | Frankが電話でレストランの予約を変更している。 |
-| [A2-34 Workplace Training](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A2_dialogs_jp.md:940) | Trainer | 5 | US-M1 | 新しい職場の研修。研修担当者がFrankに予定を説明している。 |
+| [A2-32 Changing a Reservation](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A2_dialogs_jp.md:884) | Host | 5 | US-M1 | Frankが電話でレストランの予約を変更している。 |
+| [A2-34 Workplace Training](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A2_dialogs_jp.md:940) | Trainer | 5 | US-M1 | 新しい職場で、研修前の打ち合わせ。担当者がFrankに予定を説明している。 |
 | [A2-37 Library Late Fee](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A2_dialogs_jp.md:1024) | Librarian | 5 | US-F2 | 図書館のカウンター。Frankが延滞料金を払いに来ている。 |
 | [A2-39 Fixing a Bike](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A2_dialogs_jp.md:1080) | Mechanic | 5 | US-M1 | 自転車修理店。整備士がFrankに修理内容を説明している。 |
 | [A2-41 Pharmacy Advice](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_A2_dialogs_jp.md:1136) | Pharmacist | 5 | US-F2 | 薬局。Frankが新しい処方箋を受け取る。Tinaが付き添い。 |
