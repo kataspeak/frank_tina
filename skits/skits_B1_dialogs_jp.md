@@ -64,8 +64,8 @@
    **フランク**: ここに。1ページに収めたよ。顧客は1ページを超えると読むのをやめるからね。
 7. **Priya**: True. Last slice of pizza is yours. You've earned it.
    **プリヤ**: 確かに。最後のピザはあなたのよ。それだけ働いたんだから。
-8. **Frank**: Let's split it. I need to text Tina first — I said I'd be home by ten.
-   **フランク**: 半分こにしよう。先にティナにメッセージを送らないと——10時には帰るって言ったんだ。
+8. **Frank**: Let's split it. I need to text Tina first — I told her I'd be back by ten.
+   **フランク**: 半分こにしよう。先にティナにメッセージを送らないと——10時には戻るって言ったんだ。
 9. **Priya**: It's almost one. What are you telling her?
    **プリヤ**: もうすぐ1時よ。何て送るの？
 10. **Frank**: "Still alive. Report nearly done. Pizza acquired. Home by two."
@@ -202,8 +202,8 @@
    **フランク**: 説明は読んだ？
 6. **Tina**: Following recipes is boring. I prefer to improvise.
    **ティナ**: レシピに従うのって退屈なの。私はアドリブ派よ。
-7. **Frank**: Boring or not, that's how beginners survive — 'cause the recipe is the rules.
-   **フランク**: 退屈でも何でも、初心者はそうやって生き延びるんだ。レシピがルールなんだよ。
+7. **Frank**: Boring or not, that's how beginners survive. The recipe is the rulebook.
+   **フランク**: 退屈でも何でも、初心者はそうやって生き延びるんだ。レシピがルールブックなんだよ。
 8. **Tina**: I just wish adulting came with a manual.
    **ティナ**: 大人の生活にも説明書があればいいのに。
 9. **Frank**: It does. It's called the back of the rice bag.
@@ -242,8 +242,8 @@
    **職員**: 約6週間です。もっとも、最近は速くなってきていますが。
 9. **Tina**: The lawyer I hired told me it'd be much quicker. "Faster than light," he said.
    **ティナ**: 雇った弁護士は、もっと早いと言ってたんです。「光より速い」って。
-10. **Officer**: He may have meant priority cases only. Lawyers always promise the stars.
-    **職員**: それは優先案件だけのことでしょう。弁護士ってのは、星だって約束してみせますからね。
+10. **Officer**: He may have meant priority cases only. Lawyers always promise the moon and the stars.
+    **職員**: それは優先案件だけのことでしょう。弁護士ってのは、月も星も約束してみせますからね。
 11. **Tina**: Trust me, the stars aren't that far. And if a document's missing?
     **ティナ**: ふふ、星ってそんなに遠くないんですよ。それで、もし書類が一つ足りなかったら？
 12. **Officer**: Nothing's missing. Your file is complete.
@@ -251,7 +251,7 @@
 13. **Tina**: Complete. First time anyone's said that about me and a form.
     **ティナ**: そろってる。書類のことで、誰かにそう言われたのは初めてだわ。
 
-> **注釈 — “promise the stars”**: 直訳は「星をあげると約束する」。実際には「実現できそうにない大きな約束をする」という意味の慣用表現です。`promise the moon` も同じ意味で使われます。ここでは職員が弁護士の大げさな約束を皮肉っていますが、宇宙人のティナは「星はそんなに遠くない」と返し、比喩を文字どおりに受け取る冗談にしています。
+> **注釈 — “promise the moon and the stars”**: 直訳は「月も星もあげると約束する」。実際には「実現できそうにない大きな約束をする」という意味の慣用表現です。短く `promise the moon` とも言います。ここでは職員が弁護士の大げさな約束を皮肉っていますが、宇宙人のティナは「星はそんなに遠くない」と返し、比喩を文字どおりに受け取る冗談にしています。
 
 ### B1-08 Group Project Hell
 
@@ -280,14 +280,14 @@
    **フランク**: やり遂げたよ。教授はスライド12を褒めてくれたくらいだ——僕が午前2時に描いた図をね。
 10. **Tina**: Were there warning signs?
     **ティナ**: 見逃してたサインはあった？
-11. **Frank**: Plenty. He'd vanished on smaller things before. The folders made him look safe.
-    **フランク**: たくさん。前にも小さいことで消えてたんだ。フォルダのせいで、安全な人に見えてた。
+11. **Frank**: Plenty. He'd bailed on smaller things before. The folders made him look reliable.
+    **フランク**: たくさん。前にも小さいことでドタキャンしてたんだ。フォルダのせいで、頼れる人に見えてた。
 12. **Tina**: The folders fooled you.
     **ティナ**: フォルダにだまされたのね。
 13. **Frank**: Never again. From now on, I trust people who panic visibly. Like us.
     **フランク**: 二度とごめんだ。これからは、目に見えて慌てる人を信じるよ。僕たちみたいな。
 
-### B1-09 Public Transport Complaint
+### B1-09 Public Transit Complaint
 
 **場面:** 交通当局の窓口。Tina が電車の遅延に苦情を言っている。
 
@@ -340,7 +340,7 @@
    **ティナ**: バンドがひどかったからよ！彼の友達がとうとう動画を見せてくれたの。3か月の「残業」が——これ。
 6. **Frank**: Wait — the friend had known the whole time?
    **フランク**: 待って——その友達は、ずっと知ってたの？
-7. **Tina**: Since the first rehearsal. I met the guy every week and he said nothing.
+7. **Tina**: Since the first rehearsal. I saw the guy every week and he said nothing.
    **ティナ**: 最初のリハーサルからよ。毎週顔を合わせてたのに、何も言わなかったの。
 8. **Frank**: The band is silly. The months of lying — that part isn't.
    **フランク**: バンドはくだらない。でも、何か月も嘘をついたこと——そっちは、くだらなくない。
@@ -378,8 +378,8 @@
    **ティナ**: もっと気に入るわ。母は人を気にかけられる人を尊敬するの。
 8. **Frank**: So what else did she ask about?
    **フランク**: 他にはどんなことを聞かれたの？
-9. **Tina**: My career. She handed me a whole list of people I "should" contact.
-   **ティナ**: 私の進路。連絡すべき人のリストをまるごと渡されたの。
+9. **Tina**: My career. She gave me a whole list of people I "should" contact.
+   **ティナ**: 私の進路。連絡すべき人を、ずらっと挙げられたの。
 10. **Frank**: If you contacted every name on it, would that make her happy?
     **フランク**: 全部に連絡したら、お母さんは喜ぶのかな？
 11. **Tina**: Maybe. But I'd lose my own direction along the way.
@@ -404,8 +404,8 @@
    **ティナ**: ただ笑って、物を指差したのよ。
 4. **Frank**: Did you try anyone else first?
    **フランク**: その前に、誰かに試してみたの？
-5. **Tina**: A waiter. I just assumed he'd know English.
-   **ティナ**: ウェイターよ。英語がわかると思い込んでたの。
+5. **Tina**: A waiter. I just assumed he'd speak English.
+   **ティナ**: ウェイターよ。英語が話せると思い込んでたの。
 6. **Frank**: Did he understand you at all?
    **フランク**: 少しは分かってくれた？
 7. **Tina**: About three words. And only after I repeated them really slowly.
@@ -464,7 +464,7 @@
 **Narrator**: Tina is venting to Frank about another fight with her roommate. She's been taking out the trash for months — and just got called messy.
 **ナレーター**: ティナはルームメイトとの再びの喧嘩について、フランクに愚痴をこぼしている。何か月もゴミ出しをしてきたのに、「だらしない」と言われたばかりだ。
 
-1. **Tina**: I've taken out the trash for months — and she just called me messy!
+1. **Tina**: I've been taking out the trash for months — and she just called me messy!
    **ティナ**: 何か月もゴミ出しをしてきたのに、彼女ったら私のことをだらしないって言ったのよ！
 2. **Frank**: Wait — what set her off this time?
    **フランク**: 待って、今回は何が彼女を怒らせたの？
@@ -478,8 +478,8 @@
    **フランク**: もしかしたら、流したんじゃなくて、ただ黙っただけかも。
 7. **Tina**: Or pretended to. Same difference.
    **ティナ**: それか、流したふり。どっちでも同じよ。
-8. **Frank**: It isn't, though. My first winter in the village, I didn't tell the doctor my window had a crack. I just wore more coats.
-   **フランク**: でも、同じじゃないんだ。村での最初の冬、僕は窓にひびが入ってることを博士に言わなかった。ただ、コートを重ね着してた。
+8. **Frank**: It isn't, though. My first winter in the village, I didn't tell the doctor my window had a crack. I just piled on more layers.
+   **フランク**: でも、同じじゃないんだ。村での最初の冬、僕は窓にひびが入ってることを博士に言わなかった。ただ、服を何枚も重ね着してた。
 9. **Tina**: For how long?
    **ティナ**: どれくらいの間？
 10. **Frank**: All winter. He found out in spring and asked why I hadn't said anything. I didn't have an answer.
@@ -502,8 +502,8 @@
    **係員**: こちらのルートのほうが安全です。ほとんどの旅行者が選びます。
 2. **Tina**: If I wanted real adventure, would you suggest something else?
    **ティナ**: 本当の冒険がしたいなら、別のものを勧めてくれますか？
-3. **Agent**: The southern path crosses the mountains. Much more exciting.
-   **係員**: 南の道は山を越えます。ずっとわくわくしますよ。
+3. **Agent**: The southern route crosses the mountains. Much more exciting.
+   **係員**: 南のルートは山を越えます。ずっとわくわくしますよ。
 4. **Tina**: How much longer would that route take?
    **ティナ**: そのルートは、どれくらい余計にかかりますか？
 5. **Agent**: Two extra days. Still well within your ten.
@@ -516,8 +516,8 @@
    **ティナ**: 都市を省いたら、だいぶ節約できますか？
 9. **Agent**: Yes. But really, the cities are the heart of the trip.
    **係員**: ええ。でも実のところ、都市こそこの旅の心臓部です。
-10. **Tina**: There's a quiet mountain village on the southern path, isn't there? A friend told me about one once.
-    **ティナ**: 南の道に、静かな山あいの村があるでしょう？前に友達が、そういう村のことを話してくれたの。
+10. **Tina**: There's a quiet mountain village on the southern route, isn't there? A friend told me about one once.
+    **ティナ**: 南のルートに、静かな山あいの村があるでしょう？前に友達が、そういう村のことを話してくれたの。
 11. **Agent**: There is. Tiny place. Most people pass right through it.
     **係員**: ありますよ。とても小さな村です。たいていの人は素通りします。
 12. **Agent**: The southern route, then — the slow version?
@@ -532,16 +532,16 @@
 **Narrator**: Tina is opening up to Frank about growing up in the shadow of her high-achieving older sister. A recent conversation with that sister surprised her.
 **ナレーター**: ティナは、優秀な姉の影で育ったことをフランクに打ち明けている。最近の姉との会話が、彼女を驚かせた。
 
-1. **Tina**: My sister was always the achiever. Certificates in frames, all down the hallway.
+1. **Tina**: My sister was always the overachiever. Certificates in frames, all down the hallway.
    **ティナ**: 姉はいつも「できる子」だったの。額入りの賞状が、廊下にずらっと。
 2. **Frank**: And your frame?
    **フランク**: で、君の額は？
 3. **Tina**: One participation ribbon. For a race I didn't finish.
    **ティナ**: 参加賞のリボン1本。しかも完走してないレースの。
-4. **Frank**: So the dinners were about her.
-   **フランク**: じゃあ、夕食の話題はお姉さんばかり？
-5. **Tina**: Every dinner started with her news and ended with my grades. I stopped bringing news at all.
-   **ティナ**: どの夕食も、姉のニュースで始まって、私の成績で終わったわ。そのうち私、ニュースを持って帰るのをやめたの。
+4. **Frank**: So family dinners were all about her.
+   **フランク**: じゃあ、家族の夕食はお姉さんの話ばかりだったんだ。
+5. **Tina**: Every dinner started with her news and ended with my grades. I stopped sharing anything at all.
+   **ティナ**: どの夕食も、姉のニュースで始まって、私の成績で終わったわ。そのうち私、自分のことは何も話さなくなったの。
 6. **Frank**: Did you ever tell her that?
    **フランク**: それ、お姉さんに言ったことはある？
 7. **Tina**: Last week, finally. On a call. I'd rehearsed it for two days.
@@ -636,19 +636,19 @@
 
 1. **Lawyer**: You reported seeing a man leave the building. When, exactly?
    **弁護士**: あなたは、建物を出る男を見たと報告しましたね。正確にはいつです？
-2. **Tina**: Six twelve a.m. I was back from a run — he came out as I reached the door.
+2. **Tina**: Six twelve a.m. I was just getting back from a run — he came out as I reached the door.
    **ティナ**: 朝の6時12分です。ランニングから戻ったところで——ドアに着いたちょうどそのとき、彼が出てきました。
 3. **Lawyer**: How can you be sure of the time?
    **弁護士**: なぜ、時刻にそこまで確信が？
 4. **Tina**: My running app logs when I stop. I stopped to hold the door for him.
    **ティナ**: ランニングアプリが、止まった時刻を記録するんです。……彼のためにドアを押さえようと、止まったので。
-5. **Lawyer**: You held the door for the accused.
+5. **Lawyer**: You held the door for the defendant.
    **弁護士**: あなたは……被告人のために、ドアを押さえた。
 6. **Tina**: He was carrying a big box marked "FRAGILE." People with boxes get doors held.
    **ティナ**: 「われもの注意」と書かれた大きな箱を抱えていたんです。箱を持ってる人には、ドアを押さえるものでしょう。
 7. **Lawyer**: Did anything about the box seem unusual?
    **弁護士**: その箱に、何か不自然な点はありましたか？
-8. **Tina**: Yes — "FRAGILE" was upside down. If you'd packed it yourself, you'd have carried it the right way up.
+8. **Tina**: Yes — "FRAGILE" was upside down. If you'd packed it yourself, you'd have carried it right side up.
    **ティナ**: はい——「われもの注意」が逆さまでした。自分で梱包した箱なら、正しい向きで運んだはずです。
 9. **Lawyer**: That's... a very specific observation.
    **弁護士**: それは……ずいぶん具体的な観察ですね。
@@ -656,7 +656,7 @@
     **ティナ**: 私、このあたりの出身じゃないので。何もかも新しかったから——注意を払うことを覚えたんです。
 11. **Lawyer**: And after he passed you?
     **弁護士**: それで、彼があなたの横を通った後は？
-12. **Tina**: He loaded a gray van and drove off. I wrote the plate number on my hand — still smudged, but here.
+12. **Tina**: He loaded it into a gray van and drove off. I wrote the plate number on my hand — it's a little smudged, but here it is.
     **ティナ**: 灰色のバンに積み込んで、走り去りました。ナンバーは手に書き留めました——少しにじんでますけど、どうぞ。
 13. **Lawyer**: No further questions. If you ever want a job, our office is hiring observers.
     **弁護士**: 質問は以上です。……もし職をお探しなら、うちの事務所は「観察係」を募集していますよ。
@@ -704,7 +704,7 @@
 
 1. **Frank**: I read your novels nonstop in college. They shaped how I think.
    **フランク**: 大学時代、あなたの小説を読みふけったんです。僕の考え方そのものを形作ってくれました。
-2. **Writer**: That's kind. I felt the same about the writers who raised me.
+2. **Writer**: That's very kind of you. I felt the same about the writers who raised me.
    **作家**: ありがとう。私も、私を育ててくれた作家たちに同じように感じていましたよ。
 3. **Frank**: One ending in particular — I still think about it.
    **フランク**: 特にある結末を、今でも考えてしまうんです。
@@ -754,8 +754,8 @@
    **フランク**: 思い出はいつだって長く残る。本当だよ。
 9. **Tina**: Okay. Travel a bit, save a bit. Balance.
    **ティナ**: わかった。少し旅して、少し貯める。バランスね。
-10. **Frank**: That's kinda the wisest thing you've said all month.
-    **フランク**: それは今月、君が言った中で一番賢いよ。
+10. **Frank**: That might be the wisest thing you've said all month.
+    **フランク**: それ、今月君が言った中で一番賢いかもね。
 11. **Tina**: So I'll just buy the one thing I actually need.
     **ティナ**: だから、本当に必要な一つだけ買うことにする。
 12. **Frank**: Which is?
@@ -828,8 +828,8 @@
     **ティナ**: そうね。そうしてたら、夜全体がもっとうまくいったのに。
 12. **Frank**: So... will there be a second date?
     **フランク**: それで……二回目はあるの？
-13. **Tina**: He texted "Italian next time?" So apparently the rice survived.
-    **ティナ**: 彼が「次はイタリアン？」って。どうやらご飯は乗り切ったみたい。
+13. **Tina**: He texted "Italian next time?" So apparently he survived the sushi.
+    **ティナ**: 彼が「次はイタリアン？」って。どうやら彼、お寿司を生き延びたみたい。
 
 ### B1-25 Booking a Cruise
 
@@ -846,7 +846,7 @@
    **係員**: こちらのスイートが今空きました。船の同じ側で、眺めはもっといいですよ。
 4. **Tina**: Did someone cancel?
    **ティナ**: 誰かキャンセルを？
-5. **Agent**: A honeymoon, last week. They're fine — they rebooked for spring.
+5. **Agent**: A honeymoon couple, last week. They're fine — they rebooked for spring.
    **係員**: 新婚旅行のお客様が、先週。……ご心配なく、春に取り直されましたから。
 6. **Tina**: How much more is it?
    **ティナ**: いくら高くなりますか？
@@ -952,14 +952,14 @@
    **ティナ**: ワインのせいにしたわ。受け入れられない。
 6. **Frank**: And the person she told — how did they react?
    **フランク**: 聞かされた相手は、どんな反応だった？
-7. **Tina**: Laughed it off. Then pretended he never heard.
+7. **Tina**: Laughed it off. Then pretended he'd never heard it.
    **ティナ**: 笑い飛ばして、それから聞かなかったふり。
 8. **Frank**: Did it spread further?
    **フランク**: もっと広がった？
 9. **Tina**: The whole book club, apparently. People I see every Thursday.
    **ティナ**: ブッククラブ全員みたい。毎週木曜に顔を合わせる人たちよ。
-10. **Frank**: Yeah, that's awful. You shouldn't have to guard yourself with friends.
-    **フランク**: それはひどいね。友達相手に身構えなきゃいけないなんて。
+10. **Frank**: Yeah, that's awful. You shouldn't have to watch what you say around friends.
+    **フランク**: それはひどいね。友達の前で、言うことに気をつけなきゃいけないなんて。
 11. **Tina**: From now on, my circle's getting smaller. Only people who've earned it.
     **ティナ**: これからは付き合いをぐっと絞るわ。信頼を勝ち取った人だけ。
 12. **Frank**: So how small are we talking?
@@ -984,14 +984,14 @@
    **ティナ**: ありがとうございます。シミが悲しい雲みたいに見えたから、つい——
 5. **Agent**: Do any of the forty-one show a date?
    **担当者**: この41枚の中に、日付が写っているものは？
-6. **Tina**: ...The phone stamps them, right? The phone stamps them. October ninth. Policy ended the fifteenth!
-   **ティナ**: ……スマホが自動で記録してますよね？記録してました。10月9日。契約終了は15日！
+6. **Tina**: ...My phone time-stamps them, right? It does! October ninth. Policy ended the fifteenth!
+   **ティナ**: ……スマホが日時を自動で記録してますよね？してました！10月9日。契約終了は15日！
 7. **Agent**: Good. Did you report it to anyone at the time?
    **担当者**: 良かった。当時、どなたかに報告は？
 8. **Tina**: My landlord, that night. And my upstairs neighbor saw the hallway flooding first.
    **ティナ**: 大家に、その夜のうちに。それと上の階の人が、廊下の水浸しを先に見つけています。
-9. **Agent**: Then I need three things: the landlord's report, her statement, and two of your photos. The boring ones.
-   **担当者**: では3点です。大家さんの報告書、その方の証言、そしてあなたの写真から2枚。つまらないやつを。
+9. **Agent**: Then I need three things: the landlord's report, your neighbor's statement, and two of your photos. The boring ones.
+   **担当者**: では3点です。大家さんの報告書、上の階の方の証言、そしてあなたの写真から2枚。つまらないやつを。
 10. **Tina**: Define boring.
     **ティナ**: 「つまらない」の定義は？
 11. **Agent**: Ceiling, date, no artistic angles. Straight from the front, like a passport photo.
@@ -1028,7 +1028,7 @@
    **ティナ**: 来年はあなたを連れて行く。どんなに気まずくなってもね。
 10. **Frank**: I'd be there. However reluctantly.
     **フランク**: 行くよ。どんなに渋々でも。
-11. **Tina**: She'd ask if we're dating within five minutes.
+11. **Tina**: Within five minutes, she'd ask if we're dating.
     **ティナ**: 5分以内に、私たちが付き合ってるか聞いてくるわ。
 12. **Frank**: Yeah, and we'd both say no, at the same time, too quickly.
     **フランク**: で、二人とも同時に、早口で「いいえ」と言うんだ。
@@ -1050,7 +1050,7 @@
    **デザイナー**: およそ1万ドル。他には何を思い描いていますか？
 4. **Frank**: If we opened that wall too, would the room get brighter?
    **フランク**: あの壁も開けたら、もっと明るくなりますか？
-5. **Designer**: Yes. What you're describing is basically an open-plan layout.
+5. **Designer**: Yes. What you're describing is basically an open floor plan.
    **デザイナー**: ええ。おっしゃっているのは、要はオープンな間取りですね。
 6. **Frank**: And the kitchen?
    **フランク**: キッチンは？
@@ -1088,7 +1088,7 @@
    **ティナ**: 分かってる。三人ともね。大ごとにはできない。
 6. **Frank**: Good call. If you told him how you feel today, what would actually happen?
    **フランク**: 賢明だね。今日気持ちを伝えたら、実際どうなる？
-7. **Tina**: A mess. Definitely not something I can carry into work.
+7. **Tina**: A mess. Definitely not something I can bring to work.
    **ティナ**: ぐちゃぐちゃよ。職場に持ち込めるものじゃない。
 8. **Frank**: I just wish you'd said something sooner.
    **フランク**: もっと早く何か言えてたらよかったのにね。
@@ -1098,7 +1098,7 @@
     **フランク**: 約束して。二人がうまくいかなくなっても、割り込まないって。
 11. **Tina**: I won't. My dignity matters more than that.
     **ティナ**: しないわ。私のプライドのほうが大事。
-12. **Frank**: That's the kinda maturity I admire.
+12. **Frank**: That's the kind of maturity I admire.
     **フランク**: そういう大人なところ、尊敬するよ。
 13. **Tina**: Tell my heart that. It didn't get the memo yet.
     **ティナ**: それを私の心に言ってよ。まだ連絡が届いてないみたい。
@@ -1166,7 +1166,7 @@
     **フランク**: それで、何を学んだ？
 11. **Tina**: Slow down. Hear the real question before answering.
     **ティナ**: 落ち着くこと。答える前に、本当の質問を聞き取ること。
-12. **Frank**: Painful wisdom. Yeah, but you earned it.
+12. **Frank**: A painful lesson. But you earned it.
     **フランク**: 痛い教訓だね。でも自分でつかんだものだ。
 13. **Tina**: Next time I'll just listen first. Revolutionary, I know.
     **ティナ**: 次は、まず聞くことにする。画期的でしょ、分かってる。
@@ -1186,7 +1186,7 @@
    **フランク**: アナですね。私が直接指導しました。実例も用意してあります——お時間はどれくらい？
 3. **Hiring**: Two minutes.
    **採用担当**: 2分で。
-4. **Frank**: Then one example. During a client demo, the building lost power. She finished on a whiteboard, by phone light. The client signed.
+4. **Frank**: Then one example. During a client demo, the building lost power. She finished on a whiteboard, by the light of her phone. The client signed.
    **フランク**: では実例を一つ。顧客デモの最中に、ビルが停電しました。彼女はホワイトボードとスマホのライトでやり切った。顧客は契約しました。
 5. **Hiring**: Impressive. Would you hire her again today?
    **採用担当**: すごい。今でも、もう一度採用したいと思いますか？
@@ -1204,7 +1204,7 @@
     **採用担当**: 何回中の、2回です？
 12. **Frank**: I stopped counting. Hire her anyway — and buy more sticky notes.
     **フランク**: 数えるのはやめました。それでも採用すべきです——付箋は多めに買っておいてください。
-13. **Hiring**: "Sticky notes." Noted. This was the most useful reference call of my month.
+13. **Hiring**: "Sticky notes." Noted. This was the most useful reference call I've had all month.
     **採用担当**: 「付箋」と。メモしました。今月いちばん役に立った照会電話でしたよ。
 
 ### B1-36 Stuck in Traffic
@@ -1252,7 +1252,7 @@
    **ヴァンス**: 200店舗、月5,000キット。ただし1つ45ドルで。60ではなく。
 2. **Frank**: If we agreed to forty-five, we'd make three dollars a kit. That barely covers the box.
    **フランク**: 45ドルに同意したら、うちの利益は1キット3ドルです。箱代でほぼ消えます。
-3. **Vance**: That said, five thousand a month is ten times your current volume.
+3. **Vance**: Still, five thousand a month is ten times your current volume.
    **ヴァンス**: とはいえ、月5,000は御社の現在の10倍の数量ですよ。
 4. **Frank**: Volume helps. But if one shipment goes wrong, three dollars a kit won't absorb it.
    **フランク**: 数量は助かります。でも、出荷が一度失敗したら、1キット3ドルでは吸収できません。
@@ -1270,8 +1270,8 @@
     **フランク**: 2回。最下段の写真も撮りました。水質キットのためにかがむ人は、いません。
 11. **Vance**: Fifty a kit, nine months, eye level. If my analysts sign off, you'll have the proposal Friday.
     **ヴァンス**: 1キット50ドル、9か月、目の高さ。アナリストの承認が出れば、金曜に提案書をお送りします。
-12. **Frank**: Then we have the shape of a deal.
-    **フランク**: なら、取引の輪郭はできましたね。
+12. **Frank**: Then I think we have the makings of a deal.
+    **フランク**: なら、取引はほぼまとまりそうですね。
 13. **Vance**: And Frank — next time you photograph my shelves, say hello.
     **ヴァンス**: それとフランク——今度うちの棚を撮影するときは、一声かけてくださいな。
 
@@ -1316,7 +1316,7 @@
 **Narrator**: Frank is meeting his boss about a promotion. The senior role would mean a new team to lead — and leaving the people he works with now.
 **ナレーター**: フランクは昇進について上司と面談している。上級職は新しいチームを率いることを意味する。そして、今の仲間から離れることも。
 
-1. **Boss**: Take the senior role and you'd lead a whole different team.
+1. **Boss**: Take the senior role, and you'll be leading a whole different team.
    **上司**: 上級職を引き受ければ、まったく別のチームを率いることになる。
 2. **Frank**: The team I'm with now means a great deal to me.
    **フランク**: 今のチームは、僕にとって本当に大切なんです。
@@ -1328,7 +1328,7 @@
    **上司**: 君のアシスタントだ。彼女の仕事ぶりは上層部みんなを感心させてる。
 6. **Frank**: She's capable. But she's not ready for a real crisis yet.
    **フランク**: 彼女は有能です。でも、本当の危機にはまだ対応できません。
-7. **Boss**: Train her properly and she'd grow into it fast.
+7. **Boss**: Train her properly, and she'll grow into it fast.
    **上司**: きちんと育てれば、すぐにその役割に成長するさ。
 8. **Frank**: Who has the final say here — me, or the board?
    **フランク**: 最終決定権は誰にあるんですか、僕ですか、それとも役員会ですか？
@@ -1402,7 +1402,7 @@
    **上司**: 交渉の余地もくれないのか。
 9. **Frank**: I'll train my replacement. We don't have much time, but I'll help.
    **フランク**: 後任は育てます。時間は少ないですが、手伝いますよ。
-10. **Boss**: Stay two more months and the handover's smooth.
+10. **Boss**: Stay two more months, and the transition will go a lot smoother.
     **上司**: あと2か月いてくれれば引き継ぎが楽なんだが。
 11. **Frank**: I'm afraid I can't stretch it that far.
     **フランク**: 申し訳ありませんが、そこまでは引き延ばせません。
@@ -1470,7 +1470,7 @@
    **フランク**: ティナがスープを持ってくるので、食事のほうは何とかなります。
 9. **Tina**: With extra spice! Get-well spice.
    **ティナ**: スパイス増し増しでね！元気が出るスパイスよ。
-10. **Frank**: You see what I'm recovering from, doctor.
+10. **Frank**: You see what I'm recovering from, Doctor.
     **フランク**: 先生、僕が何から回復しようとしているか、おわかりでしょう。
 11. **Doctor**: Either way, real food helps more than people expect.
     **医者**: いずれにせよ、ちゃんとした食事は思った以上に効きますよ。
@@ -1496,8 +1496,8 @@
    **フランク**: 君のすることは、思ってるより彼らに届くよ。
 5. **Tina**: If I lasted a whole month, would I miss it?
    **ティナ**: まる一か月続けたら、恋しくなるかな？
-6. **Frank**: The first three days are brutal. After that, it's kinda easy.
-   **フランク**: 最初の3日がきつい。その後は楽になるよ。
+6. **Frank**: The first three days are brutal. After that, it gets a lot easier.
+   **フランク**: 最初の3日がきつい。その後は、ずっと楽になるよ。
 7. **Tina**: But what if I miss something important?
    **ティナ**: でも、大事なことを見逃したら？
 8. **Frank**: Real news finds you anyway. It always does.
@@ -1520,8 +1520,8 @@
 **Narrator**: Frank and Tina just finished dinner. They're deciding what to write in their review.
 **ナレーター**: フランクとティナは夕食を終えたばかりだ。レビューに何を書くか相談している。
 
-1. **Frank**: That chef is seriously talented. The dishes really got me.
-   **フランク**: あのシェフは本当に腕がいい。料理にはやられたよ。
+1. **Frank**: That chef is seriously talented. The food really blew me away.
+   **フランク**: あのシェフは本当に腕がいい。料理には圧倒されたよ。
 2. **Tina**: What was your favorite?
    **ティナ**: 一番よかったのは？
 3. **Frank**: The duck. Kinda strange way to cook it, but excellent.
@@ -1574,7 +1574,7 @@
    **ティナ**: 思う。赤ちゃんにすぐ心をつかまれたわ。写真でしか見たことなかったのに。
 10. **Frank**: Did you bring her something?
     **フランク**: 何か持っていった？
-11. **Tina**: A photo album. Pages and pages of when we were young.
+11. **Tina**: A photo album. Pages and pages of us when we were young.
     **ティナ**: フォトアルバム。私たちの若い頃のページがいっぱいの。
 12. **Frank**: An album says "we're not finished." Words can't always do that.
     **フランク**: アルバムは「私たちはまだ終わってない」って言えるんだ。言葉では、いつもそうは言えないから。
@@ -1600,7 +1600,7 @@
    **カウンセラー**: それを、どれくらいの間抱えてきたのですか？
 6. **Tina**: Since I unpacked. Years. I make it sound fun at parties — "I'm from very far away!" Big smile.
    **ティナ**: 荷ほどきした日からです。何年も。パーティーでは楽しい話にしてるんですけどね——「すっごく遠くから来たの！」って。満面の笑みで。
-7. **Counselor**: The smile does a lot of work.
+7. **Counselor**: That smile is doing a lot of work.
    **カウンセラー**: その笑顔は、ずいぶん働いていますね。
 8. **Tina**: The smile is exhausted. It deserves a vacation.
    **ティナ**: その笑顔、もうくたくたなんです。……休暇をあげないと。
@@ -1628,11 +1628,11 @@
    **フランク**: でも、聞いてないんだよね？
 3. **Tina**: No. Still — real friends look out for each other.
    **ティナ**: ええ。でも、本当の友達はお互いを気にかけるものでしょ。
-4. **Frank**: If you bring it up out of nowhere, would she actually listen?
+4. **Frank**: If you brought it up out of nowhere, would she actually listen?
    **フランク**: 急に切り出したとして、彼女は本当に聞くかな？
 5. **Tina**: Probably not. But I can't just sit there saying nothing.
    **ティナ**: たぶん聞かない。でも、黙って見てるなんてできないの。
-6. **Frank**: Wait too long and she learns the hard way.
+6. **Frank**: Wait too long, and she'll learn the hard way.
    **フランク**: 待ちすぎれば、彼女は痛い目で学ぶことになる。
 7. **Tina**: He's already "borrowed" money from two of her friends. Never paid it back.
    **ティナ**: 彼、もう彼女の友達2人からお金を「借りて」るの。返してないわ。
@@ -1642,7 +1642,7 @@
    **ティナ**: どっちにしても、最後まで彼をかばうわ。
 10. **Frank**: And if it falls apart — will you be there?
     **フランク**: もし壊れたら、そばにいてあげる？
-11. **Tina**: Always. However frustrated her choices make me.
+11. **Tina**: Always. No matter how much her choices frustrate me.
     **ティナ**: いつでも。彼女の選択にどれだけもどかしくなっても。
 12. **Frank**: Yeah, that's hard. But that's what real friendship is.
     **フランク**: しんどいね。でも、それが本当の友情なんだろう。
@@ -1674,7 +1674,7 @@
    **記者**: 開始はいつです？
 9. **Frank**: Training begins Monday. Full rollout in six months.
    **フランク**: 研修は月曜から。完全実施は6か月後です。
-10. **Reporter**: You seem calm for someone's first press conference.
+10. **Reporter**: You seem pretty calm for your first press conference.
     **記者**: 初めての記者会見にしては、落ち着いていますね。
 11. **Frank**: I rehearsed with the toughest audience I know. She asked harder questions than all of you. No offense.
     **フランク**: 私の知る限り、最も手強い聴衆とリハーサルしましたから。彼女の質問は、皆さん全員より厳しかった。……悪気はありません。
@@ -1698,8 +1698,8 @@
    **ティナ**: でも、もしそうだったとして、それって重要なの？
 4. **Frank**: Think of dreams as your personal simulation. Now close your eyes.
    **フランク**: 夢を、君専用のシミュレーションだと思えばいい。さあ、目を閉じて。
-5. **Tina**: What if I never wake up tomorrow?
-   **ティナ**: もし明日、二度と目覚めなかったら？
+5. **Tina**: What if I don't wake up tomorrow?
+   **ティナ**: もし明日、目覚めなかったら？
 6. **Frank**: You always do. I promise.
    **フランク**: 君はいつも目覚めるよ。約束する。
 7. **Tina**: If reality itself is fake, what's even real?
@@ -1770,7 +1770,7 @@
    **会計士**: 見事な仕事ぶりです。おや——コーヒーが「燃料」の項目に入っていますね。
 6. **Frank**: Coffee is fuel. I make the videos at night. The coffee makes the videos possible.
    **フランク**: コーヒーは燃料です。動画は夜に作るので。コーヒーが動画を可能にしているんです。
-7. **Accountant**: I admire the reasoning. The tax office won't. Coffee isn't deductible.
+7. **Accountant**: I admire the reasoning. The IRS won't. Coffee isn't deductible.
    **会計士**: その論理には感心します。税務署はしませんが。コーヒーは控除できません。
 8. **Frank**: Then what is? I'd rather learn the real rules than argue with imaginary ones.
    **フランク**: ……では、何ができるんです？想像上のルールと議論するより、本物のルールを学びたい。
@@ -1780,8 +1780,8 @@
     **フランク**: 半分とは、予想以上です。見出しは残しますからね。
 11. **Accountant**: The tabs are staying. I may show this binder to my messier clients. Anonymously.
     **会計士**: 見出しは残します。このバインダー、だらしないお客様たちに見せてあげたいくらいだ。匿名でね。
-12. **Frank**: Could we book next week to file it properly? I'm busy, but I'll make the time.
-    **フランク**: きちんと申告するために、来週予約できますか？忙しいですが、時間は作ります。
+12. **Frank**: Could we set up a time next week to file it properly? I'm busy, but I'll make the time.
+    **フランク**: きちんと申告するために、来週お時間をいただけますか？忙しいですが、時間は作ります。
 13. **Accountant**: Done. And Frank — next year, a new tab: "Deductible." You'll enjoy it.
     **会計士**: お取りしました。それとフランク——来年は新しい見出しを。「控除対象」。気に入りますよ。
 
@@ -1789,12 +1789,12 @@
 
 **場面:** 映画を見終えた直後の部屋。
 
-**Narrator**: They just finished a film Tina chose — a quiet story about a man who goes home to see his father before it's too late. Frank said almost nothing during it. Tina notices his eyes.
+**Narrator**: They just finished a movie Tina chose — a quiet story about a man who goes home to see his father before it's too late. Frank said almost nothing during it. Tina notices his eyes.
 **ナレーター**: 二人はティナが選んだ映画を見終えたばかりだ。手遅れになる前に父に会いに帰る男の、静かな物語。フランクは上映中ほとんど何も言わなかった。ティナは彼の目に気づく。
 
 1. **Tina**: You're pretending to be fine. Your eyes say otherwise.
    **ティナ**: 平気なふりしてるわね。目はそうじゃないって言ってるわよ。
-2. **Frank**: I'm fine. It was just a long film.
+2. **Frank**: I'm fine. It was just a long movie.
    **フランク**: 平気だよ。ただ長い映画だっただけだ。
 3. **Tina**: What got you? The ending, or when he goes to see his father?
    **ティナ**: 何が刺さったの？結末？それとも、父親に会いに行くところ？
@@ -1810,11 +1810,11 @@
    **フランク**: 僕がずっと先延ばしにしてること。そうだ。
 9. **Tina**: That's not weakness. That's being human — or close enough.
    **ティナ**: それは弱さじゃない。人間なら誰でもそう。あなたも十分そうよ。
-10. **Frank**: You picked this film on purpose, didn't you.
+10. **Frank**: You picked this movie on purpose, didn't you.
     **フランク**: 君は、わざとこの映画を選んだんだね。
 11. **Tina**: Maybe part of me did. I didn't think it would hit this hard.
     **ティナ**: 心のどこかではね。でも、こんなに強く刺さるとは思わなかった。
-12. **Frank**: I probably gotta go see him.
+12. **Frank**: I should probably go see him.
     **フランク**: やっぱり、会いに行くべきなんだろうな。
 13. **Tina**: I think you should. And you don't have to go alone.
     **ティナ**: 行ったほうがいいと思う。それに、一人で行かなくていいのよ。
@@ -1916,7 +1916,7 @@
     **ティナ**: 一緒に食べちゃいましょう。
 11. **Frank**: And to the groom: she will keep borrowing your answers. Let her.
     **フランク**: そして新郎へ。彼女はこれからも、あなたの答えを借り続けます。借りさせてあげてください。
-12. **Tina**: To the couple — to trivia night, and to every Sunday from here.
+12. **Tina**: To the couple — to trivia night, and to every Sunday to come.
     **ティナ**: お二人に——クイズの夜に、そして、これからのすべての日曜日に。
 13. **Frank and Tina**: Cheers!
     **フランクとティナ**: 乾杯！
@@ -1950,8 +1950,8 @@
     **ティナ**: 説明しなくていいのよ。わかってるから。
 11. **Frank**: I'd have written back sooner if I were better at this.
     **フランク**: こういうのが得意なら、もっと早く返事を書いたんだけどね。
-12. **Tina**: Write tonight. He clearly thinks about you.
-    **ティナ**: 今夜書いたら。彼は明らかにあなたのことを思ってる。
+12. **Tina**: Write him back tonight. He clearly thinks about you.
+    **ティナ**: 今夜、返事を書いたら。彼は明らかにあなたのことを思ってる。
 13. **Frank**: I know. That part, at least, has always been clear.
     **フランク**: わかってる。少なくともその部分だけは、ずっと確かだった。
 
@@ -1968,15 +1968,15 @@
    **フランク**: 12個中、11個です。データセットの整理は90%まで。帳簿は正直につけたいので。
 3. **Boss**: Most people would've taken the compliment. What blocked you in Q2?
    **上司**: 普通は褒め言葉を素直に受け取るものだよ。第2四半期は、何に詰まった？
-4. **Frank**: A team change delayed the water study by five weeks. Once we adjusted, we finished two weeks early. Net: three weeks saved.
-   **フランク**: チーム変更で、水質研究が5週間遅れました。調整後は2週間前倒しで完了。差し引き、3週間の節約です。
+4. **Frank**: A team change delayed the water study by five weeks. Once we adjusted, we finished two weeks early. Net: three weeks behind, not five.
+   **フランク**: チーム変更で、水質研究が5週間遅れました。調整後は2週間前倒しで完了。差し引き、遅れは5週間でなく3週間です。
 5. **Boss**: You count everything, don't you.
    **上司**: 君は本当に、何でも数えるんだな。
 6. **Frank**: Counting is free. It's the one budget item nobody questions.
    **フランク**: 数えるのはタダですから。……誰にも査定されない、唯一の予算項目です。
 7. **Boss**: What would you change next year?
    **上司**: 来年は、何を変える？
-8. **Frank**: Fewer details from me, more trust in the team. I checked my calendar: I attended forty-one meetings that could have been emails.
+8. **Frank**: Less micromanaging from me, more trust in the team. I checked my calendar: I attended forty-one meetings that could have been emails.
    **フランク**: 私の細部への口出しを減らして、チームへの信頼を増やします。カレンダーを確認したんですが——メールで済んだはずの会議に、41回出席していました。
 9. **Boss**: Forty-one. Put that number in the annual report.
    **上司**: 41回か。その数字、年次報告書に載せなさい。
@@ -2042,7 +2042,7 @@
    **フランク**: そうかもね。でも今月、土曜はこれで3回目だ。
 6. **Tina**: Wait — you've been counting? You should've told me you were upset.
    **ティナ**: 待って、数えてたの？嫌なら嫌って、言ってくれればよかったのに。
-7. **Frank**: I didn't know how. Every way I tried it sounded like a complaint.
+7. **Frank**: I didn't know how. Every way I tried to say it sounded like a complaint.
    **フランク**: どう言えばいいかわからなかったんだ。どう言っても、文句に聞こえて。
 8. **Tina**: A complaint about what?
    **ティナ**: 何に対する文句なの？

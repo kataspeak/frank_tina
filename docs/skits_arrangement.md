@@ -145,7 +145,7 @@ B1-39→40→41＝昇進打診→迷い→退職のキャリア決断ビルド�
 | B1-06 | Failing Adulting | | B1-36 | Stuck in Traffic |
 | B1-07 | Visa Application | | B1-37 | Negotiating a Contract |
 | B1-08 | Group Project Hell | | B1-38 | Hangover Regrets |
-| B1-09 | Public Transport Complaint | | B1-39 | Job Promotion Talk |
+| B1-09 | Public Transit Complaint | | B1-39 | Job Promotion Talk |
 | B1-10 | The Ex Saga | | B1-40 | Career Change Talk |
 | B1-11 | Tina's Mother Calls | | B1-41 | Resigning from a Job |
 | B1-12 | Lost in Translation | | B1-42 | Diet Failures |

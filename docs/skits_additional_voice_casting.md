@@ -121,7 +121,7 @@ Frank・Tina・Narrator以外は、**追加6ボイス**で全役をカバーす�
 | [B1-01 Crisis at Work](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:10) | Priya | 7 | US-F1 | 深夜のオフィス。締め切りに追われる Frank と同僚。 |
 | [B1-05 Tech Support Call](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:147) | Support | 7 | US-M1 | Frank の部屋。深夜。重要なファイルが壊れ、サポートに電話している。 |
 | [B1-07 Visa Application](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:217) | Officer | 6 | US-M1 | ビザ申請の窓口。役所。 |
-| [B1-09 Public Transport Complaint](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:285) | Officer | 6 | US-M1 | 交通当局の窓口。Tina が電車の遅延に苦情を言っている。 |
+| [B1-09 Public Transit Complaint](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:285) | Officer | 6 | US-M1 | 交通当局の窓口。Tina が電車の遅延に苦情を言っている。 |
 | [B1-13 Investment Consultation](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:421) | Advisor | 7 | US-M1 | 初めての金融相談。Frank がアドバイザーと面談している。 |
 | [B1-15 Travel Itinerary Planning](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:489) | Agent | 7 | US-M1 | 旅行代理店。Tina が次の旅の計画を相談している。 |
 | [B1-17 Doctor's Diagnosis](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:557) | Dr. Okafor | 7 | US-F2 | 診察室。検査結果の説明。 |
