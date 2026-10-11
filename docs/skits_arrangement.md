@@ -158,7 +158,7 @@ B1-39→40→41＝昇進打診→迷い→退職のキャリア決断ビルド�
 | B1-19 | Court Witness | | B1-49 | Press Conference |
 | B1-20 | Apartment Hunt | | B1-50 | Late Night Existential Crisis |
 | B1-21 | Interview With a Writer | | B1-51 | Stars and Stitches |
-| B1-22 | First Salary | | B1-52 | Tax Advice |
+| B1-22 | First Paycheck | | B1-52 | Tax Advice |
 | B1-23 | Real Estate Tour | | B1-53 | Frank Actually Cries |
 | B1-24 | First Date Rewind | | B1-54 | Charity Event Speech |
 | B1-25 | Booking a Cruise | | B1-55 | The Outfit Intervention |
