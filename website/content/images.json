@@ -1791,7 +1791,7 @@
     "reviewedSha256": "b8d0847420c3befa055fc6accc946851384ffe02aeb3a67f3b45d851890ddc0d"
   },
   "A2-52": {
-    "sourceImage": "images/illustration/A2/A2-52_Cancelled_Plans.png",
+    "sourceImage": "images/illustration/A2/A2-52_Canceled_Plans.png",
     "selectionReason": "現行images直下の採用画像を指定。OLD配下は改稿前の資料として除外。",
     "alt": {
       "ja": "雨の見えるカフェで、スマホを置いて話すティナとフランク。",

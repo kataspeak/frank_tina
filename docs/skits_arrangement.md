@@ -124,7 +124,7 @@ B1-39→40→41＝昇進打診→迷い→退職のキャリア決断ビルド�
 | A2-19 | Pulling an All-Nighter | | A2-49 | Asking for Time Off |
 | A2-20 | Book Club Meeting | | A2-50 | New Tattoo |
 | A2-21 | Volunteer Work | | A2-51 | School Application |
-| A2-22 | Fashion Disaster | | A2-52 | Cancelled Plans |
+| A2-22 | Fashion Disaster | | A2-52 | Canceled Plans |
 | A2-23 | Asking Neighbors | | A2-53 | Phone Plan Change |
 | A2-24 | Crush Update | | A2-54 | Late to Class Again |
 | A2-25 | Travel Insurance | | A2-55 | Reporting a Theft |
@@ -132,7 +132,7 @@ B1-39→40→41＝昇進打診→迷い→退職のキャリア決断ビルド�
 | A2-27 | Lost Luggage | | A2-57 | End of Semester |
 | A2-28 | Mom's Calling | | A2-58 | Fitness Goals |
 | A2-29 | Hosting a Guest | | A2-59 | Train Delay Announcement |
-| A2-30 | Asking for Refund | | A2-60 | Year-End Greeting |
+| A2-30 | Asking for a Refund | | A2-60 | Year-End Greeting |
 
 ### B1
 | ID | Title | | ID | Title |
