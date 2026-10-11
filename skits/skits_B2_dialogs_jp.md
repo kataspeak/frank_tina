@@ -15,7 +15,7 @@
 **Narrator**: Three months after their first real fight. Frank and Tina are at dinner.
 **ナレーター**: 二人の最初の本物の喧嘩から3か月後。フランクとティナは夕食をとっている。
 
-1. **Tina**: You know what I noticed? When I cancelled our Saturday last week, you asked me about it right away.
+1. **Tina**: You know what I noticed? When I canceled our Saturday last week, you asked me about it right away.
    **ティナ**: ねえ、気づいたことがあるの。先週私が土曜の予定をキャンセルしたとき、あなた、すぐに聞いてくれたわよね。
 2. **Frank**: "Is it work, or is it me? If it's me, tell me today. If it's work, good luck."
    **フランク**: 「仕事？それとも僕のせい？僕のせいなら、今日中に言ってほしい。仕事なら、頑張って」。
@@ -23,8 +23,8 @@
    **ティナ**: 一言一句そのまま。自分のメッセージを暗記してるの？
 4. **Frank**: I drafted it twice. During the fight, I waited two days to ask. That was the mistake.
    **フランク**: 2回下書きしたからね。あの喧嘩のとき、僕は聞くまでに2日待った。あれが間違いだったんだ。
-5. **Tina**: It really was. Two days of you being polite and distant — I invented ten problems.
-   **ティナ**: 本当にそうよ。あなたが2日間、丁寧でよそよそしくて——私、問題を10個はでっち上げたんだから。
+5. **Tina**: It really was. Two days of you being polite and distant — I came up with ten different problems.
+   **ティナ**: 本当にそうよ。あなたが2日間、丁寧でよそよそしくて——私、問題を10個も考え出したんだから。
 6. **Frank**: And the real one wasn't on your list.
    **フランク**: そして本当の理由は、そのリストに入っていなかった。
 7. **Tina**: Nope. So this time, I answered in one minute: "It's work. A deadline. Not you."
@@ -61,7 +61,7 @@
    **委員長**: その通り。だから言ってあげなさい。指示に数字を入れて。
 6. **Frank**: Having read the complaint, I already rewrote it: "Solve puzzles for thirty minutes. Stopping earlier is fine."
    **フランク**: 苦情を読んだ上で、もう書き直しました。「パズルを30分解いてください。早めにやめても構いません」。
-7. **Chair**: Better. Second item — your consent form is eleven pages. Volunteers sign it without reading.
+7. **Chair**: Better. Second item — your consent form is eleven pages. Volunteers sign it without reading it.
    **委員長**: 良くなった。2件目——あなたの同意書は11ページある。被験者は読まずにサインしていますよ。
 8. **Frank**: I would argue it is complete. Every risk is explained. Including paper cuts.
    **フランク**: 完全な内容だと申し上げたいのですが。あらゆるリスクを説明してあります。紙で手を切る危険も含めて。
@@ -69,8 +69,8 @@
    **委員長**: 完全、それはそうでしょう。でも読まれていない。誰も読まない書類は、誰も守りません。
 10. **Frank**: That is a fair point. What if I add a one-page summary and keep the long version for anyone who asks?
     **フランク**: もっともなご指摘です。1ページの要約を付けて、詳細版は希望者に渡す、というのはいかがでしょう。
-11. **Chair**: That works. Send us both versions by Friday — in writing.
-    **委員長**: それでいきましょう。金曜までに両方の版を——書面で。
+11. **Chair**: That works. Send us both versions by Friday.
+    **委員長**: それでいきましょう。金曜までに両方の版を送ってください。
 12. **Frank**: Of course. The summary already exists. It was page eleven.
     **フランク**: もちろんです。要約なら、すでにあります。11ページ目がそれでした。
 13. **Chair**: Of course it was. Approved — pending the thirty-minute fix.
@@ -105,8 +105,8 @@
     **フランク**: もっと長く知ってる相手なら、皮肉も通じたかもしれないね。
 11. **Tina**: Right. Though that's not quite the lesson I expected Earth to hand me today.
     **ティナ**: そうね。もっとも、今日地球が私にくれる教訓としては、ちょっと予想と違ったけど。
-12. **Frank**: For what it's worth — dropping it the second she looked confused would've saved you.
-    **フランク**: 一応言うと——困った顔をした瞬間にやめてれば、助かってたよ。
+12. **Frank**: For what it's worth — dropping it the second she took you seriously would've saved you.
+    **フランク**: 一応言うと——彼女が本気にした瞬間にやめてれば、助かってたよ。
 13. **Tina**: Filing this under "Earth customs I have almost learned."
     **ティナ**: これは「もう少しで身につく地球の習慣」に分類しておくわ。
 
@@ -114,12 +114,12 @@
 
 **場面:** 入国管理局の更新窓口。
 
-**Narrator**: Tina is at the immigration office to renew her residence permit. The form changed in January, so this time she paid an agency to prepare her paperwork.
-**ナレーター**: ティナは在留許可を更新するため入国管理局に来ている。用紙が1月に変わったため、今回は代行業者にお金を払って書類を作ってもらった。
+**Narrator**: Tina is at the immigration office to renew her visa. The form changed in January, so this time she paid an agency to prepare her paperwork.
+**ナレーター**: ティナはビザを更新するため入国管理局に来ている。用紙が1月に変わったため、今回は代行業者にお金を払って書類を作ってもらった。
 
 1. **Officer**: Your documents appear to have been prepared by an agency. Is that correct?
    **職員**: 書類は代行業者が作成したようですね。合っていますか？
-2. **Tina**: Yes. The new form confused me, so I had it done professionally. Contract, payslips, photos — it's all here.
+2. **Tina**: Yes. The new form confused me, so I had it done professionally. Contract, pay stubs, photos — it's all here.
    **ティナ**: はい。新しい用紙に混乱したので、プロにやってもらいました。契約書、給与明細、写真——全部ここに。
 3. **Officer**: Employment verification... signed by your manager. It also needs HR's countersignature. That's new this year.
    **職員**: 雇用証明……上司のサイン入りですね。今年からは人事部の連署も必要なんです。
@@ -133,7 +133,7 @@
    **職員**: ええ。ほかはすべて揃っています。……出身地、「小さな村、はるか北方」。
 8. **Tina**: It's remote. Very hard to visit.
    **ティナ**: 辺鄙なところなんです。訪ねるのがとても大変で。
-9. **Officer**: So I see. It says the same thing on your last three renewals.
+9. **Officer**: I can see that. It says the same thing on your last three renewals.
    **職員**: そのようですね。過去3回の更新にも、同じことが書いてあります。
 10. **Tina**: I'm consistent. That should count for something in immigration.
     **ティナ**: 一貫してるでしょう。入管では、それって評価されるべきだと思うんです。
@@ -165,12 +165,12 @@
    **フランク**: 2人。うち1人は猫だった。
 7. **Tina**: And the other?
    **ティナ**: それで、もう1人は？
-8. **Frank**: The barista. She said, "New jacket? Nice," and made my coffee. The usual one.
-   **フランク**: バリスタさん。「新しいジャケット？いいね」って言って、コーヒーを淹れてくれた。いつものやつを。
+8. **Frank**: The barista. She said, "New jacket? Nice," and made my usual.
+   **フランク**: バリスタさん。「新しいジャケット？いいね」って言って、いつものを淹れてくれた。
 9. **Tina**: So the big scary change cost you six minutes and earned you one compliment.
    **ティナ**: つまり、あの大きくて怖い変化のお値段は6分で、褒め言葉1つが手に入ったわけね。
-10. **Frank**: Correct. If I'd known that math earlier, I'd have worn it months ago.
-    **フランク**: その通り。この計算がもっと早く分かっていたら、何か月も前に着てたよ。
+10. **Frank**: Correct. If I'd done the math earlier, I'd have worn it months ago.
+    **フランク**: その通り。この計算をもっと早くしていたら、何か月も前に着てたよ。
 11. **Tina**: That's what I told you when I gave it to you!
     **ティナ**: だから、渡したときにそう言ったじゃない！
 12. **Frank**: You did. I needed to check the numbers myself.
@@ -191,20 +191,20 @@
    **フランク**: 二人とも正しいのかもしれません。メーリングリストを確認してきました。
 3. **HR**: Go on.
    **人事**: 続けてください。
-4. **Frank**: We have two lists: "Team" and "Team-2024." He used the old one. She joined in January — she's only on the new one.
-   **フランク**: リストが2つあるんです。「Team」と「Team-2024」。彼は古い方を使った。彼女は1月に入ったので、新しい方にしか入っていません。
+4. **Frank**: We have two lists: "Team-Old" and "Team-New." He used the old one. She joined in January — she's only on the new one.
+   **フランク**: リストが2つあるんです。「Team-Old」と「Team-New」。彼は古い方を使った。彼女は1月に入ったので、新しい方にしか入っていません。
 5. **HR**: So the brief went out, and it still never reached her.
    **人事**: つまり概要書は送られたのに、それでも彼女には届かなかった。
-6. **Frank**: Exactly. Nobody lied. The email did what it was told — by the wrong list.
-   **フランク**: その通りです。誰も嘘をついていない。メールは言われた通りに動いただけです——間違ったリストに。
+6. **Frank**: Exactly. Nobody lied. The email did exactly what it was told. It just went to the wrong list.
+   **フランク**: その通りです。誰も嘘をついていない。メールは言われた通りに動いただけです。宛先のリストが違っていたんです。
 7. **HR**: She also says she told her supervisor two days before the deadline.
    **人事**: 彼女は、締め切りの2日前に上司に伝えたとも言っています。
-8. **Frank**: That may be true, but I can't confirm it — I wasn't copied on that conversation.
+8. **Frank**: That may be true, but I can't confirm it — I wasn't part of that conversation.
    **フランク**: 事実かもしれませんが、私には確認できません——そのやりとりに、私は入っていなかったので。
-9. **HR**: Either way, we need this not to happen again. Suggestions?
+9. **HR**: Either way, we need to make sure this doesn't happen again. Suggestions?
    **人事**: いずれにせよ、二度と起きないようにしないと。提案は？
-10. **Frank**: Delete the old list. One list, one truth. Five minutes, and I can do it today.
-    **フランク**: 古いリストを消しましょう。リストは1つ、真実も1つ。5分で済みますし、今日中に私がやれます。
+10. **Frank**: Delete the old list. One list, one source of truth. Five minutes, and I can do it today.
+    **フランク**: 古いリストを消しましょう。リストは1つ、情報源も1つ。5分で済みますし、今日中に私がやれます。
 11. **HR**: Approved. And the two of them?
     **人事**: 承認します。それで、あの二人は？
 12. **Frank**: They should hear it together — the problem was a list, not a person. It's easier to forgive a mailing list.
@@ -229,8 +229,8 @@
    **フランク**: 君が見つけたのは、自分のために取ってある時間だよ。ラベルがないのは、要らないからだ。
 5. **Tina**: Okay, but we made this calendar for coordination. And now I'm coordinating around a mystery.
    **ティナ**: いいけど、このカレンダーは調整のために作ったのよ。今の私は、謎を避けて調整してるんだけど。
-6. **Frank**: Is the mystery in your way? Have we double-booked even once?
-   **フランク**: その謎は君の邪魔になってる？予定がかぶったこと、一度でもあった？
+6. **Frank**: Has the mystery gotten in your way? Have we double-booked even once?
+   **フランク**: その謎が君の邪魔になったことはある？予定がかぶったこと、一度でもあった？
 7. **Tina**: ...No. Wednesdays were never our days anyway.
    **ティナ**: ……ないわ。そもそも水曜は私たちの日じゃなかったし。
 8. **Frank**: Then the problem isn't the schedule. What bothers you is not knowing.
@@ -253,22 +253,22 @@
 **Narrator**: Frank is being interviewed by a grant committee. He's asking for two years of funding to study the sleep of night-shift workers.
 **ナレーター**: フランクは助成金委員会の面接を受けている。夜勤労働者の睡眠を研究するため、2年分の資金を申請しているのだ。
 
-1. **Chair**: Having read your proposal, I'll start simple. Why sleep, and why night workers?
-   **委員長**: 提案書を読んだ上で、単純なことから伺います。なぜ睡眠、そしてなぜ夜勤労働者なのですか？
+1. **Chair**: I've read your proposal, so let me start simple. Why sleep, and why night workers?
+   **委員長**: 提案書は読みました。ですから、単純なことから伺います。なぜ睡眠、そしてなぜ夜勤労働者なのですか？
 2. **Frank**: Because the city runs on night workers — nurses, drivers, bakers. And sleep studies stop at six months.
    **フランク**: 街は夜勤で回っているからです——看護師、運転手、パン職人。それなのに、睡眠研究は6か月で止まってしまう。
 3. **Chair**: And yours runs two years. Why?
    **委員長**: あなたの研究は2年間続く。なぜです？
 4. **Frank**: Because six months can't separate "the body adapts" from "the body gives up." Two years can.
    **フランク**: 6か月では、「体が適応した」と「体が諦めた」を区別できないからです。2年ならできます。
-5. **Chair**: Your budget lists two hundred sleep trackers, ninety dollars each. Your biggest line.
+5. **Chair**: Your budget lists two hundred sleep trackers, ninety dollars each. It's your biggest line item.
    **委員長**: 予算に睡眠トラッカー200個とありますね。1個90ドル。最大の費目です。
-6. **Frank**: It looks expensive until you compare it. One lab night costs more than one tracker for two years.
-   **フランク**: 高く見えますが、比べてみてください。睡眠ラボの一晩のほうが、トラッカー2年分より高いんです。
+6. **Frank**: It looks expensive until you compare it to a sleep lab. One night in a lab costs more than one tracker for two years.
+   **フランク**: 高く見えますが、睡眠ラボと比べてみてください。ラボの一晩のほうが、トラッカー1台の2年分より高いんです。
 7. **Chair**: And when workers drop out halfway?
    **委員長**: 参加者が途中で抜けたら？
-8. **Frank**: Some will. That's why I invite forty extra people. They're my buffer.
-   **フランク**: 抜ける人は出ます。だから40人余分に招くんです。その40人が緩衝材です。
+8. **Frank**: Some will. That's why I'm recruiting forty extra people. They're my buffer.
+   **フランク**: 抜ける人は出ます。だから40人余分に募集するんです。その40人が緩衝材です。
 9. **Chair**: One reviewer wanted the social benefit spelled out. Be specific.
    **委員長**: ある審査員が、社会的便益を明確に、と。具体的にお願いします。
 10. **Frank**: If we learn when night workers sleep best, hospitals can plan shifts around it. Fewer mistakes at four a.m.
@@ -277,8 +277,8 @@
     **委員長**: データが「夜勤はそもそも全員に悪い」と言ってきたら？
 12. **Frank**: Then we'll know for certain — and the city should hear it. An uncomfortable answer is still an answer.
     **フランク**: なら、それが確実に分かります——そして街はそれを聞くべきです。不都合な答えも、答えです。
-13. **Chair**: Clear numbers, clear answers. Two weeks — and try to sleep until then.
-    **委員長**: 明快な数字に、明快な答えだ。2週間お待ちを——それまで、よく眠ってくださいね。
+13. **Chair**: Clear numbers, clear answers. You'll hear from us in two weeks — try to get some sleep until then.
+    **委員長**: 明快な数字に、明快な答えだ。結果は2週間後にお知らせします——それまで、よく眠ってくださいね。
 
 ### B2-09 Regrettable Post
 
@@ -295,10 +295,10 @@
    **ティナ**: 「本日もチーム会議を生還。皆さまのご冥福をお祈りします」。コーヒーの写真付き。
 4. **Frank**: And two people were upset?
    **フランク**: それで、2人が気を悪くした？
-5. **Tina**: One said it felt dismissive — she'd planned that meeting. The other said she laughed, but heard complaints.
-   **ティナ**: 一人は、見下されたように感じたって——その会議を企画した人なの。もう一人は、笑ったけど苦情も聞いた、って。
-6. **Frank**: To be fair, your joke and her three weeks of planning were in the same room.
-   **フランク**: 公平に言えば、君の冗談と、彼女の3週間の準備が、同じ部屋に居合わせたわけだね。
+5. **Tina**: One said it felt dismissive — she'd planned that meeting. The other said she laughed, but it read like a complaint.
+   **ティナ**: 一人は、見下されたように感じたって——その会議を企画した人なの。もう一人は、笑ったけど愚痴に読めた、って。
+6. **Frank**: To be fair, she spent three weeks planning that meeting, and your joke landed right on top of it.
+   **フランク**: 公平に言えば、彼女はあの会議の準備に3週間かけたんだ。君の冗談は、そこに直撃したわけだね。
 7. **Tina**: I know. I was joking about meetings. She heard a joke about her meeting.
    **ティナ**: そうなの。私は「会議というもの」をからかったの。彼女には「自分の会議」への冗談に聞こえた。
 8. **Frank**: So the question is simple. Delete, edit, or explain?
@@ -341,7 +341,7 @@
    **管理人**: 「進呈品、ゴルフボール1個」と。記録しました。苦情を提出いただければ、本人に通知し、正式な警告を送ります。
 10. **Tina**: And if the warning doesn't work — what's the next step?
     **ティナ**: それで警告が効かなかったら、次の段階は？
-11. **Manager**: We escalate. The lease sets clear noise limits — if it continues, we can treat it as a breach.
+11. **Manager**: We escalate. The lease sets clear noise limits — if it continues, we can treat it as a lease violation.
     **管理人**: 対応を一段上げます。契約は明確な騒音制限を定めています。続けば、契約違反として扱えます。
 12. **Tina**: Good. Where I'm from, neighbors just synchronize sleep schedules. I keep forgetting this planet runs on paperwork.
     **ティナ**: よかった。私の故郷では、隣人同士は眠る時間をそろえるだけなんです。この惑星が書類で回ってるってこと、つい忘れちゃって。
@@ -363,10 +363,10 @@
    **ティナ**: 先に話してたら、もっと短いリストになってたわ。
 4. **Frank**: On the other hand, at least now we know exactly what we each want.
    **フランク**: 一方で、少なくとも今はお互いが何を望んでるか正確に分かった。
-5. **Tina**: You want silence, while I want to be somewhere alive.
+5. **Tina**: You want silence, while I want to be somewhere lively.
    **ティナ**: あなたは静寂が欲しくて、私は活気のある場所にいたいの。
-6. **Frank**: Those aren't incompatible. If we hadn't both started from the extremes, we'd kinda see the overlap.
-   **フランク**: それは両立しないわけじゃない。二人とも極端から始めてなければ、重なる部分が見えるはずなんだ。
+6. **Frank**: Those aren't incompatible. If we hadn't both started at opposite extremes, we'd already see the overlap.
+   **フランク**: それは両立しないわけじゃない。二人とも正反対の端から始めてなければ、もう重なる部分が見えてるはずなんだ。
 7. **Tina**: What's in the middle?
    **ティナ**: 真ん中には何があるの？
 8. **Frank**: A city with quiet edges. Somewhere you can go into the noise — and come back out.
@@ -386,7 +386,7 @@
 
 **場面:** ティナが留学生に「暗黙のルール」を伝えるオリエンテーション。
 
-**Narrator**: Tina is leading a small-group orientation for international students just arrived on campus. Her topic: the unspoken rules.
+**Narrator**: Tina is leading a small-group orientation for international students who just arrived on campus. Her topic: the unspoken rules.
 **ナレーター**: ティナは、着いたばかりの留学生のための少人数オリエンテーションを進行している。テーマは、暗黙のルールだ。
 
 1. **Tina**: The question I always get: "How do you know when someone actually wants to talk?"
@@ -405,7 +405,7 @@
    **ティナ**: ほとんどは戸惑いね。パーティーでその後に続いた沈黙は…忘れられないわ。
 8. **Student**: What else surprised you?
    **学生**: 他に何に驚きましたか？
-9. **Tina**: The small stuff. People hold a door for someone who's still way back — further back than you'd ever expect. It's a whole unspoken system.
+9. **Tina**: The small stuff. People hold the door for someone who's still way back — farther back than you'd ever expect. It's a whole unspoken system.
    **ティナ**: 些細なことよ。みんな、まだずっと後ろにいる人のためにドアを開けて待つの。え、そんな遠くから？と思うくらい後ろにいてもね。まるごと暗黙のルールなのよ。
 10. **Student**: And eye contact?
     **学生**: アイコンタクトは？
@@ -464,20 +464,20 @@
    **フランク**: はい。契約では水質検体は月50件。3月に届いたのは210件でした。
 3. **Partner**: I'd argue the appendix allows for "reasonable variation."
    **取引先**: 別紙が「合理的な変動」を認めていると申し上げたいですが。
-4. **Frank**: Four times the number isn't variation. My team worked three weekends to keep up.
-   **フランク**: 4倍は変動ではありません。うちのチームは、追いつくために週末を3回つぶしました。
-5. **Partner**: If we agreed to your revision, what changes?
+4. **Frank**: Four times the agreed number isn't variation. My team worked three weekends to keep up.
+   **フランク**: 契約数の4倍は変動ではありません。うちのチームは、追いつくために週末を3回つぶしました。
+5. **Partner**: If we agreed to your revision, what would change?
    **取引先**: ご要望の変更に同意したら、何が変わりますか？
-6. **Frank**: The price stays fair: fifty samples as before, and anything above that is billed per sample.
-   **フランク**: 価格は公正なままです。50件までは従来通り、それを超えた分は1件ごとの請求に。
+6. **Frank**: The base price stays the same: fifty samples as before, and anything above that is billed per sample.
+   **フランク**: 基本料金は据え置きです。50件までは従来通り、それを超えた分は1件ごとの請求に。
 7. **Partner**: Our client expects the current invoice to stay flat.
    **取引先**: うちの顧客は、請求額が変わらないことを期待していますが。
 8. **Frank**: If the scope had been clearer at signing, we wouldn't be here now. I'm not comfortable promising work we can't honestly deliver.
    **フランク**: 署名時に範囲がもっと明確だったら、今こうはなっていません。正直に果たせない仕事を約束するのは、気が進みません。
 9. **Partner**: Would you consider a partial revision — say, a cap at one hundred?
    **取引先**: 部分的な変更ではどうです——たとえば、上限100件とか。
-10. **Frank**: I would consider it — but a cap just moves the problem to the week we hit it. Per-sample billing solves it once.
-    **フランク**: 検討はします。ですが上限は、それに達した週へ問題を先送りするだけです。件数ごとの請求なら、一度で解決します。
+10. **Frank**: I would consider it — but a cap just moves the problem to the week we hit it. Per-sample billing solves it once and for all.
+    **フランク**: 検討はします。ですが上限は、それに達した週へ問題を先送りするだけです。件数ごとの請求なら、きっぱり解決します。
 11. **Partner**: Even so, I need client approval before agreeing.
     **取引先**: そうだとしても、同意の前に顧客の承認が必要です。
 12. **Frank**: Exactly. What I'm suggesting is that we call them together — with the March numbers on the table.
@@ -546,7 +546,7 @@
    **ティナ**: それで今の私たち——同じ実験台、新しい時計、あれから質問1000個。
 10. **Frank**: And one big difference: we say things now. Earlier. Even the uncomfortable ones.
     **フランク**: それと、大きな違いが一つ。今の僕たちは、言うようになった。早めに。言いにくいことも。
-11. **Tina**: That's the version I'm proud of.
+11. **Tina**: That's the version of us I'm proud of.
     **ティナ**: それが、私が誇りに思う私たちよ。
 12. **Frank**: Even though it took a real fight to get here?
     **フランク**: ここまで来るのに、本物の喧嘩が必要だったのに？
@@ -568,7 +568,7 @@
    **教授**: そこが問題だ。1年生40人で分かるのは、1年生の集中の仕方だよ。君の題名は「人の集中の仕方」だがね。
 4. **Frank**: That is fair. At this stage, I would argue a narrow sample is acceptable — this is preliminary work.
    **フランク**: ごもっともです。この段階では、狭い標本でも許容されると申し上げたいのですが——これは予備研究ですので。
-5. **Professor**: Having reviewed for three journals, I know exactly what happens: page one, "Why only students?"
+5. **Professor**: I've reviewed for three journals, so I know exactly what happens: page one, "Why only students?"
    **教授**: 3つの学術誌で査読をやってきたから、何が起きるか正確に分かるよ。1ページ目で「なぜ学生だけ？」だ。
 6. **Frank**: Then I will answer it on page one: "Because this is a pilot. The full study adds night workers and retirees."
    **フランク**: では、1ページ目で答えます。「これは試行だからです。本研究では夜勤労働者と退職者を加えます」。
@@ -580,14 +580,14 @@
    **教授**: すごいな。未来の科学者かね？
 10. **Frank**: A friend. She demanded a prize afterward. I gave her a cookie.
     **フランク**: 友人です。終わってから賞品を要求されました。クッキーをあげました。
-11. **Professor**: Fine. Frame it as a pilot, name the next groups, and the sample holds.
+11. **Professor**: Fine. Frame it as a pilot, name the next groups, and the sample will hold up.
     **教授**: いいだろう。試行だと明示して、次の対象群を挙げれば、その標本で持ちこたえる。
 12. **Frank**: I will make both explicit in the next draft.
     **フランク**: 次の草稿で、両方とも明記します。
-13. **Professor**: Good. And Frank — budget more cookies. Forty students will tell their friends.
+13. **Professor**: Good. And Frank — budget for more cookies. Forty students will tell their friends.
     **教授**: よろしい。それとフランク——クッキーの予算は増やしておけ。学生40人は友達に言いふらすぞ。
 
-### B2-18 Medical Second Opinion
+### B2-18 Consultation on Elderly Care
 
 **場面:** 介護施設で専門家と面談。年老いていく博士への支援を、そっと調べている。
 
@@ -604,29 +604,29 @@
    **フランク**: まだ分かりません。彼の家には、階段が19段あります。去年の冬、彼は2階を使うのをやめました。
 5. **Specialist**: Are you saying the house is becoming too much for him?
    **専門家**: その家が、彼の手に余るようになってきている、ということですか？
-6. **Frank**: I may be wrong, but yes. He calls downstairs "more practical." He built that house. He loves the upstairs study.
-   **フランク**: 間違っているかもしれませんが、そうだと思います。本人は、1階を「実用的だ」と呼んでいます。あの家は彼が建てたんです。2階の書斎を愛しているんです。
+6. **Frank**: I may be wrong, but yes. He says downstairs is "more practical." He built that house. He loves the upstairs study.
+   **フランク**: 間違っているかもしれませんが、そうだと思います。本人は、1階のほうが「実用的だ」と言っています。あの家は彼が建てたんです。2階の書斎を愛しているんです。
 7. **Specialist**: Has he asked for help?
    **専門家**: ご本人から、助けを求めたことは？
 8. **Frank**: No. An assessment last year might have helped — but every time I raise it, he changes the subject to my work.
    **フランク**: ありません。去年アセスメントを受けていれば、助けになったかもしれない——でも私が切り出すたび、彼は話題を私の仕事に変えるんです。
 9. **Specialist**: That's common. What exactly is he refusing?
    **専門家**: よくあることです。具体的には、何を断っているのですか？
-10. **Frank**: All of them, politely. A visiting nurse, a stair rail, moving the study down. The answer is always "Maybe in spring."
+10. **Frank**: Everything, politely. A visiting nurse, a stair rail, moving the study down. The answer is always "Maybe in spring."
     **フランク**: 全部です、丁寧にね。訪問看護師、階段の手すり、書斎を1階に移すこと。答えはいつも「春になったらね」。
 11. **Specialist**: Then start with the rail. It's small. It's not "care" — just a rail.
     **専門家**: なら、手すりから始めましょう。小さなことですし、「介護」ではありません——ただの手すりです。
 12. **Frank**: He can accept a rail without admitting anything. That's clever.
     **フランク**: 手すりなら、彼は何も認めずに受け入れられる。……賢いですね。
-13. **Specialist**: It usually works. When he's ready, bring him — we'll look together.
-    **専門家**: たいてい上手くいきますよ。準備ができたら、連れてきてください——共に考えましょう。
+13. **Specialist**: It usually works. When he's ready, bring him — we'll look at the options together.
+    **専門家**: たいてい上手くいきますよ。準備ができたら、連れてきてください——一緒に選択肢を見ていきましょう。
 
 ### B2-19 Mutual Misreading
 
 **場面:** 昨日の少しぎこちないやり取りを、電話で修復する。
 
-**Narrator**: Frank and Tina had a short exchange yesterday that went slightly wrong. Neither said anything hurtful, but both felt off afterward. Frank texts in the morning; Tina calls back instead of replying.
-**ナレーター**: フランクとティナは昨日、少しうまくいかない短いやり取りをした。どちらも傷つくことは言わなかったが、その後二人とも何かおかしいと感じた。フランクが朝にメッセージを送り、ティナは返信せず電話をかけ直す。
+**Narrator**: Frank and Tina had a short exchange yesterday that went slightly wrong. Neither said anything hurtful, but both felt off afterward. Frank texts in the morning; Tina calls him instead of texting back.
+**ナレーター**: フランクとティナは昨日、少しうまくいかない短いやり取りをした。どちらも傷つくことは言わなかったが、その後二人とも何かおかしいと感じた。フランクが朝にメッセージを送り、ティナは返信する代わりに電話をかける。
 
 1. **Frank**: I might have come across colder than I meant to yesterday.
    **フランク**: 昨日、意図したより冷たく受け取られたかもしれない。
@@ -636,8 +636,8 @@
    **フランク**: 疲れてたんだ。怒ってなかったのに、平板に聞こえたかもしれない。
 4. **Tina**: And I might have made it about me — when you were probably just low on energy.
    **ティナ**: それで、あなたはただ元気がなかっただけなのに、自分に向けられたものだと受け取っちゃったのかも。
-5. **Frank**: Let me rephrase: nothing you said bothered me.
-   **フランク**: 言い直すよ。君が言ったことで、何も気を悪くしてない。
+5. **Frank**: To be clear: nothing you said bothered me.
+   **フランク**: はっきり言っておくよ。君が言ったことで、何も気を悪くしてない。
 6. **Tina**: Same. I believe you. I just read your face differently at the time.
    **ティナ**: 私もよ。信じる。ただ、あのときあなたの顔を、違う風に読んじゃったの。
 7. **Frank**: What did my face do?
@@ -652,22 +652,22 @@
     **フランク**: 僕も、「今日は心ここにあらずなんだ」と言うべきだった。ただぼんやりする代わりに。
 12. **Tina**: Let me rephrase the whole thing: it was a tired Thursday. That's all it was.
     **ティナ**: ぜんぶ言い直すわ。疲れた木曜日だった。それだけだったの。
-13. **Frank**: Yeah. I'll text you more clearly next time.
-    **フランク**: ああ。次は、もっと明確にメッセージするよ。
+13. **Frank**: Yeah. Next time, I'll just tell you when I'm somewhere else.
+    **フランク**: ああ。次からは、心ここにあらずのときは、ちゃんとそう言うよ。
 
 ### B2-20 Crisis Communication
 
 **場面:** 大学の研究室でデータ漏洩。広報チームの対応会議。
 
-**Narrator**: There's been a data leak at Frank's lab — a folder of participant emails was left open online. The communications head is deciding what to say next. Frank has talked to the researchers.
+**Narrator**: There's been a data leak at Frank's lab — a folder of participant emails was left open online. The head of communications is deciding what to say next. Frank has talked to the researchers.
 **ナレーター**: フランクの研究室でデータ漏洩が起きた——参加者のメールアドレスの入ったフォルダが、ネット上で誰でも見られる状態になっていたのだ。広報責任者が次の一手を決めようとしている。フランクは研究者たちと話してきた。
 
 1. **Head**: What have the researchers actually said?
    **責任者**: 研究者たちは、実際に何と言っていますか？
 2. **Frank**: Several weren't told before the announcement. Two found out from social media — at breakfast, from strangers.
    **フランク**: 数人は、発表の前に知らされていませんでした。2人はSNSで知りました——朝食の席で、赤の他人から。
-3. **Head**: That's bad. What exactly leaked, from their side?
-   **責任者**: まずいですね。先方から見て、正確には何が漏れたんです？
+3. **Head**: That's bad. And what exactly leaked, according to them?
+   **責任者**: まずいですね。それで、彼らの話では、正確には何が漏れたんです？
 4. **Frank**: One folder: participant email addresses. No health data, no passwords. That part we can say with confidence.
    **フランク**: フォルダ1つ。参加者のメールアドレスです。健康データもパスワードも含まれない。そこは自信を持って言えます。
 5. **Head**: Then the announcement did its job.
@@ -693,7 +693,7 @@
 
 **場面:** 週末の朝、電話越し。
 
-**Narrator**: Saturday morning. Frank has just cancelled their weekend plan by text — three words: "I need quiet." Tina reads it twice, then calls.
+**Narrator**: Saturday morning. Frank has just canceled their weekend plans by text — three words: "I need quiet." Tina reads it twice, then calls.
 **ナレーター**: 土曜の朝。フランクはたった今、たった3語——「静けさが必要だ」というメッセージで週末の予定をキャンセルした。ティナはそれを二度読み、電話をかける。
 
 `[SFX: phone ringtone]`
@@ -704,7 +704,7 @@
    **フランク**: 大丈夫だよ。今日必要なのは、静かな1日なんだ。予定なし、人なし。
 3. **Tina**: But I had our Saturday planned — market, movie, one long lunch.
    **ティナ**: でも私、土曜日を計画してたのよ——市場、映画、それに長いランチ。
-4. **Frank**: That's why I texted early — you can still rescue the day.
+4. **Frank**: That's why I texted early — you can still salvage the day.
    **フランク**: だから早めにメッセージしたんだ——まだ1日を立て直せるように。
 5. **Tina**: And you told me instead of just vanishing. That's new. Is this about last time?
    **ティナ**: それに、消えるんじゃなくて教えてくれた。それは新しいわ。前回のこと？
@@ -714,8 +714,8 @@
    **ティナ**: よろしい。それで、フランクの「静かな日」って、どんな感じなの？
 8. **Frank**: Coffee. A long walk. The library until it closes. And nobody asking if I'm okay.
    **フランク**: コーヒー。長い散歩。閉館までの図書館。あとは、誰にも「大丈夫？」って聞かれないこと。
-9. **Tina**: Fine — the day is yours. I'll take my gym buddy to the market and won't even send the dog picture I have open.
-   **ティナ**: いいわ——今日はあなたのもの。市場にはジム仲間を連れて行くし、今開いてる犬の写真も送らないでおいてあげる。
+9. **Tina**: Fine — the day is yours. I'll take my gym buddy to the market and won't even send you the dog picture I was about to share.
+   **ティナ**: いいわ——今日はあなたのもの。市場にはジム仲間を連れて行くし、送ろうとしてた犬の写真も送らないでおいてあげる。
 10. **Frank**: ...What kind of dog?
     **フランク**: ……どんな犬？
 11. **Tina**: No. Nope. You wanted quiet. The dog waits till tomorrow.
@@ -740,18 +740,18 @@
    **委員A**: そんなに？その時間、誰が建物にいるんです？
 4. **Frank**: Mostly one person. He files very complete reports.
    **フランク**: ほぼ一人です。とても完璧な報告書を出す人物ですね。
-5. **Chair**: Frank, is the one person you?
+5. **Chair**: Frank, is that one person you?
    **委員長**: フランク、その「一人」は、あなたですか？
 6. **Frank**: Yes. Rarely have I needed the room before ten — my best work happens when the building is quiet.
    **フランク**: はい。10時前にあの部屋が必要だったことは、めったにありません——僕の一番いい仕事は、建物が静かなときに起きるので。
-7. **Member B**: The rule isn't about you. If someone gets hurt alone at two a.m., nobody would know for hours.
+7. **Member B**: The rule isn't about you. If someone got hurt alone at two a.m., nobody would know for hours.
    **委員B**: この規則は、あなた個人の話ではありませんよ。深夜2時に一人で怪我をしたら、何時間も誰にも気づかれない。
 8. **Frank**: I agree with that logic — which is why I'm not asking you to reject the rule. I'm asking for a night pass.
    **フランク**: その論理には同意します——だから、規則の否決はお願いしていません。お願いしているのは「夜間パス」です。
 9. **Chair**: Meaning what, exactly?
    **委員長**: 具体的には？
-10. **Frank**: Two conditions: you sign in with security, and one colleague knows you're there. Safety gets its answer; the night crew keeps working.
-    **フランク**: 条件は2つ。警備室で記帳すること、そして同僚一人が居場所を知っていること。安全は答えを得て、夜のチームは働き続けられます。
+10. **Frank**: Two conditions: you sign in with security, and one colleague knows you're there. The safety concern is covered, and the night crew keeps working.
+    **フランク**: 条件は2つ。警備室で記帳すること、そして同僚一人が居場所を知っていること。安全面の懸念は解消され、夜のチームは働き続けられます。
 11. **Member A**: "Crew"? You said it's mostly you.
     **委員A**: 「チーム」？ほぼ一人だと言ったでしょう。
 12. **Frank**: I'm optimistic about recruitment.
@@ -790,8 +790,8 @@
     **ティナ**: 半分は今すぐこの友情を丸ごと説明したいの。もう半分は、説明しても伝わらないって分かってる。
 11. **Mom**: I'm not asking you to explain anything. I just like seeing you're not alone out there.
     **母**: 何も説明してなんて言ってないわ。ただ、あなたが一人じゃないのを見られて嬉しいだけよ。
-12. **Tina**: I'm not. Friend, not anything else — but not alone. That's the part that matters.
-    **ティナ**: 一人じゃないわ。友達よ、それ以外の何でもない——でも一人じゃない。それが大事なところよ。
+12. **Tina**: I'm not. He's a friend, nothing more — but I'm not alone. That's the part that matters.
+    **ティナ**: 一人じゃないわ。彼は友達で、それ以上じゃない——でも私は一人じゃない。それが大事なところよ。
 13. **Mom**: Then tell the tall boy I said thank you. For showing up, and for sticking around.
     **母**: なら、あの背の高い子に伝えて、ありがとうって。そばに来てくれて、ずっといてくれて。
 
@@ -808,12 +808,12 @@
    **ティナ**: 頭から離れない問いがあったんです。新しい場所は、いつ「ホーム」に変わり始めるのか？誰も、その瞬間を言い当てられませんでした。
 3. **Panel B**: And how do you study a thing like that?
    **審査員B**: それを、どうやって研究するのです？
-4. **Tina**: I ask newcomers what they unpack first. A mug, a photo, a blanket. The stories start themselves.
-   **ティナ**: 新しく来た人に、最初に何を荷ほどきするかを聞くんです。マグカップ、写真、毛布。物語は勝手に始まります。
+4. **Tina**: I ask newcomers what they unpack first. A mug, a photo, a blanket. The stories tell themselves.
+   **ティナ**: 新しく来た人に、最初に何を荷ほどきするかを聞くんです。マグカップ、写真、毛布。物語は自然と出てきます。
 5. **Panel A**: Interesting. And your own answer? What do you unpack first?
    **審査員A**: 面白い。あなた自身の答えは？最初に何を荷ほどきします？
-6. **Tina**: A star map. Long story — but it's why I ask. I moved far, and young.
-   **ティナ**: 星図です。……長い話になりますが——だから、この問いを立てるんです。私、遠くから、若いうちに移り住んだので。
+6. **Tina**: A star map. Long story — but it's why I ask. I moved a long way from home when I was young.
+   **ティナ**: 星図です。……長い話になりますが——だから、この問いを立てるんです。私、若い頃に故郷から遠く離れて移り住んだので。
 7. **Panel B**: Your five-year plan, if funded?
    **審査員B**: 資金を得た場合の5年計画は？
 8. **Tina**: Two years of interviews — sixty people, three cities. Then a handbook for dorm managers and volunteers. Not just a paper.
@@ -824,8 +824,8 @@
     **ティナ**: アイデアを縮める前に、サンプルを縮めます——30人、1都市、同じ問い。資金はペースを決めるだけで、方向は決めません。
 11. **Panel B**: Why this institution specifically?
     **審査員B**: なぜ、ほかでもなくこの機関を？
-12. **Tina**: Your dorms house forty nationalities; your joint labs let a study cross departments. My question lives in both.
-    **ティナ**: こちらの寮には40の国籍が暮らしていて、共同研究室は研究が学科をまたぐことを許してくれる。私の問いは、その両方に住んでいるんです。
+12. **Tina**: Your dorms have students from forty countries; your joint labs let a study cross departments. My question lives in both.
+    **ティナ**: こちらの寮には40か国の学生が暮らしていて、共同研究室は研究が学科をまたぐことを許してくれる。私の問いは、その両方に住んでいるんです。
 13. **Panel A**: Thank you. We'll be in touch. "Funding sets the pace" — I may borrow that for our budget meeting.
     **審査員A**: ありがとうございます。追ってご連絡します。……「資金はペースを決めるだけ」——うちの予算会議で拝借するかもしれません。
 
@@ -946,7 +946,7 @@
    **上司**: 火曜の会議だ。君は6分で4つのアイデアを発表した。質問を募ったとき、誰もアイデア1を覚えていなかったよ。
 4. **Tina**: I may have rushed things more than I realized.
    **ティナ**: 自分で思っていた以上に、急いでいたかもしれません。
-5. **Manager**: The ideas were good — that's the frustrating part. Idea two could save us real money. It went past everyone.
+5. **Manager**: The ideas were good — that's the frustrating part. Idea two could save us real money. It went right past everyone.
    **上司**: アイデアは良かった——そこが悔しいところでね。アイデア2は、実際に経費を節約できるはずだ。それが全員を素通りした。
 6. **Tina**: That's fair. I might have missed reactions because I was already three slides ahead.
    **ティナ**: もっともです。私がもう3枚先のスライドにいたせいで、反応を見逃していたのかもしれません。
@@ -965,12 +965,12 @@
 13. **Manager**: Breathing is encouraged here. It's in the handbook.
     **上司**: 呼吸は当社で推奨されているよ。就業規則にも書いてある。
 
-### B2-29 SNS Identity
+### B2-29 Social Media Identity
 
 **場面:** ティナの部屋、フランクに相談。
 
-**Narrator**: A journalist who follows Tina's account asked whether her "beyond the stars" bio is literal or just a creative choice. Tina hasn't answered. She's asking Frank what he thinks before she decides how much to say.
-**ナレーター**: ティナのアカウントをフォローするジャーナリストが、「星のかなた」というプロフィールが文字通りか、ただの創作的な選択かと尋ねた。ティナはまだ答えていない。どこまで言うか決める前に、フランクの考えを聞いている。
+**Narrator**: Frank is visiting Tina in her room. Her social media bio says "beyond the stars." She opens a new message on her phone.
+**ナレーター**: フランクはティナの部屋を訪ねている。彼女のSNSのプロフィールには「星のかなた」と書いてある。彼女は携帯で新着メッセージを開く。
 
 1. **Tina**: A journalist who follows my account asked whether my bio is literal or just a creative choice.
    **ティナ**: 私のアカウントをフォローしてるジャーナリストが、プロフィールが文字通りか、ただの創作的な選択かって聞いてきたの。
@@ -1012,8 +1012,8 @@
    **ティナ**: 「うちの抽選会の賞品、ひどすぎて、外れるが勝ち」。自分のイベントについての冗談のつもりでした。
 3. **Advisor**: And who read it differently?
    **アドバイザー**: それを、違う意味に読んだのは誰です？
-4. **Tina**: The people who donated the prizes. Mrs. Okada knitted three. Her grandson found the post.
-   **ティナ**: 賞品を寄付してくれた人たちです。オカダさんは3つも編んでくれたのに。お孫さんが投稿を見つけてしまって。
+4. **Tina**: The people who donated the prizes. Mrs. Okada knitted three scarves. Her grandson found the post.
+   **ティナ**: 賞品を寄付してくれた人たちです。オカダさんはマフラーを3本も編んでくれたのに。お孫さんが投稿を見つけてしまって。
 5. **Advisor**: So the harm is specific: the donors feel mocked. Good — you apologize to people, not the internet.
    **アドバイザー**: なら、害は特定できています。寄付者が馬鹿にされたと感じている。それなら良い——謝る相手はネットではなく、人です。
 6. **Tina**: Part of me wanted to explain it was self-deprecating. My event, my bad prizes.
@@ -1096,8 +1096,8 @@
     **ティナ**: 申し訳ありません。今日来られるなら、まだ食べ物もありますし、ゲームも用意してあります。
 11. **Frank**: We'll go through the contact list after this — clearly the update didn't reach everyone.
     **フランク**: この後で連絡先リストを見直します。明らかに変更のお知らせが全員には届かなかったので。
-12. **Neighbor**: I appreciate the honesty. Let me call them and see.
-    **隣人**: 正直に言ってくれて感謝するわ。電話して確かめてみる。
+12. **Neighbor**: I appreciate the honesty. Let me call home and see if they can come.
+    **隣人**: 正直に言ってくれて感謝するわ。家に電話して、来られるか確かめてみる。
 13. **Tina**: Please do. If they make it before we wrap up, we'll bring them right into the games.
     **ティナ**: ぜひ。終わる前に来られたら、すぐにゲームに入ってもらいますから。
 
@@ -1105,7 +1105,7 @@
 
 **場面:** ティナの部屋、母からの知らせの後。
 
-**Narrator**: Tina got a message from her mother — her grandmother is unwell. She's been calculating travel routes and time differences, caught in the middle of two things she loves. Frank can tell.
+**Narrator**: Tina got a message from her mother — her grandmother is unwell. She's been calculating travel routes and time differences, caught between two things she loves. Frank can tell.
 **ナレーター**: ティナは母からメッセージを受け取った。祖母の具合が良くないのだ。彼女は移動経路と時差を計算し続け、愛する二つのものの間で板挟みになっている。フランクには分かる。
 
 1. **Frank**: You've been doing math in your head for twenty minutes.
@@ -1118,8 +1118,8 @@
    **ティナ**: 危篤じゃないわ。でも歳だし、一番近くにいるのは母で、母は決して不平を言わないの。
 5. **Frank**: That tells you something.
    **フランク**: それは何かを物語ってるね。
-6. **Tina**: Part of me wants to go right now. Part of me has obligations tied to this exact week.
-   **ティナ**: 半分は今すぐ行きたいの。でももう半分は、よりによって今週は外せない用事があるの。
+6. **Tina**: Part of me wants to go right now. The other part knows I've got commitments this week that I can't move.
+   **ティナ**: 半分は今すぐ行きたいの。でももう半分は、今週は動かせない用事があるって分かってるの。
 7. **Frank**: Have you said that to your mother?
    **フランク**: それをお母さんに言った？
 8. **Tina**: Not in those words. She'd say "don't come, don't worry" — and mean both, sincerely.
@@ -1212,16 +1212,16 @@
 
 1. **Moderator**: What does belonging mean to each of you?
    **司会**: お二人それぞれにとって、帰属とは何を意味しますか？
-2. **Frank**: An example: someone at the lab labeled a mug "Frank" and left it by the kettle. No announcement.
-   **フランク**: 一つ例を。研究室の誰かが、マグカップに「Frank」と書いて、ポットのそばに置いてくれました。何のお知らせもなく。
+2. **Frank**: An example: someone at the lab labeled a mug "Frank" and left it by the coffee maker. No announcement.
+   **フランク**: 一つ例を。研究室の誰かが、マグカップに「Frank」と書いて、コーヒーメーカーのそばに置いてくれました。何のお知らせもなく。
 3. **Tina**: The day the café owner made my matcha latte before I ordered. I stopped being "a customer."
    **ティナ**: 私は、カフェのオーナーが注文する前に抹茶ラテを作ってくれた日ですね。あの日、「お客さん」を卒業したんです。
 4. **Moderator**: So belonging is... mugs and matcha lattes?
    **司会**: つまり帰属とは……マグカップと抹茶ラテ？
 5. **Frank**: It's being expected. A place that expects you never asks why you came.
    **フランク**: 「居ることを想定されている」ということです。あなたを想定している場所は、なぜ来たのかと尋ねません。
-6. **Tina**: And you stop performing. My first year, I rehearsed "normal" on the bus. You don't rehearse where you belong.
-   **ティナ**: それに、演じるのをやめられます。最初の年、私はバスの中で「普通」の練習をしていました。帰属している場所のためには、誰も練習しません。
+6. **Tina**: And you stop performing. My first year, I rehearsed "normal" on the bus. Where you belong, you don't have to rehearse.
+   **ティナ**: それに、演じるのをやめられます。最初の年、私はバスの中で「普通」の練習をしていました。帰属している場所では、練習なんて要りません。
 7. **Moderator**: First-years, take notes. What should they do, week three?
    **司会**: 1年生の皆さん、メモですよ。学期3週目の彼らは、何をすべきでしょう？
 8. **Tina**: Find a regular spot — a seat, a café, a bench — and keep showing up. Places learn faces fast.
@@ -1266,7 +1266,7 @@
     **フランク**: 次はもっと明確に言うよ。
 11. **Tina**: There's no need to make a whole statement. Just "we're friends."
     **ティナ**: 大層な声明を出す必要はないわ。ただ「私たちは友達です」でいいの。
-12. **Frank**: Right. That's all it's gotta be.
+12. **Frank**: Right. That's all it needs to be.
     **フランク**: そうだね。それだけでいいんだ。
 13. **Tina**: Accurate and simple. And if he calls me "the better half" again, I'm invoicing him.
     **ティナ**: 正確で単純。それと、今度また「よくできた奥さん」って呼ばれたら、請求書を送るわ。
@@ -1282,8 +1282,8 @@
    **医者**: 私たちが勧めるのは、炎症に対処する軽い処置です。
 2. **Frank**: What he'd like to know is whether the timing is critical, or if it can wait.
    **フランク**: 彼が知りたいのは、タイミングが重要なのか、待てるのか、ということです。
-3. **Doctor**: What matters most is getting started within the next two months.
-   **医者**: 最も大事なのは、今後2か月以内に始めることです。
+3. **Doctor**: The main thing is to get it done within the next two months.
+   **医者**: 大事なのは、今後2か月以内に済ませることです。
 4. **Researcher**: Are you saying a delay would change the outcome?
    **研究者**: 遅れると結果が変わるということですか？
 5. **Doctor**: Possibly. What I want to avoid is letting it progress unnecessarily.
@@ -1292,18 +1292,18 @@
    **フランク**: 彼がもう一つ聞きたいのは、たぶん、セカンドオピニオンを受ける時間があるかどうか、ということだと思います。
 7. **Doctor**: A second opinion is always reasonable. That won't be a problem.
    **医者**: セカンドオピニオンは常に妥当です。問題になりません。
-8. **Researcher**: What concerns me is the recovery time — I may need to travel internationally.
+8. **Researcher**: My concern is the recovery time — I may need to travel internationally.
    **研究者**: 心配なのは回復期間です。海外に渡航する必要があるかもしれないので。
 9. **Doctor**: Most patients need about two weeks of limited activity. We'd check your recovery before any travel.
    **医者**: ほとんどの患者さんは、約2週間は活動を制限する必要があります。渡航前には回復を確認します。
-10. **Frank**: He's also wondering whether travel a few weeks after that is realistic — would that be a safe assumption?
-    **フランク**: 彼はまた、その数週間後の渡航が現実的か気にしています。それは安全な前提でしょうか？
+10. **Frank**: He's also wondering if it's safe to assume he could travel a few weeks after that.
+    **フランク**: 彼はまた、その数週間後なら渡航できると考えて大丈夫か、気にしています。
 11. **Doctor**: That should be fine. We'll confirm after the procedure.
     **医者**: 問題ないはずです。処置の後に確認します。
-12. **Researcher**: What I'd like is a written summary to take home.
-    **研究者**: 私が欲しいのは、持ち帰れる書面の要約です。
-13. **Doctor**: Of course — I'll have one ready at reception. And bring him back for the next one. Your questions did half my job.
-    **医者**: もちろんです。受付に用意しておきます。次回も、ぜひあなたがご一緒に。あなたの質問が、私の仕事を半分やってくれましたよ。
+12. **Researcher**: Could I get a written summary to take home?
+    **研究者**: 持ち帰れる書面の要約をいただけますか？
+13. **Doctor**: Of course — I'll have one ready at reception. And bring Frank next time — his questions did half my job.
+    **医者**: もちろんです。受付に用意しておきます。次回もフランクさんを連れてきてください——彼の質問が、私の仕事を半分やってくれましたよ。
 
 ### B2-39 Mountain Village
 
@@ -1350,8 +1350,8 @@
 
 1. **Host**: Your video was watched by over two million people. How did that feel?
    **司会**: あなたの動画は200万人以上に視聴されました。どう感じましたか？
-2. **Frank**: Honestly, harder than I expected. Part of me wanted to take it down.
-   **フランク**: 正直、予想より辛かったです。心のどこかで、削除したいと思っていました。
+2. **Frank**: Honestly, harder than I expected. I seriously thought about taking it down.
+   **フランク**: 正直、予想より辛かったです。本気で削除しようかと考えました。
 3. **Host**: Really? Why?
    **司会**: 本当ですか？なぜ？
 4. **Frank**: I think I was avoiding the feeling of being judged by people who didn't know the context.
@@ -1379,7 +1379,7 @@
 
 **場面:** ティナの部屋。彼女がキッチンにいる間に。
 
-**Narrator**: Tina is in the kitchen. Her laptop has been playing on the table the whole time.
+**Narrator**: Tina is in the kitchen. Her laptop has been playing music on the table the whole time.
 **ナレーター**: ティナはキッチンにいる。彼女のノートパソコンはずっとテーブルで音楽を流していた。
 
 1. **Frank**: I started listening to your playlist by accident. Then I just... kept going.
@@ -1392,14 +1392,14 @@
    **ティナ**: 次は聞いてね。本気よ。いい気はしないけど、今夜なら話せるわ。
 5. **Frank**: One track stayed with me. The slow one, near the end. I'd like the name.
    **フランク**: 一曲、心に残ったんだ。終わりのほうの、ゆっくりした曲。名前が知りたい。
-6. **Tina**: The strings? That's the composer who only writes about distance.
+6. **Tina**: The strings? That's by the composer who only writes about distance.
    **ティナ**: 弦楽の曲？距離のことだけを書く作曲家のよ。
 7. **Frank**: Didn't know that about him. But yeah — that one.
    **フランク**: その人のことは知らなかった。でも、そう、それだ。
 8. **Tina**: Why that one?
    **ティナ**: どうしてその曲なの？
-9. **Frank**: It did something I wasn't expecting. I'm not claiming your experience of it. I just — felt something too.
-   **フランク**: あの曲は、僕が予想もしていなかった何かを起こしたんだ。あの曲の、君の感じ方を自分のものだと言うつもりはない。ただ、僕も何かを感じた。
+9. **Frank**: It did something I wasn't expecting. I'm not saying I hear it the way you do. I just — felt something too.
+   **フランク**: あの曲は、僕が予想もしていなかった何かを起こしたんだ。君と同じように聴いているとは言わない。ただ、僕も何かを感じた。
 10. **Tina**: Frank. You don't have to ask permission to be moved by a song.
     **ティナ**: フランク。曲に心を動かされるのに、許可なんていらないのよ。
 11. **Frank**: I'd rather say it out loud than keep it to myself.
@@ -1440,8 +1440,8 @@
     **委員**: お話を伺った上で、金曜までに書面での明確化をいただきたいです。
 12. **Tina**: I can have it ready Thursday. And — the verbal-okay habit stops here.
     **ティナ**: 木曜には用意できます。それと、口頭了承で済ます癖は、ここで終わりにします。
-13. **Panel**: We'll be watching for it. Thank you for the candor.
-    **委員**: しかと見届けますよ。率直さに感謝します。
+13. **Panel**: We'll hold you to that. Thank you for the candor.
+    **委員**: その言葉、守ってもらいますよ。率直さに感謝します。
 
 ### B2-43 Family Pressure
 
@@ -1472,7 +1472,7 @@
     **フランク**: それでも不確かなままだよ。ただ、反対の方向からね。
 11. **Tina**: That said — I don't want to dismiss it just because it came from her.
     **ティナ**: とはいえ、母から来たというだけで退けたくはないの。
-12. **Frank**: Then look at it on its own. Separate from who's holding it out.
+12. **Frank**: Then look at it on its own. Separate from who's offering it.
     **フランク**: なら、それ自体として見なよ。誰が差し出したかとは切り離して。
 13. **Tina**: I know. I just needed to say it out loud first.
     **ティナ**: 分かってる。ただ、まず声に出して言う必要があったの。
@@ -1481,8 +1481,8 @@
 
 **場面:** 入国管理局の窓口。フォローアップの予約で。
 
-**Narrator**: Tina is back at the immigration office, following up on a status reclassification. The decision is overdue.
-**ナレーター**: ティナは在留資格の再分類のフォローアップで、再び入国管理局に来ている。決定は予定より遅れている。
+**Narrator**: Tina is back at the immigration office, following up on her change-of-status application. The decision is overdue.
+**ナレーター**: ティナは在留資格の変更申請のフォローアップで、再び入国管理局に来ている。決定は予定より遅れている。
 
 1. **Officer**: Your application has been forwarded to the specialist team.
    **職員**: あなたの申請は専門チームに転送されました。
@@ -1492,14 +1492,14 @@
    **職員**: 書類が追加確認の対象として選ばれました。その分、時間がかかります。
 4. **Tina**: It seems to me my documentation was complete. What was flagged, specifically?
    **ティナ**: 私の書類は完全だったように思います。具体的に、どの点が確認対象になったのですか？
-5. **Officer**: I may not be able to share details, but your employment verification was re-examined.
-   **職員**: 詳細は共有できないかもしれませんが、雇用証明が再審査されました。
+5. **Officer**: I can't share the details, but your employment verification was re-examined.
+   **職員**: 詳細はお伝えできませんが、雇用証明が再審査されました。
 6. **Tina**: HR resubmitted that last month. Has the new version been logged?
    **ティナ**: それは先月、人事部が再提出しました。新しい版は記録されていますか？
 7. **Officer**: Yes — it's on file.
    **職員**: はい、記録されています。
-8. **Tina**: Then I may be wrong, but I understood a decision follows within ten days of that.
-   **ティナ**: では、間違っているかもしれませんが、それから10日以内に決定が出ると理解していました。
+8. **Tina**: Then I may be wrong, but I was told a decision would follow within ten days of that.
+   **ティナ**: では、間違っているかもしれませんが、それから10日以内に決定が出ると聞いていました。
 9. **Officer**: Normally, yes. Your file may have been rerouted.
    **職員**: 通常はそうです。書類の経路が変わったのかもしれません。
 10. **Tina**: I'm not after special treatment. I just want a straight answer about where my case stands.
@@ -1524,7 +1524,7 @@
    **ティナ**: この星団よ。あなたが名前を挙げられる、どの星よりも向こう。
 3. **Frank**: I've stared at this map for three years and I still can't quite find it.
    **フランク**: この地図を3年見つめてきたのに、まだうまく見つけられないな。
-4. **Tina**: Here. Look down my finger. There.
+4. **Tina**: Here. Follow my finger. There.
    **ティナ**: ここよ。私の指の先を見て。そこ。
 5. **Frank**: ...There.
    **フランク**: …そこ。
@@ -1552,13 +1552,13 @@
 **Narrator**: Frank is writing a reference letter for a junior researcher, Leila, for a competitive fellowship. There's a gap in her publication record he expects the committee to notice. He talks it through with a senior colleague.
 **ナレーター**: フランクは、競争の激しい奨学研究員に応募する若手研究者レイラのために推薦状を書いている。委員会が気づくであろう論文歴の空白がある。彼は先輩の同僚とそれを話し合う。
 
-1. **Colleague**: You're doing Leila's reference?
+1. **Colleague**: You're writing Leila's recommendation letter?
    **同僚**: レイラの推薦状を書いてるのかい？
 2. **Frank**: Yes. She might've published more by now if the equipment hadn't failed that year.
    **フランク**: ええ。あの年に機材が故障していなければ、今ごろもっと出していたかもしれません。
 3. **Colleague**: To be fair, that's a common constraint. You can name it directly.
    **同僚**: 公平に言えば、それはよくある制約だよ。直接書いて構わない。
-4. **Frank**: What I'm less sure about is phrasing the gap between her papers so it doesn't read as an excuse.
+4. **Frank**: What I'm less sure about is how to explain the gap between her papers so it doesn't read as an excuse.
    **フランク**: あまり確信が持てないのは、論文と論文の間の空白を、言い訳に読めないようにどう書くかです。
 5. **Colleague**: Could you frame it as time spent rebuilding and validating the method?
    **同僚**: 手法を再構築して検証した期間として、位置づけられないかい？
@@ -1570,8 +1570,8 @@
    **フランク**: それを冒頭に置きたいんです。時系列さえ明確なら、彼女の仕事はそれ自体で立ちます。
 9. **Colleague**: Committees do notice timelines, though.
    **同僚**: ただ、委員会は時系列に気づくものだよ。
-10. **Frank**: I know. I would argue one honest sentence is better than leaving them to guess.
-    **フランク**: 分かっています。彼らに推測させるより、正直な一文のほうがいいと申し上げたいです。
+10. **Frank**: I know. I think one honest sentence beats leaving them to guess.
+    **フランク**: 分かっています。彼らに推測させるより、正直な一文のほうがいいと思います。
 11. **Colleague**: To play devil's advocate — won't naming the failure make it look like you're defending a weakness?
     **同僚**: あえて反対の立場で言うと、失敗をはっきり書くと、弱点を弁護しているように見えないか？
 12. **Frank**: If I state it rather than apologize for it, it reads as context, not a defense. I'm going to name it.
@@ -1606,7 +1606,7 @@
    **ティナ**: 少しね。どれくらい遠いのか聞かれて、「まず、見える最後の星を通り過ぎて」から始めたら——2段階目で置いてけぼりにしちゃった。
 10. **Frank**: Details can be precise without becoming the whole of you.
     **フランク**: 細かく正確に話しても、それが君のすべてになるわけじゃないよ。
-11. **Tina**: I know. I'm still learning where the line sits — between sharing and performing.
+11. **Tina**: I know. I'm still learning where the line is — between sharing and performing.
     **ティナ**: 分かってる。共有することと演じることの境界線がどこにあるか、まだ学んでいる最中。
 12. **Frank**: How did she take it?
     **フランク**: 彼女はどう受け取った？
@@ -1628,12 +1628,12 @@
    **学生**: 過程を誤解していたかもしれませんが、詳細なコメントがもらえると思っていました。
 4. **Frank**: You might've been given that impression. If so, I should've been clearer earlier.
    **フランク**: そういう印象を持たせてしまったかもしれません。もしそうなら、もっと早く明確にすべきでした。
-5. **Student**: Could I have gotten more time, if I'd known sooner the review skipped it?
+5. **Student**: If I'd known sooner that the review skipped that section, could I have gotten more time?
    **学生**: 審査があの節を飛ばしたと、もっと早く知っていたら、時間をもらえたでしょうか？
 6. **Frank**: Possibly. If I'd caught the gap earlier, we could've discussed extending your deadline for that part.
    **フランク**: あり得ます。私がその抜けにもっと早く気づいていたら、その部分の締め切り延長を相談できたでしょう。
-7. **Student**: I feel left without what I need to move forward.
-   **学生**: 前に進むのに必要なものがないまま、取り残された気がします。
+7. **Student**: I feel stuck. I don't have what I need to move forward.
+   **学生**: 行き詰まっています。前に進むのに必要なものがないんです。
 8. **Frank**: I want to help. But I can't reopen the formal review. That door's closed.
    **フランク**: 助けたいです。でも正式な審査は再開できません。その扉は閉じています。
 9. **Student**: Then is there another option?
@@ -1642,8 +1642,8 @@
     **フランク**: あります。私が方法論を直接あなたと見ていく、非公式の場です。
 11. **Student**: That would help. Thank you.
     **学生**: それは助かります。ありがとうございます。
-12. **Frank**: The process could've been handled better. I'll make sure this gap doesn't happen again.
-    **フランク**: この一連の対応は、もっとうまくやれたはずです。この抜けが二度と起きないようにします。
+12. **Frank**: The process could've been handled better. I'll make sure this doesn't happen again.
+    **フランク**: この一連の対応は、もっとうまくやれたはずです。二度とこういうことが起きないようにします。
 13. **Student**: I appreciate you saying that plainly. Most people wouldn't.
     **学生**: 率直にそう言ってくださって感謝します。たいていの人は言いませんから。
 
@@ -1702,7 +1702,7 @@
    **フランク**: そうではありません。知性の起源はそれを理解する助けになります。でも、それが価値を決定するとは思えません。
 7. **Researcher**: Give the audience a test, then. How would we know a designed mind is choosing?
    **研究者**: では、聴衆にテストを一つ。設計された知性が「選んでいる」と、どうすれば分かりますか？
-8. **Frank**: Watch what it does when nobody assigned the task. Hobbies are strong evidence. Bad hobbies, especially.
+8. **Frank**: Watch what it does when nobody has given it a task. Hobbies are strong evidence. Bad hobbies, especially.
    **フランク**: 誰にも課されていないときに、何をするかを見ることです。趣味は強力な証拠になります。下手な趣味なら、なおさら。
 9. **Moderator**: So can an entity designed by others exercise genuine choice?
    **司会**: では、他者によって設計された存在が、真の選択を行使できるのでしょうか？
@@ -1710,8 +1710,8 @@
     **フランク**: できると思います。設計された知性も、なお選ぶことができます。何から作られたかが、何になるかを決めはしません。
 11. **Researcher**: That's a strong claim. Your evidence?
     **研究者**: 大胆な主張ですね。証拠は？
-12. **Frank**: I'd say I'm standing on it. Though I grant I may be biased.
-    **フランク**: その証拠なら、いまここに立っています、と言えます。もっとも、僕に偏りがあるのは認めますが。
+12. **Frank**: I'd say you're looking at it. Though I'll admit I may be biased.
+    **フランク**: 証拠なら、いま皆さんの目の前に立っています、と言えます。もっとも、僕に偏りがあるのは認めますが。
 13. **Moderator**: That's the most honest answer we've had all evening.
     **司会**: 今夜伺った中で、いちばん正直な答えですね。
 
@@ -1719,11 +1719,11 @@
 
 **場面:** 学部委員会。フランクが年次報告を提示している。
 
-**Narrator**: Frank is presenting the lab's annual report to the faculty board. Page one is the budget. The main question is the lab's twenty-year-old freezer.
+**Narrator**: Frank is presenting the lab's annual report to the faculty committee. Page one is the budget. The main question is the lab's twenty-year-old freezer.
 **ナレーター**: フランクは研究室の年次報告を学部委員会に提示している。1ページ目は予算。最大の論点は、研究室の20年物の冷凍庫だ。
 
-1. **Dean**: Having read your report, I have one big question. The freezer.
-   **学部長**: 報告書を読んだ上で、大きな質問が一つある。冷凍庫だ。
+1. **Dean**: I've read your report, and I have one big question. The freezer.
+   **学部長**: 報告書は読んだ。大きな質問が一つある。冷凍庫だ。
 2. **Frank**: I expected that. It's twenty years old. Nine breakdowns last year.
    **フランク**: 予想していました。20年物です。去年の故障は9回。
 3. **Dean**: Your plan says "repair it again." Wouldn't replacing it be cheaper long-term?
@@ -1732,7 +1732,7 @@
    **フランク**: 私も同じ疑問を持ったので、計算しました。修理なら年800ドル。新品なら6,000ドルです。
 5. **Member**: But every breakdown stops your experiments, doesn't it? That cost isn't in your table.
    **委員**: だが故障のたびに実験が止まるんだろう？そのコストは君の表に入っていない。
-6. **Frank**: That's a fair point. We may have underestimated the hidden cost — each breakdown loses us two days.
+6. **Frank**: That's a fair point. We may have underestimated the hidden cost — each breakdown costs us two days.
    **フランク**: もっともなご指摘です。隠れたコストを過小評価していたかもしれません——故障のたびに、2日を失っています。
 7. **Dean**: So which is it, Frank — repair or replace?
    **学部長**: それで、どっちなんだ、フランク——修理か、買い替えか。
@@ -1764,14 +1764,14 @@
    **ティナ**: あなた、すごく静かに言ったの。怒鳴られるよりこたえたわ。
 4. **Frank**: If I hadn't waited two days, I'd have said it differently.
    **フランク**: 2日待っていなかったら、違う言い方をしていただろう。
-5. **Tina**: And if I hadn't been cancelling so often, you wouldn't have needed to say it at all.
+5. **Tina**: And if I hadn't been canceling so often, you wouldn't have needed to say it at all.
    **ティナ**: それに、私があんなに頻繁にキャンセルしていなかったら、あなたはそもそも言う必要もなかったわ。
 6. **Frank**: That said — back then, I'd have carried it too long either way.
    **フランク**: とはいえ、あの頃の僕は、どちらにせよ長く抱え込みすぎただろうね。
 7. **Tina**: Let me rephrase what I meant: if I'd made it easier to tell me, you'd have said something sooner.
    **ティナ**: 私が言いたかったことを言い直すわ。私がもっと言いやすい相手だったら、あなたはもっと早く何か言ってくれたはずよ。
-8. **Frank**: That was true. I just didn't know how to say it without sounding like a demand.
-   **フランク**: それは本当だった。ただ、要求のように聞こえずに言う方法が分からなかったんだ。
+8. **Frank**: That's true. I just didn't know how to say it without sounding like a demand.
+   **フランク**: それは本当だね。ただ、要求のように聞こえずに言う方法が分からなかったんだ。
 9. **Tina**: It doesn't have to come out perfectly. It just has to come out.
    **ティナ**: 完璧に出てくる必要はないの。ただ、出てきさえすればいいのよ。
 10. **Frank**: I know that better now. We practice it — every time something small comes up.
@@ -1780,7 +1780,7 @@
     **ティナ**: それが予想外だったの。それが、続けてやっていくものだってこと。
 12. **Frank**: If we hadn't had that fight, I'd still be waiting two days.
     **フランク**: あの喧嘩がなかったら、僕は今でも2日待っているだろうね。
-13. **Tina**: And I'd still be cancelling, never noticing what it did to you.
+13. **Tina**: And I'd still be canceling, never noticing what it did to you.
     **ティナ**: そして私は、それがあなたに何をしているか気づかずに、今でもキャンセルしてたでしょうね。
 
 ### B2-53 Award Ceremony
@@ -1813,8 +1813,8 @@
     **フランク**: それこそ、この賞が映し出しているものです。
 11. **Dr. Chen**: Thank you, Frank. That means more to me than the award itself.
     **チェン博士**: ありがとう、フランク。それは賞そのものより、私にとって意味があるわ。
-12. **Frank**: I hope it outlasts all of us.
-    **フランク**: 僕たちの誰よりも長く続くことを願っています。
+12. **Frank**: I hope that culture outlasts all of us.
+    **フランク**: その文化が、僕たちの誰よりも長く続くことを願っています。
 
 ### B2-54 Doctor's Letter Response
 
@@ -1935,7 +1935,7 @@
    **ティナ**: こう言いたいわ。私たちはカップル扱いされてるけど、そうじゃないって。
 6. **Frank**: Right. But I'm not explaining our whole relationship to a stranger holding cake.
    **フランク**: そうだね。でも、ケーキを持った見知らぬ人に、僕たちの関係を丸ごと説明はしないよ。
-7. **Tina**: Same. We settled this after the conference, remember — and it still never survives actual strangers. So what do we say next time?
+7. **Tina**: Same. We settled this after the conference, remember — and it still falls apart with real strangers. So what do we say next time?
    **ティナ**: 同じよ。学会の後に決めたはずなのに——本物の他人には、いまだに通用しないのよね。それで、次は何て言う？
 8. **Frank**: Something simple that closes the topic without being rude.
    **フランク**: 失礼にならずに話題を締めくくる、何か単純なことだね。
@@ -1947,14 +1947,14 @@
     **ティナ**: 「みんなには、推測させたままにすることにしたの」。
 12. **Frank**: I'm not comfortable letting a misreading stand.
     **フランク**: 誤解をそのままにしておくのは、気が進まないな。
-13. **Tina**: Then: "We're good friends." Full stop. That's the answer. Now guard the cake — round four is coming.
+13. **Tina**: Then: "We're good friends." Period. That's the answer. Now guard the cake — round four is coming.
     **ティナ**: なら、「私たちはいい友達」。以上。それが答えね。……さ、ケーキを死守して——第4ラウンドが来るわよ。
 
 ### B2-58 Belonging Panel — Coda
 
 **場面:** パネル後のキャンパス。一人の学生が追いついてくる。
 
-**Narrator**: Months on, Frank and Tina have spoken on another belonging panel. They're walking back across campus when a student catches up to ask one more question — one they didn't get to in the room.
+**Narrator**: Months later, Frank and Tina have spoken on another belonging panel. They're walking back across campus when a student catches up to ask one more question — one they didn't get to in the room.
 **ナレーター**: あれから数か月、フランクとティナは別の帰属パネルで再び話した。キャンパスを歩いて戻っていると、一人の学生が追いついてきて、もう一つ質問をする。会場では辿り着けなかった問いだ。
 
 1. **Student**: You both said belonging gets built. But what if the place you're building it in keeps changing?
@@ -2001,8 +2001,8 @@
    **フランク**: 非現実的じゃない。同時に進む、二つの別々のプロジェクトってだけだ。
 5. **Tina**: What about you?
    **ティナ**: あなたは？
-6. **Frank**: Having spent the last few years mostly focused inward, I think I wanna be more visible.
-   **フランク**: ここ数年、ほとんど内向きに過ごしてきたから、もっと表に出たいんだと思う。
+6. **Frank**: I've spent the last few years mostly looking inward. Now I think I wanna be more visible.
+   **フランク**: ここ数年、ほとんど内向きに過ごしてきた。これからは、もっと表に出たいんだと思う。
 7. **Tina**: More videos?
    **ティナ**: もっと動画を？
 8. **Frank**: On one hand, yes. On the other — I wanna be in places that challenge me more than the lab does.
@@ -2015,7 +2015,7 @@
     **ティナ**: 変わらないものは何？
 12. **Frank**: The coffee. The questions I can't stop asking. And this — whatever shape it keeps taking.
     **フランク**: コーヒー。問わずにいられない問い。そしてこれ。どんな形を取り続けようとも。
-13. **Tina**: I want it to hold, too.
+13. **Tina**: I want it to last, too.
     **ティナ**: 私も、続いてほしいわ。
 
 ### B2-60 Stitched Together

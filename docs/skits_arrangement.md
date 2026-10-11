@@ -188,7 +188,7 @@ B1-39→40→41＝昇進打診→迷い→退職のキャリア決断ビルド�
 | B2-15 | Viral Video Again | | B2-45 | Star Map Reading |
 | B2-16 | Late Night Recall | | B2-46 | Reference Letter |
 | B2-17 | Research Presentation | | B2-47 | Tina Explains |
-| B2-18 | Medical Second Opinion | | B2-48 | Complaint Resolution |
+| B2-18 | Consultation on Elderly Care | | B2-48 | Complaint Resolution |
 | B2-19 | Mutual Misreading | | B2-49 | Frank's Choice |
 | B2-20 | Crisis Communication | | B2-50 | Panel Discussion |
 | B2-21 | Alone Day | | B2-51 | Annual Report |
@@ -199,7 +199,7 @@ B1-39→40→41＝昇進打診→迷い→退職のキャリア決断ビルド�
 | B2-26 | Volunteer Coordination | | B2-56 | Reply to the Doctor |
 | B2-27 | Boundary Talk | | B2-57 | Wedding Question |
 | B2-28 | Performance Review | | B2-58 | Belonging Panel — Coda |
-| B2-29 | SNS Identity | | B2-59 | Future Plans |
+| B2-29 | Social Media Identity | | B2-59 | Future Plans |
 | B2-30 | Public Apology Draft | | B2-60 | Stitched Together |
 
 > 横断 callback（博士／母＝キャンパス案内／初対面回想／ピンクのコート／最初の喧嘩／新ジャケット／星図／agency／最初の週／ルームメイト）は

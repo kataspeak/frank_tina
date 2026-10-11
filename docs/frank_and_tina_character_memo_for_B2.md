@@ -246,7 +246,7 @@ B2 Formalは「定番英会話」から一歩進めて、社会的な発話、�
 - Grant Interview: Frankが助成金面接で研究の社会的意味を説明する
 - Visa Renewal Interview: Tinaが自分の生活基盤を説明する
 - Workplace Mediation: チーム内の誤解を第三者と整理する
-- Medical Second Opinion: 作った博士の高齢化について、Frankが別の医師や相談窓口に話を聞く
+- Consultation on Elderly Care（旧 Medical Second Opinion）: 作った博士の高齢化について、Frankが別の医師や相談窓口に話を聞く
 - Apartment Dispute: TinaがA2の単発の騒音苦情より複雑な近隣問題を、管理会社と調整する
 - Public Apology Draft: A2のグループチャット問題を踏まえ、SNS投稿の誤解に対して謝罪文を検討する
 - University Panel: 二人が「belonging」について公開講座で話す

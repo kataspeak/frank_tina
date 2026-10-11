@@ -158,7 +158,7 @@ Frank・Tina・Narrator以外は、**追加6ボイス**で全役をカバーす�
 | [B2-12 Cultural Orientation](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B2_dialogs_jp.md:385) | Student | 6 | US-F1 | ティナが留学生に「暗黙のルール」を伝えるオリエンテーション。 |
 | [B2-14 Contract Revision](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B2_dialogs_jp.md:454) | Partner | 7 | US-M1 | サービス契約の変更交渉。 |
 | [B2-17 Research Presentation](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B2_dialogs_jp.md:556) | Professor | 7 | US-M2 | 学科会議での予備研究発表。先輩研究者が手法に異議。 |
-| [B2-18 Medical Second Opinion](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B2_dialogs_jp.md:590) | Specialist | 7 | US-F2 | 介護施設で専門家と面談。年老いていく博士への支援を、そっと調べている。 |
+| [B2-18 Consultation on Elderly Care](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B2_dialogs_jp.md:590) | Specialist | 7 | US-F2 | 介護施設で専門家と面談。年老いていく博士への支援を、そっと調べている。 |
 | [B2-20 Crisis Communication](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B2_dialogs_jp.md:658) | Head | 7 | US-F2 | 大学の研究室でデータ漏洩。広報チームの対応会議。 |
 | [B2-22 Committee Vote](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B2_dialogs_jp.md:728) | Chair | 4 | US-M2 | 研究室方針の採決前。各委員が発言を求められる。 |
 | [B2-22 Committee Vote](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B2_dialogs_jp.md:728) | Member A | 2 | US-M1 | 研究室方針の採決前。各委員が発言を求められる。 |
