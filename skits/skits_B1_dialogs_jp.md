@@ -16,7 +16,7 @@
 
 1. **Tina**: I have no idea what I'm doing with my life, Frank.
    **ティナ**: 自分の人生、何に向かってるのか全然わからないの、フランク。
-2. **Frank**: Nobody our age has it figured out. Feeling lost is allowed.
+2. **Frank**: Nobody our age has it figured out. It's okay to feel lost.
    **フランク**: 僕たちの年で全部わかってる人なんていないよ。迷ってもいいんだ。
 3. **Tina**: What I want changes every single week. Sometimes every day.
    **ティナ**: やりたいことが毎週変わるの。ときには毎日よ。
@@ -24,7 +24,7 @@
    **フランク**: なら、いくつか試してみなよ。そうやって自分に合うものが見つかる。
 5. **Tina**: But what if I pick the totally wrong one?
    **ティナ**: でも、完全に間違ったのを選んじゃったら？
-6. **Frank**: Nothing you choose now is carved in stone. You can change your mind.
+6. **Frank**: Nothing you choose now is set in stone. You can change your mind.
    **フランク**: 今決めたことを、一生変えちゃいけないわけじゃない。いつでも考え直せるよ。
 7. **Tina**: My friends all seem to know exactly where they're headed.
    **ティナ**: 友達はみんな、自分の行き先がはっきりわかってるみたい。
@@ -41,7 +41,7 @@
 13. **Tina**: Deal. I'll figure out my life. You figure out being a person.
     **ティナ**: 決まりね。私はこれからどう生きるか考える。あなたは人間としてどう生きるか考えてね。
 
-> **注釈 — “Nothing you choose now is carved in stone.”**: `be carved in stone` は、文字どおりには「石に刻まれている」で、「確定していて変更できない」という意味のイディオムです。ここでは `Nothing` で否定し、「今決めることは、どれも後から変えられる」と伝えています。選択を間違えるのが怖いティナに、フランクが「今の選択で一生が決まるわけではない」と安心させる表現です。自然な意訳は「今決めたことを、一生変えちゃいけないわけじゃない」です。`be set in stone` も同じ意味で使われます。
+> **注釈 — “Nothing you choose now is set in stone.”**: `be carved in stone` は、文字どおりには「石に刻まれている」で、「確定していて変更できない」という意味のイディオムです。ここでは `Nothing` で否定し、「今決めることは、どれも後から変えられる」と伝えています。選択を間違えるのが怖いティナに、フランクが「今の選択で一生が決まるわけではない」と安心させる表現です。自然な意訳は「今決めたことを、一生変えちゃいけないわけじゃない」です。`be set in stone` も同じ意味で使われます。
 
 ### B1-02 Crisis at Work
 
@@ -194,7 +194,7 @@
    **ティナ**: もう23歳なのよ、フランク。それなのに何ひとつ料理できないの。
 2. **Frank**: If you had to cook for yourself, you'd learn fast enough.
    **フランク**: 自分で作るしかなかったら、すぐに覚えるよ。
-3. **Tina**: I'd starve before I learned, even if I tried my hardest.
+3. **Tina**: I'd starve before I ever learned, no matter how hard I tried.
    **ティナ**: 一生懸命やっても、覚える前に飢え死にするわ。
 4. **Tina**: I burned rice yesterday. Rice has, like, one rule.
    **ティナ**: 昨日なんて、ご飯を焦がしたのよ。ご飯なんてルールが一つしかないのに。
@@ -442,7 +442,7 @@
    **アドバイザー**: 忍耐と分散です。長期的な成長には、どちらも必要です。
 6. **Frank**: How much would I need to start safely?
    **フランク**: 安全に始めるにはいくら必要ですか？
-7. **Advisor**: Five thousand gives you reasonable options today.
+7. **Advisor**: With five thousand dollars, you'd have some reasonable options.
    **アドバイザー**: 5,000ドルあれば、今は妥当な選択肢が持てます。
 8. **Frank**: And if I lost half of that in a month?
    **フランク**: もし1か月でその半分を失ったら？
@@ -772,7 +772,7 @@
 
 1. **Tina**: I once fell in love with an apartment I couldn't afford. Rent first, please.
    **ティナ**: 前に、予算オーバーの部屋に一目ぼれしちゃったんです。まず家賃からお願いします。
-2. **Doyle**: Of course. Here's the monthly rent, including water.
+2. **Doyle**: Of course. Here's the monthly rent. It includes water.
    **ドイル**: もちろんです。水道代込みで、月々こちらの金額です。
 3. **Tina**: Within my budget. And look at all this sunlight!
    **ティナ**: 予算内だわ。それに、この日当たり！
@@ -1064,7 +1064,7 @@
     **デザイナー**: はい。両方測りました。並べて置けます。
 11. **Frank**: Then I'll start by taking the books off the shelves.
     **フランク**: では、まず棚から本を下ろします。
-12. **Designer**: Let's try that arrangement before planning any building work.
+12. **Designer**: Let's try that arrangement before planning any construction.
     **デザイナー**: 工事を計画する前に、まずその配置を試しましょう。
 13. **Frank**: I nearly spent ten thousand dollars when I might only need to move my books.
     **フランク**: 本を動かすだけで済むかもしれないのに、1万ドル払うところでした。
@@ -1154,7 +1154,7 @@
    **フランク**: それで、何て答えたの？
 5. **Tina**: I explained how their CEO started in sales and became president.
    **ティナ**: そこの社長が営業から始めて、社長になるまでの経歴を説明したの。
-6. **Frank**: How did you get onto that?
+6. **Frank**: How did you end up talking about that?
    **フランク**: どうしてその話になったの？
 7. **Tina**: I heard "led a team" and jumped straight to the company leader. I'd researched his whole career.
    **ティナ**: 「チームを率いた」で、会社のリーダーの話だと思い込んだの。彼の経歴は全部調べてたから。
@@ -1234,7 +1234,7 @@
    **ティナ**: 別の店を探そう。でも、今もうおなかがすいてるの。
 10. **Frank**: Any snacks in the glove compartment?
     **フランク**: グローブボックスに何かおやつはある？
-11. **Tina**: Have a look. There might be something.
+11. **Tina**: Take a look. There might be something.
     **ティナ**: 見てみて。何かあるかも。
 12. **Frank**: Half a granola bar and one mint.
     **フランク**: グラノーラバー半分と、ミントが一つ。
@@ -1260,7 +1260,7 @@
    **ヴァンス**: 毎月5,000個を9か月間、1個50ドルですね？
 6. **Frank**: Yes. We'd need that purchase commitment in writing.
    **フランク**: はい。その購入のお約束を書面にしていただきたいです。
-7. **Vance**: I'll seek approval and send a proposal Friday.
+7. **Vance**: I'll get approval and send you a proposal by Friday.
    **ヴァンス**: 社内の承認を求めて、金曜日に提案書をお送りします。
 8. **Frank**: Could you also display the kits at eye level?
    **フランク**: それと、キットを目の高さの棚に陳列していただけますか？
@@ -1409,9 +1409,9 @@
     **上司**: もう一か月、残れないかな？
 11. **Frank**: I'm afraid I've promised to start next month.
     **フランク**: 申し訳ありませんが、来月から働く約束をしているんです。
-12. **Boss**: I understand. Thank you for everything. Will you give a speech at your leaving party?
+12. **Boss**: I understand. Thank you for everything. Will you give a speech at your going-away party?
     **上司**: わかった。今までありがとう。送別会ではスピーチをしてくれるかい？
-13. **Frank**: I've already written the handover notes. The goodbye speech is harder.
+13. **Frank**: I've already written the transition notes. The goodbye speech is harder.
     **フランク**: 引き継ぎの資料はもう書きました。お別れのスピーチの方が難しいですね。
 
 ### B1-42 Diet Failures
@@ -1461,7 +1461,7 @@
    **フランク**: いつまで飲めばいいですか？
 3. **Doctor**: Two weeks. Keep these instructions with your medicine.
    **医者**: 二週間です。この紙は薬と一緒に保管してください。
-4. **Frank**: Who should I call if I feel unwell again?
+4. **Frank**: Who should I call if I start feeling sick again?
    **フランク**: また具合が悪くなったら、どこに連絡すればいいですか？
 5. **Doctor**: Call the hospital. The number is at the top.
    **医者**: 病院に電話してください。番号は一番上に書いてあります。
@@ -1665,7 +1665,7 @@
    **記者**: なぜ変更が必要だったのですか？
 3. **Frank**: A student heated a sandwich on a hot plate meant for chemicals. Luckily, nobody was hurt.
    **フランク**: 学生が薬品用のホットプレートでサンドイッチを温めたんです。幸い、けが人はいませんでした。
-4. **Reporter**: How will you prevent that happening again?
+4. **Reporter**: How will you prevent that from happening again?
    **記者**: 再発をどう防ぐのですか？
 5. **Frank**: Training will be required before lab work. Equipment will have labels saying "Not for food."
    **フランク**: 実験前の研修を必須にします。器具には「食品への使用禁止」と表示します。
@@ -1777,7 +1777,7 @@
    **フランク**: カメラとマイクです。
 8. **Accountant**: Do you use them outside work, too?
    **会計士**: 仕事以外でも使いますか？
-9. **Frank**: The camera, yes. I take holiday photos with it.
+9. **Frank**: The camera, yes. I take vacation photos with it.
    **フランク**: カメラは使います。旅行の写真も撮るので。
 10. **Accountant**: Bring the equipment receipts and notes on work use. Then we can check what qualifies.
     **会計士**: 機材の領収書と、仕事での使い方がわかるメモを持ってきてください。それから、経費にできるものを確認しましょう。
@@ -1826,7 +1826,7 @@
 
 **場面:** 住宅建設を支援するチャリティーイベント。Frank と Tina が活動を振り返り、来年のボランティア参加を呼びかける。
 
-**Narrator**: Frank and Tina are speaking at a charity event for a house-building project. A volunteer signup sheet sits beside the cake.
+**Narrator**: Frank and Tina are speaking at a charity event for a house-building project. A volunteer sign-up sheet sits beside the cake.
 **ナレーター**: フランクとティナは、住宅建設プロジェクトのチャリティーイベントでスピーチをしている。ケーキの横には、ボランティアの参加登録用紙が置かれている。
 
 1. **Frank**: This year, forty volunteers helped build three houses. All three families have moved in.
@@ -1847,7 +1847,7 @@
    **ティナ**: ペンキ塗りや、お昼の準備でも参加できますよ。
 9. **Frank**: Please sign up tonight if you'd like to join us next year.
    **フランク**: 来年参加してみたい方は、ぜひ今夜、登録してください。
-10. **Tina**: The signup sheet is beside the cake.
+10. **Tina**: The sign-up sheet is beside the cake.
     **ティナ**: 登録用紙はケーキの横にあります。
 11. **Tina**: I put it there on purpose. Sign up first, then cake!
     **ティナ**: わざとそこに置いたんです。まず登録、それからケーキ！
@@ -1897,11 +1897,11 @@
 **Narrator**: Frank and Tina are giving a wedding speech for two close friends. They were there when the couple first met.
 **ナレーター**: フランクとティナは、親しい友人二人の結婚式でスピーチをしている。新郎新婦が初めて出会ったときも、その場にいた。
 
-1. **Frank**: I'm Frank, and this is Tina. We met these two at a quiz night.
+1. **Frank**: I'm Frank, and this is Tina. We met these two at a trivia night.
    **フランク**: フランクです。こちらはティナ。私たちはクイズ大会の夜、このお二人と知り合いました。
 2. **Tina**: They were on our team. That was their first meeting, too.
    **ティナ**: 同じチームだったんです。お二人も、その日が初対面でした。
-3. **Frank**: We came last, but they were still laughing at our terrible answers.
+3. **Frank**: We came in last, but they were still laughing at our terrible answers.
    **フランク**: 結果は最下位でしたが、二人は私たちのひどい解答を見て、まだ笑っていました。
 4. **Tina**: Afterward, she wrote her phone number on his answer sheet.
    **ティナ**: そのあと、彼女が彼の解答用紙に電話番号を書いたんです。
@@ -1919,7 +1919,7 @@
     **ティナ**: そんなお二人が大好きです。うまくいかないときも、一緒に楽しめるところが。
 11. **Tina**: We hope you'll keep inviting us over.
     **ティナ**: これからも、私たちを呼んでくださいね。
-12. **Frank**: To many happy meals together. Cheers!
+12. **Frank**: To many more meals together. Cheers!
     **フランク**: これからも、二人で楽しい食卓を。乾杯！
 13. **Tina**: And if dinner burns, you have our number. We'll bring pizza.
     **ティナ**: 夕食を焦がしたら、私たちに電話してね。ピザを持っていくから。
@@ -1967,7 +1967,7 @@
 
 1. **Boss**: You've had a strong first year. It looks like everything's finished.
    **上司**: 一年目からよく頑張ったね。全部終わったようだね。
-2. **Frank**: Eleven of twelve goals. The water study's data cleanup isn't finished yet.
+2. **Frank**: Eleven out of twelve goals. The water study's data cleanup isn't finished yet.
    **フランク**: 12個中11個です。水質研究のデータ整理が、まだ終わっていません。
 3. **Boss**: What caused the delay?
    **上司**: 遅れの原因は？
