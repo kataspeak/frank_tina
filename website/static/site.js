@@ -56,3 +56,16 @@ if (signup) {
     } finally { clearTimeout(timer); submit.disabled = false; }
   });
 }
+// Keep the current section or lesson when changing the site's reading language.
+for (const link of document.querySelectorAll('.language-switch a')) {
+  const target = new URL(link.href);
+  const lesson = new URLSearchParams(location.search).get('lesson');
+  if (lesson && /^A[12]-\d{2}$/.test(lesson)) target.searchParams.set('lesson', lesson);
+  target.hash = location.hash;
+  link.href = target.href;
+  link.addEventListener('click', () => {
+    const language = link.getAttribute('hreflang');
+    if (language !== 'ja' && language !== 'en') return;
+    try { localStorage.setItem('frankendojo.language', language); } catch { /* Navigation still works without storage. */ }
+  });
+}

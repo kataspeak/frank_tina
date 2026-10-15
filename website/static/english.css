@@ -1,0 +1,15 @@
+/* Language controls share the existing header on both editions. */
+.language-switch { display:flex; gap:.35rem; align-items:center; white-space:nowrap; font-size:.8rem; }
+.language-switch a { padding:.5rem .2rem; text-decoration:none; }
+.language-switch [aria-current="page"] { color:#ffa338; text-decoration:underline; text-underline-offset:.3em; }
+html[lang=en] { font-family:Arial,Helvetica,sans-serif; }
+html[lang=en] .title-clause { white-space:normal; }
+html[lang=en] .desktop-nav { gap:1rem; }
+html[lang=en] .header-inner { gap:1rem; }
+html[lang=en] .header-cta { white-space:normal; }
+html[lang=en] .price-disclaimer { font-size:.85rem; line-height:1.65; }
+html[lang=en] .local-currency { font-size:.9rem; }
+html[lang=en] .speaker>span:nth-child(2):empty { display:none; }
+html[lang=en] .script-block .translation { font-family:system-ui,sans-serif; }
+@media(max-width:1150px) { html[lang=en] .desktop-nav { display:none; } html[lang=en] .mobile-menu { display:block; } }
+@media(max-width:600px) { .header-inner { flex-wrap:wrap; } .language-switch { margin-left:auto; } html[lang=en] .header-cta { font-size:.75rem; } html[lang=en] .feature-summary { line-height:1.7; } }

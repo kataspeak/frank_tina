@@ -133,9 +133,10 @@ def build(config, report_dir=None, material_snapshot=None):
             blockers.append('先行公開の配信先にappが存在します。アプリを含む出力は配置できません。')
         if blockers: raise ValueError('本番公開ゲート:\n'+'\n'.join(blockers))
     templates.legal.pages(config, templates.layout, templates.crumbs)
+    english_pages,english_assets=templates.localization.prepare_english(config,episodes)
     output=WEB/'dist'; output.mkdir(exist_ok=True)
     # Clean only generator-owned directories. /app is never touched.
-    for owned in ('ja','assets'):
+    for owned in ('ja','en','assets'):
         if (output/owned).exists(): shutil.rmtree(output/owned)
     (output/'assets/images').mkdir(parents=True,exist_ok=True)
     for p in (WEB/'static').rglob('*'):
@@ -153,11 +154,13 @@ def build(config, report_dir=None, material_snapshot=None):
     with ThreadPoolExecutor(max_workers=6) as pool:
         list(pool.map(convert_image,episodes))
     write_page('/ja/', templates.layout(config,'/ja/',f'{templates.BRAND}｜物語で英語を鍛える','フランク＆ティナのA1・A2全120話。挿し絵・英文・日本語訳で物語を楽しみ、アプリでの発話練習へ。', templates.home(config,episodes)))
-    write_page('/', '<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta http-equiv="refresh" content="0;url=/ja/"><title>FrankenDojo by KataSpeak</title><a href="/ja/">日本語サイトへ</a></html>')
+    write_page('/', f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>FrankenDojo by KataSpeak</title><script src="/assets/language-redirect.js?v={hashlib.sha256((WEB/"static/language-redirect.js").read_bytes()).hexdigest()[:12]}"></script><noscript><meta http-equiv="refresh" content="0;url=/en/"></noscript></head><body><a href="/ja/" lang="ja">日本語</a> / <a href="/en/" lang="en">English</a></body></html>')
     if hasattr(templates,'all_pages'):
         for path, html in templates.all_pages(config,episodes).items(): write_page(path,html)
+    for path,html in english_pages.items(): write_page(path,html)
+    for path,contents in english_assets.items(): (output/'assets'/path).write_text(contents)
     write_sitemaps(config,episodes)
-    (output/'robots.txt').write_text(f'User-agent: *\nDisallow: /\n' if not config['indexable'] else f'User-agent: *\nAllow: /ja/\nDisallow: /app/\nSitemap: {config["origin"]}/sitemap.xml\n')
+    (output/'robots.txt').write_text(f'User-agent: *\nDisallow: /\n' if not config['indexable'] else f'User-agent: *\nAllow: /ja/\nAllow: /en/\nDisallow: /app/\nSitemap: {config["origin"]}/sitemap.xml\n')
     (output/'404.html').write_text(templates.layout(config,'/404.html',f'ページが見つかりません — {templates.BRAND}','お探しのページが見つかりません。A1・A2の物語一覧からお探しください。','<section class="section-shell section"><p class="eyebrow">404 / PAGE NOT FOUND</p><h1>物語が見つかりませんでした。</h1><p class="lead">一覧から、読みたい回を探してみてください。</p><div class="actions">'+templates.button('物語の一覧へ','/ja/courses/')+'</div></section>'))
     (WEB/'.cache/material.json').write_text(json.dumps(material,ensure_ascii=False,indent=2)+'\n')
     (report_dir/'source-audit.json').write_text(json.dumps({'schemaVersion':1,'materialRevision':material['materialRevision'],'counts':{level:sum(ep['level']==level for ep in episodes) for level in ('A1','A2')},'sourceNotes':material['sourceNotes'],'images':audit},ensure_ascii=False,indent=2)+'\n')
@@ -191,6 +194,7 @@ def write_sitemaps(config,episodes):
     ns='http://www.sitemaps.org/schemas/sitemap/0.9'; ins='http://www.google.com/schemas/sitemap-image/1.1'
     ET.register_namespace('',ns); ET.register_namespace('image',ins)
     pages=['/ja/','/ja/characters/','/ja/courses/','/ja/courses/a1/','/ja/courses/a2/','/ja/updates/','/ja/rights/']+list(templates.legal.DOCUMENTS)+[templates.url(ep) for ep in episodes]+[templates.marketing.feature_url(f) for f in templates.marketing.features()]
+    pages += ['/en/'+path[4:] for path in pages]
     sitemap=ET.Element(f'{{{ns}}}urlset')
     for path in pages:
         node=ET.SubElement(sitemap,f'{{{ns}}}url'); ET.SubElement(node,f'{{{ns}}}loc').text=config['origin']+path

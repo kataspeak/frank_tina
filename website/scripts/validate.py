@@ -58,6 +58,8 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False, m
     original_by_id={ep['id']:ep for ep in original['episodes']}
     demo_names=('timing','chunks','loops','difficulty','selection','sleep','medals','import','recording')
     demo_paths={f'/assets/practice-{name}/' for name in demo_names}
+    english_demo_paths={f'/assets/practice-{name}/index.en.html' for name in demo_names}
+    all_demo_paths=demo_paths | english_demo_paths
     docs={}
     for p in sorted(output.rglob('*.html')):
         # /app is reserved and may be mounted by a separate app: never inspect it.
@@ -70,9 +72,9 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False, m
         check(any(n.attrs.get('name')=='robots' and n.attrs.get('content')=='noindex,nofollow' for n in doc.tag('meta')),f'{path}: noindexなし')
         ids=[n.attrs['id'] for n in doc.nodes if 'id' in n.attrs]
         check(len(ids)==len(set(ids)),f'{path}: HTML ID重複')
-        if path in demo_paths:
+        if path in all_demo_paths:
             check(len(doc.tag('canvas'))==1 and len(doc.tag('button'))>=2,f'{path}: デモ画面・操作欠落')
-            if path=='/assets/practice-recording/':
+            if path in {'/assets/practice-recording/','/assets/practice-recording/index.en.html'}:
                 check(len(doc.tag('audio'))==2 and all('autoplay' not in n.attrs for n in doc.tag('audio')),f'{path}: 聞き比べ音声・自動再生設定')
             else:
                 check(not doc.tag('audio') and not doc.tag('video'),f'{path}: 無音デモに音声あり')
@@ -135,8 +137,49 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False, m
         check(any(n.attrs.get('property')=='og:image' and ep['meta']['slug'] in n.attrs.get('content','') for n in doc.tag('meta')),f'{ep["id"]}: OG画像不一致')
     for level in ('a1','a2'):
         check(len(docs[f'/ja/courses/{level}/'].cls('episode-card'))==60,f'{level}: 初期HTMLのカード数')
-    titles=[doc.tag('title')[0].text() for p,doc in docs.items() if p!='/' and p not in demo_paths]
-    descriptions=[next(n.attrs['content'] for n in doc.tag('meta') if n.attrs.get('name')=='description') for p,doc in docs.items() if p!='/' and p not in demo_paths]
+        check(len(docs[f'/en/courses/{level}/'].cls('episode-card'))==60,f'{level}: 英語版カード数')
+    english_pages={path:doc for path,doc in docs.items() if path.startswith('/en/')}
+    check(len(english_pages)==138,'英語版ページ数')
+    for path,doc in english_pages.items():
+        check(doc.tag('html')[0].attrs.get('lang')=='en',f'{path}: 英語の文書言語')
+        switch=doc.cls('language-switch')[0]
+        links={n.attrs.get('hreflang'):n for n in switch.all() if n.tag=='a'}
+        check(links['ja'].attrs['href']=='/ja/'+path[4:] and links['en'].attrs['href']==path,f'{path}: 対応する言語へのリンク')
+        check(links['en'].attrs.get('aria-current')=='page' and 'aria-current' not in links['ja'].attrs,f'{path}: 現在言語の表示')
+        alternates={n.attrs.get('hreflang'):n.attrs['href'] for n in doc.tag('link') if n.attrs.get('rel')=='alternate'}
+        check(alternates=={lang:config['origin']+'/'+lang+'/'+path[4:] for lang in ('ja','en')},f'{path}: 日英alternateリンク')
+        # The language label and original optional translations are intentional Japanese.
+        visible_copy=doc.root.text(exclude=('translation','language-switch'))
+        check(not re.search('[ぁ-んァ-ヶ一-龯]',visible_copy),f'{path}: 英語版に未翻訳の本文')
+    for ep in eps:
+        doc=english_pages['/en/'+templates.url(ep)[4:]]
+        spoken=[b for b in ep['blocks'] if b['type']!='sfx']
+        check(len(doc.cls('english'))==len(spoken),f'{ep["id"]}: 英語版の発話数')
+        for b,en,jp in zip(spoken,doc.cls('english'),doc.cls('translation')):
+            check(normalized(en.text(exclude=('sfx',)))==normalized(b['en']),f'{ep["id"]}: 英語版で原文が変化')
+            check(jp.text()==b['ja'] and jp.attrs.get('lang')=='ja',f'{ep["id"]}: 英語版で対訳が変化')
+        check(any(n.attrs.get('id')=='script-content' and n.has_class('hide-translations') for n in doc.nodes),f'{ep["id"]}: 英語版の訳初期非表示')
+        check(doc.cls('translation-toggle')[0].text()=='Show Japanese translations' and doc.cls('translation-toggle')[0].attrs.get('aria-pressed')=='false',f'{ep["id"]}: 英語版の訳表示操作')
+        en_meta=templates.localization.catalog('episodes')[ep['id']]
+        check(en_meta['note'] in doc.cls('story-note')[0].text(),f'{ep["id"]}: 英語版メモ欠落')
+        check(all(explanation in doc.root.text() for explanation in en_meta['explanations']),f'{ep["id"]}: 英語版学習解説欠落')
+    english_home=english_pages['/en/'].root.text()
+    for required in ('$1.99','/ month','(or equivalent in your local currency)','Actual prices may vary depending on your country and Google Play Store settings.','Frank & Tina English Adventures'):
+        check(required in english_home,f'英語ホームの指定表記欠落: {required}')
+    check('¥220' not in english_home and '220円' not in english_home,'英語ホームに日本向け価格が混在')
+    check('Yoshio Kasuya' in english_pages['/en/legal/commercial-transactions/'].root.text(),'運営者英語表記')
+    for path in english_demo_paths:
+        check(path in docs and not re.search('[ぁ-んァ-ヶ一-龯]',docs[path].root.text()),f'{path}: デモの英訳欠落')
+    for path in (output/'assets').rglob('*.en.js'):
+        for match in templates.localization.LITERALS.finditer(path.read_text()):
+            if match[1] is not None:
+                check(not re.search('[ぁ-んァ-ヶ一-龯]',match[2]),f'{path.name}: 動的表示の英訳欠落')
+    # Changing copy must not silently produce a partly Japanese English page.
+    try: templates.localization.english_html('<p>未登録の英訳検証用文言</p>')
+    except ValueError: pass
+    else: problems.append('未登録の英訳が日本語のまま配信される')
+    titles=[doc.tag('title')[0].text() for p,doc in docs.items() if p!='/' and p not in all_demo_paths]
+    descriptions=[next(n.attrs['content'] for n in doc.tag('meta') if n.attrs.get('name')=='description') for p,doc in docs.items() if p!='/' and p not in all_demo_paths]
     check(len(titles)==len(set(titles)),'title重複'); check(len(descriptions)==len(set(descriptions)),'description重複')
     for p in output.rglob('*'):
         if p.is_file() and p.relative_to(output).parts[0]!='app':
@@ -152,11 +195,11 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False, m
     check(any(node.tag == 'img' and node.attrs.get('alt') for node in docs['/ja/'].cls('poster-art')[0].all()), 'トップの静止画フォールバック欠落')
     check(bool(docs['/ja/'].cls('opening-replay')), 'アニメーション操作欠落')
     for path, doc in docs.items():
-        if path != '/ja/' and path not in demo_paths:
+        if path not in {'/ja/','/en/'} and path not in all_demo_paths:
             check(not any('opening.js' in node.attrs.get('src', '') or 'rive.js' in node.attrs.get('src', '') for node in doc.tag('script')), f'トップ以外でRive読込: {path}')
     ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9','i':'http://www.google.com/schemas/sitemap-image/1.1'}
     sitemap_paths={urlparse(n.text).path for n in ET.parse(output/'sitemap.xml').findall('s:url/s:loc',ns)}
-    check(len(sitemap_paths)==135+len(templates.legal.DOCUMENTS),'サイトマップ数')
+    check(len(sitemap_paths)==2*(135+len(templates.legal.DOCUMENTS)),'日英サイトマップ数')
     check(len(ET.parse(output/'image-sitemap.xml').findall('s:url/i:image',ns))==120,'画像サイトマップ数')
     check('Disallow: /' in (output/'robots.txt').read_text(),'プレビューrobotsが拒否していない')
     for feature in templates.marketing.features():
@@ -260,7 +303,7 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False, m
         for key in ('webTraining','ios','android','billing'):
             unsafe=copy.deepcopy(config); unsafe['release'][key]=True
             check(bool(publication_blockers(unsafe,eps)),f'先行公開で{key}を受理')
-    report={'sourceMode':'approved-preview-snapshot' if material_snapshot else 'current-manuscripts','success':not problems,'htmlPages':len(docs),'episodes':len(eps),'bilingualBlocks':spoken_count,'sfx':sfx_count,'expressions':360,'webpFiles':360,'sitemapUrls':len(sitemap_paths),'featurePages':8,'unchangedStoryMainHashes':preserved if baseline else 'not requested','stateCombinations':16,'parserNegativeCases':5,'sourceNotesHandled':len(material['sourceNotes']),'problems':problems,'materialRevision':material['materialRevision'],'browserChecks':'See the redesign QA record. This script alone does not claim browser QA.'}
+    report={'sourceMode':'approved-preview-snapshot' if material_snapshot else 'current-manuscripts','success':not problems,'htmlPages':len(docs),'episodes':len(eps),'englishPages':len(english_pages),'englishDemoPages':len(english_demo_paths),'englishExpressions':360,'bilingualBlocks':spoken_count,'sfx':sfx_count,'expressions':360,'webpFiles':360,'sitemapUrls':len(sitemap_paths),'featurePages':8,'unchangedStoryMainHashes':preserved if baseline else 'not requested','stateCombinations':16,'parserNegativeCases':5,'sourceNotesHandled':len(material['sourceNotes']),'problems':problems,'materialRevision':material['materialRevision'],'browserChecks':'See the redesign QA record. This script alone does not claim browser QA.'}
     (report_dir/'validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(report,ensure_ascii=False,indent=2))
     if problems: raise SystemExit(1)
