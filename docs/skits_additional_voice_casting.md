@@ -124,24 +124,24 @@ Frank・Tina・Narrator以外は、**追加6ボイス**で全役をカバーす�
 | [B1-09 Public Transit Complaint](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:285) | Officer | 6 | US-M1 | 交通当局の窓口。Tina が電車の遅延に苦情を言っている。 |
 | [B1-13 Investment Consultation](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:421) | Advisor | 7 | US-M1 | 初めての金融相談。Frank がアドバイザーと面談している。 |
 | [B1-15 Travel Itinerary Planning](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:489) | Agent | 7 | US-M1 | 旅行代理店。Tina が次の旅の計画を相談している。 |
-| [B1-17 Doctor's Diagnosis](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:557) | Dr. Okafor | 7 | US-F2 | 診察室。検査結果の説明。 |
-| [B1-19 Court Witness](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:625) | Lawyer | 7 | US-M1 | 法廷。Tina が証人として尋問を受けている。 |
+| [B1-17 Doctor's Diagnosis](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:557) | Dr. Okafor | 6 | US-F2 | 診察室。検査結果と、疲れの経過を確認する再診の説明。 |
+| [B1-19 Court Witness](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:625) | Lawyer | 6 | US-M1 | 法廷。Tina が証人として尋問を受けている。 |
 | [B1-21 Interview With a Writer](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:693) | Writer | 6 | US-M2 | 出版社の小さな会議室。Frank が長年敬愛する小説家にインタビューしている。 |
-| [B1-23 Real Estate Tour](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:761) | Doyle | 7 | US-M2 | 改装された建物の内見。不動産業者の案内。 |
-| [B1-25 Booking a Cruise](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:829) | Agent | 6 | US-M1 | 旅行代理店。Tina がクルーズのキャビンを予約しようとしている。 |
-| [B1-26 Financial Planning](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:863) | Planner | 6 | US-F2 | ファイナンシャルプランナーの事務所。Tina が将来の貯蓄について相談している。 |
-| [B1-27 Breakup Counseling](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:897) | Counselor | 7 | US-F2 | カウンセリングルーム。Tina が元恋人マークとの別れを整理しようとしている。 |
-| [B1-29 Insurance Claim](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:965) | Agent | 7 | US-M1 | 保険会社の窓口。Tina がアパートの損害について請求手続きをしている。 |
-| [B1-31 Apartment Renovation](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1033) | Designer | 7 | US-F1 | Frank のアパート。インテリアデザイナーと改装の打ち合わせ。 |
-| [B1-33 Wine Tasting](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1101) | Sommelier | 7 | US-M1 | ワインの試飲会。ソムリエが進行している。 |
-| [B1-35 Job Reference Call](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1169) | Hiring | 7 | US-F2 | Frank のオフィス。採用担当者から、元部下についての照会電話。 |
+| [B1-23 Real Estate Tour](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:761) | Doyle | 6 | US-M2 | 5Bの内見・契約・鍵の受け取り。 |
+| [B1-25 Booking a Cruise](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:829) | Agent | 7 | US-M1 | 旅行代理店。Tina がクルーズのキャビンを予約しようとしている。 |
+| [B1-26 Financial Planning](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:863) | Planner | 7 | US-F2 | ファイナンシャルプランナーの事務所。Tina が急な出費や失業への備えを相談している。 |
+| [B1-27 Breakup Counseling](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:897) | Counselor | 6 | US-F2 | カウンセリングルーム。Tina が元恋人マークとの別れを整理しようとしている。 |
+| [B1-29 Insurance Claim](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:965) | Agent | 6 | US-M1 | 保険会社の窓口。Tina が以前の部屋の水漏れ被害について請求書類をそろえている。 |
+| [B1-31 Apartment Renovation](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1033) | Designer | 6 | US-F1 | Frank のアパート。改装の前に本棚と机の配置変更を相談する。 |
+| [B1-33 Wine Tasting](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1101) | Sommelier | 6 | US-M1 | ワインの試飲会。ソムリエが進行している。 |
+| [B1-35 Job Reference Call](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1169) | Hiring | 6 | US-F2 | Frank のオフィス。採用担当者から、元部下についての照会電話。 |
 | [B1-37 Negotiating a Contract](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1239) | Vance | 7 | US-F2 | 商談。Frank が新しい契約を交渉している。 |
-| [B1-39 Job Promotion Talk](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1307) | Boss | 7 | US-M2 | 上司との昇進面談。会議室。 |
+| [B1-39 Job Promotion Talk](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1307) | Boss | 6 | US-M2 | 上司との昇進面談。会議室。 |
 | [B1-41 Resigning from a Job](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1375) | Boss | 6 | US-M2 | 上司のオフィス。Frank が退職を切り出す。 |
-| [B1-43 Hospital Discharge](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1443) | Doctor | 6 | US-F2 | 病室。Frank が退院する。 |
-| [B1-47 Counseling Session](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1579) | Counselor | 7 | US-F2 | カウンセリングルーム。Tina が別の相談で再び訪れる。 |
+| [B1-43 Hospital Discharge](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1443) | Doctor | 5 | US-F2 | 病室。Frank が退院する。 |
+| [B1-47 Counseling Session](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1579) | Counselor | 6 | US-F2 | カウンセリングルーム。Tina が別の相談で再び訪れる。 |
 | [B1-49 Press Conference](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1647) | Reporter | 6 | US-F1 | 記者会見場。Frank が実験室安全方針を発表。Tina は後列。 |
-| [B1-52 Tax Advice](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1749) | Accountant | 7 | US-M1 | 会計士のオフィス。Frank が確定申告の相談。 |
+| [B1-52 Tax Advice](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1749) | Accountant | 6 | US-M1 | 会計士のオフィス。Frank が確定申告の相談。 |
 | [B1-58 Year-End Review Meeting](/Users/Yoshio/StudioProjects/frank_tina/skits/skits_B1_dialogs_jp.md:1953) | Boss | 7 | US-M2 | 新しい職場の上司のオフィス。Frank の年度末レビュー。 |
 
 ## B2 全割り当て
