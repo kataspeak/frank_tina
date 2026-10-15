@@ -35,6 +35,10 @@
 10. **Tina**: And I'd say it again. Coffee. Now. You're buying. Black, I know.
     **ティナ**: 今でもそう言うわ。コーヒー。今すぐ。あなたのおごりよ。ブラックでしょ、知ってる。
 
+> **注釈 — “They run into each other.”**: `run into ～` は「～にばったり出会う・偶然会う」という意味の句動詞です。文字どおり「走ってぶつかる」の意味もありますが、人について使うと「偶然の再会」を表すことが多いです。`each other` で「お互いに」なので、二人が街角で思いがけず再会した場面です。自然な意訳は「二人は偶然出くわす」です。
+
+> **注釈 — “You're buying.”**: `buy` には「買う」のほかに、「（人に飲食代を）おごる」という意味があります。`You're buying.` で「あなたのおごりね」です。逆に「私がおごる」は `I'm buying.` や `It's on me.` と言います。再会を喜んだティナが、冗談めかしてコーヒー代をフランクに払わせようとしています。自然な意訳は「あなたのおごりよ」です。
+
 ### A2-02 New Apartment
 
 **場面:** 引越し先の内見。Tina、不動産業者、Frank。
@@ -62,6 +66,10 @@
    **フランク**: まだ家賃を聞いてないよ。
 10. **Tina**: I love it. Let me sleep on it. My bank account might have other ideas.
     **ティナ**: 気に入ったわ。一晩考えさせてください。…でも、銀行口座は別の意見かも。
+
+> **注釈 — “This place is making a very strong case.”**: `make a (strong) case` は、本来「（議論で）強い論拠を示す・説得力のある主張をする」という意味です。ここでは部屋を人に見立てて、「この部屋は『私を借りて』と強く訴えてきている」＝「かなり借りたくなる」とユーモラスに言っています。自然な意訳は「ここ、かなり有力だわ」です。
+
+> **注釈 — “Let me sleep on it.”**: `sleep on it` は、文字どおり「その上で寝る」ではなく、「一晩寝てからじっくり考える・決断を翌日まで持ち越す」という意味の決まり文句です。大きな買い物や契約をその場で決めたくないときによく使います。自然な意訳は「一晩考えさせてください」です。
 
 ### A2-03 Have You Seen It?
 
@@ -93,6 +101,10 @@
 11. **Tina**: See ya.
     **ティナ**: じゃあね。
 
+> **注釈 — “I'm obsessed.”**: `obsessed` は本来「（何かに）取りつかれた」という強い言葉ですが、口語では「すっかりハマっている・夢中」という意味で軽く使われます。`I'm obsessed with ～`（～にハマってる）の形もよく使います。自然な意訳は「私、夢中なの」です。
+
+> **注釈 — “See ya.”**: `See ya.` は `See you.` のくだけた発音をそのまま書いた形で、「またね」「じゃあね」という意味です。`ya` は `you` の口語的なつづりで、友達同士の気軽な別れのあいさつに使われます。
+
 ### A2-04 Lab Interview Practice
 
 **場面:** 面接前夜、模擬面接。
@@ -120,6 +132,10 @@
    **フランク**: 焦らず、はっきり答える。…そして嵐の話はしない。
 10. **Tina**: You've got this. Message me right after — I'll be waiting.
     **ティナ**: あなたなら大丈夫。終わったらすぐ連絡して——待ってるから。
+
+> **注釈 — “You can't lead with that!”**: `lead with ～` は「～から話を始める・～を最初に出す」という意味です。面接で「弱点は？」と聞かれて、いきなり「嵐の夜に博士に組み立てられた」と答えたフランクに、ティナが「それを最初に言っちゃだめ！」と止めています。自然な意訳は「それを最初に言っちゃだめ！」です。
+
+> **注釈 — “You've got this.”**: `You've got this.` は「あなたならできる」「大丈夫、うまくいく」という意味の、励ましの決まり文句です。試験や面接などに臨む人によくかけられます。`You got this.` と言うこともあります。自然な意訳は「あなたなら大丈夫」です。
 
 ### A2-05 I'm Stuffed!
 
@@ -149,6 +165,10 @@
 10. **Frank**: You said that last time. Come on. One slow step at a time.
     **フランク**: それ、前回も言ってた。…ほら。一歩ずつ、ゆっくりね。
 
+> **注釈 — “I'm Stuffed!”**: タイトルの `stuffed` は、本来「（詰め物で）ぎっしり詰まった」という意味です。食事の後に `I'm stuffed.` と言うと、「お腹がいっぱい・もう食べられない」という意味になります。食べ放題で食べすぎたティナの状態を表しています。
+
+> **注釈 — “You're gonna walk it off.”**: `walk ～ off` は「歩いて～を解消する」という意味で、満腹感・軽い痛み・怒りなどを、歩くことで和らげるときに使います。`it` はここでは食べすぎた満腹感を指しています。自然な意訳は「歩いて消化するんだ」です。
+
 ### A2-06 Talking About Our Hometowns
 
 **場面:** 夜、二人で空を見ながら故郷の話。
@@ -177,6 +197,8 @@
 10. **Frank**: ...Then we both came from quiet skies. Mine just didn't have lanterns.
     **フランク**: …じゃあ僕たちはどっちも静かな空から来たんだ。…僕のには提灯がなかっただけで。
 
+> **注釈 — “And nobody for miles.”**: `for miles` は「何マイルにもわたって」という意味で、`nobody for miles` で「見渡す限り誰もいない」ことを表します。1マイルは約1.6キロメートルです。フランクの村がどれほど人里離れていたかを伝えています。自然な意訳は「何キロも誰もいない」です。
+
 ### A2-07 Renting a Car
 
 **場面:** レンタカーの窓口。Tinaが手続き、Frankが同伴。
@@ -204,6 +226,8 @@
    **ティナ**: いいですね。決める前に見てもいいですか？
 10. **Frank**: "Small town." We're going with "small town."
     **フランク**: 「小さな町」。「小さな町」で押し通すからね。
+
+> **注釈 — “We're going with "small town."”**: `go with ～` は「～を採用する・～でいく」という意味の口語表現です。ティナの免許証の出生地「星の彼方」を、フランクが「小さな町です」とごまかしたので、「その説明で押し通そう」と念を押しています。自然な意訳は「『小さな町』で押し通すからね」です。
 
 ### A2-08 I've Been There
 
@@ -345,6 +369,8 @@
 10. **Tina**: Perfect. I'll do everything you said. Especially the resting.
     **ティナ**: 完璧。言われたこと全部やるわ。特に休むところ。
 
+> **注釈 — “That's... one way to put it.”**: `put` には「言い表す」という意味があり、`That's one way to put it.` で「それもひとつの言い方ですね」となります。相手の表現が的外れだったり大げさだったりするときに、苦笑いしながら返す決まり文句です。休息を「寝転がる時間付き」と喜ぶティナに、トレーナーが困っています。自然な意訳は「まあ…そういう言い方もできますね」です。
+
 ### A2-13 No Reply
 
 **場面:** 既読スルーに悩むTina、Frankに相談。
@@ -428,6 +454,8 @@
    **ティナ**: 土曜日！もう全部計画したわ——夕食、デザート、夜全部。
 10. **Frank**: Of course you have. I'm just gonna bring the earplugs. For me.
     **フランク**: 君ならそうだろうね。…僕は耳栓を持っていくよ。自分用に。
+
+> **注釈 — “Then I'm in.”**: `I'm in.` は「（その計画に）乗った・参加する」という意味の口語です。誘いに乗るときの短い返事で、反対に断るときは `I'm out.` と言います。自然な意訳は「じゃあ行くよ」です。
 
 ### A2-16 Complaining About Noise
 
@@ -541,6 +569,8 @@
 10. **Frank**: Two hours. I'll wake you up. And I'm not leaving until you close your eyes.
     **フランク**: 2時間。僕が起こすから。…君が目を閉じるまで、僕は帰らない。
 
+> **注釈 — “Pulling an All-Nighter”**: タイトルの `pull an all-nighter` は「（勉強や仕事で）徹夜する」という意味の口語表現です。`all-nighter` は「一晩中続くこと」を表します。論文のために寝ずに作業を続けるティナの状況を表しています。
+
 ### A2-20 Book Club Meeting
 
 **場面:** 読書会。同じ小説の感想を共有。
@@ -568,6 +598,8 @@
    **フランク**: 君は僕の縫い目を見て、かっこいいと言って、「友達になろう？ね？ね？」と聞いた。
 10. **Tina**: You never said no, so I decided that meant yes.
     **ティナ**: あなた、断らなかったでしょ。だから「イエス」ってことにしたの。
+
+> **注釈 — “Shows up out of nowhere”**: `out of nowhere` は「どこからともなく・突然」という意味です。`show up` は「現れる」なので、「どこからともなく現れる」となります。文頭の主語 `She` が省略された、会話らしい言い方です。小説の登場人物とフランクが重なることに、ティナが気づき始める場面です。
 
 ### A2-21 Volunteer Work
 
@@ -625,6 +657,8 @@
 10. **Frank**: I literally wear the same thing every day, Tina.
     **フランク**: 僕は文字通り毎日同じものを着てるんだよ、ティナ。
 
+> **注釈 — “Easy for you to say!”**: `Easy for you to say!` は `That's easy for you to say.` の省略で、「（あなたは平気だから）簡単に言えるのよ」という意味です。相手の助言が他人事に聞こえたときに、少し不満を込めて返す言い方です。自然な意訳は「言うのは簡単よ！」です。
+
 ### A2-23 Asking Neighbors
 
 **場面:** 引っ越したばかりの建物の廊下。Frankが隣人に会う。
@@ -652,6 +686,8 @@
    **フランク**: では、お役に立てるかもしれません。9ページは暖房の話です。
 10. **Neighbor**: Welcome to the building. I think you're going to fit right in.
     **隣人**: この建物へようこそ。あなた、きっとうまくやっていけるわね。
+
+> **注釈 — “I think you're going to fit right in.”**: `fit in` は「（集団や場所に）なじむ・溶け込む」という意味で、`right` が「すぐに・すっかり」と強調しています。引っ越してきたばかりで、建物のハンドブック40ページを読み込んだフランクに、隣人が感心して言っています。自然な意訳は「あなた、きっとうまくやっていけるわね」です。
 
 ### A2-24 Crush Update
 
@@ -682,6 +718,10 @@
     **フランク**: お菓子を持っておいで。行くよ——君が彼を見るのを見にね。
 11. **Tina**: See ya Saturday!
     **ティナ**: 土曜にね！
+
+> **注釈 — “how I take my coffee”**: `take` はここでは「（飲み物を）飲む・好む」という意味で、`how I take my coffee` は「僕がどんなふうにコーヒーを飲むか（砂糖やミルクを入れるかどうか）」です。`How do you take your coffee?`（コーヒーはどうされますか？）は定番の質問で、`Black, please.` などと答えます。
+
+> **注釈 — “I know it by heart.”**: `by heart` は「暗記して・そらで」という意味で、`know ～ by heart` で「～を暗記している」となります。ここでは「フランクのコーヒーの好みくらいちゃんとわかっている」という意味です。自然な意訳は「バッチリ覚えてるわよ」です。
 
 ### A2-25 Travel Insurance
 
@@ -767,6 +807,8 @@
 10. **Agent**: Would you like to go to Paris too, then?
     **係員**: それでは、あなたもパリにいらっしゃいますか？
 
+> **注釈 — “at carousel three”**: `carousel` は、空港で預けた荷物が出てくる回転式のベルト（ターンテーブル）のことです。もともとは遊園地の「回転木馬（メリーゴーラウンド）」を指す言葉です。自然な意訳は「3番ターンテーブルで」です。
+
 ### A2-28 Mom's Calling
 
 **場面:** Frankの家。Tinaが課題中にスマホが鳴る。
@@ -776,7 +818,7 @@
 
 `[SFX: phone buzzes]`
 
-1. **Tina**: Hi Mom! I was just studying, I promise!
+1. **Tina**: Hi, Mom! I was just studying, I promise!
    **ティナ**: もしもしお母さん！ちょうど勉強してたの、本当よ！
 2. **Mom**: Still studying? Where are you now?
    **母**: まだ勉強してるの？今どこにいるの？
@@ -796,6 +838,8 @@
    **母**: 礼儀正しくて、しっかりしているのね！ティナ、今度帰ってくるときは彼も連れてきなさい。
 10. **Tina**: Great. Now you're invited to another planet.
     **ティナ**: よかったわね。これで別の惑星にご招待よ。
+
+> **注釈 — “Put him on.”**: 電話で `Put ～ on.` と言うと、「～を電話に出して・～に代わって」という意味になります。電話を代わってもらうときの決まった言い方です。自然な意訳は「代わってちょうだい」です。
 
 ### A2-29 Hosting a Guest
 
@@ -834,7 +878,7 @@
 
 1. **Tina**: Excuse me, I bought this yesterday and it's already broken.
    **ティナ**: すみません、これを昨日買ったのに、もう壊れているんです。
-2. **Clerk**: Oh dear. What exactly went wrong?
+2. **Clerk**: Oh no. What exactly went wrong?
    **店員**: まあ大変。具体的にどこが悪かったんですか？
 3. **Tina**: It just stopped working. I'd like a full refund, please.
    **ティナ**: ただ動かなくなったんです。全額返金してほしいんです。
@@ -881,6 +925,8 @@
 10. **Tina**: Stitches and all. Welcome to the internet, superstar.
     **ティナ**: 縫い目もろともね。インターネットへようこそ、スーパースター。
 
+> **注釈 — “it went viral”**: `go viral` は、動画や投稿が「（ウイルスのように）爆発的に拡散する・バズる」という意味です。`viral` は `virus`（ウイルス）の形容詞形です。自然な意訳は「一晩でバズった」です。
+
 ### A2-32 Changing a Reservation
 
 **場面:** Frankが電話でレストランの予約を変更している。
@@ -908,6 +954,10 @@
    **フランク**: 前回4回も取りに行ったんです。他の客にも食べさせたくて。
 10. **Host**: Far corner it is. See you Saturday at seven.
     **係**: では一番奥の席に。土曜7時にお待ちしています。
+
+> **注釈 — “It's A-547, under Frank.”**: レストランやホテルの予約で `under ～` と言うと、「～の名前で（予約している）」という意味になります。`The reservation is under Frank.` のように使います。自然な意訳は「フランクの名前です」です。
+
+> **注釈 — “Far corner it is.”**: `～ it is.` は「（それなら）～で決まり」という意味の口語表現で、相手の希望を受け入れるときに使います。`Pizza it is!`（じゃあピザで決まり！）のようにも言います。ティナをデザートコーナーから遠ざけたいフランクの頼みに、係が応じています。自然な意訳は「では一番奥の席に」です。
 
 ### A2-33 Roommate Problems
 
@@ -937,6 +987,8 @@
 10. **Frank**: Then have one calm, final talk. ...Maybe hide a clean plate for yourself.
     **フランク**: それなら、冷静に最後の話し合いを。…自分用にきれいな皿を一枚隠しておくのもいいかも。
 
+> **注釈 — “the shared chore chart”**: `chore` は「（日常の）家事・雑用」、`chart` は「表」で、`chore chart` は「家事当番表」です。ルームメイトや家族で、誰がいつ何をするかを決めて貼っておくものです。
+
 ### A2-34 Workplace Training
 
 **場面:** 新しい職場で、研修前の打ち合わせ。担当者がFrankに予定を説明している。
@@ -964,6 +1016,8 @@
    **研修担当者**: …そうだ。来年は、あなたが新人研修担当です。
 10. **Frank**: Of course. Please read all two hundred and twelve pages before my class. You too.
     **フランク**: 承知しました。僕の研修までに212ページ全部読んでおいてください。あなたも。
+
+> **注釈 — “You're training the new hires next year.”**: `hire` は動詞では「雇う」ですが、名詞で `new hire` と言うと「新しく雇われた人＝新入社員」を指します。ハンドブックを読み込んで矛盾まで見つけたフランクに、研修担当者が「来年はあなたが新人を教える側だ」と言っています。自然な意訳は「来年は、あなたが新人研修担当です」です。
 
 ### A2-35 Too Much Screen Time
 
@@ -1077,6 +1131,8 @@
 10. **Frank**: Soup and toast. Drink slowly. I'll sit with you.
     **フランク**: スープとトーストだ。ゆっくり飲んで。そばにいるよ。
 
+> **注釈 — “And now your head's pounding, right?”**: `pound` は「ドンドンたたく」という意味で、頭について使うと「頭がガンガンする（ズキズキ痛む）」という状態を表します。二日酔いのときによく使う表現です。自然な意訳は「それで今、頭がガンガンするんだろ？」です。
+
 ### A2-39 Fixing a Bike
 
 **場面:** 自転車修理店。整備士がFrankに修理内容を説明している。
@@ -1105,6 +1161,8 @@
 10. **Frank**: Thank you. Call me when it's ready. I'll be waiting by the phone.
     **フランク**: ありがとう。できたら電話を。電話のそばで待ってます。
 
+> **注釈 — “Fair enough.”**: `Fair enough.` は「もっともだ」「それなら納得」という意味の口語で、相手の説明や理由を受け入れるときに使います。ボルトのゆるみを記録しているフランクの理由に、整備士が納得しています。自然な意訳は「もっともだ」です。
+
 ### A2-40 Awkward Moment
 
 **場面:** カフェ。Frankが今日の気まずい出来事をTinaに話す。
@@ -1132,6 +1190,12 @@
    **フランク**: …全員だ。これまでで一番のジョークだって言われた。
 10. **Tina**: So you were a hit! Tell me the joke. But no homework, please.
     **ティナ**: じゃあ、大ウケだったのね！私にも聞かせて。でも宿題はなしでお願い。
+
+> **注釈 — “the evening class he audits after work”**: `audit` は「監査する」という意味でよく知られていますが、大学の授業について使うと「（単位を取らずに）聴講する」という意味になります。仕事をしながら夜の授業に通っているフランクの状況を表しています。
+
+> **注釈 — “Who are you, and what have you done with Frank?”**: 「あなた誰？本物のフランクをどこへやったの？」という意味で、相手がいつもと全然違う行動をしたときに驚きを表す、決まった冗談です。`Who are you, and what have you done with ～?` の形で、`～` に相手の名前を入れて使います。真面目なフランクが授業中にメモを回したと聞いて、ティナが驚いています。
+
+> **注釈 — “So you were a hit!”**: `be a hit` は「大成功する・大ウケする・人気を集める」という意味です。名詞の `hit` は「ヒット作・当たり」を表します。フランクの数学ジョークにクラス全員が笑ったと聞いて、ティナが喜んでいます。自然な意訳は「大ウケだったのね！」です。
 
 ### A2-41 Pharmacy Advice
 
@@ -1261,6 +1325,8 @@
 13. **Tina**: Until I beat him. I was very specific.
     **ティナ**: 彼に勝つまでって言ったの。ちゃんとそう言ったわよ。
 
+> **注釈 — “Then you're gonna be stronger than him in no time.”**: `in no time` は「あっという間に・すぐに」という意味です。「時間がまったくかからないうちに」というイメージです。自然な意訳は「それならすぐ彼より強くなるよ」です。
+
 ### A2-45 Donating Clothes
 
 **場面:** 寄付センター。Tinaが古着を2袋持参。Frankが付き添い。
@@ -1288,6 +1354,8 @@
    **職員**: きっと大切に着てくれる人のところへ届きますよ。
 10. **Tina**: Thank you. Then I'm ready to let it go.
     **ティナ**: ありがとう。じゃあ、私もこのコートを手放せるわ。
+
+> **注釈 — “We'll make sure it finds a good home.”**: `find a good home` は、物や動物が「よい持ち主（引き取り手）のもとに行く」という意味です。寄付した服や保護された犬猫などについてよく使われます。思い出のコートを手放すティナに、職員が「大切にしてくれる人に届けます」と伝えています。自然な意訳は「きっと大切に着てくれる人のところへ届きますよ」です。
 
 ### A2-46 Online Shopping Fails
 
@@ -1511,6 +1579,12 @@
 12. **Frank**: A message, Tina. Not a book.
     **フランク**: メッセージだよ、ティナ。本を書くんじゃないからね。
 
+> **注釈 — “Sarah canceled on me again”**: `cancel on ～` は「～との約束を取り消す・ドタキャンする」という意味で、`on me` には「（私に迷惑がかかる形で）」という不満のニュアンスがあります。自然な意訳は「サラがまた直前にキャンセルしたの！」です。
+
+> **注釈 — “they need space”**: `need space` は「（人と距離を置いて）一人の時間や心の余裕が必要」という意味です。ここでの `space` は「宇宙」ではなく「（気持ちの）余地・ゆとり」を表します。`give ～ space`（～をそっとしておく）という言い方もあります。
+
+> **注釈 — “I've been hurt one too many times.”**: `one too many times` は「必要以上に何度も・もう限界を超えるほど」という意味です。「許せる回数より一回多い」というイメージで、我慢の限界に来ていることを表します。自然な意訳は「もう何度も傷ついたわ」です。
+
 ### A2-53 Phone Plan Change
 
 **場面:** 携帯ショップ。Frankがプラン相談。Tinaが横で待つ。
@@ -1573,6 +1647,8 @@
 12. **Frank**: All right. Seven thirty. Just to be safe.
     **フランク**: わかった。7時半。念のためね。
 
+> **注釈 — “She gave me a look”**: `give ～ a look` は、ここでは「～を（とがめるような・意味ありげな）目で見る」という意味です。単に「見る」のではなく、無言で不満を伝える視線を表します。遅刻して席に着いたティナを、教授がにらんだ場面です。自然な意訳は「にらまれたわ」です。
+
 ### A2-55 Reporting a Theft
 
 **場面:** 警察署。一人で歩いていたTinaがバッグをひったくられ、Frankを呼んで届け出に来た。
@@ -1604,6 +1680,8 @@
     **フランク**: 文字が大きすぎると言ったけど、取り消すよ。
 12. **Tina**: See? Huge letters help the police.
     **ティナ**: ほらね？大きな文字は警察の役に立つのよ。
+
+> **注釈 — “I take that back.”**: `take ～ back` は、発言について使うと「（言ったことを）取り消す・撤回する」という意味になります。バッグの名前の文字が大きすぎると言っていたフランクが、それが犯人探しに役立つとわかって、前言を撤回しています。自然な意訳は「取り消すよ」です。
 
 ### A2-56 Doctor's Visit
 
@@ -1639,6 +1717,8 @@
 13. **Frank**: What a relief. Could you write that down for Tina — and sign it?
     **フランク**: 安心しました。それをティナのために書いて、サインもしてもらえますか？
 
+> **注釈 — “It looks like a common stomach bug.”**: `bug` は「虫」のほかに、口語で「（軽い）ウイルス性の病気」を指します。`stomach bug` で「胃腸炎・お腹の風邪」です。`catch a bug`（風邪などをもらう）という言い方もあります。自然な意訳は「よくある胃腸炎のようですね」です。
+
 ### A2-57 End of Semester
 
 **場面:** Tinaが学期最後の試験を終えた。2週間の休みが目前。
@@ -1671,6 +1751,8 @@
 12. **Frank**: Yes. I made three drafts.
     **フランク**: うん。下書きは3回した。
 
+> **注釈 — “Then sleep in before lunch.”**: `sleep in` は「（休日などに）朝寝坊する・いつもより遅くまで寝る」という意味の句動詞です。寝過ごして遅刻する「寝坊」は `oversleep` で、`sleep in` は意図的にゆっくり寝ることを表します。自然な意訳は「ランチまではゆっくり寝て」です。
+
 ### A2-58 Fitness Goals
 
 **場面:** ジム。Tinaがトレーナーと新しい目標を相談。
@@ -1702,6 +1784,8 @@
     **トレーナー**: いいですが、体は毎日変わりませんよ。
 12. **Tina**: That's okay. My poses will.
     **ティナ**: 大丈夫。ポーズは毎日変わるから。
+
+> **注釈 — “Should I do more cardio”**: `cardio` は `cardiovascular exercise`（心臓血管系の運動）の略で、ジョギングや自転車などの「有酸素運動」を指します。ジムでは `cardio` と `weights`（筋トレ）がよく対比されます。
 
 ### A2-59 Train Delay Announcement
 
@@ -1768,3 +1852,5 @@
     **ティナ**: …来年に。同じ二人で、少しだけ勇敢に。
 13. **Frank**: To next year.
     **フランク**: 来年に。
+
+> **注釈 — “...To next year.”**: `To ～!` は乾杯のときの言葉で、「～に（乾杯）」という意味です。`To us!`（私たちに乾杯！）、`To your health!`（健康を祝して！）のように使います。一年を振り返った二人が、来年に向けて乾杯しています。自然な意訳は「…来年に」です。
