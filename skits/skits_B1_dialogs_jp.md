@@ -41,7 +41,15 @@
 13. **Tina**: Deal. I'll figure out my life. You figure out being a person.
     **ティナ**: 決まりね。私はこれからどう生きるか考える。あなたは人間としてどう生きるか考えてね。
 
-> **注釈 — “Nothing you choose now is set in stone.”**: `be carved in stone` は、文字どおりには「石に刻まれている」で、「確定していて変更できない」という意味のイディオムです。ここでは `Nothing` で否定し、「今決めることは、どれも後から変えられる」と伝えています。選択を間違えるのが怖いティナに、フランクが「今の選択で一生が決まるわけではない」と安心させる表現です。自然な意訳は「今決めたことを、一生変えちゃいけないわけじゃない」です。`be set in stone` も同じ意味で使われます。
+> **注釈 — “Quarter-Life Crisis”**: タイトルの `quarter-life crisis` は、20代半ばごろに「自分の人生はこれでいいのか」と進路や生き方に迷い、不安になる状態を指します。人生を約100年と見たときの「4分の1（quarter）」の時期に起こる危機、という意味です。よく知られた `mid-life crisis`（中年の危機）をもじった言葉で、ティナの悩みそのものを表しています。
+
+> **注釈 — “Nobody our age has it figured out.”**: `have it figured out` は「（人生や物事について）答えが出ている・ちゃんとわかっている」という口語表現です。`it` は漠然と「人生」「先のこと」を指します。`Nobody` で否定して「僕たちの年で全部わかっている人なんていない」と言っています。自然な意訳は「僕たちの年で全部わかってる人なんていないよ」です。
+
+> **注釈 — “Nothing you choose now is set in stone.”**: `be set in stone` は、文字どおりには「石に固定されている」で、「確定していて変更できない」という意味のイディオムです。ここでは `Nothing` で否定し、「今決めることは、どれも後から変えられる」と伝えています。選択を間違えるのが怖いティナに、フランクが「今の選択で一生が決まるわけではない」と安心させる表現です。自然な意訳は「今決めたことを、一生変えちゃいけないわけじゃない」です。`be carved in stone`（石に刻まれている）も同じ意味で使われます。
+
+> **注釈 — “Nah, they're faking it. You're only seeing the highlight reel.”**: `fake it` は「（本当はわかっていないのに）わかっているふりをする」という意味です。`highlight reel` は、スポーツなどの名場面だけを集めた映像のこと。ここでは「友達の人生のうち、うまくいっている部分だけを見ている」というたとえで、SNS時代によく使われます。`Nah` は `No` のくだけた形です。自然な意訳は「そう見せてるだけだよ。いいところだけを見てるんだ」です。
+
+> **注釈 — “Deal.”**: `Deal.` は「取引成立」から来た口語で、相手の提案に「決まりね」「それでいこう」と同意するときの一言です。ここでは「一緒に迷おう」というフランクの提案を、ティナが明るく受け入れています。自然な意訳は「決まりね」です。
 
 ### B1-02 Crisis at Work
 
@@ -113,6 +121,10 @@
 13. **Frank**: I'm not sure yet. But saying it out loud, here, with you — that helps.
     **フランク**: まだ確信は持てない。でも、ここで、君に、こうして口に出してみると……少し楽になる。
 
+> **注釈 — “The topic was agency.”**: ここでの `agency` は「代理店」ではなく、哲学の用語で「自分の意思で考え、選び、行動する力（主体性・行為主体性）」を意味します。人造人間のフランクが「自分は本当に何かを選んだことがあるのか」と悩むきっかけになっています。
+
+> **注釈 — “The way you check on people.”**: `check on ～` は「（大丈夫かどうか）～の様子を確かめる・気にかける」という意味です。`check` だけだと「点検する」の意味になりますが、`on` が付くと人を気づかうニュアンスになります。自然な意訳は「人を気にかけるところ」です。
+
 ### B1-04 I Wish I Had Studied
 
 **場面:** 試験の前夜。Tina の部屋。ノートが散らばっている。
@@ -146,6 +158,10 @@
     **フランク**: 試験は明日だよ。でも今夜は僕が手伝う。さあ、どこから始める？
 13. **Tina**: ...Chapter one. And don't let me reach for my phone.
     **ティナ**: ……第一章から。あと、私がスマホに手を伸ばしたら止めて。
+
+> **注釈 — “But beating yourself up tonight won't help.”**: `beat oneself up` は、文字どおり「自分を殴る」ではなく、「（失敗などについて）自分を責める」という意味の口語表現です。勉強を始めるのが遅かったと後悔するティナに、フランクが「今さら自分を責めても仕方ない」と励ましています。自然な意訳は「今夜、自分を責めても助けにはならないよ」です。
+
+> **注釈 — “Careful what you wish for.”**: `(Be) careful what you wish for.` は「願い事には気をつけて（叶うと困ることもあるから）」という決まり文句です。「あなたの規律正しさが欲しい」と言うティナに、フランクが「誰にも止められず辞書を丸ごと読んでしまった」と、規律正しすぎる自分の失敗談でユーモラスに返しています。自然な意訳は「それは考えものだよ」です。
 
 ### B1-05 Tech Support Call
 
@@ -183,6 +199,8 @@
 13. **Support**: Sir, this is the best call of my week. Your file will live.
     **サポート**: お客様、今週いちばんの電話です。ファイルは助かりますよ。
 
+> **注釈 — “What if it failed silently?”**: `fail silently` はIT用語で、「エラーメッセージなどを何も出さずに失敗する」という意味です。自動保存がオンと表示されていたのに、実は裏で保存できていなかったのではないか、とフランクが疑っています。自然な意訳は「もし何の警告もなく失敗していたら？」です。
+
 ### B1-06 Failing Adulting
 
 **場面:** Tina のキッチン。焦げた鍋が証拠物件のように置いてある。
@@ -217,6 +235,10 @@
 13. **Frank**: Then we order pizza. And never speak of the rice again.
     **フランク**: そのときはピザを頼んで、ご飯の話は二度としない。
 
+> **注釈 — “I just wish adulting came with a manual.”**: `adulting` は、名詞 `adult`（大人）を動詞のように使った若者言葉で、「料理・掃除・請求書の支払いなど、大人としての日常の務めをこなすこと」を指します。タイトルの `Failing Adulting` も「大人としての務めがうまくできない」という意味です。自然な意訳は「大人の生活にも説明書があればいいのに」です。
+
+> **注釈 — “And never speak of the rice again.”**: `never speak of ～ again` は「～のことは二度と口にしない」という意味で、恥ずかしい失敗をなかったことにしようという冗談めかした言い方です。ここでは、ティナが前日にご飯を焦がした件を「黒歴史」として封印しよう、とフランクがからかっています。自然な意訳は「ご飯の話は二度としない」です。
+
 ### B1-07 Visa Application
 
 **場面:** ビザ申請の窓口。役所。
@@ -250,6 +272,8 @@
     **職員**: 足りないものはありません。あなたの書類はそろっています。
 13. **Tina**: Complete. First time anyone's said that about me and a form.
     **ティナ**: そろってる。書類のことで、誰かにそう言われたのは初めてだわ。
+
+> **注釈 — “So I should hear back about two weeks after she does?”**: `hear back` は「（問い合わせや申請の）返事・結果の連絡をもらう」という意味の句動詞です。`hear back from ～` で「～から返事が来る」となります。自然な意訳は「じゃあ、友達に連絡が来たら、その2週間後くらいに私にも来るってこと？」です。
 
 > **注釈 — “promise the moon and the stars”**: 直訳は「月も星もあげると約束する」。実際には「実現できそうにない大きな約束をする」という意味の慣用表現です。短く `promise the moon` とも言います。ここでは職員が弁護士の大げさな約束を皮肉っていますが、宇宙人のティナは「星はそんなに遠くない」と返し、比喩を文字どおりに受け取る冗談にしています。
 
@@ -287,6 +311,16 @@
 13. **Frank**: Never again. From now on, I trust people who panic visibly. Like us.
     **フランク**: 二度とごめんだ。これからは、目に見えて慌てる人を信じるよ。僕たちみたいな。
 
+> **注釈 — “I still can't believe he ghosted us on the day of the deadline.”**: `ghost` を動詞として使うと、「何の説明もなく突然連絡を絶つ」という意味のスラングになります。もともとは恋愛やSNSの文脈で広まった言葉ですが、仕事や学校の場面でも使われます。自然な意訳は「締め切り当日に音信不通になるなんて」です。
+
+> **注釈 — “Five times. Straight to voicemail.”**: `go straight to voicemail` は「（呼び出し音が鳴らずに）すぐに留守番電話につながる」という意味です。相手の電源が切れているか、着信を拒否しているときの状態を表します。自然な意訳は「5回。全部、留守電に直行」です。
+
+> **注釈 — “We pulled it off.”**: `pull ～ off` は「（難しいこと・無理そうなことを）うまくやってのける」という意味の句動詞です。4時間でスライド20枚を作り直し、発表を成功させたことを指しています。自然な意訳は「やり遂げたよ」です。
+
+> **注釈 — “He'd bailed on smaller things before.”**: `bail on ～` は「（約束・予定・人を）すっぽかす、途中で投げ出す」という意味の口語です。`He'd` は `He had` で、「それ以前にも」ドタキャンしていたことを表します。自然な意訳は「前にも小さいことでドタキャンしてたんだ」です。
+
+> **注釈 — “From now on, I trust people who panic visibly.”**: `panic visibly` は「目に見えて慌てる」。几帳面なフォルダで頼れる人に見えた仲間に裏切られたフランクが、「これからは、焦りを隠さない人の方を信じる」と冗談で締めています。`Like us.` で、自分とティナもそういうタイプだと自虐的に言っています。
+
 ### B1-09 Public Transit Complaint
 
 **場面:** 交通当局の窓口。Tina が電車の遅延に苦情を言っている。
@@ -320,6 +354,10 @@
     **職員**: ご希望なら、毎回でも。
 13. **Tina**: Sign me up. Turns out I have a lot to say.
     **ティナ**: 申し込みます。私、言いたいことが山ほどあるみたい。
+
+> **注釈 — “your voice would carry more weight.”**: `carry weight` は「影響力を持つ・重みがある」という意味です。`more` が付いて「（あなたの意見が）もっと重視される」となります。自然な意訳は「あなたの声はもっと重みを持ちますよ」です。
+
+> **注釈 — “Sign me up. Turns out I have a lot to say.”**: `Sign me up.` は「（申込書に）私の名前を書いて」から、「ぜひ参加させて」という乗り気な返事になります。`Turns out ～` は `It turns out that ～` の省略で、「（やってみたら・気づいてみたら）～だとわかった」という意味です。自然な意訳は「申し込みます。私、言いたいことが山ほどあるみたい」です。
 
 ### B1-10 The Ex Saga
 
@@ -355,6 +393,8 @@
 13. **Tina**: Exactly. On a date, I'd leave after ten minutes of that.
     **ティナ**: そうよ。デートであんな調子なら、10分で帰るわ。
 
+> **注釈 — “It's him or me.”**: `It's A or B.` は「AかBか、どちらかを選べ」と相手に二択を迫る言い方です。元彼が「フランク（him）と俺（me）、どっちを取るんだ」とティナに迫った場面です。自然な意訳は「あいつか、俺か」です。
+
 ### B1-11 Tina's Mother Calls
 
 **場面:** 昼食中、Tina の母から突然電話。Frank への母の印象。
@@ -388,6 +428,8 @@
     **フランク**: なら、それを伝えなよ。優しく、でもはっきりと。
 13. **Tina**: I could say it better if you helped me organize my thoughts first — tall boy.
     **ティナ**: 先に考えを整理するのを手伝ってくれたら、もっとうまく言えると思う。背の高い男の子さん。
+
+> **注釈 — “Then you gotta tell her that.”**: `gotta` は `have got to`（～しなければならない）の口語的な縮約形で、会話ではよく使われます。書き言葉では `have to` や `need to` を使うのが普通です。自然な意訳は「なら、それを伝えなよ」です。
 
 ### B1-12 Lost in Translation
 
@@ -423,6 +465,10 @@
 13. **Tina**: And "This chicken is delicious." Just in case.
     **ティナ**: あと「このチキン、おいしいです」も。念のためね。
 
+> **注釈 — “Well, body language is sorta universal.”**: `sorta` は `sort of` の口語的な縮約形で、「ある程度・なんとなく」と断定をやわらげる言い方です。`kinda`（`kind of`）も同じように使われます。自然な意訳は「まあ、ボディランゲージはある意味万国共通だよね」です。
+
+> **注釈 — “So you just rolled with it?”**: `roll with it` は「（予想外の状況に）逆らわずにそのまま受け入れる・流れに任せる」という意味の口語表現です。魚を頼んだのにフライドチキンが来ても、そのまま食べたかどうかを聞いています。自然な意訳は「それで、そのまま受け入れたの？」です。
+
 ### B1-13 Investment Consultation
 
 **場面:** 初めての金融相談。Frank がアドバイザーと面談している。
@@ -456,6 +502,12 @@
     **フランク**: では、今出せる範囲で始めます。
 13. **Advisor**: Smart. And your father sounds like he'd have made a fine advisor.
     **アドバイザー**: 賢明です。それと、あなたのお父さん——いいアドバイザーになれた方のようですね。
+
+> **注釈 — “Patience and diversification.”**: `diversification` は投資用語で「分散投資」、つまり一つの銘柄や商品に集中せず、複数に分けてリスクを減らすことです。動詞は `diversify`（分散する）です。
+
+> **注釈 — “the patient ones outlast the clever ones.”**: `outlast` は「～より長く持ちこたえる・長く生き残る」という意味です。`out-` には「～を上回る」という意味があり、`outlive`（～より長生きする）、`outrun`（～より速く走る）なども同じ作りです。「忍耐強い人は、頭のいい人より最後まで残る」という教えです。
+
+> **注釈 — “That's the whole game.”**: `the whole game` は「（物事の）すべて・核心」という意味のくだけた言い方です。ここでは「投資で大事なのは結局それ（忍耐）に尽きる」とアドバイザーが言っています。自然な意訳は「それこそが全てです」です。
 
 ### B1-14 Roommate Problems Pt.2
 
@@ -559,6 +611,10 @@
 13. **Tina**: Better yet, a certificate! "World's Best Sister." She'll need a bigger wall.
     **ティナ**: それなら、いっそ賞状にしよう！「世界一のお姉ちゃん」賞。もっと大きな壁が必要になるわね。
 
+> **注釈 — “My sister was always the overachiever.”**: `overachiever` は「（期待以上に）何でもよくできる人・頑張りすぎるくらいの優等生」を指します。ほめ言葉にも、少し皮肉にも使われます。自然な意訳は「姉はいつも『できる子』だったの」です。
+
+> **注釈 — “One participation ribbon.”**: `participation ribbon` は、アメリカの学校行事やスポーツ大会で、順位に関係なく参加者全員にもらえるリボン（参加賞）です。賞状がずらりと並ぶ姉と比べて、ティナには「完走もしていないレースの参加賞」しかないという自虐ネタになっています。
+
 ### B1-17 Doctor's Diagnosis
 
 **場面:** 診察室。疲れが続いていた Frank が、検査結果と次回の診察について説明を受ける。
@@ -592,6 +648,10 @@
     **オカフォー医師**: 短いメモだけでいいですよ、フランク。報告書は要りません。
 13. **Frank**: So I won't need a table of contents.
     **フランク**: では、目次はいりませんね。
+
+> **注釈 — “I'd recommend a follow-up next month.”**: `follow-up` は医療の場面では「経過観察のための再診」を指します。ビジネスでは「（前回の件の）追加連絡・フォローアップ」の意味でも使われます。自然な意訳は「来月、もう一度診察にいらしてください」です。
+
+> **注釈 — “A few words each day will do.”**: `～ will do.` は「～で十分だ・～で間に合う」という意味の口語表現です。`That will do.`（それで十分です）の形でもよく使われます。何でも詳しく記録しようとするフランクに、医師が「一日に数語で十分」と伝えています。
 
 ### B1-18 If I Won the Lottery
 
@@ -695,6 +755,8 @@
 13. **Tina**: Then you get a sofa. I get sunlight.
     **ティナ**: そのときは、あなたにソファをあげる。私は日当たりを手に入れるわ。
 
+> **注釈 — “I'll book a viewing.”**: `viewing` は不動産の「内見（物件を見に行くこと）」です。`book` は「予約する」なので、`book a viewing` で「内見を予約する」となります。アメリカでは `schedule a showing` という言い方もよく使われます。
+
 ### B1-21 Interview With a Writer
 
 **場面:** 出版社の小さな会議室。Frank が長年敬愛する小説家にインタビューしている。
@@ -763,6 +825,8 @@
 13. **Tina**: Almost. I added a suitcase. For Italy.
     **ティナ**: ほとんどね。スーツケースを追加したの。イタリア用に。
 
+> **注釈 — “Time to treat myself.”**: `treat oneself` は「自分にご褒美をあげる・ちょっと贅沢をする」という意味です。`It's time to ～` の `It's` が省略されています。自然な意訳は「自分にご褒美をあげなくちゃ」です。
+
 ### B1-23 Real Estate Tour
 
 **場面:** アパートの5B。Tina がドイルに案内され、家賃や設備を確認している。
@@ -796,6 +860,8 @@
     **ドイル**: こちらが鍵です。5Bへようこそ。
 13. **Tina**: Thank you! Now I can cross pink paint off my shopping list.
     **ティナ**: ありがとうございます！これで買い物リストからピンクのペンキを消せるわ。
+
+> **注釈 — “Now I can cross pink paint off my shopping list.”**: `cross ～ off (a list)` は「（済んだ・不要になった項目を）リストから線を引いて消す」という意味です。前の住人がキッチンをすでにピンクに塗っていたので、ピンクのペンキを買う必要がなくなった、というオチです。
 
 ### B1-24 First Date Rewind
 
@@ -865,6 +931,8 @@
 13. **Tina**: The menu first, please. The ocean can wait.
     **ティナ**: 先にメニューをお願いします。海はあとでいいです。
 
+> **注釈 — “This suite just opened up.”**: `open up` は、予約や席・部屋について使うと「（キャンセルなどで）空きが出る」という意味になります。自然な意訳は「こちらのスイートが今空きました」です。
+
 ### B1-26 Financial Planning
 
 **場面:** ファイナンシャルプランナーの事務所。Tina が急な出費や失業に備える貯金について相談している。
@@ -898,6 +966,10 @@
     **プランナー**: そのラテを一杯減らして浮いたお金は、どうしますか？
 13. **Tina**: Put it in savings. I was about to say "buy a cake."
     **ティナ**: 貯金します。「ケーキを買う」って言いかけました。
+
+> **注釈 — “I could cut back on matcha lattes, too.”**: `cut back on ～` は「～（の量や回数）を減らす・控える」という意味の句動詞です。完全にやめる場合は `cut out ～` や `give up ～` を使います。自然な意訳は「抹茶ラテも控えられそうです」です。
+
+> **注釈 — “Every little bit helps.”**: `Every little bit helps.` は「どんな小さなことでも役に立つ」という決まり文句で、日本語の「塵も積もれば山となる」に近い表現です。寄付や節約を呼びかけるときによく使われます。自然な意訳は「少しずつでも、積み重なりますよ」です。
 
 ### B1-27 Breakup Counseling
 
@@ -966,6 +1038,8 @@
     **フランク**: じゃあ、何を話すの？
 13. **Tina**: The book. And I'm ordering her a water. A very big one.
     **ティナ**: 本の話よ。それと、彼女にはお水を頼んであげるわ。特大のをね。
+
+> **注釈 — “Then she blamed the wine.”**: `blame ～` は「～のせいにする」。ここでは、秘密をばらした友人が「ワインで酔っていたせい」と言い訳したことを表しています。`blame A on B`（AをBのせいにする）の形もよく使われます。自然な意訳は「それで、ワインのせいにしたのよ」です。
 
 ### B1-29 Insurance Claim
 
@@ -1241,6 +1315,10 @@
 13. **Tina**: Dinner and dessert. We'll have to share both.
     **ティナ**: 夕食とデザートね。どっちも半分こだけど。
 
+> **注釈 — “Any luck?”**: `Any luck?` は `Did you have any luck?` の省略で、「うまくいった？」「どうだった？」と、頼んでいたことの結果を尋ねる口語表現です。
+
+> **注釈 — “Any snacks in the glove compartment?”**: `glove compartment` は、車の助手席の前にある小物入れ（グローブボックス）です。昔、運転用の手袋を入れていたことからこう呼ばれます。`glove box` とも言います。
+
 ### B1-37 Negotiating a Contract
 
 **場面:** 商談。Frank が、店舗チェーンのヴァンスと水質検査キットの販売条件を相談している。
@@ -1274,6 +1352,8 @@
     **ヴァンス**: 棚について、ほかにご希望は？
 13. **Frank**: Eye level for your customers, please. Not mine.
     **フランク**: お客様の目の高さでお願いします。僕の目の高さではなく。
+
+> **注釈 — “We'd need that purchase commitment in writing.”**: `purchase commitment` は商取引の用語で、「（一定期間・一定量を）購入するという確約」のことです。`in writing` は「書面で」。口約束ではなく契約書などで約束してほしい、という意味です。自然な意訳は「その購入のお約束を書面にしていただきたいです」です。
 
 ### B1-38 Hangover Regrets
 
@@ -1312,6 +1392,8 @@
 
 > **注釈 — “There. Better?”**: この `There.` は「そこ」という場所の意味ではありません。何かをやり終えた瞬間に「はい、できた」「ほら、これでよし」と区切りを示す、英語らしい口語の一言です。ここでは、フランクがカーテンを閉め終えたことを伝えています。続く `Better?` は `Is that better?`（少しは楽になった？）の省略です。`There you go.` や `There we go.` も、同じ場面でよく使われます。自然な意訳は「ほら、閉めたよ。少し楽になった？」です。
 
+> **注釈 — “I thought you were going to lecture me.”**: `lecture` は名詞では「講義」ですが、動詞で人を目的語にとると「（くどくどと）説教する」という意味になります。自然な意訳は「お説教されるかと思ってたわ」です。
+
 ### B1-39 Job Promotion Talk
 
 **場面:** 会議室。Frank が上司から昇進の打診を受け、仕事内容と引き継ぎについて確認している。
@@ -1345,6 +1427,10 @@
     **上司**: 一週間考えてくれ。報告書を書く必要はないよ。
 13. **Frank**: Just a list of pros and cons, then. For myself.
     **フランク**: では、メリットとデメリットのリストだけにします。自分用に。
+
+> **注釈 — “Could I have a week to think it over?”**: `think ～ over` は「～をじっくり考える・よく検討する」という意味の句動詞です。`think about ～` よりも、時間をかけて結論を出すニュアンスがあります。自然な意訳は「一週間、考える時間をいただけますか？」です。
+
+> **注釈 — “Just a list of pros and cons, then.”**: `pros and cons` は「良い点と悪い点・賛否」という意味で、何かを決めるときによく使われます。ラテン語の `pro`（賛成）と `contra`（反対）に由来します。自然な意訳は「では、メリットとデメリットのリストだけにします」です。
 
 ### B1-40 Career Change Talk
 
@@ -1414,6 +1500,10 @@
 13. **Frank**: I've already written the transition notes. The goodbye speech is harder.
     **フランク**: 引き継ぎの資料はもう書きました。お別れのスピーチの方が難しいですね。
 
+> **注釈 — “I'd like to resign, effective next month.”**: `effective ～` は「～付けで・～から有効」という意味で、退職・異動・規則の施行など、正式な場面で使われます。自然な意訳は「来月付で退職させていただきたいんです」です。
+
+> **注釈 — “I've already written the transition notes.”**: `transition notes` は、退職や異動のときに後任者へ渡す「引き継ぎ資料」のことです。`transition` は「移行」という意味です。イギリス英語では `handover notes` と言うことが多いです。
+
 ### B1-42 Diet Failures
 
 **場面:** Frank の部屋。Tina が三日で挫折したダイエットの計画を話し、Frank と見直す。
@@ -1448,6 +1538,8 @@
 13. **Tina**: I'll ask them to cut it in half.
     **ティナ**: 半分に切ってもらうの。
 
+> **注釈 — “That sounds easier to stick to.”**: `stick to ～` は「（計画・ルール・決めたことを）守り続ける・貫く」という意味の句動詞です。ダイエットや習慣の話でよく使われます。自然な意訳は「それなら続けやすそうだね」です。
+
 ### B1-43 Hospital Discharge
 
 **場面:** 病室。退院する Frank が医師の説明を聞く。迎えに来た Tina は、帰宅後にスープを届ける予定。
@@ -1481,6 +1573,8 @@
     **ティナ**: わかった。唐辛子は入れない。約束するわ。
 13. **Frank**: Doctor, could you write that down for her, too?
     **フランク**: 先生、それも彼女用に書いていただけますか？
+
+> **注釈 — “Hospital Discharge”**: タイトルの `discharge` は、病院の場面では「退院（させること）」を意味します。`be discharged from the hospital` で「退院する」です。一般には「放出・排出」や「解雇」の意味もあるので注意しましょう。
 
 ### B1-44 Quitting Social Media
 
@@ -1652,6 +1746,8 @@
 13. **Tina**: Three pages. I'll try starting with "How are you?"
     **ティナ**: 三ページ。「最近どう？」から始めてみるわ。
 
+> **注釈 — “So I'll explain why I'm worried, then hear her side.”**: `hear one's side` は「（もめごとなどについて）～の言い分・立場を聞く」という意味です。`side` は「（対立する一方の）側・立場」を表します。`hear both sides`（両方の言い分を聞く）という言い方もあります。自然な意訳は「それから彼女の話を聞くわ」です。
+
 ### B1-49 Press Conference
 
 **場面:** 転職から約一年後。新しい研究所の記者会見で、Frank が実験室の安全対策を説明する。Tina は後列にいる。
@@ -1685,6 +1781,8 @@
     **記者**: どんな質問だったのですか？
 13. **Frank**: "Can visitors use the microwave?" She'd already packed her lunch.
     **フランク**: 「来客も電子レンジを使えますか？」です。彼女はもう、お弁当を用意していました。
+
+> **注釈 — “Did students have a say?”**: `have a say (in ～)` は「（～について）意見を言う権利がある・決定に関わる」という意味です。ここでの `say` は名詞で「発言権」を表します。自然な意訳は「学生の意見も聞いたのですか？」です。
 
 ### B1-50 Late Night Existential Crisis
 
@@ -1788,6 +1886,8 @@
 13. **Frank**: All right. I'll take it off the list, but not off my desk.
     **フランク**: わかりました。一覧からは外します。でも、机の上からは外しません。
 
+> **注釈 — “Then we can check what qualifies.”**: `qualify` は「資格がある・条件を満たす」という意味の動詞です。税金の話では「（経費として）認められる・控除の対象になる」という意味になります。自然な意訳は「経費にできるものを確認しましょう」です。
+
 ### B1-53 Frank Actually Cries
 
 **場面:** Frank の部屋。二人は、久しぶりに父親を訪ねる男性の映画を見終えたところ。Tina がティッシュを取り、Frank に渡す。
@@ -1890,6 +1990,10 @@
 13. **Tina**: Of course. Very serious research.
     **ティナ**: そうよね。大事な研究だものね。
 
+> **注釈 — “The Outfit Intervention”**: タイトルの `intervention` は、本来、依存症などの問題を抱える人を、家族や友人が集まって説得し、治療を促す場のことです。ここでは、いつも同じジャケットのフランクに、ティナが服装を変えさせようと乗り出す様子を、大げさにそう呼んでいる冗談です。
+
+> **注釈 — “Thanks, but I don't want anything that stands out.”**: `stand out` は「目立つ・際立つ」という意味の句動詞です。良い意味（優れていて目立つ）でも、ここのように「人目を引いてしまう」という意味でも使われます。自然な意訳は「目立つ服は着たくないんだ」です。
+
 ### B1-56 Speech at a Wedding
 
 **場面:** 結婚披露宴。Frank と Tina が、新郎新婦の友人として一緒にスピーチをする。
@@ -1923,6 +2027,8 @@
     **フランク**: これからも、二人で楽しい食卓を。乾杯！
 13. **Tina**: And if dinner burns, you have our number. We'll bring pizza.
     **ティナ**: 夕食を焦がしたら、私たちに電話してね。ピザを持っていくから。
+
+> **注釈 — “We met these two at a trivia night.”**: `trivia night` は、バーやレストランなどで開かれる、チーム対抗のクイズ大会です。アメリカでは定番の娯楽で、イギリスでは `quiz night`（pub quiz）と呼ばれます。`trivia` は「雑学」という意味です。
 
 ### B1-57 A Letter from the Doctor
 
@@ -1958,6 +2064,8 @@
 13. **Tina**: Let's have dinner first. Then you can write that honestly.
     **ティナ**: 先に夕食にしましょう。それなら、正直にそう書けるわ。
 
+> **注釈 — “Gardening tires him out more now”**: `tire ～ out` は「～をくたくたに疲れさせる」という意味の句動詞です。`tire` だけでも「疲れさせる」ですが、`out` が付くと「すっかり・へとへとに」と強調されます。自然な意訳は「最近は庭仕事で前より疲れるそうだ」です。
+
 ### B1-58 Year-End Review Meeting
 
 **場面:** 新しい職場の上司のオフィス。Frank が年度末面談で目標の達成状況を確認し、来年の仕事の進め方を相談する。
@@ -1991,6 +2099,8 @@
     **フランク**: ありがとうございます。正確な達成率を計算しましょうか？
 13. **Boss**: No, Frank. Just take the compliment.
     **上司**: いや、フランク。今は素直に褒められておいてくれ。
+
+> **注釈 — “Just take the compliment.”**: `take the compliment` は「褒め言葉を（素直に）受け取る」という意味です。褒められてすぐ「正確な達成率を計算しましょうか」と言い出すフランクに、上司が「今はただ褒められておけばいい」と返しています。自然な意訳は「今は素直に褒められておいてくれ」です。
 
 ### B1-59 Tina's Homesick Morning
 
@@ -2061,3 +2171,7 @@
     **ティナ**: いいわね。今から始めてもいいのよ。
 13. **Frank**: Then I'd like my coffee back. That's my cup.
     **フランク**: じゃあ、コーヒーを返してほしい。それ、僕のカップなんだ。
+
+> **注釈 — “It's becoming a habit, though.”**: `become a habit` は「習慣・癖になる」。進行形の `It's becoming` で「だんだんそうなりつつある」という変化を表します。相手の行動について使うと、「毎回そうなっている」と不満を伝えるニュアンスになります。自然な意訳は「でも、癖になってきてる」です。
+
+> **注釈 — “I turned down another invitation.”**: `turn down ～` は「（誘い・申し出・提案を）断る」という意味の句動詞です。`refuse` や `decline` よりも口語的です。ティナと会うために、フランクは別の予定を断っていたのです。自然な意訳は「別の誘いも断ったんだ」です。
