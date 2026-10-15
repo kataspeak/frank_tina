@@ -9,6 +9,6 @@
   "stores": {"ios": null, "android": null},
   "signup": {"endpoint": null, "privacyUrl": null, "consentText": null, "integrationVerified": false},
   "links": {"operator": "https://kataspeak.com", "terms": "/ja/legal/terms/", "privacy": "/ja/legal/privacy/", "contact": null},
-  "pricing": {"monthlyYen": 200, "trialDays": 14, "productVerified": false},
+  "pricing": {"monthlyYen": 220, "trialDays": 14, "productVerified": false},
   "publication": {"requiredLevels": ["A1", "A2", "B1", "B2"], "requiredEpisodeCount": 240}
 }

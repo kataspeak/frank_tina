@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ja">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+<title>長いフレーズを区切って試す | FrankenDojo</title>
+<link rel="stylesheet" href="../practice-timing/timing.css">
+<link rel="stylesheet" href="./chunks.css">
+<link rel="stylesheet" href="../practice-mobile.css">
+<link rel="stylesheet" href="../practice-text.css">
+<body>
+<script>if (new URLSearchParams(location.search).get("embed") === "1") document.documentElement.classList.add("embedded");</script>
+<main>
+<header><span class="brand">FrankenDojo by KataSpeak</span><span>練習のしくみ · 体験デモ</span></header>
+<section aria-labelledby="title">
+<p class="eyebrow">ONE PHRASE. SMALLER STEPS.</p>
+<h1 id="title">長いフレーズも、<br>ひと区切りずつ</h1>
+<p class="intro">「短く区切る」に切り替えて、練習する長さの違いを試しましょう。</p>
+<div class="demo" data-state="loading">
+<fieldset class="unit-switch"><legend>練習する長さ</legend><label><input type="radio" name="unit" value="whole" checked> フレーズ全体</label><label><input type="radio" name="unit" value="chunks"> 短く区切る</label></fieldset>
+<div class="sentence" lang="en" aria-label="I would like a cup of coffee and a sandwich, please."><span class="chunk">I would like</span><span class="chunk">a cup of coffee</span><span class="chunk">and a sandwich, please.</span></div>
+<p class="translation">コーヒーを1杯と、サンドイッチをお願いします。</p>
+<div class="scope-line"><strong id="scope-title">フレーズ全体を練習</strong><span id="scope-count">1フレーズ</span></div>
+<div class="stage">
+<canvas id="scene" aria-label="上段がお手本、下段があなた。同じ時間軸で波形が左から右へ伸びます。" role="img"></canvas>
+<span class="lane-label model-label">お手本</span><span class="lane-label voice-label">あなた</span>
+<span class="state-label" id="model-state"></span>
+<span class="state-label voice-state" id="voice-state"></span>
+</div>
+<div class="controls">
+<button id="speak" class="primary" disabled>話す</button>
+<p class="scope-hint" id="scope-hint">長く感じたら「短く区切る」を試してみましょう。</p>
+</div>
+<div class="feedback" role="status" aria-live="polite" id="feedback">アニメーションを読み込んでいます…</div>
+<div class="toolbar"><button id="pause" disabled>一時停止</button><button id="reset" disabled>最初から</button><label><input id="slow" type="checkbox" checked> ゆっくり表示</label><span>音声・マイクは使いません</span></div>
+</div>
+<p class="hint">ここでは各区切りを1回ずつ練習します。<br>アプリでは、回数や速度メニューに応じて繰り返します。</p>
+<details><summary>このデモについて</summary><p>長さの違いに集中するため、単一速度・各区切り1回の練習を例にしています。実際のアプリでは回数や速度メニューの設定によって、同じ区切りを続けて練習する場合があります。</p><p>区切りはこの英文の説明用に設定した例です。音声からの自動分割が必ず意味のまとまりになることを表すものではありません。波形と表示時間は模式的なもので、音声・マイク・採点は使いません。</p><p>練習する長さを切り替えると、この体験は先頭からやり直します。</p></details>
+</section>
+</main>
+<script src="../vendor/rive-2.43.1/rive.js"></script>
+<script src="./chunks.js"></script>
+</body></html>

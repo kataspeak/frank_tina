@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+<title>積み重ねた練習が、メダルになる | FrankenDojo</title>
+<link rel="stylesheet" href="../practice-timing/timing.css"><link rel="stylesheet" href="./medals.css">
+<link rel="stylesheet" href="../practice-mobile.css">
+<link rel="stylesheet" href="../practice-text.css">
+<body><script>if(new URLSearchParams(location.search).get('embed')==='1')document.documentElement.classList.add('embedded');</script>
+<main><header><span class="brand">FrankenDojo by KataSpeak</span><span>練習のしくみ · 体験デモ</span></header><section aria-labelledby="title">
+<p class="eyebrow">YOUR PRACTICE. YOUR MEDALS.</p><h1 id="title">積み重ねた練習が、<br>メダルになる</h1><p class="intro">フレーズごとの練習を積み上げて、ブロンズ・シルバー・ゴールドへ。</p>
+<div class="demo medal-demo" data-mode="warmup">
+<p class="demo-setting-note" id="demo-setting-note">体験用の目標：各段階2回ずつ</p>
+<div class="medal-shelf" id="medal-shelf" aria-label="このレッスンのメダル"></div>
+
+<div class="count-heading"><div><span>レッスン全体の通し回数</span><strong><b id="rounds">0</b><small>回</small></strong></div><p id="goal">カウントを始めると、メダルに向けて練習を数えます。</p></div>
+<div class="stack-area">
+<div class="matched-line" id="matched-line" aria-hidden="true"><span>そろった回数</span></div>
+<div class="phrase-columns">
+<div class="phrase-column"><div class="stack" id="stack-0" aria-label="フレーズ1の練習回数 0回"></div><span class="phrase-number">PHRASE 01</span><strong lang="en">Good morning.</strong><p><b id="count-0">0</b> 回</p><button class="phrase-button" data-phrase="0" aria-label="フレーズ1 Good morning.を練習する">練習する</button></div>
+<div class="phrase-column"><div class="stack" id="stack-1" aria-label="フレーズ2の練習回数 0回"></div><span class="phrase-number">PHRASE 02</span><strong lang="en">How are you?</strong><p><b id="count-1">0</b> 回</p><button class="phrase-button" data-phrase="1" aria-label="フレーズ2 How are you?を練習する">練習する</button></div>
+<div class="phrase-column"><div class="stack" id="stack-2" aria-label="フレーズ3の練習回数 0回"></div><span class="phrase-number">PHRASE 03</span><strong lang="en">See you later.</strong><p><b id="count-2">0</b> 回</p><button class="phrase-button" data-phrase="2" aria-label="フレーズ3 See you later.を練習する">練習する</button></div>
+</div></div>
+<p class="stack-caption" id="stack-caption">3つすべてでそろった回数が、通し回数になります。</p>
+<div class="medal-controls"><button class="primary" id="count-mode">カウントを始める</button><button class="auto-button" id="auto" disabled>ブロンズまで自動で練習</button></div>
+<div class="achievement" id="achievement" role="status" aria-live="polite"><span class="award-icon" id="award-icon" aria-hidden="true" hidden></span><span id="achievement-text">まずは慣らし練習。回数を気にせず、声に出して。</span></div>
+<div class="practice-preview"><div class="practice-copy"><span id="mode-label">慣らし練習</span><strong id="current-phrase" lang="en">Good morning.</strong><p id="practice-message">上のボタンで、好きなフレーズを練習してみましょう。</p></div><div class="stage"><canvas id="scene" role="img" aria-label="お手本とフランケンくんの発話を示す練習アニメーション"></canvas><span class="lane-label">お手本</span><span class="lane-label voice-label">フランケンくん</span></div></div>
+<div class="medal-settings"><label for="target">各メダルまでの追加通し回数<select id="target"><option value="2" selected>2回ずつ（体験用）</option><option value="10">10回ずつ（アプリの初期設定）</option></select></label><p>切り替えるとデモを最初から始めます。アプリでは、各段階の必要回数を変更できます。</p></div>
+<div class="toolbar"><button id="pause" disabled>一時停止</button><button id="reset">最初から</button><span>音声・マイクは使いません</span></div>
+</div>
+<p class="hint">メダルは、練習を積み重ねたしるし。<br>発音の点数や合否を表すものではありません。</p>
+<details><summary>通し回数と、メダルのしくみ</summary><p>通し回数は、レッスン内のすべての対象フレーズでそろった練習回数です。「3回・2回・1回」なら通し回数は「1回」。ひとつのフレーズだけを繰り返しても、他のフレーズがまだなら通し回数は増えません。</p><p>初期設定は各段階10回ずつ。累計10回でブロンズ、20回でシルバー、30回でゴールドです。このデモでは短く試せるよう各段階2回ずつにしており、初期設定との切り替えもできます。</p><p>慣らし中は加算されません。「カウントを始める」を選んだ後の練習を数えます。カウントを休止しても、それまでの回数と獲得済みメダルは残ります。慣らし中の練習をさかのぼって加算することはありません。</p><p>ここでは3フレーズのレッスンに省略し、1回のアニメーションをフレーズの練習1回分として示しています。実際に1回分を完了するまでの流れは、練習単位や回数・速度の方式で異なります。このページでは発話の検知・採点・実績の保存は行いません。</p><p>ブロンズ・シルバー獲得時には、アプリで録音してお手本と聞き比べることを提案します。聞き比べはメダルの獲得条件ではありません。ゴールドも発音の合格判定ではなく、目標の通し回数に届いたしるしです。</p></details>
+</section></main><script src="../vendor/rive-2.43.1/rive.js"></script><script src="./flow.js"></script><script src="./medals.js"></script></body></html>

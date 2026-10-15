@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ja">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+<title>難易度に合わせた練習を試す | FrankenDojo</title>
+<link rel="stylesheet" href="../practice-timing/timing.css">
+<link rel="stylesheet" href="./difficulty.css">
+<link rel="stylesheet" href="../practice-mobile.css">
+<link rel="stylesheet" href="../practice-text.css">
+<body>
+<script>if (new URLSearchParams(location.search).get('embed') === '1') document.documentElement.classList.add('embedded');</script>
+<main>
+<header><span class="brand">FrankenDojo by KataSpeak</span><span>練習のしくみ · 体験デモ</span></header>
+<section aria-labelledby="title">
+<p class="eyebrow">YOUR PHRASE. YOUR PACE.</p>
+<h1 id="title">難しいところは、<br>あなたに合うメニューで</h1>
+<p class="intro">同じフレーズでも、難易度を変えると練習メニューが変わります。</p>
+<div class="demo" data-state="loading">
+<div class="settings-grid">
+<fieldset class="choice"><legend>自分でつける難易度</legend><div class="segments difficulty-choice">
+<label><input type="radio" name="difficulty" value="easy"><span>簡単</span></label>
+<label><input type="radio" name="difficulty" value="normal" checked><span>普通</span></label>
+<label><input type="radio" name="difficulty" value="hard"><span>困難</span></label>
+</div></fieldset>
+<fieldset class="choice"><legend>難易度への合わせ方</legend><div class="segments mode-choice">
+<label><input type="radio" name="mode" value="speed" checked><span>再生速度を変える</span></label>
+<label><input type="radio" name="mode" value="count"><span>練習回数を変える</span></label>
+</div></fieldset>
+</div>
+<p class="setting-note">アプリの初期設定で比較。切り替えると、このフレーズを最初から試せます。</p>
+<div class="menu-panel">
+<div class="menu-caption"><span id="menu-title">普通の速度メニュー</span><strong id="menu-summary">0.8倍から、3つのお手本</strong></div>
+<ol id="menu" class="menu-track" aria-label="このフレーズの練習メニュー"></ol>
+<p id="menu-rule">どこかで一度話せば、残りのお手本を聞いて次へ。</p>
+</div>
+<div class="phrase-status"><div><span>同じフレーズで比較</span><strong lang="en">How are you?</strong></div><div class="speed-readout"><strong id="speed-value">0.8<span>×</span></strong><span id="speed-caption">お手本の速さ</span></div></div>
+<div class="stage">
+<canvas id="scene" aria-label="上段がお手本、下段があなた。選んだ速度に合わせて波形が進みます。" role="img"></canvas>
+<span class="lane-label model-label">お手本</span><span class="lane-label voice-label">あなた</span>
+<span class="state-label" id="model-state"></span><span class="state-label voice-state" id="voice-state"></span>
+</div>
+<div class="controls"><button id="speak" class="primary" disabled>話す</button><label class="auto-speak"><input type="checkbox" id="auto-speak"> 自動で話す<small>メニューの進み方を見る</small></label></div>
+<div class="feedback" role="status" aria-live="polite" id="feedback">アニメーションを読み込んでいます…</div>
+<div class="next-phrase" id="next-phrase" hidden><span>このフレーズの練習が完了</span><strong>次のフレーズへ <span aria-hidden="true">→</span></strong><span lang="en">See you later.</span></div>
+<div class="toolbar"><button id="pause" disabled>一時停止</button><button id="reset" disabled>最初から</button><label><input id="slow" type="checkbox"> ゆっくり表示</label><span>音声・マイクは使いません</span></div>
+</div>
+<p class="hint">ここでは初期設定のメニューを比較しています。<br>回数や速度の組み合わせは、アプリの設定で変更できます。</p>
+<details><summary>このデモについて</summary><p>フレーズ単位の練習を、アプリの初期設定で示しています。回数方式は簡単1回・普通2回・困難3回、ここでは再生速度を1.0倍に固定しています。話さずに聞き直しても、練習回数は増えません。</p><p>速度方式は簡単［1.0］、普通［0.8・0.8・1.0］、困難［0.6・0.6・0.6・0.8・0.8・1.0］倍。話さなくても次の速度へ進み、一度も話さずにメニューを終えると先頭へ戻ります。一度話せたら、その周の残りのお手本を再生して次のフレーズへ進みます。すべての速度で話す必要はありません。</p><p>「話す」は発話が成立する場合の模式体験です。「自動で話す」は説明専用で、速度方式ではその周の最初の発話だけを代わりに操作します。実際の音声・マイク・録音・採点は使いません。「ゆっくり表示」は図全体の動きを半分にする観察用の操作で、メニューの設定値は変わりません。</p><p>アプリでは回数を1〜10回、速度を0.5〜1.0倍・最大6枠で調整できます。このデモの切り替えは比較しやすいよう先頭へ戻します。完了後は次のフレーズへ進むことを示して停止します。</p></details>
+</section></main>
+<script src="../vendor/rive-2.43.1/rive.js"></script><script src="./flow.js"></script><script src="./difficulty.js"></script>
+</body></html>

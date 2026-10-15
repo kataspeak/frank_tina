@@ -9,7 +9,7 @@ import re
 import tempfile
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlparse, unquote
+from urllib.parse import urlparse, unquote, urljoin
 from xml.etree import ElementTree as ET
 from build import WEB, load_config, publication_blockers
 from source import parse_sources, segments, SourceError
@@ -43,10 +43,12 @@ class Document(HTMLParser):
 
 def normalized(text): return re.sub(r'\s+',' ',text).strip()
 
-def verify(report_dir=None, baseline=None, config_path=None, production=False):
+def verify(report_dir=None, baseline=None, config_path=None, production=False, material_snapshot=None):
     report_dir = report_dir or WEB/'reports'
     report_dir.mkdir(parents=True,exist_ok=True)
-    config=load_config(config_path, production); original=parse_sources(); material=json.loads((WEB/'.cache/material.json').read_text()); eps=material['episodes']
+    config=load_config(config_path, production)
+    original=json.loads(material_snapshot.read_text()) if material_snapshot else parse_sources()
+    material=json.loads((WEB/'.cache/material.json').read_text()); eps=material['episodes']
     checks=[]; problems=[]; output=WEB/'dist'
     def check(condition,message):
         if not condition: problems.append(message)
@@ -54,6 +56,8 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False):
     expected={f'{level}-{n:02d}' for level in ('A1','A2') for n in range(1,61)}
     check({ep['id'] for ep in eps}==expected and len(eps)==120,'120話のID集合が不一致')
     original_by_id={ep['id']:ep for ep in original['episodes']}
+    demo_names=('timing','chunks','loops','difficulty','selection','sleep','medals','import','recording')
+    demo_paths={f'/assets/practice-{name}/' for name in demo_names}
     docs={}
     for p in sorted(output.rglob('*.html')):
         # /app is reserved and may be mounted by a separate app: never inspect it.
@@ -66,6 +70,13 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False):
         check(any(n.attrs.get('name')=='robots' and n.attrs.get('content')=='noindex,nofollow' for n in doc.tag('meta')),f'{path}: noindexなし')
         ids=[n.attrs['id'] for n in doc.nodes if 'id' in n.attrs]
         check(len(ids)==len(set(ids)),f'{path}: HTML ID重複')
+        if path in demo_paths:
+            check(len(doc.tag('canvas'))==1 and len(doc.tag('button'))>=2,f'{path}: デモ画面・操作欠落')
+            if path=='/assets/practice-recording/':
+                check(len(doc.tag('audio'))==2 and all('autoplay' not in n.attrs for n in doc.tag('audio')),f'{path}: 聞き比べ音声・自動再生設定')
+            else:
+                check(not doc.tag('audio') and not doc.tag('video'),f'{path}: 無音デモに音声あり')
+            continue
         if path=='/': continue
         check(len(doc.tag('h1'))==1,f'{path}: h1個数不正')
         check(len(doc.tag('title'))==1,f'{path}: title個数不正')
@@ -82,7 +93,7 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False):
             for attr in ('href','src','action'):
                 target=n.attrs.get(attr)
                 if not target or target.startswith(('data:','mailto:','tel:')): continue
-                u=urlparse(target)
+                u=urlparse(urljoin(path,target))
                 if u.netloc and u.netloc!=urlparse(config['origin']).netloc: continue
                 dest=unquote(u.path) or path
                 if dest.startswith('/app/'):
@@ -124,12 +135,13 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False):
         check(any(n.attrs.get('property')=='og:image' and ep['meta']['slug'] in n.attrs.get('content','') for n in doc.tag('meta')),f'{ep["id"]}: OG画像不一致')
     for level in ('a1','a2'):
         check(len(docs[f'/ja/courses/{level}/'].cls('episode-card'))==60,f'{level}: 初期HTMLのカード数')
-    titles=[doc.tag('title')[0].text() for p,doc in docs.items() if p!='/']
-    descriptions=[next(n.attrs['content'] for n in doc.tag('meta') if n.attrs.get('name')=='description') for p,doc in docs.items() if p!='/']
+    titles=[doc.tag('title')[0].text() for p,doc in docs.items() if p!='/' and p not in demo_paths]
+    descriptions=[next(n.attrs['content'] for n in doc.tag('meta') if n.attrs.get('name')=='description') for p,doc in docs.items() if p!='/' and p not in demo_paths]
     check(len(titles)==len(set(titles)),'title重複'); check(len(descriptions)==len(set(descriptions)),'description重複')
     for p in output.rglob('*'):
         if p.is_file() and p.relative_to(output).parts[0]!='app':
-            check(p.suffix in {'.html','.css','.js','.webp','.txt','.xml','.woff2','.riv','.wasm'},f'配信禁止形式: {p.name}')
+            demo_media={'assets/practice-sleep/frank-awake.png','assets/practice-sleep/frank-sleep.png','assets/practice-recording/NiceToMeetYou_Tina.mp3','assets/practice-recording/NiceToMeetYou_FrankSlow.mp3'}
+            check(p.suffix in {'.html','.css','.js','.webp','.txt','.xml','.woff2','.riv','.wasm'} or p.relative_to(output).as_posix() in demo_media,f'配信禁止形式: {p.name}')
     check(len(list((output/'assets/images').glob('*.webp')))==360,'3サイズの配信画像数')
     opening_assets = ['animations/frankendojo_opening.riv', 'vendor/rive-2.43.1/rive.js',
                       'vendor/rive-2.43.1/rive.wasm', 'vendor/rive-2.43.1/rive_fallback.wasm',
@@ -140,7 +152,7 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False):
     check(any(node.tag == 'img' and node.attrs.get('alt') for node in docs['/ja/'].cls('poster-art')[0].all()), 'トップの静止画フォールバック欠落')
     check(bool(docs['/ja/'].cls('opening-replay')), 'アニメーション操作欠落')
     for path, doc in docs.items():
-        if path != '/ja/':
+        if path != '/ja/' and path not in demo_paths:
             check(not any('opening.js' in node.attrs.get('src', '') or 'rive.js' in node.attrs.get('src', '') for node in doc.tag('script')), f'トップ以外でRive読込: {path}')
     ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9','i':'http://www.google.com/schemas/sitemap-image/1.1'}
     sitemap_paths={urlparse(n.text).path for n in ET.parse(output/'sitemap.xml').findall('s:url/s:loc',ns)}
@@ -158,7 +170,15 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False):
         for control in ('data-demo-play','data-demo-restart','data-demo-next'):
             check(any(control in n.attrs for n in doc.tag('button')),f'{path}: デモ操作なし {control}')
         check('動作イメージ' in doc.root.text(),f'{path}: 説明用デモの表示なし')
-    for copy_text in ('語学は鍛える時代へ','無意識で使える表現力が、ここで身につく','好きな教材を使っても、鍛えられる','今すぐダウンロードして、言葉の道場に入門'):
+    for name in demo_names:
+        path=f'/assets/practice-{name}/'
+        check(path in docs,f'{path}: インタラクティブ場面が欠落')
+        check(any(n.attrs.get('src')==path+'index.html?embed=1' for n in docs['/ja/'].tag('iframe')),f'{path}: ホームへの埋め込み欠落')
+        for asset in (WEB/'static'/f'practice-{name}').rglob('*'):
+            if asset.is_file():
+                target=output/'assets'/asset.relative_to(WEB/'static')
+                check(target.is_file() and target.read_bytes()==asset.read_bytes(),f'{path}: 配信素材不一致 {asset.name}')
+    for copy_text in ('語学は鍛える時代へ','使いたい表現を、','声に出す習慣へ','今すぐダウンロードして、言葉の道場に入門'):
         check(copy_text in docs['/ja/'].root.text(),f'指定コピー欠落: {copy_text}')
     for name in ('poppins-800','noto-sans-jp-400','noto-sans-jp-700'):
         font=output/'assets/fonts'/f'{name}.woff2'
@@ -205,10 +225,10 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False):
         dd=[node.text() for node in update_doc.tag('dd')]
         check(dd[1]==('提供中' if web else '提供準備中'),'Web公開状況が不一致')
         check(('（予定）' in dd[3])== (not billing),'料金の予定表示が不一致')
-        for lesson in ('A1-01','A1-60','A2-01','A2-60'):
+        for lesson in ('A1-01','A1-05','A1-06','A1-60','A2-01','A2-05','A2-06','A2-60'):
             label,link=templates.training_link(c,lesson)
             check(link==(f'/app/lessons/{lesson}' if web else f'/ja/updates/?lesson={lesson}'),f'CTA切替 {lesson}')
-            check(('無料' in label)==(web and lesson=='A1-01'),f'無料CTA {lesson}')
+            check(('無料' in label)==(web and lesson in ('A1-01','A1-05','A2-01','A2-05')),f'無料CTA {lesson}')
     for bad in (None,'javascript:alert(1)','https://example.test/no-id','/unconfirmed/{id}'):
         c=copy.deepcopy(config); c['release']['webTraining']=True; c['app']={'routeConfirmed':True,'lessonUrlTemplate':bad}
         try: templates.training_link(c)
@@ -240,7 +260,7 @@ def verify(report_dir=None, baseline=None, config_path=None, production=False):
         for key in ('webTraining','ios','android','billing'):
             unsafe=copy.deepcopy(config); unsafe['release'][key]=True
             check(bool(publication_blockers(unsafe,eps)),f'先行公開で{key}を受理')
-    report={'success':not problems,'htmlPages':len(docs),'episodes':len(eps),'bilingualBlocks':spoken_count,'sfx':sfx_count,'expressions':360,'webpFiles':360,'sitemapUrls':len(sitemap_paths),'featurePages':8,'unchangedStoryMainHashes':preserved if baseline else 'not requested','stateCombinations':16,'parserNegativeCases':5,'sourceNotesHandled':len(material['sourceNotes']),'problems':problems,'materialRevision':material['materialRevision'],'browserChecks':'See the redesign QA record. This script alone does not claim browser QA.'}
+    report={'sourceMode':'approved-preview-snapshot' if material_snapshot else 'current-manuscripts','success':not problems,'htmlPages':len(docs),'episodes':len(eps),'bilingualBlocks':spoken_count,'sfx':sfx_count,'expressions':360,'webpFiles':360,'sitemapUrls':len(sitemap_paths),'featurePages':8,'unchangedStoryMainHashes':preserved if baseline else 'not requested','stateCombinations':16,'parserNegativeCases':5,'sourceNotesHandled':len(material['sourceNotes']),'problems':problems,'materialRevision':material['materialRevision'],'browserChecks':'See the redesign QA record. This script alone does not claim browser QA.'}
     (report_dir/'validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(report,ensure_ascii=False,indent=2))
     if problems: raise SystemExit(1)
@@ -251,5 +271,6 @@ if __name__=='__main__':
     parser.add_argument('--baseline',type=Path)
     parser.add_argument('--config',type=Path)
     parser.add_argument('--production',action='store_true')
+    parser.add_argument('--material-snapshot',type=Path,help='Validate against the same approved preview snapshot used by build')
     args=parser.parse_args()
-    verify(args.report_dir,args.baseline,args.config,args.production)
+    verify(args.report_dir,args.baseline,args.config,args.production,args.material_snapshot)

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ja">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+<title>話すタイミングを試す | FrankenDojo</title>
+<link rel="stylesheet" href="./timing.css">
+<link rel="stylesheet" href="../practice-mobile.css">
+<link rel="stylesheet" href="../practice-text.css">
+<body>
+<script>if (new URLSearchParams(location.search).get("embed") === "1") document.documentElement.classList.add("embedded");</script>
+<main>
+<header><span class="brand">FrankenDojo by KataSpeak</span><span>練習のしくみ · 体験デモ</span></header>
+<section aria-labelledby="title">
+<p class="eyebrow">LISTEN. SPEAK. YOUR PACE.</p>
+<h1 id="title">話し始めるのは、<br>あなたのタイミング</h1>
+<p class="intro">お手本に重ねても、聞き終えてからでも。<br>「話す」を押して、フランケンくんと試してみましょう。</p>
+<div class="demo" data-state="loading">
+<div class="phrase-heading"><span>練習中 <b id="phrase-number">1 / 3</b></span><strong id="current-phrase">Good morning.</strong></div>
+<ol class="phrase-list" aria-label="練習するフレーズ"><li class="phrase-step active" aria-current="step">Good morning.</li><li class="phrase-step">How are you?</li><li class="phrase-step">See you later.</li></ol>
+<div class="stage">
+<canvas id="scene" aria-label="上段がお手本、下段があなた。同じ時間軸で波形が左から右へ伸びます。" role="img"></canvas>
+<span class="lane-label model-label">お手本</span><span class="lane-label voice-label">あなた</span>
+<span class="state-label" id="model-state"></span>
+<span class="state-label voice-state" id="voice-state"></span>
+</div>
+<div class="controls">
+<button id="speak" class="primary" disabled>話す</button>
+<div class="gap-control"><label for="gap">お手本の再生間隔（体験用） <output id="gap-value">0.8 秒</output></label><input id="gap" type="range" min="0" max="2" step="0.1" value="0.8"><div class="range-labels"><span>すぐ繰り返す</span><span>間をあける · 次のお手本から反映</span></div><p class="control-note">体験用は0〜2秒。アプリの固定間隔は0.5〜1秒です。</p></div>
+</div>
+<div class="feedback" role="status" aria-live="polite" id="feedback">アニメーションを読み込んでいます…</div>
+<div class="toolbar"><button id="pause" disabled>一時停止</button><button id="reset" disabled>最初から</button><label><input id="slow" type="checkbox" checked> ゆっくり表示</label><span>音声・マイクは使いません</span></div>
+</div>
+<p class="hint">ここでは各フレーズを1回ずつ練習する例です。<br>アプリでは、回数や速度メニューの設定に合わせて次へ進みます。</p>
+<details><summary>このデモについて</summary><p>3フレーズを順に練習する説明用のデモです。回数方式・フレーズ単位・各1回の例です。発話しない間は同じフレーズを繰り返し、お手本と発話が両方終わると次へ進みます。3つ目の後は最初へ戻ります。フレーズごとに異なる模式的な波形を使い、上下では同じ形を表示しています。発音の採点や録音は行いません。</p><p>間隔は違いを体験しやすいように0〜2秒に広げています。アプリの固定間隔は0.5〜1秒です。音声の長さに合わせた間隔も選べます。「ゆっくり表示」では動きだけを半分の速さにします。</p></details>
+</section>
+</main>
+<script src="../vendor/rive-2.43.1/rive.js"></script>
+<script src="./timing.js"></script>
+</body></html>

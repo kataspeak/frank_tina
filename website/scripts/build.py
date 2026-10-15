@@ -98,10 +98,19 @@ def write_page(path, html):
     target=WEB/'dist'/path.strip('/')/'index.html'
     target.parent.mkdir(parents=True,exist_ok=True); target.write_text(html)
 
-def build(config, report_dir=None):
+def build(config, report_dir=None, material_snapshot=None):
     report_dir = report_dir or WEB/'reports'
     report_dir.mkdir(parents=True, exist_ok=True)
-    material=parse_sources(); episodes=material['episodes']
+    # An explicit snapshot reproduces a reviewed preview without publishing
+    # later manuscript edits. The normal build always parses current sources.
+    material=json.loads(material_snapshot.read_text()) if material_snapshot else parse_sources()
+    episodes=material['episodes']
+    if material_snapshot:
+        (report_dir/'material-input.json').write_text(json.dumps({
+            'mode':'approved-preview-snapshot', 'path':str(material_snapshot.resolve()),
+            'sha256':hashlib.sha256(material_snapshot.read_bytes()).hexdigest(),
+            'materialRevision':material['materialRevision'],
+        },ensure_ascii=False,indent=2)+'\n')
     meta=json.loads((WEB/'content/episodes.json').read_text())
     images=json.loads((WEB/'content/images.json').read_text())
     if set(meta)!={ep['id'] for ep in episodes}: raise ValueError('サイト用メタデータのID集合が原本と異なります')
@@ -130,10 +139,15 @@ def build(config, report_dir=None):
         if (output/owned).exists(): shutil.rmtree(output/owned)
     (output/'assets/images').mkdir(parents=True,exist_ok=True)
     for p in (WEB/'static').rglob('*'):
-        if p.is_file() and p.suffix in {'.css', '.js', '.webp', '.woff2', '.txt', '.riv', '.wasm'}:
+        if p.is_file() and p.suffix in {'.css', '.js', '.webp', '.woff2', '.txt', '.riv', '.wasm', '.mp3'}:
             target = output/'assets'/p.relative_to(WEB/'static')
             target.parent.mkdir(parents=True,exist_ok=True)
             shutil.copyfile(p,target)
+    # Explicitly include the interactive practice document, not arbitrary HTML.
+    for demo in ('practice-timing', 'practice-chunks', 'practice-loops', 'practice-difficulty', 'practice-selection', 'practice-sleep', 'practice-medals', 'practice-import', 'practice-recording'):
+        shutil.copyfile(WEB/f'static/{demo}/index.html', output/f'assets/{demo}/index.html')
+    for name in ('frank-awake.png', 'frank-sleep.png'):
+        shutil.copyfile(WEB/f'static/practice-sleep/{name}', output/f'assets/practice-sleep/{name}')
     (output/'.DS_Store').unlink(missing_ok=True)
     for legal in ('LICENSE','NOTICE'): shutil.copyfile(ROOT/legal,output/'assets'/f'{legal}.txt')
     with ThreadPoolExecutor(max_workers=6) as pool:
@@ -190,9 +204,10 @@ def write_sitemaps(config,episodes):
 if __name__=='__main__':
     parser=argparse.ArgumentParser(); parser.add_argument('--production',action='store_true'); parser.add_argument('--config',type=Path)
     parser.add_argument('--report-dir', type=Path, default=WEB/'reports')
+    parser.add_argument('--material-snapshot', type=Path, help='Reproduce an explicitly reviewed preview material snapshot')
     args=parser.parse_args()
     args.report_dir.mkdir(parents=True,exist_ok=True)
-    try: build(load_config(args.config,args.production),args.report_dir)
+    try: build(load_config(args.config,args.production),args.report_dir,args.material_snapshot)
     except (ValueError, subprocess.CalledProcessError) as exc:
         (args.report_dir/'build-errors.txt').write_text(str(exc)+'\n')
         raise SystemExit(str(exc))

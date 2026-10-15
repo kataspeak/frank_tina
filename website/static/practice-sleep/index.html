@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+<title>眠る前の練習と、翌朝の振り返り | FrankenDojo</title>
+<link rel="stylesheet" href="../practice-timing/timing.css"><link rel="stylesheet" href="./sleep.css">
+<link rel="stylesheet" href="../practice-mobile.css">
+<link rel="stylesheet" href="../practice-text.css">
+<body><script>if(new URLSearchParams(location.search).get('embed')==='1')document.documentElement.classList.add('embedded');</script>
+<main><header><span class="brand">FrankenDojo by KataSpeak</span><span>練習のしくみ · 体験デモ</span></header><section aria-labelledby="title">
+<p class="eyebrow">YOUR NIGHT. YOUR LANGUAGE.</p><h1 id="title">眠りにつくまで、<br>語学にひたる</h1><p class="intro">寝る前の1時間を、聞いて、声に出す時間に。声が途切れた時間をもとに、静かに停止します。</p>
+<div class="demo sleep-demo" data-phase="idle">
+<ol class="story-steps" aria-label="夜から朝への流れ"><li aria-current="step">練習する</li><li>眠る</li><li>静かに止まる</li><li>朝、振り返る</li></ol>
+<div class="night-scene" role="group" aria-label="フランケンくんの夜から朝へのアニメーション">
+<div class="sky" aria-hidden="true"><span class="moon"></span><span class="star one">✦</span><span class="star two">✧</span><span class="star three">·</span></div>
+<div class="scene-heading"><span id="time-label">GOOD NIGHT</span><strong id="scene-title">眠りにつくまで、語学にひたる</strong></div>
+<div class="practice-screen"><canvas id="scene" role="img" aria-label="お手本を聞きながら、フランケンくんが声に出して練習します。"></canvas><span class="model-tag">お手本</span><span class="frank-tag">フランケンくん</span></div>
+<div class="resting-frank" aria-hidden="true"><div class="pillow"></div><img src="./frank-sleep.png" width="1024" height="1536" alt=""><span class="zzz">z Z</span><div class="blanket"></div></div>
+<div class="morning-cast" aria-hidden="true"><img class="waking-frank" src="./frank-sleep.png" width="1024" height="1536" alt=""><img class="awake-frank" src="./frank-awake.png" width="1024" height="1536" alt=""><div class="tina-entrance"><div class="greeting"><span class="greeting-full">おはよう、<br>フランケンくん！</span><span class="greeting-short">おはよう！</span></div><img src="../brand/tina-480.webp" width="480" height="480" alt=""></div></div>
+<div class="phone" id="phone" hidden><span class="phone-speaker" aria-hidden="true"></span><div class="phone-screen"><span class="phone-eyebrow">昨夜の練習</span><strong>声に出した時間</strong><p><b id="result-minutes">38</b>分 <b id="result-seconds">24</b>秒</p><span class="estimate">発話時間（推定）</span><div class="result-rule"></div><span id="stop-reason">無発話が続いたため自動停止</span><small>練習結果の例</small></div><span class="phone-home" aria-hidden="true"></span></div>
+<div class="stop-sign" id="stop-sign" hidden>おやすみなさい。<br><span>再生は止まっています。</span></div>
+</div>
+<div class="silence-strip"><span id="silence-label">設定した上限時間まで、声が続く間は練習を続けます。</span><div class="silence-track" aria-hidden="true"><i id="silence-fill"></i></div></div>
+<div class="sleep-controls"><button class="primary" id="action">練習を始める</button><label class="stop-setting" for="silence">声が途切れたら<select id="silence"><option value="1">1分で停止</option><option value="3" selected>3分で停止</option><option value="5">5分で停止</option></select></label></div>
+<p class="feedback" id="feedback" role="status" aria-live="polite">「練習を始める」で、夜の練習を体験できます。</p>
+<div class="toolbar"><button id="pause" disabled>一時停止</button><button id="reset">最初から</button><span>音声・マイクは使いません</span></div>
+</div>
+<p class="hint">睡眠そのものは検知せず、声が途切れた時間で停止します。<br>朝の38分24秒は、上限60分で練習した夜の結果例です。<br>無発話の待ち時間は30倍に短縮しています（3分 → 約6秒）。</p>
+<details><summary>実際のアプリでは？</summary><p>就寝前練習はスマホ版（iOS / Android）の機能です。発話がない状態が1・3・5分の設定時間続くと、自動で停止します。初期設定は3分。お手本の再生中も無発話時間を計測し、声を検知すると計測をやり直します。</p><p>練習の上限時間は15・30・60・90分から設定できます（初期設定60分）。このデモでは60分相当を上限にしています。停止時に通知音や結果画面を出さず、あとからアプリを開いたときなどに結果を確認できます。</p><p>「発話時間（推定）」は、声に出していた時間の目安です。眠るまでの時間や睡眠の質を測るものではありません。朝の38分24秒は、まとまった時間練習した夜の説明用の例です。このページを操作した時間から計算した数値ではなく、実際の練習記録としても保存されません。睡眠そのものではなく、声が途切れた時間をもとに停止します。</p><p>ティナが起こす場面は、このウェブサイトの説明用の演出です。アプリの目覚まし機能を示すものではありません。動きを減らす設定でも、ボタンで夜から朝の流れを試せます。</p></details>
+</section></main><script src="../vendor/rive-2.43.1/rive.js"></script><script src="./flow.js"></script><script src="./sleep.js"></script></body></html>

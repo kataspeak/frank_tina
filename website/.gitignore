@@ -1,3 +1,4 @@
+# Generated site and local build state
 dist/
 .cache/
 __pycache__/
@@ -5,3 +6,10 @@ __pycache__/
 config.local.json
 /reports/
 .DS_Store
+
+# Local dependencies, test output, and deployment CLI state
+node_modules/
+coverage/
+test-results/
+playwright-report/
+.wrangler/

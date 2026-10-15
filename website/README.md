@@ -96,7 +96,7 @@ python3 scripts/build.py --config config.local.json
 - `stores.ios` / `android`：実在する公式ストアURLの確認後に設定します。
 - `signup`：実受付先・同意文・プライバシーURL・接続確認。初期状態では入力・送信を無効化。
 - `links`：原資料で確認できた運営サイトのみ設定済み。架空の問い合わせメール・利用規約・プライバシーページは作っていません。
-- `pricing`：月額200円・14日間は予定として表示。商品設定確認前に課金公開を有効化するとビルドが失敗します。
+- `pricing`：月額220円（税込）・14日間は予定として表示。商品設定確認前に課金公開を有効化するとビルドが失敗します。
 
 教材のリンク契約とメール受付の応答契約は [接続メモ](APP_HANDOFF.md) に記載しています。
 
@@ -176,3 +176,24 @@ wrangler pages deploy website/dist --project-name frankendojo --branch main --co
 ## 法務ページ
 
 `content/legal/` のMarkdownから `/ja/legal/terms/`、`/ja/legal/privacy/`、`/ja/legal/commercial-transactions/` を生成し、全ページのフッターからリンクします。利用規約とプライバシーポリシーは2026-10-04に `/Users/Yoshio/StudioProjects/FrankenDojo/docs/legal/` から取り込んだ全文のスナップショットです。原本更新時は2ファイルを再取り込みしてください。特商法表記は同資料の事業者・課金情報に基づき作成しています。電話番号が未確認の場合、本番ビルドは配信物を書き換える前に停止します。
+
+2026-10-15の利用者指定により、サイトの利用規約・特商法表記の価格だけを月額220円（税込）へ更新しました。アプリ側原本・ストア商品設定の変更は含みません。
+
+## 2026-10-15：確認済みホームページの再配置
+
+今回の利用者承認はローカルプレビューの表示内容を対象とします。台本正本にはプレビュー作成後の変更があるため、その変更を未確認のまま公開しないよう、確認済み `material.json` を `reports/publish-2026-10-15/approved-material.json` に保存して再現しています。通常ビルドの正本チェックは維持し、この経路だけ明示的に `--material-snapshot` を指定します。各話の `sourceRevision` と解説メタデータの一致確認は維持します。新しい台本を公開する場合は、解説を再確認し、スナップショットを指定しない通常ビルドを行ってください。
+
+```sh
+python3 website/scripts/build.py --production --config website/config.prelaunch.json --material-snapshot website/reports/publish-2026-10-15/approved-material.json --report-dir website/reports/publish-2026-10-15
+python3 website/scripts/validate.py --production --config website/config.prelaunch.json --material-snapshot website/reports/publish-2026-10-15/approved-material.json --report-dir website/reports/publish-2026-10-15
+```
+
+検証は149 HTMLページ、120話・英日1336ブロック、9場面の配信素材の完全一致、音声の自動再生なし、相対リンク、16種類の公開状態、パーサー異常系を対象とします。今回の素材入力のSHA-256は `material-input.json` に保存します。アプリ・課金・検索登録の公開状態は既存の先行公開設定を維持します。
+
+### 本番配備結果と既存アプリの保持
+
+2026-10-15の最終配備は `https://d54f9463.frankendojo.pages.dev`、本番 `https://frankendojo.com/ja/`。9場面・配色・料金・フレアを公開URLで確認しました。
+
+**2026-10-14以降は、サイト単独の `website/dist` をそのままPages本番へ配備しないでください。** 同じPages上の `/app/` を消してしまいます。今回の配信先は `reports/publish-2026-10-15/pages` とし、新しいサイトに、公開済み `FrankenDojo/dist/pages-free-preview-20261014-published/app` の68ファイルと `_headers`・`_redirects` を変更せず合成しました。アプリ全ファイルのSHA-256一致と入口の表示を確認しています。サイトの120話は英文・和訳・話者・学習表現・解説が以前の公開版と一致しています。
+
+今後もサイトビルド・検証とアプリ保持確認を分け、両方を含む配備用ディレクトリから既存 `frankendojo` プロジェクトの `main` に配備してください。今回の記録は `reports/publish-2026-10-15/deployment.json` にあります。

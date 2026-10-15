@@ -1,0 +1,132 @@
+/* Shared touch layout. Loaded after each scene's desktop and scene styles. */
+@media (max-width: 600px) {
+  body { -webkit-text-size-adjust: 100%; }
+  .demo { padding: 16px 10px; }
+  .intro, .hint, details, .feedback, .scope-hint, .waveform-note {
+    font-size: 14px;
+    line-height: 1.85;
+  }
+  .feedback { min-height: 80px; }
+  .hint, details { margin-inline: 4px; }
+  summary { min-height: 48px; padding-block: 12px; }
+  button, select, summary, label { touch-action: manipulation; }
+  button { min-height: 48px; }
+  select { min-height: 48px; font-size: 16px !important; max-width: 100%; }
+  .primary, .practice-action .primary, .sleep-controls .primary,
+  .medal-controls .primary, .auto-button, .import-source .primary,
+  .practice-controls .primary { min-height: 52px; font-size: 16px; }
+  input[type=checkbox], input[type=radio] { width: 20px; height: 20px; flex-shrink: 0; }
+  input[type=range] { height: 44px; margin: 4px 0; touch-action: pan-y; }
+  input[type=range]::-webkit-slider-thumb { width: 24px; height: 24px; }
+  input[type=range]::-moz-range-thumb { width: 24px; height: 24px; }
+  .toolbar { gap: 8px 12px; padding: 10px 4px 0; }
+  .toolbar button { min-width: 72px; padding: 10px 8px; font-size: 14px; }
+  .toolbar label { min-height: 48px; gap: 8px; font-size: 14px; }
+  .toolbar>span { font-size: 12px; line-height: 1.8; }
+  .lane-label, .state-label, .practice-preview .lane-label { font-size: 12px; }
+  .lane-label { left: 4%; }
+  .state-label { right: 4%; }
+  .control-note, .range-labels, .setting-note, .small-label, .card-meta,
+  .card-action, .empty-wave, .practice-action p, .practice-copy p,
+  .source-note, .demo-setting-note, .medal-settings p { font-size: 13px; line-height: 1.8; }
+
+  /* 1: keep the timing slider wide enough to adjust with a thumb. */
+  .controls:has(.gap-control) { flex-direction: column; align-items: stretch; gap: 20px; }
+  .controls:has(.gap-control) .primary { width: 100%; }
+  .gap-control { width: 100%; max-width: none; }
+  .gap-control label { font-size: 14px; gap: 8px; }
+  .range-labels { gap: 16px; }
+  .range-labels span:last-child { text-align: right; }
+  .phrase-heading { flex-wrap: wrap; gap: 8px 16px; }
+  .phrase-heading>span, .phrase-step { font-size: 12px; }
+  .phrase-list { flex-wrap: wrap; gap: 6px; }
+
+  /* 2–4: labels themselves are touch targets, including the checkboxes. */
+  .unit-switch legend, .choice legend { font-size: 14px; }
+  .unit-switch label { display: flex; align-items: center; gap: 6px; min-height: 48px; font-size: 14px; padding: 10px; }
+  .unit-switch input { margin: 0; }
+  .translation, .scope-line { font-size: 13px; line-height: 1.8; }
+  .scope-line { flex-wrap: wrap; gap: 4px 12px; }
+  .scope-line span { white-space: nowrap; }
+  .loop-settings { gap: 8px 16px; font-size: 14px; }
+  .loop-settings label { min-height: 48px; }
+  .loop-card strong { font-size: 13px; min-height: 40px; overflow-wrap: anywhere; }
+  .card-number, .tally, .outer-loop span, .lesson-caption { font-size: 12px; }
+  .loop-status { flex-wrap: wrap; }
+  .loop-status span { font-size: 12px; }
+  .auto-speak { min-height: 48px; font-size: 14px; line-height: 1.6; }
+  .auto-speak small { font-size: 12px; margin-left: 0; }
+  .controls:has(.auto-speak) { flex-wrap: wrap; gap: 12px; }
+  .controls:has(.auto-speak) .primary { flex: 1; min-width: 110px; }
+  .controls .auto-speak { flex: 1; min-width: 135px; }
+  .segments input { width: 100%; height: 100%; }
+  .segments span { min-height: 48px; font-size: 14px; }
+  .menu-caption>span, .menu-step small, .menu-step span, .menu-panel>p { font-size: 13px; }
+  .menu-track { gap: 8px; }
+  .menu-step { flex-basis: calc((100% - 8px)/2); padding: 12px 10px; }
+  .phrase-status>div>span, .speed-readout>span { font-size: 12px !important; }
+
+  /* 5: retain the large selectable cards; enlarge the secondary actions. */
+  .lesson-picker legend { font-size: 14px; }
+  .lesson-number, .selection-toggle, .selection-tools>span { font-size: 13px; }
+  .selection-tools button { min-height: 48px; padding: 10px 8px; font-size: 14px; }
+  .route-heading, .route-heading label, .route-heading strong, .route-diagram>p { font-size: 13px; }
+  .route-heading label { min-height: 48px; }
+  .current-lesson>span:first-child, .demo-label { font-size: 12px; }
+
+  /* 6: show readable results inside the same slim phone silhouette. */
+  .story-steps li, .story-steps li::before { font-size: 12px; line-height: 1.6; }
+  .silence-strip, .stop-setting { font-size: 14px; }
+  .scene-heading>span, .model-tag, .frank-tag { font-size: 12px; }
+  .scene-heading>strong { max-width: 78%; font-size: 16px; }
+  .sleep-demo[data-phase=morning] .night-scene { aspect-ratio: 1/1.5; }
+  .phone { top: 22%; left: 26%; width: 48%; max-width: 170px; }
+  .phone-screen { padding: 12px 4px 8px; gap: 6px; }
+  .phone strong, .phone p, .phone-eyebrow, .estimate, .phone #stop-reason, .phone small { font-size: 12px; line-height: 1.6; }
+  .phone b { font-size: 24px; }
+  .sleep-demo[data-phase=morning] .scene-heading { top: 5%; }
+  .sleep-demo[data-phase=morning] .awake-frank, .sleep-demo[data-phase=morning] .waking-frank { height: 40%; }
+  .sleep-demo[data-phase=morning] .tina-entrance { height: 48%; }
+  .greeting { font-size: 12px; }
+  .stop-sign { font-size: 14px; }
+  .stop-sign span { font-size: 12px; }
+
+  /* 7: three comparable columns stay together, with concise action labels. */
+  .medal-item .medal-name { font-size: 14px; }
+  .medal-item .medal-target, .medal-item .medal-state, .matched-line span, .phrase-number { font-size: 12px; }
+  .count-heading span, .count-heading p, .stack-caption, .medal-settings label { font-size: 14px; }
+  .phrase-column>strong { font-size: 13px; min-height: 42px; }
+  .phrase-button { font-size: 14px; min-height: 52px; }
+  .achievement { font-size: 14px; line-height: 1.8; }
+
+  /* 8: wrapping tabs, full-width sliders and large edit actions. */
+  .audio-file span, .import-destination span, .import-destination strong,
+  .wave-heading, .wave-heading span:last-child, .import-placeholder { font-size: 12px; }
+  .import-source { gap: 10px; }
+  .piece-tabs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+  .piece-tabs button { flex: 1 1 calc((100% - 16px)/3); font-size: 14px; min-height: 48px; }
+  .cut-slider label, .cut-slider>span, .boundary-settings, .boundary-sliders label,
+  .selection-heading #selected-range { font-size: 14px; line-height: 1.8; }
+  .cut-controls button, .restore { min-height: 48px; font-size: 14px; }
+  .boundary-sliders { gap: 16px; }
+  .boundary-settings p { font-size: 13px; line-height: 1.8; }
+
+  /* 9: the whole recording label is tappable; cards retain clear titles. */
+  .record-switch { min-height: 48px; font-size: 14px; padding-block: 10px; }
+  .record-switch input { width: 48px; height: 28px; }
+  .record-indicator { font-size: 13px; }
+  .compare-heading>span { font-size: 12px; }
+  .card-title { font-size: 16px; }
+  .card-meta { min-height: 42px; }
+  .card-action { min-height: 48px; }
+  .waveform-note { margin-inline: 8px; }
+}
+
+@media (max-width: 360px) {
+  .controls:has(.scope-hint) { flex-direction: column; align-items: stretch; gap: 8px; }
+  .controls:has(.scope-hint) .primary { width: 100%; }
+  .phone { left: 22%; width: 56%; }
+  .sleep-demo[data-phase=morning] .night-scene { aspect-ratio: 1/1.8; }
+  .record-header strong { font-size: 22px; }
+  .compare-grid { grid-template-columns: 1fr; }
+}

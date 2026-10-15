@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+<title>自分の声で、気づくことがある。 | FrankenDojo</title>
+<link rel="stylesheet" href="../practice-timing/timing.css"><link rel="stylesheet" href="./recording.css">
+<link rel="stylesheet" href="../practice-mobile.css">
+<link rel="stylesheet" href="../practice-text.css">
+<body><script>if(new URLSearchParams(location.search).get('embed')==='1')document.documentElement.classList.add('embedded');</script>
+<main><header><span class="brand">FrankenDojo by KataSpeak</span><span>練習のしくみ · 体験デモ</span></header><section>
+<p class="eyebrow">YOUR VOICE. A NEW PERSPECTIVE.</p><h1>自分の声で、<br>気づくことがある</h1><p class="intro">声を残して、お手本と聞き比べる。次の練習のヒントが見つかります。</p>
+<div class="demo recording-demo">
+<div class="record-header"><div><span class="small-label">同じフレーズで聞き比べ</span><strong lang="en">Nice to meet you.</strong></div><label class="record-switch"><input id="record" type="checkbox" role="switch"><span class="switch-track" aria-hidden="true"></span><span>録音 <b id="record-label">OFF</b></span></label></div>
+<div class="record-practice"><div class="stage"><canvas id="scene" role="img" aria-label="お手本を聞き終えてから、フランケンくんが話す様子"></canvas><span class="lane-label">お手本</span><span class="lane-label voice-label">フランケンくん</span></div><div class="practice-action"><span class="small-label" id="phase-label">まず録音をONに</span><button class="primary" id="practice">練習する様子を見る</button><p id="record-note">録音ONで、練習した声を残せます。</p><span class="record-indicator" id="record-indicator" hidden>声を録音しています</span></div></div>
+<div class="compare-heading"><strong>お手本と、あなたの声。</strong><span>カードを押して切り替え</span></div>
+<p class="waveform-note">音声はティナとフランケンくんのサンプルです。学習者の声の波形は説明用で、アプリは声を録音して聞き比べられますが、その波形は表示しません。</p>
+<div class="compare-grid" role="group" aria-label="聞き比べる音声を選ぶ">
+<button class="audio-card model-card" id="model" aria-pressed="false"><span class="card-title"><b>お手本</b><span class="play-symbol" aria-hidden="true">▶</span></span><span class="card-meta">ティナの声</span><span class="wave-wrap"><svg viewBox="0 0 400 72" preserveAspectRatio="none" aria-hidden="true"><g id="model-bars"></g><line class="cursor" id="model-cursor" x1="0" x2="0" y1="0" y2="72"/></svg></span><span class="card-action" id="model-action">音声を聞く</span></button>
+<button class="audio-card voice-card" id="voice" aria-pressed="false" disabled><span class="card-title"><b>あなたの声</b><span class="play-symbol" aria-hidden="true">▶</span></span><span class="card-meta" id="saved-label">まだ録音がありません</span><span class="wave-wrap"><svg viewBox="0 0 400 72" preserveAspectRatio="none" aria-hidden="true"><g id="voice-bars"></g><line class="cursor" id="voice-cursor" x1="0" x2="0" y1="0" y2="72"/></svg><span class="empty-wave" id="empty-wave">練習した声が、ここに残ります</span></span><span class="card-action" id="voice-action">録音ONで練習してみましょう</span></button>
+</div>
+<div class="feedback" id="feedback" role="status" aria-live="polite">録音をONにして、「練習する様子を見る」を押してみましょう。</div>
+<div class="toolbar"><button id="pause" disabled>一時停止</button><button id="reset">最初から</button><span>ボタンを押すと音声が流れます · マイクは使いません</span></div></div>
+<p class="hint">聞き比べて話しにくいフレーズが見つかったら、<br>アプリでそのフレーズの難易度を見直せます。</p>
+<details><summary>録音と聞き比べについて</summary><p>アプリではフレーズ単位の練習で録音をONにすると、自分の声を保存できます。回数方式・速度方式のどちらでも使え、慣らし中も録音できます。チャンク練習では録音しません。</p><p>聞き返しやすくするには、お手本が終わってから話すのがおすすめです。重ねて話した場合も録音できます。このデモでは、聞き終えてから話す流れを見せています。</p><p>フレーズごとに最新の保存対象発話が残ります。録音をOFFにしても保存済みの録音は消えません。話さなかった場合や、練習を途中で中断した場合も以前の録音を残します。録音の聞き返し中は練習を一時停止します。</p><p>聞き比べは、自分で気づくための機能です。発音を採点したり、合否を判定したりするものではありません。</p><p>このページの聞き比べには、ティナのお手本とフランケンくんの録音例を使っています。「練習する様子を見る」を押すと、ティナのお手本、フランケンくんの声の順に音声とアニメーションが流れます。聞き比べカードからは、それぞれの音声を再生できます。ページを開いただけでは音は流れません。実際にあなたの声を録音・保存したり、マイクを使用したりすることはありません。学習者の声の波形は、このデモだけの説明用表示です。実際のアプリは学習者の声を録音しますが、その波形は表示しません。デモの波形は各音声から作成していますが、形や長さの違いは発音の評価を示しません。アプリの聞き比べ画面そのものではありません。</p></details>
+</section></main><audio id="model-audio" src="./NiceToMeetYou_Tina.mp3" preload="metadata"></audio><audio id="voice-audio" src="./NiceToMeetYou_FrankSlow.mp3" preload="metadata"></audio><script src="./waveforms.js"></script><script src="../vendor/rive-2.43.1/rive.js"></script><script src="./flow.js"></script><script src="./recording.js"></script></body></html>

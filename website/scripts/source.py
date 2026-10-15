@@ -60,7 +60,7 @@ def parse_sources():
                 line = lines[i].strip(); line_no = i + 1
                 if not line or line == "---":
                     i += 1; continue
-                if line.startswith(("> **設定（A1-48〜58）:** ", "> **注釈 — “That one is mine. I’m keeping it.”**: ")):
+                if line.startswith(("> **設定（A1-48〜58）:** ", "> **注釈 — “That one is mine. I’m keeping it.”**: ", "> **注釈 — “That song is mine now. I’m keeping it.”**: ")):
                     source_notes.append({"file": relative, "line": line_no, "text": line, "handling": "既知の制作設定メモ。本文には出力しない"})
                     i += 1; continue
                 if line.startswith("**場面:** "):

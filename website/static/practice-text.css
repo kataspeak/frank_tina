@@ -1,0 +1,82 @@
+/* Navigation-size reference: 14px. Smaller copy is white for readability. */
+:root { --copy-large: #a6a6a6; --copy-small: #fff; --ink: var(--copy-large); --muted: var(--copy-small); }
+body { color: var(--copy-large); }
+header, header .brand, .intro { color: var(--copy-large); }
+.lane-label, .state-label, .phrase-heading>span, .phrase-step,
+.gap-control label, .range-labels, .control-note, .feedback, .toolbar,
+.toolbar button, .toolbar>span, .hint, details, .scope-line,
+.scope-line strong, .scope-line span, .translation, .scope-hint,
+.unit-switch legend, .setting-note, .lesson-caption, .loop-card,
+.card-number, .tally, .outer-loop, .loop-status span, .auto-speak,
+.choice legend, .menu-caption>span, .menu-step, .menu-panel>p,
+.phrase-status>div>span, .speed-readout>span, .next-phrase>span,
+.lesson-number, .selection-toggle, .selection-tools button,
+.route-heading, .route-heading label, .route-diagram>p, #route-nodes span,
+.empty-selection p, .current-lesson>span:first-child, .demo-label,
+.story-steps li, .story-steps li::before, .scene-heading>span,
+.model-tag, .phone-eyebrow, .estimate, .phone #stop-reason, .phone small,
+.stop-sign span, .silence-strip, .stop-setting,
+.medal-item .medal-target, .medal-item .medal-state,
+.count-heading span, .count-heading p, .matched-line span,
+.phrase-number, .phrase-column>p, .phrase-button, .stack-caption,
+.practice-copy p, .medal-settings label, .medal-settings p, .demo-setting-note,
+.audio-file span, .import-destination span, .source-note, .wave-heading,
+.wave-heading span, .piece-tabs button, .selection-heading #selected-range,
+.cut-slider label, .cut-slider>span, .cut-controls button, .restore,
+.small-label, .practice-action p, .compare-heading>span,
+.card-meta, .card-action, .empty-wave, .waveform-note { color: var(--copy-small); }
+.phrase-heading strong, .unit-switch label, .sentence, .loop-settings,
+.loop-status strong, .menu-caption strong, .menu-step strong,
+.phrase-status strong[lang], .speed-readout strong, .next-phrase strong,
+.next-phrase>span[lang], .lesson-picker legend, .lesson-card>strong,
+.route-heading strong, .empty-selection strong, .current-lesson>strong,
+.current-lesson>p, .scene-heading>strong, .phone strong, .stop-sign,
+.medal-item .medal-name, .achievement, .phrase-column>strong,
+.phrase-column>p b, .practice-copy>strong, .audio-file strong,
+.import-destination strong, .wave-heading strong,
+.selection-heading #selected-duration, .record-header strong,
+.record-switch, .compare-heading strong, .card-title { color: var(--copy-large); }
+.loop-card strong { color: var(--copy-large); }
+.loop-settings select, .stop-setting select, .medal-settings select { color: var(--copy-small); }
+.loop-settings, .segments span, .segments input:checked+span,
+#route-nodes .active span, .import-placeholder, .boundary-settings p { color: var(--copy-small); }
+.difficulty-choice input:checked+span { color: #191c28; }
+.menu-step.active { color: var(--copy-small); }
+.loop-status span { border-color: #8ed8ff55; }
+
+/* Keep orange states and dark ink on orange controls, including nested text. */
+.voice-label, .voice-state, .frank-tag, .selection-tools>span,
+.lesson-caption strong, .route-heading>span, .medal-demo .practice-copy>span,
+.record-indicator, .story-steps li[aria-current], .medal-demo[data-award=true] .achievement,
+.piece-tabs button[aria-pressed=true], .cut-controls #split,
+.selection-heading strong, .voice-card .card-title, .voice-card .card-action,
+.phrase-column.active .phrase-button, .next-phrase strong,
+.menu-step.done, .menu-step.done strong { color: #f5a13d; }
+.phrase-step.active, .unit-switch label:has(input:checked) { color: #191c28; }
+.demo[data-unit=chunks] .chunk.active, .lesson-card.selected>strong { color: var(--copy-large); }
+.medal-item.earned .medal-name, .medal-item.earned .medal-state { color: var(--metal); }
+.medal-item[data-rank="2"].earned .medal-name { color: var(--copy-large); }
+.medal-item[data-rank="2"].earned .medal-state { color: var(--copy-small); }
+.import-demo .practice-copy>span { color: var(--copy-small); }
+
+@media (max-width: 600px) {
+  .intro, .hint, details, .feedback, .scope-hint, .waveform-note, .loop-settings,
+  .toolbar button, .toolbar label, .gap-control label,
+  .unit-switch legend, .choice legend, .auto-speak,
+  .selection-tools button, .silence-strip, .stop-setting,
+  .count-heading span, .count-heading p, .stack-caption,
+  .medal-settings label, .phrase-button, .piece-tabs button,
+  .cut-slider label, .cut-slider>span, .boundary-settings,
+  .boundary-sliders label, .selection-heading #selected-range,
+  .cut-controls button, .restore { color: var(--copy-large); }
+  .loop-settings select, .stop-setting select, .medal-settings select { color: var(--copy-large); }
+  .segments span { color: var(--copy-large); }
+  .segments input:checked+span { color: var(--copy-large); }
+  .difficulty-choice input:checked+span { color: #191c28; }
+  .loop-card strong, .lesson-number, .selection-toggle, .route-heading,
+  .route-heading strong, .route-heading label, .phone strong,
+  .audio-file strong, .import-destination strong, .wave-heading strong,
+  .phrase-column>strong, .auto-speak small, .boundary-settings p { color: var(--copy-small); }
+  .piece-tabs button[aria-pressed=true], .cut-controls #split,
+  .phrase-column.active .phrase-button { color: #f5a13d; }
+}

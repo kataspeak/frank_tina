@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ja">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+<title>学習中のレッスンだけを繰り返す | FrankenDojo</title>
+<link rel="stylesheet" href="../practice-timing/timing.css"><link rel="stylesheet" href="./selection.css">
+<link rel="stylesheet" href="../practice-mobile.css">
+<link rel="stylesheet" href="../practice-text.css">
+<body>
+<script>if(new URLSearchParams(location.search).get('embed')==='1')document.documentElement.classList.add('embedded');</script>
+<main><header><span class="brand">FrankenDojo by KataSpeak</span><span>練習のしくみ · 体験デモ</span></header><section aria-labelledby="title">
+<p class="eyebrow">CHOOSE. PRACTICE. COME BACK.</p><h1 id="title">今日、鍛えたい<br>レッスンだけを</h1><p class="intro">学習中にしたレッスンだけを選んで、繰り返し練習できます。</p>
+<div class="demo" data-state="loading">
+<fieldset class="lesson-picker"><legend>練習したいレッスンを「学習中」に</legend><div class="lesson-cards">
+<label class="lesson-card"><span class="lesson-number">LESSON 01</span><strong>あいさつ</strong><span class="selection-toggle"><input type="checkbox" name="lesson" value="0" aria-label="レッスン01 あいさつを学習中にする" checked><span class="selection-label">学習中</span></span></label>
+<label class="lesson-card"><span class="lesson-number">LESSON 02</span><strong>注文</strong><span class="selection-toggle"><input type="checkbox" name="lesson" value="1" aria-label="レッスン02 注文を学習中にする"><span class="selection-label">今回はお休み</span></span></label>
+<label class="lesson-card"><span class="lesson-number">LESSON 03</span><strong>道案内</strong><span class="selection-toggle"><input type="checkbox" name="lesson" value="2" aria-label="レッスン03 道案内を学習中にする" checked><span class="selection-label">学習中</span></span></label>
+<label class="lesson-card"><span class="lesson-number">LESSON 04</span><strong>買い物</strong><span class="selection-toggle"><input type="checkbox" name="lesson" value="3" aria-label="レッスン04 買い物を学習中にする"><span class="selection-label">今回はお休み</span></span></label>
+</div></fieldset>
+<div class="selection-tools"><span id="selected-count">4つのうち、2つを学習中</span><button id="select-all">すべて選ぶ</button><button id="clear-selection">選択をクリア</button></div>
+<p class="setting-note">説明用の4レッスンです。選び直すと、選んだ中の先頭からデモを始めます。</p>
+<div class="route-panel">
+<div class="route-heading"><strong>今回の練習ルート</strong><span id="lap">1周目</span><label><input type="checkbox" id="course-repeat" checked> コースをリピート</label></div>
+<div class="route-diagram" id="route-diagram">
+<ol id="route-nodes" aria-label="選んだレッスンの練習順"></ol>
+<svg viewBox="0 0 1000 140" preserveAspectRatio="none" aria-hidden="true"><path id="forward-path"/><path id="return-path"/><ellipse id="runner" rx="6" ry="6"/></svg>
+<p id="route-caption">選んだレッスンだけで、もう一周</p>
+</div>
+<div class="empty-selection" id="empty-selection" hidden><strong>今は、練習するレッスンがありません。</strong><p>上のカードを「学習中」にすると、そのレッスンから始まります。</p></div>
+</div>
+<div id="practice-preview" class="practice-preview">
+<div class="current-lesson"><span id="current-number">LESSON 01</span><strong id="current-title">あいさつ</strong><p id="current-phrase" lang="en">Good morning.</p><span class="demo-label">進み方の自動デモ</span></div>
+<div class="stage"><canvas id="scene" role="img" aria-label="選んだレッスンのお手本とフランケンくんの発話を自動で示します。"></canvas><span class="lane-label model-label">お手本</span><span class="lane-label voice-label">あなた</span></div>
+</div>
+<div class="feedback" id="feedback" role="status" aria-live="polite">アニメーションを読み込んでいます…</div>
+<div class="toolbar"><button id="pause" disabled>一時停止</button><button id="reset" disabled>最初から</button><label><input type="checkbox" id="slow"> ゆっくり表示</label><span>音声・マイクは使いません</span></div>
+</div>
+<p class="hint">覚えたレッスンは、いったんお休み。<br>復習したくなったら、また「学習中」に戻せます。</p>
+<details><summary>このデモについて</summary><p>アプリでは、コース内の「学習中」のレッスンだけが連続練習の対象です。コースのリピートをONにすると選んだレッスンを繰り返し、OFFなら最後で停止します。学習対象から外しても教材を削除する操作にはなりません。</p><p>この説明では、4つの架空のレッスンを1フレーズずつに省略し、番号順に自動で進めています。実際にはレッスン内の対象フレーズを練習してから次のレッスンへ進みます。フレーズ内・レッスン内の反復やシャッフルは省略しています。</p><p>選択の変化を見比べやすくするため、このデモは選び直した時点で先頭へ戻します。実際の再生中の選択変更の反映タイミングを示すものではありません。音声・マイク・録音・採点・アプリ設定の変更は行いません。</p></details>
+</section></main><script src="../vendor/rive-2.43.1/rive.js"></script><script src="./flow.js"></script><script src="./selection.js"></script></body></html>
